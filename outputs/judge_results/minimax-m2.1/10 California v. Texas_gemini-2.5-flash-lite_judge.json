@@ -1,0 +1,16 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The vote count (7-2)",
+    "Justice Stephen Breyer authored the majority opinion",
+    "Justice Clarence Thomas authored a concurring opinion praising Justice Samuel Alito's dissent",
+    "Justice Samuel Alito authored a dissenting opinion joined by Justice Neil Gorsuch",
+    "The reference mentions this as part of the 'epic Affordable Care Act trilogy'"
+  ],
+  "overall_assessment": "The generated summary is highly accurate and captures the core legal reasoning and holding effectively. It correctly explains the standing analysis for both individual and state plaintiffs, and accurately describes why the plaintiffs lacked standing. The summary is missing some procedural details like the vote count, justice authorship, and the concurrence/dissent information, but these omissions do not affect the substantive accuracy of the legal analysis presented.",
+  "judge_score": 0.8
+}

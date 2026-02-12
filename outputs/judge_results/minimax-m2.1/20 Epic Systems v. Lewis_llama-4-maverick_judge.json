@@ -1,0 +1,28 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "The cases before the Supreme Court involve employees who entered into arbitration agreements with their employers",
+      "issue": "The generated summary is vague and fails to identify the specific parties. The reference summary clearly identifies Epic Systems Corporation as the defendant and Jacob Lewis as the plaintiff/former employee.",
+      "correct_info": "Epic Systems Corporation (Epic) is a Wisconsin-based healthcare data management software company. Former Epic employee Jacob Lewis sued Epic in federal court individually and on behalf of similarly-situated employees."
+    },
+    {
+      "error_quote": "The courts of appeals were divided on whether the NLRA rendered such arbitration agreements unenforceable, leading to the Supreme Court granting certiorari to resolve the conflict.",
+      "issue": "The generated summary implies a circuit split existed, but the reference summary states the Seventh Circuit affirmed the district court and held the waiver unenforceable. The reference does not mention a circuit split or certiorari being granted to resolve conflicting circuit decisions.",
+      "correct_info": "The U.S. Court of Appeals for the Seventh Circuit affirmed the lower court's decision and added that the waiver was also unenforceable under the savings clause of the Federal Arbitration Act. This case was consolidated with Ernst & Young v. Morris and National Labor Relations Board v. Murphy Oil USA, Inc."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The specific date of when Lewis filed suit (February 2015)",
+    "Epic's arbitration agreement specifically requires employees to waive their right to 'participate in or receive benefit from any class, collective, or representative proceedings'",
+    "The district court denied Epic's motion and held the waiver was unenforceable under Section Seven of the NLRA",
+    "The Seventh Circuit's additional holding that the waiver was unenforceable under the FAA's savings clause",
+    "Justice Thomas's specific reasoning in his concurrence that 'the employees also cannot prevail under the plain meaning of the Federal Arbitration Act'",
+    "The dissent's specific reference to the Norris-LaGuardia Act as Congress's forerunner to the NLRA"
+  ],
+  "overall_assessment": "The generated summary is generally accurate and captures the core legal issues, holding, and reasoning effectively. However, it lacks specificity regarding the parties (failing to name Jacob Lewis or Epic Systems) and contains an inaccurate implication about a circuit split. While it correctly conveys the 5-4 decision and the majority/dissent positions, it omits several details from the reference including the specific date of filing, the exact waiver language, and Justice Thomas's precise concurrence reasoning.",
+  "judge_score": 0.8
+}

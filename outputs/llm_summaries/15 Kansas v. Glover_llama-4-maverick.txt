@@ -1,0 +1,21 @@
+## Summary of Kansas v. Glover
+
+### 1. Facts of the Case
+
+The case involves a traffic stop conducted by Deputy Mark Mehrer of the Douglas County Sheriff's Office in Kansas. On April 28, 2016, Deputy Mehrer observed a 1995 Chevrolet 1500 pickup truck with a Kansas license plate. He ran the license plate through the Kansas Department of Revenue's database and discovered that the truck was registered to Charles Glover Jr., whose driver's license had been revoked. Deputy Mehrer assumed that Glover was driving the truck and initiated a traffic stop without observing any traffic infractions. The driver was indeed Glover, who was subsequently charged with driving as a habitual violator.
+
+### 2. Legal Question(s)
+
+The primary legal question addressed by the Supreme Court was whether a police officer violates the Fourth Amendment by initiating an investigative traffic stop after running a vehicle's license plate and learning that the registered owner's driver's license has been revoked.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that when an officer lacks information negating an inference that the owner is driving the vehicle, an investigative traffic stop made after running a vehicle's license plate and learning that the registered owner's driver's license has been revoked is reasonable under the Fourth Amendment. The Court reasoned that the deputy had a "particularized and objective basis" to suspect that Glover was driving the vehicle, based on the fact that the vehicle was registered to him and his license had been revoked.
+
+The majority opinion, written by Justice Thomas, emphasized that the reasonable suspicion standard is a "less demanding" standard than probable cause and that it "depends on the factual and practical considerations of everyday life on which reasonable and prudent men, not legal technicians, act." The Court also noted that empirical studies demonstrate that drivers with suspended or revoked licenses frequently continue to drive, and that Kansas' license-revocation scheme covers drivers who have demonstrated a disregard for the law or are categorically unfit to drive.
+
+In a concurring opinion, Justice Kagan highlighted that the key factor in this case was not just that Glover's license was revoked, but that the revocation was likely due to serious or repeated driving offenses, which provides a reason to infer that he might continue to drive.
+
+In contrast, Justice Sotomayor dissented, arguing that the majority's holding ignores key foundations of reasonable-suspicion jurisprudence and reduces the State's burden of proof. She emphasized that the reasonable-suspicion inquiry should be based on the perspectives and inferences of a reasonable officer, not on judicial common sense, and that the State failed to provide articulable facts and officer inferences to form suspicion.
+
+The precedent set by this case is that law enforcement officers may conduct a traffic stop based on the registration of a vehicle to an individual with a revoked license, as long as there is no information available to negate the inference that the registered owner is the driver.

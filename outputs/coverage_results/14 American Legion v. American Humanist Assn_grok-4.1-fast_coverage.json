@@ -1,0 +1,262 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn Bladensburg, Maryland, as part of a memorial park honoring veterans is a 40-foot tall cross, which is the subject of this litigation.",
+      "best_match": "Legal Question(s)\nDoes the government\u2019s ownership and maintenance of the Bladensburg Cross\u2014a 32-foot-tall Latin cross on public land commemorating World War I soldiers\u2014violate the Establishment Clause of the First Amendment?",
+      "similarity": 0.6291179060935974,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Construction on the cross began in 1918, and it was widely described using Christian terms and celebrated in Christian services.",
+      "best_match": "Applied here, the cross\u2019s association with World War I\u2014via grave markers, Distinguished Service Cross (1918), Navy Cross (1919), and poetry like John McCrae\u2019s \u201cIn Flanders Fields\u201d\u2014gave it secular meaning as a symbol of sacrifice, reinforced by its age (94 years), integration into the community amid other veterans\u2019 memorials, lack of discriminatory intent (names of Black and White soldiers included; Jewish veteran involved; ecumenical dedication amid 1920s Klan activity), and role commemorating specific deaths akin to faith symbols in other memorials (e.g., Martin Luther King, Jr. memorials; Holocaust memorials with Stars of David).",
+      "similarity": 0.5952218770980835,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In 1961, Maryland-National Capital Park and Planning Commission acquired the cross and the land, as well as the responsibility to maintain, repair, and otherwise care for the cross.",
+      "best_match": "As the surrounding area developed into a busy intersection, the Maryland-National Capital Park and Planning Commission (Commission) acquired the cross and surrounding land in 1961 to preserve the monument and address traffic safety, reserving the American Legion\u2019s right to use the site for ceremonies.",
+      "similarity": 0.8355593681335449,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Commission has spent approximately $117,000 to maintain and repair the cross, and in 2008, it set aside an additional $100,000 for renovations.",
+      "best_match": "The Commission has since spent public funds, including approximately $117,000 over five decades and a budgeted $100,000 in 2008, to maintain it.",
+      "similarity": 0.5970842242240906,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Several non-Christian residents of Prince George's County, Maryland, expressed offense at the cross, which allegedly amounts to governmental affiliation with Christianity.",
+      "best_match": "Justices Ginsburg (joined by Justice Sotomayor) dissented, arguing the cross endorses Christianity (citing County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter, 492 U.S. 573 (1989)), unmitigated by context, history, or war memorial purpose.",
+      "similarity": 0.47937390208244324,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "American Humanist Association is a nonprofit organization advocating for separation of church and state.",
+      "best_match": "In 2014, the American Humanist Association (AHA) and three individuals filed suit against the Commission in the U.S. District Court for the District of Maryland, alleging that the cross\u2019s presence on public land and the Commission\u2019s maintenance violated the Establishment Clause of the First Amendment.",
+      "similarity": 0.4547995328903198,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Together, AHA and the individual residents sued the Commission under 42 U.S.C.",
+      "best_match": "In 2014, the American Humanist Association (AHA) and three individuals filed suit against the Commission in the U.S. District Court for the District of Maryland, alleging that the cross\u2019s presence on public land and the Commission\u2019s maintenance violated the Establishment Clause of the First Amendment.",
+      "similarity": 0.6398666501045227,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 1983, alleging that the Commission's display and maintenance of the cross violates the Establishment Clause.",
+      "best_match": "In 2014, the American Humanist Association (AHA) and three individuals filed suit against the Commission in the U.S. District Court for the District of Maryland, alleging that the cross\u2019s presence on public land and the Commission\u2019s maintenance violated the Establishment Clause of the First Amendment.",
+      "similarity": 0.5866339206695557,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Applying the test established in Lemon v. Kurtzman, 403 U.S. 602 (1971), the district court found that the Commission did not violate the Establishment Clause because (1) the cross has a secular purpose, (2) it neither advances nor inhibits religion, and (3) it does not have a primary effect of endorsing religion.",
+      "best_match": "The District Court granted summary judgment for the Commission and American Legion, finding the cross satisfied the Lemon v. Kurtzman, 403 U.S. 602 (1971), test and Justice Breyer\u2019s analysis in Van Orden v. Perry, 545 U.S. 677 (2005).",
+      "similarity": 0.652434766292572,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Fourth Circuit reversed and remanded.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Fourth Circuit\u2019s judgment and remanded in a judgment announced by Justice Alito, with Parts I, II-B, II-C, III, and IV of his opinion joined by Chief Justice Roberts, Justice Breyer, Justice Kagan, and Justice Kavanaugh, and Parts II-A and II-D joined by Chief Justice Roberts, Justice Breyer, and Justice Kavanaugh (effectively 5-4 on key parts).",
+      "similarity": 0.6251128315925598,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "The decision sets precedent favoring history, tradition, and context over Lemon for longstanding religious monuments/symbols/practices, presuming their constitutionality absent coercion or discrimination, while preserving case-by-case analysis.",
+      "similarity": 0.23624178767204285,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Is the display and maintenance of the cross unconstitutional?",
+      "best_match": "Legal Question(s)\nDoes the government\u2019s ownership and maintenance of the Bladensburg Cross\u2014a 32-foot-tall Latin cross on public land commemorating World War I soldiers\u2014violate the Establishment Clause of the First Amendment?",
+      "similarity": 0.5791442394256592,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Under what test should the constitutionality of a passive display incorporating religious symbolism be assessed?",
+      "best_match": "Justice Alito\u2019s plurality opinion concluded that longstanding religious monuments, symbols, and practices warrant a strong presumption of constitutionality due to four considerations distinguishing them from new ones: (1) difficulty ascertaining original purposes due to age (citing Salazar v. Buono, 559 U.S. 700 (2010)); (2) multiplication and evolution of purposes over time, potentially obscuring religious origins in favor of historical or cultural significance (citing Van Orden v. Perry, 545 U.S. 677; McCreary County v. American Civil Liberties Union of Ky., 545 U.S. 844 (2005); Pleasant Grove City v. Summum, 555 U.S. 460 (2009)); (3) transformation of meaning through familiarity (e.g., city names like Bethlehem, Pennsylvania; Arizona\u2019s motto \u201cDitat Deus\u201d; Maryland\u2019s flag); and (4) non-neutral appearance of removal, evoking hostility to religion.",
+      "similarity": 0.47609642148017883,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Does the expenditure of funds to maintain the cross amount to the government's excessive entanglement with religion?",
+      "best_match": "The Commission has since spent public funds, including approximately $117,000 over five decades and a budgeted $100,000 in 2008, to maintain it.",
+      "similarity": 0.37688958644866943,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe Bladensburg Cross does not violate the Establishment Clause.",
+      "best_match": "The Court held the Bladensburg Cross does not violate the Establishment Clause.",
+      "similarity": 0.9381751418113708,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Samuel Alito authored the opinion of the Court, joined by Chief Justice John Roberts and Justices Stephen Breyer and Brett Kavanaugh.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Fourth Circuit\u2019s judgment and remanded in a judgment announced by Justice Alito, with Parts I, II-B, II-C, III, and IV of his opinion joined by Chief Justice Roberts, Justice Breyer, Justice Kagan, and Justice Kavanaugh, and Parts II-A and II-D joined by Chief Justice Roberts, Justice Breyer, and Justice Kavanaugh (effectively 5-4 on key parts).",
+      "similarity": 0.6387933492660522,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Elena Kagan joined the majority opinion in part.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Fourth Circuit\u2019s judgment and remanded in a judgment announced by Justice Alito, with Parts I, II-B, II-C, III, and IV of his opinion joined by Chief Justice Roberts, Justice Breyer, Justice Kagan, and Justice Kavanaugh, and Parts II-A and II-D joined by Chief Justice Roberts, Justice Breyer, and Justice Kavanaugh (effectively 5-4 on key parts).",
+      "similarity": 0.47475722432136536,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Court explained that although the cross originated as a Christian symbol, it has also taken on a secular meaning.",
+      "best_match": "Applied here, the cross\u2019s association with World War I\u2014via grave markers, Distinguished Service Cross (1918), Navy Cross (1919), and poetry like John McCrae\u2019s \u201cIn Flanders Fields\u201d\u2014gave it secular meaning as a symbol of sacrifice, reinforced by its age (94 years), integration into the community amid other veterans\u2019 memorials, lack of discriminatory intent (names of Black and White soldiers included; Jewish veteran involved; ecumenical dedication amid 1920s Klan activity), and role commemorating specific deaths akin to faith symbols in other memorials (e.g., Martin Luther King, Jr. memorials; Holocaust memorials with Stars of David).",
+      "similarity": 0.5242922902107239,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In particular, the cross became a symbol of World War I as evidenced by its use in the present controversy.",
+      "best_match": "Applied here, the cross\u2019s association with World War I\u2014via grave markers, Distinguished Service Cross (1918), Navy Cross (1919), and poetry like John McCrae\u2019s \u201cIn Flanders Fields\u201d\u2014gave it secular meaning as a symbol of sacrifice, reinforced by its age (94 years), integration into the community amid other veterans\u2019 memorials, lack of discriminatory intent (names of Black and White soldiers included; Jewish veteran involved; ecumenical dedication amid 1920s Klan activity), and role commemorating specific deaths akin to faith symbols in other memorials (e.g., Martin Luther King, Jr. memorials; Holocaust memorials with Stars of David).",
+      "similarity": 0.6719225645065308,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Lemon test, which the Court first articulated in 1971 as a way to discern Establishment Clause violations, does not serve its intended purpose, particularly as applied to religious symbols or monuments.",
+      "best_match": "The decision sets precedent favoring history, tradition, and context over Lemon for longstanding religious monuments/symbols/practices, presuming their constitutionality absent coercion or discrimination, while preserving case-by-case analysis.",
+      "similarity": 0.5552014112472534,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Thus, when the question arises whether to keep a religious monument in place (as opposed to a question whether to put up a new one), there should be a presumption that the monument is constitutional.",
+      "best_match": "Justice Alito\u2019s plurality opinion concluded that longstanding religious monuments, symbols, and practices warrant a strong presumption of constitutionality due to four considerations distinguishing them from new ones: (1) difficulty ascertaining original purposes due to age (citing Salazar v. Buono, 559 U.S. 700 (2010)); (2) multiplication and evolution of purposes over time, potentially obscuring religious origins in favor of historical or cultural significance (citing Van Orden v. Perry, 545 U.S. 677; McCreary County v. American Civil Liberties Union of Ky., 545 U.S. 844 (2005); Pleasant Grove City v. Summum, 555 U.S. 460 (2009)); (3) transformation of meaning through familiarity (e.g., city names like Bethlehem, Pennsylvania; Arizona\u2019s motto \u201cDitat Deus\u201d; Maryland\u2019s flag); and (4) non-neutral appearance of removal, evoking hostility to religion.",
+      "similarity": 0.5506457090377808,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Applying this presumption rather than the Lemon test, the Court found the Bladensburg Cross does not violate the Establishment Clause because it has historical importance beyond its admittedly Christian symbolism.",
+      "best_match": "The Court held the Bladensburg Cross does not violate the Establishment Clause.",
+      "similarity": 0.7994352579116821,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Breyer joined Justice Alito's opinion in full but wrote a separate concurrence joined by Justice Kagan to highlight his belief that there is no single test for Establishment Clause violations.",
+      "best_match": "Justice Breyer concurred (joined by Justice Kagan), agreeing no single formula resolves Establishment Clause cases and upholding based on context: cross\u2019s WWI association, secular motives, lack of exclusion, placement among secular memorials, 94-year history without controversy.",
+      "similarity": 0.7158194184303284,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Rather, a court asked to resolve such questions must consider \"the basic purposes that the Religion Clauses were meant to serve: assuring religious liberty and tolerance for all, avoiding religiously based social conflict, and maintaining that separation of church and state that allows each to flourish in its separate sphere.\"",
+      "best_match": "Justice Breyer concurred (joined by Justice Kagan), agreeing no single formula resolves Establishment Clause cases and upholding based on context: cross\u2019s WWI association, secular motives, lack of exclusion, placement among secular memorials, 94-year history without controversy.",
+      "similarity": 0.4245654344558716,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Kavanaugh also joined Justice Alito's opinion in full and also wrote his own concurring opinion.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Fourth Circuit\u2019s judgment and remanded in a judgment announced by Justice Alito, with Parts I, II-B, II-C, III, and IV of his opinion joined by Chief Justice Roberts, Justice Breyer, Justice Kagan, and Justice Kavanaugh, and Parts II-A and II-D joined by Chief Justice Roberts, Justice Breyer, and Justice Kavanaugh (effectively 5-4 on key parts).",
+      "similarity": 0.6031954288482666,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He even more harshly criticized the Lemon test, arguing that \"the Court's decisions over the span of several decades demonstrate that the Lemon test is not good law and does not apply to Establishment Clause cases in any of\" five categories, which he enumerated.",
+      "best_match": "Justice Kavanaugh concurred, applying history-and-tradition test, rejecting Lemon across categories, and outlining principles (non-coercive, rooted in history/tradition, equal treatment, or accommodations).",
+      "similarity": 0.5534327030181885,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan joined most of Justice Alito's opinion but wrote a separate concurrence to note that, although \"rigid application of the Lemon test does not solve every Establishment Clause problem,\" courts should still focus on the purpose and effect of government action in deciding whether it violates the Constitution.",
+      "best_match": "Justice Kavanaugh concurred, applying history-and-tradition test, rejecting Lemon across categories, and outlining principles (non-coercive, rooted in history/tradition, equal treatment, or accommodations).",
+      "similarity": 0.6028220057487488,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas wrote a separate opinion concurring in the judgment, but based on entirely different reasoning.",
+      "best_match": "Justice Thomas concurred in the judgment, arguing the Clause is not incorporated against states (citing Everson v. Board of Ed.",
+      "similarity": 0.6526422500610352,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas does not believe the Establishment Clause applies to state and local governments, and even if it did, it applies only to prevent coercive action by the government.",
+      "best_match": "Justice Thomas concurred in the judgment, arguing the Clause is not incorporated against states (citing Everson v. Board of Ed.",
+      "similarity": 0.7157387137413025,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas would overrule the Lemon test in all contexts.",
+      "best_match": "Justice Kavanaugh concurred, applying history-and-tradition test, rejecting Lemon across categories, and outlining principles (non-coercive, rooted in history/tradition, equal treatment, or accommodations).",
+      "similarity": 0.5734859704971313,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Neil Gorsuch wrote a separate opinion concurring in the judgment, in which Justice Thomas joined.",
+      "best_match": "Justice Gorsuch concurred in the judgment (joined by Justice Thomas), urging dismissal for lack of standing as \u201coffended observer\u201d theory lacks basis (citing Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992); Valley Forge Christian College v. Americans United for Separation of Church and State, 454 U.S. 464 (1982)); tied to Lemon, now shelved.",
+      "similarity": 0.6080723404884338,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Gorsuch would dismiss the lawsuit for lack of standing, arguing that simply being offended by the cross's presence is insufficient to meet the injury requirement of Article III standing.",
+      "best_match": "Justice Gorsuch concurred in the judgment (joined by Justice Thomas), urging dismissal for lack of standing as \u201coffended observer\u201d theory lacks basis (citing Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992); Valley Forge Christian College v. Americans United for Separation of Church and State, 454 U.S. 464 (1982)); tied to Lemon, now shelved.",
+      "similarity": 0.5828782320022583,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justice Sonia Sotomayor joined.",
+      "best_match": "Justices Ginsburg (joined by Justice Sotomayor) dissented, arguing the cross endorses Christianity (citing County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter, 492 U.S. 573 (1989)), unmitigated by context, history, or war memorial purpose.",
+      "similarity": 0.6238648891448975,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ginsburg argued that the cross \"is the foremost symbol of the Christian faith,\" and using it as a war memorial doesn't change that.",
+      "best_match": "Justices Ginsburg (joined by Justice Sotomayor) dissented, arguing the cross endorses Christianity (citing County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter, 492 U.S. 573 (1989)), unmitigated by context, history, or war memorial purpose.",
+      "similarity": 0.6546619534492493,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Maryland's decision to maintain that Christian symbol on public land \"elevates Christianity over other faiths, and religion over nonreligion.\"",
+      "best_match": "Justice Alito\u2019s plurality opinion concluded that longstanding religious monuments, symbols, and practices warrant a strong presumption of constitutionality due to four considerations distinguishing them from new ones: (1) difficulty ascertaining original purposes due to age (citing Salazar v. Buono, 559 U.S. 700 (2010)); (2) multiplication and evolution of purposes over time, potentially obscuring religious origins in favor of historical or cultural significance (citing Van Orden v. Perry, 545 U.S. 677; McCreary County v. American Civil Liberties Union of Ky., 545 U.S. 844 (2005); Pleasant Grove City v. Summum, 555 U.S. 460 (2009)); (3) transformation of meaning through familiarity (e.g., city names like Bethlehem, Pennsylvania; Arizona\u2019s motto \u201cDitat Deus\u201d; Maryland\u2019s flag); and (4) non-neutral appearance of removal, evoking hostility to religion.",
+      "similarity": 0.587890088558197,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ginsburg additionally pointed out that an appropriate remedy for an Establishment Clause violation is not necessarily to destroy the memorial, as the majority suggests, but to transfer title to the land on which it sits to a private entity\u2014in fact, a private entity owned the land when the cross was first erected.",
+      "best_match": "Legal Question(s)\nDoes the government\u2019s ownership and maintenance of the Bladensburg Cross\u2014a 32-foot-tall Latin cross on public land commemorating World War I soldiers\u2014violate the Establishment Clause of the First Amendment?",
+      "similarity": 0.5936619639396667,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Several non-Christian residents of Prince George's County, Maryland, expressed offense at the cross, which allegedly amounts to governmental affiliation with Christianity.",
+      "best_similarity": 0.47937390208244324,
+      "best_match": "Justices Ginsburg (joined by Justice Sotomayor) dissented, arguing the cross endorses Christianity (citing County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter, 492 U.S. 573 (1989)), unmitigated by context, history, or war memorial purpose."
+    },
+    {
+      "sentence": "American Humanist Association is a nonprofit organization advocating for separation of church and state.",
+      "best_similarity": 0.4547995328903198,
+      "best_match": "In 2014, the American Humanist Association (AHA) and three individuals filed suit against the Commission in the U.S. District Court for the District of Maryland, alleging that the cross\u2019s presence on public land and the Commission\u2019s maintenance violated the Establishment Clause of the First Amendment."
+    },
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.23624178767204285,
+      "best_match": "The decision sets precedent favoring history, tradition, and context over Lemon for longstanding religious monuments/symbols/practices, presuming their constitutionality absent coercion or discrimination, while preserving case-by-case analysis."
+    },
+    {
+      "sentence": "Under what test should the constitutionality of a passive display incorporating religious symbolism be assessed?",
+      "best_similarity": 0.47609642148017883,
+      "best_match": "Justice Alito\u2019s plurality opinion concluded that longstanding religious monuments, symbols, and practices warrant a strong presumption of constitutionality due to four considerations distinguishing them from new ones: (1) difficulty ascertaining original purposes due to age (citing Salazar v. Buono, 559 U.S. 700 (2010)); (2) multiplication and evolution of purposes over time, potentially obscuring religious origins in favor of historical or cultural significance (citing Van Orden v. Perry, 545 U.S. 677; McCreary County v. American Civil Liberties Union of Ky., 545 U.S. 844 (2005); Pleasant Grove City v. Summum, 555 U.S. 460 (2009)); (3) transformation of meaning through familiarity (e.g., city names like Bethlehem, Pennsylvania; Arizona\u2019s motto \u201cDitat Deus\u201d; Maryland\u2019s flag); and (4) non-neutral appearance of removal, evoking hostility to religion."
+    },
+    {
+      "sentence": "Does the expenditure of funds to maintain the cross amount to the government's excessive entanglement with religion?",
+      "best_similarity": 0.37688958644866943,
+      "best_match": "The Commission has since spent public funds, including approximately $117,000 over five decades and a budgeted $100,000 in 2008, to maintain it."
+    },
+    {
+      "sentence": "Justice Elena Kagan joined the majority opinion in part.",
+      "best_similarity": 0.47475722432136536,
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Fourth Circuit\u2019s judgment and remanded in a judgment announced by Justice Alito, with Parts I, II-B, II-C, III, and IV of his opinion joined by Chief Justice Roberts, Justice Breyer, Justice Kagan, and Justice Kavanaugh, and Parts II-A and II-D joined by Chief Justice Roberts, Justice Breyer, and Justice Kavanaugh (effectively 5-4 on key parts)."
+    },
+    {
+      "sentence": "Rather, a court asked to resolve such questions must consider \"the basic purposes that the Religion Clauses were meant to serve: assuring religious liberty and tolerance for all, avoiding religiously based social conflict, and maintaining that separation of church and state that allows each to flourish in its separate sphere.\"",
+      "best_similarity": 0.4245654344558716,
+      "best_match": "Justice Breyer concurred (joined by Justice Kagan), agreeing no single formula resolves Establishment Clause cases and upholding based on context: cross\u2019s WWI association, secular motives, lack of exclusion, placement among secular memorials, 94-year history without controversy."
+    }
+  ],
+  "total_gt_sentences": 36,
+  "covered_sentences": 29,
+  "coverage_percentage": 80.55555555555556,
+  "coverage_score": 0.8055555555555556,
+  "threshold": 0.5
+}

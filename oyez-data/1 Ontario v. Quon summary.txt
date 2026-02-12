@@ -1,0 +1,15 @@
+Facts of the case
+
+Employees of the City of Ontario, California police department filed a 42 U.S.C. § 1983 claim in a California federal district court against the police department, city, chief of police, and an internal affairs officer. They alleged Fourth Amendment violations in relation to the police department's review of text messages made by an employee on a city issued text-message pager. While the city did not have an official text-messaging privacy policy, it did have a general "Computer Usage, Internet and E-mail Policy." The policy in part stated that "[t]he City of Ontario reserves the right to monitor and log all network activity including e-mail and Internet use, with or without notice," and that "[u]sers should have no expectation of privacy or confidentiality when using these resources." Employees were told verbally that the text-messaging pagers were considered e-mail and subject to the general policy. The district court entered judgment in favor of the defendants.
+
+On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed in part. The court held that city employees had a reasonable expectation of privacy for the text messages they sent on their city-issued pagers because there was no text message privacy policy in place. Moreover, the court noted that the police department's review of the text messages was unreasonable because it could have used "less intrusive methods" to determine whether employees' had properly used the text messaging service.
+
+Question
+1) Does a city employee have a reasonable expectation of privacy in text messages transmitted on his city-issued pager when the police department has no official privacy policy for the pagers?
+
+2) Did the Ninth Circuit contravene Supreme Court precedent by analyzing whether the police department could have used "less intrusive methods" of reviewing text messages?
+
+Conclusion
+Not answered. Yes. The Supreme Court held that the City of Ontario did not violate its employees' Fourth Amendment rights because the city's search of Mr. Quon's text messages was reasonable. With Justice Anthony M. Kennedy writing for the majority, the Court reasoned that even assuming that Mr. Quon had a reasonable expectation of privacy in his text messages, the city's search of them was reasonable because it was motivated by a legitimate work-related purpose and was not excessive in scope. In reaching its conclusion, the Court rejected the Ninth Circuit's "least intrusive" means approach to the issue.
+
+Justice John Paul Stevens concurred. He observed that the majority had not settled on one of the three approaches enunciated in O'Connor v. Ortega for determining the parameters of a "reasonable expectation of privacy." He reasoned that under any of the three approaches, Mr. Quon's expectations were not violated. Justice Antonin Scalia concurred in part and concurred in the judgment. He disagreed that the Court tacitly reaffirmed the O'Connor framework for determining whether the Fourth Amendment applies to public employees, arguing that it was "standardless" and "unsupported."

@@ -1,0 +1,151 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nAfter the 2020 census, Alabama created a redistricting plan for its seven seats in the U.S. House of Representatives.",
+      "best_match": "Facts of the Case\n\nFollowing the 2020 decennial census, the State of Alabama redrew its congressional district map, enacting it as House Bill 1 (HB1).",
+      "similarity": 0.7193353772163391,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "One of the districts in the plan is a majority-Black district.",
+      "best_match": "The plaintiffs presented eleven illustrative maps that contained two majority-Black districts while adhering to traditional districting criteria like compactness, contiguity, and respect for political subdivisions.",
+      "similarity": 0.6349660754203796,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Registered voters and several organizations challenged the map, arguing that the state had illegally packed Black voters into a single district while dividing other clusters of Black voters across multiple districts.",
+      "best_match": "They argued that the new map, which continued to produce only one district where Black voters constituted a majority, likely violated Section 2 of the Voting Rights Act (VRA) of 1965 and the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.6906947493553162,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The challengers alleged that the map effectively minimizes the number of districts in which Black voters can elect their chosen candidates, in violation of Section 2 of the Voting Rights Act, which bans racial discrimination in voting policies.",
+      "best_match": "They argued that the new map, which continued to produce only one district where Black voters constituted a majority, likely violated Section 2 of the Voting Rights Act (VRA) of 1965 and the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.7466655373573303,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A three-judge district court agreed with the challengers that the map likely violated Section 2 of the VRA, granting a preliminary injunction that ordered the state to draw a new map.",
+      "best_match": "They argued that the new map, which continued to produce only one district where Black voters constituted a majority, likely violated Section 2 of the Voting Rights Act (VRA) of 1965 and the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.6918627619743347,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Alabama asked the U.S. Supreme Court to freeze the district court\u2019s injunction, which the Court did by a 5-4 decision pending a merits decision.",
+      "best_match": "Legal Question(s)\n\nThe primary legal question before the Supreme Court was whether the congressional districting plan adopted by the State of Alabama (HB1) likely violated Section 2 of the Voting Rights Act, 52 U.S.C.",
+      "similarity": 0.5095532536506653,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes Alabama\u2019s 2021 redistricting plan for its seven U.S. House seats violate Section 2 of the Voting Rights Act?",
+      "best_match": "Legal Question(s)\n\nThe primary legal question before the Supreme Court was whether the congressional districting plan adopted by the State of Alabama (HB1) likely violated Section 2 of the Voting Rights Act, 52 U.S.C.",
+      "similarity": 0.7302342057228088,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe district court correctly applied binding Supreme Court precedent to conclude that Alabama\u2019s redistricting map likely violates Section 2 of the Voting Rights Act.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court affirmed the District Court's determination, holding that the plaintiffs demonstrated a reasonable likelihood of success on their claim that Alabama's redistricting plan (HB1) violates Section 2 of the Voting Rights Act.",
+      "similarity": 0.7521994113922119,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "best_match": "The Supreme Court granted review of this decision.",
+      "similarity": 0.45673590898513794,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Court\u2019s decision in Thornburg v. Gingles, 478 U.S. 30 (1986) sets out a three-part framework for evaluating claims brought under Section 2 of the Voting Rights Act.",
+      "best_match": "The Court's reasoning was as follows:\n\n*   **Application of the *Gingles* Framework:** The Court reiterated that for the past 37 years, it has evaluated Section 2 claims using the three-part framework established in *Thornburg v. Gingles*, 478 U. S. 30 (1986).",
+      "similarity": 0.8023279905319214,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "First, the plaintiffs must prove that the minority group is sufficiently large and geographically compact to constitute a majority in a reasonably configured district (measured by criteria such as contiguity and compactness).",
+      "best_match": "This framework requires plaintiffs to show: (1) the minority group is large and geographically compact enough to form a majority in a reasonably configured district; (2) the minority group is politically cohesive; and (3) the white majority votes sufficiently as a bloc to defeat the minority's preferred candidate.",
+      "similarity": 0.8719836473464966,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Second, the plaintiffs must show that the minority group is politically cohesive.",
+      "best_match": "This framework requires plaintiffs to show: (1) the minority group is large and geographically compact enough to form a majority in a reasonably configured district; (2) the minority group is politically cohesive; and (3) the white majority votes sufficiently as a bloc to defeat the minority's preferred candidate.",
+      "similarity": 0.7988941669464111,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Third, the plaintiffs must show that under the totality of the circumstances, the political process is not \u201cequally open\u201d to minority voters.",
+      "best_match": "If these preconditions are met, the court must then consider the \"totality of circumstances\" to determine if the political processes are equally open to minority voters.",
+      "similarity": 0.7666100263595581,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The majority applied that three-part framework to the facts in the record and agreed with the district court that the plaintiffs were likely to succeed on their challenge.",
+      "best_match": "The Court's reasoning was as follows:\n\n*   **Application of the *Gingles* Framework:** The Court reiterated that for the past 37 years, it has evaluated Section 2 claims using the three-part framework established in *Thornburg v. Gingles*, 478 U. S. 30 (1986).",
+      "similarity": 0.5396943092346191,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The plaintiffs submitted maps demonstrating the traditional districting criteria, and the district court found \u201cno serious dispute\u201d that Black voters are politically cohesive or that the challenged districts\u2019 white majority consistently defeated Black voters\u2019 preferred candidates.",
+      "best_match": "The plaintiffs presented eleven illustrative maps that contained two majority-Black districts while adhering to traditional districting criteria like compactness, contiguity, and respect for political subdivisions.",
+      "similarity": 0.7589787840843201,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Brett Kavanaugh joined the majority opinion except for a discussion of the difference between race-consciousness and race-predominance.",
+      "best_match": "If these preconditions are met, the court must then consider the \"totality of circumstances\" to determine if the political processes are equally open to minority voters.",
+      "similarity": 0.42738986015319824,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "He concurred separately to emphasize and clarify four additional points.",
+      "best_match": "*   **Second and Third *Gingles* Preconditions:** The Court affirmed the District Court's finding that there was \"no serious dispute\" that Black voters in Alabama are politically cohesive and that the white majority votes sufficiently as a bloc to defeat their preferred candidates, citing statistical evidence of racial polarization.",
+      "similarity": 0.2833542227745056,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Neil Gorsuch joined in full, and Justices Amy Coney Barrett and Samuel Alito joined in part.",
+      "best_match": "The Supreme Court granted review of this decision.",
+      "similarity": 0.43890419602394104,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas argued that Section 2 of the VRA does not require Alabama to redraw its congressional districts so that Black voters can control a number of seats proportional to Black voters in its population.",
+      "best_match": "It underscores that while race can be a consideration in districting, it cannot be the predominant factor, and that the VRA prohibits districting plans that dilute minority voting strength, even without proof of discriminatory intent.",
+      "similarity": 0.6725181341171265,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Alito authored a dissenting opinion in which Justice Gorsuch joined arguing that the majority\u2019s understanding of Gingles\u2014specifically its understanding of the phrase \u201creasonably configured\u201d within the context of the first precondition\u2014is flawed, and that a correct understanding would lead to a different result in this case.",
+      "best_match": "**Precedent Set:** The decision reaffirms the continued validity and application of the *Gingles* framework for analyzing Section 2 Voting Rights Act claims in redistricting cases.",
+      "similarity": 0.551854133605957,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "best_similarity": 0.45673590898513794,
+      "best_match": "The Supreme Court granted review of this decision."
+    },
+    {
+      "sentence": "Justice Brett Kavanaugh joined the majority opinion except for a discussion of the difference between race-consciousness and race-predominance.",
+      "best_similarity": 0.42738986015319824,
+      "best_match": "If these preconditions are met, the court must then consider the \"totality of circumstances\" to determine if the political processes are equally open to minority voters."
+    },
+    {
+      "sentence": "He concurred separately to emphasize and clarify four additional points.",
+      "best_similarity": 0.2833542227745056,
+      "best_match": "*   **Second and Third *Gingles* Preconditions:** The Court affirmed the District Court's finding that there was \"no serious dispute\" that Black voters in Alabama are politically cohesive and that the white majority votes sufficiently as a bloc to defeat their preferred candidates, citing statistical evidence of racial polarization."
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Neil Gorsuch joined in full, and Justices Amy Coney Barrett and Samuel Alito joined in part.",
+      "best_similarity": 0.43890419602394104,
+      "best_match": "The Supreme Court granted review of this decision."
+    }
+  ],
+  "total_gt_sentences": 20,
+  "covered_sentences": 16,
+  "coverage_percentage": 80.0,
+  "coverage_score": 0.8,
+  "threshold": 0.5
+}

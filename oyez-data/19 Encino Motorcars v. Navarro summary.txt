@@ -1,0 +1,15 @@
+Facts of the case
+
+Encino Motorcars, LLC, which sells and services Mercedes-Benz cars, employed Hector Navarro and others as "service advisors." Their role was to greet car owners upon arrival in the service area of the dealership, listen to customers' concerns about their cars, evaluate the repair and maintenance needs of the cars, suggest services, write up estimates, and follow up with the customer while repair work was being done.
+
+Navarro and the other plaintiffs alleged in federal district court that Encino Motorcars violated the Fair Labor Standards Act (FLSA) by failing to pay them overtime wages. The district court dismissed the claim, finding that the FLSA exempts service advisors from its overtime compensation provisions. A panel of the Ninth Circuit reversed, using the principle of Chevron deference to rely on a regulation promulgated by the Department of Labor in 2011 interpreting the statutory exemption as not encompassing service providers. The US Supreme Court vacated the panel's decision, holding that the regulation lacked sufficient explanation and thus was not entitled to deference. On remand, the Ninth Circuit formulated its own interpretation of the applicable FLSA provision and concluded that the exemption does not encompass service advisors.
+
+Question
+Are service advisors at car dealerships exempt under 29 U.S.C. § 213(b)(10)(A) from the Fair Labor Standards Act's overtime-pay requirements?
+
+Conclusion
+In a 5-4 decision, the Court reversed and remanded the case back to the Ninth Circuit, holding that because service advisors at car dealerships are "salesm[e]n . . . primarily engaged in . . . servicing automobiles," 29 U.S.C. § 213(b)(10)(A), they are exempt from the FLSA's overtime-pay requirements.
+
+Construing the relevant portions of the statute, the Court explained that a service advisor is clearly a "salesman" who sells services to customers for their vehicles. The Court also concluded that service advisors are "primarily engaged in . . . servicing automobiles" since they are integral in the process of providing maintenance and repair services to customers, even if they do not spend most of their time physically repairing vehicles. The Court rejected the Ninth Circuit's use of the distributive canon, as well as its conclusion that FLSA exemptions should be construed narrowly in holding that service advisors were not exempt. It also rejected the appellate court's reliance on a 1966-67 DOL Occupational Outlook Handbook and the FLSA legislative history, both of which the Court found unpersuasive.
+
+Justice Ginsburg filed a dissenting opinion, in which Justices Breyer, Sotomayor, and Kagan joined.

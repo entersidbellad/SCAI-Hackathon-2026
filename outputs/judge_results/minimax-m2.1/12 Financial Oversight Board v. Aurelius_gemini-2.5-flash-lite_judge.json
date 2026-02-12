@@ -1,0 +1,10 @@
+{
+  "factual_accuracy": 5,
+  "completeness": 5,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [],
+  "overall_assessment": "The generated summary is highly accurate and complete. It correctly identifies all key facts including the debt crisis, PROMESA legislation, the appointment process using lists from both parties, and the legal challenge. The summary accurately captures the Court's dual holding that the Appointments Clause applies to officers in Puerto Rico but does not restrict Board appointments because members have primarily local duties. All three justices' opinions (Breyer for the Court, Thomas concurring on original meaning, Sotomayor concurring on Puerto Rico-US relationship) are properly mentioned. The summary properly distinguishes the Board's local duties from federal duties in prior cases like Buckley, Freytag, and Lucia.",
+  "judge_score": 1.0
+}

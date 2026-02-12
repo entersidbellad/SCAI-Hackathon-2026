@@ -1,0 +1,26 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "In 2018, the City discovered CSS's policy",
+      "issue": "The reference specifies March 2018, while the generated summary only says 'In 2018' - less specific but not incorrect",
+      "correct_info": "The reference states 'In March 2018, the City of Philadelphia barred Catholic Social Services (CSS)'"
+    },
+    {
+      "error_quote": "CSS and several affiliated foster parents filed suit",
+      "issue": "The reference summary does not mention 'several affiliated foster parents' as plaintiffs - it only references CSS suing the City",
+      "correct_info": "The reference states 'CSS sued the City of Philadelphia, asking the court to order the city to renew their contract' without mentioning additional plaintiffs"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Chief Justice John Roberts authored the majority opinion of the Court",
+    "Justice Barrett's concurrence was joined by Justice Brett Kavanaugh and Justice Stephen Breyer joined as to all but the first paragraph",
+    "The specific holding that the question is not whether the City has a compelling interest in enforcing non-discrimination policies generally, but whether it has such an interest in denying an exception to CSS",
+    "Justice Gorsuch's criticism of the majority's circumvention of Smith in his concurrence"
+  ],
+  "overall_assessment": "The generated summary is largely accurate and captures the key legal reasoning, including the critical finding that the non-discrimination requirement was not generally applicable due to the discretionary exemption system. It correctly identifies the strict scrutiny analysis and the conclusion that the City lacked a compelling interest in denying an exception to CSS. Minor omissions include the authorship of the majority opinion and some details about the concurrences, but these do not significantly affect the summary's overall accuracy and usefulness.",
+  "judge_score": 0.8
+}

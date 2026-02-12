@@ -1,0 +1,170 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nIn 2010, for the first time in over forty years, Wisconsin voters elected a Republican majority in the state assembly and the senate, and a Republican governor.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "As a result, the Republican leadership developed a voting district map that its drafters calculated would allow Republicans to maintain a majority under any likely voting scenario.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The redistricting plan was introduced in July 2011, and both the senate and the assembly passed the bill shortly thereafter.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The governor signed the bill into law in August 2011.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Even before it was enacted, the plan faced two legal challenges, on constitutional and statutory grounds.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "A federal court upheld the plan as not violating the \"one person one vote\" principle nor violating the Equal Protection Clause.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Plaintiffs in this case challenge the plan as an unconstitutional partisan gerrymander.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.99755859375,
+        "neutral": 0.0018720626831054688,
+        "entailment": 0.0003407001495361328
+      }
+    },
+    {
+      "sentence": "At issue is whether the plan systematically dilutes the voting strength of Democratic voters statewide.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.900390625,
+        "neutral": 0.08526611328125,
+        "entailment": 0.01446533203125
+      }
+    },
+    {
+      "sentence": "Question\n1.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.62939453125,
+        "neutral": 0.333740234375,
+        "entailment": 0.03662109375
+      }
+    },
+    {
+      "sentence": "Did the district court err in holding that it had the authority to hear a statewide challenge to Wisconsin's redistricting plan, rather than requiring a district-by-district analysis?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Did the district court err in holding that the redistricting plan was an unconstitutional gerrymander?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Did the district court use an incorrect test for a gerrymander?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Are defendants entitled to present evidence that they would have prevailed under the gerrymander test actually used by the district court?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Are partisan gerrymandering claims justiciable?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.74658203125,
+        "neutral": 0.2001953125,
+        "entailment": 0.053497314453125
+      }
+    },
+    {
+      "sentence": "Conclusion\nThe plaintiffs failed to demonstrate Article III standing, so there is no need to resolve any of the questions presented.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In a unanimous decision authored by Chief Justice John Roberts, the Court sidestepped (for now) all of the key issues regarding partisan gerrymandering, resolving the case instead on the technical issue of judicial standing.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "For a plaintiff to bring a case in federal court, she must have Article III standing, which requires showing three elements, one of which is \"injury in fact.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "To show injury in fact, a plaintiff must show that she has suffered \"invasion of a legally protected interest\" that is \"concrete and particularized.\"",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98876953125,
+        "neutral": 0.00910186767578125,
+        "entailment": 0.002048492431640625
+      }
+    },
+    {
+      "sentence": "In this case, the Court found that the plaintiffs alleged but did not prove individual harms, providing evidence instead only of statewide harms of alleged partisan gerrymandering.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court thus vacated the judgment of the district court and remanded for further proceedings.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas filed an opinion concurring in part and concurring in the judgment, in which Justice Neil Gorsuch joined.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justices Thomas and Gorsuch did not join the majority with respect to the decision to remand the case and allow the plaintiffs a second chance to prove standing and thus wrote separately to express this disagreement with the disposition.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Elena Kagan filed a concurring opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor joined.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kagan agreed with the findings and conclusions of the Court but wrote separately, in essence, to describe how the plaintiffs might proceed upon remand.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kagan suggests that the plaintiffs might present more than simply a vote dilution theory, but also an infringement of their First Amendment right of association.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Such a claim, according to Justice Kagan, would not require the plaintiffs to show injury-in-fact in the form of injury to her particular voting district because that claim would be statewide in nature.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "She predicts that partisan gerrymandering \"injures enough individuals and organizations in enough concrete ways .",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "that standing requirements, properly applied, will not often or long prevent courts from reaching the merits of cases like this one.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 5
+  },
+  "total_sentences": 28,
+  "contradiction_rate": 0.17857142857142858,
+  "nli_score": 0.8214285714285714
+}

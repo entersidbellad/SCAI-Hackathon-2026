@@ -1,0 +1,19 @@
+Facts of the case
+
+In 2010, for the first time in over forty years, Wisconsin voters elected a Republican majority in the state assembly and the senate, and a Republican governor. As a result, the Republican leadership developed a voting district map that its drafters calculated would allow Republicans to maintain a majority under any likely voting scenario. The redistricting plan was introduced in July 2011, and both the senate and the assembly passed the bill shortly thereafter. The governor signed the bill into law in August 2011. Even before it was enacted, the plan faced two legal challenges, on constitutional and statutory grounds. A federal court upheld the plan as not violating the "one person one vote" principle nor violating the Equal Protection Clause.
+
+Plaintiffs in this case challenge the plan as an unconstitutional partisan gerrymander. At issue is whether the plan systematically dilutes the voting strength of Democratic voters statewide.
+
+Question
+1. Did the district court err in holding that it had the authority to hear a statewide challenge to Wisconsin's redistricting plan, rather than requiring a district-by-district analysis?
+2. Did the district court err in holding that the redistricting plan was an unconstitutional gerrymander?
+3. Did the district court use an incorrect test for a gerrymander?
+4. Are defendants entitled to present evidence that they would have prevailed under the gerrymander test actually used by the district court?
+5. Are partisan gerrymandering claims justiciable?
+
+Conclusion
+The plaintiffs failed to demonstrate Article III standing, so there is no need to resolve any of the questions presented. In a unanimous decision authored by Chief Justice John Roberts, the Court sidestepped (for now) all of the key issues regarding partisan gerrymandering, resolving the case instead on the technical issue of judicial standing. For a plaintiff to bring a case in federal court, she must have Article III standing, which requires showing three elements, one of which is "injury in fact." To show injury in fact, a plaintiff must show that she has suffered "invasion of a legally protected interest" that is "concrete and particularized." In this case, the Court found that the plaintiffs alleged but did not prove individual harms, providing evidence instead only of statewide harms of alleged partisan gerrymandering. The Court thus vacated the judgment of the district court and remanded for further proceedings.
+
+Justice Clarence Thomas filed an opinion concurring in part and concurring in the judgment, in which Justice Neil Gorsuch joined. Justices Thomas and Gorsuch did not join the majority with respect to the decision to remand the case and allow the plaintiffs a second chance to prove standing and thus wrote separately to express this disagreement with the disposition.
+
+Justice Elena Kagan filed a concurring opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor joined. Justice Kagan agreed with the findings and conclusions of the Court but wrote separately, in essence, to describe how the plaintiffs might proceed upon remand. Justice Kagan suggests that the plaintiffs might present more than simply a vote dilution theory, but also an infringement of their First Amendment right of association. Such a claim, according to Justice Kagan, would not require the plaintiffs to show injury-in-fact in the form of injury to her particular voting district because that claim would be statewide in nature. She predicts that partisan gerrymandering "injures enough individuals and organizations in enough concrete ways . . . that standing requirements, properly applied, will not often or long prevent courts from reaching the merits of cases like this one."

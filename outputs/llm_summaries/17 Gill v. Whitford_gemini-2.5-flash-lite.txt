@@ -1,0 +1,21 @@
+Here is a summary of the Supreme Court's opinion in *Gill et al. v. Whitford et al.*:
+
+### 1. Facts of the Case
+
+This case originated with a lawsuit filed by twelve Democratic voters in Wisconsin against members of the state election commission. The voters alleged that Wisconsin's legislative redistricting plan, enacted as Act 43 following the 2010 census, constituted an unconstitutional partisan gerrymander. They claimed that Act 43 harmed the Democratic Party's ability to translate votes into legislative seats by "cracking" Democratic voters into districts where they could not achieve a majority and "packing" them into districts where their votes were in overwhelming excess of what was needed to win. The voters asserted that this practice violated their First Amendment right of association and their Fourteenth Amendment right to equal protection.
+
+The defendants moved to dismiss, arguing that the plaintiffs, as individual voters, lacked standing to challenge the statewide redistricting plan because their legally protected interests were limited to the district in which they voted. A three-judge District Court denied the motion to dismiss, finding that the plaintiffs had suffered a particularized injury to their equal protection rights. After a trial, the District Court concluded that Act 43 was an unconstitutional partisan gerrymander. The defendants appealed directly to the Supreme Court.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was whether the plaintiffs had demonstrated Article III standing to challenge Wisconsin's legislative redistricting plan, Act 43, as an unconstitutional partisan gerrymander. Specifically, the Court considered whether the alleged harms constituted a concrete and particularized injury to the plaintiffs' individual rights, as required for federal court jurisdiction.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the plaintiffs had failed to demonstrate Article III standing. The Court vacated the judgment of the District Court and remanded the case.
+
+The Court reasoned that for a plaintiff to have standing, they must show an "injury in fact" that is concrete and particularized, affecting them in a personal and individual way. While the right to vote is individual, the Court found that the alleged harm from partisan gerrymandering, specifically through "packing" and "cracking," is district-specific. An individual voter's injury arises from the boundaries of their own district and the composition of its voters. Therefore, a plaintiff complaining of gerrymandering must typically demonstrate how their own vote has been burdened within their specific district.
+
+The Court found that the plaintiffs' claims, as presented at trial, focused on a statewide injury to Wisconsin Democrats and their collective interests, rather than on specific, individual harms to their own votes. The evidence presented, such as testimony about the mapmakers' intent and partisan-asymmetry studies (like the "efficiency gap"), measured the effect of the gerrymander on political parties statewide, not on the votes of particular citizens. While four plaintiffs initially alleged they lived in packed or cracked districts, they failed to prove this individual harm at trial.
+
+However, because the Court recognized that partisan gerrymandering claims involve unsettled legal questions and the plaintiffs had alleged that specific individuals lived in packed or cracked districts, it remanded the case. This remand provided the plaintiffs an opportunity to present evidence demonstrating concrete and particularized injuries that tend to show a burden on their individual votes. The Court emphasized that any remedy must be tailored to the specific injury established.

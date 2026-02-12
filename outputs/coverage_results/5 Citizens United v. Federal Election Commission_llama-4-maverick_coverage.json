@@ -1,0 +1,214 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nCitizens United sought an injunction against the Federal Election Commission in the United States District Court for the District of Columbia to prevent the application of the Bipartisan Campaign Reform Act (BCRA) to its film Hillary: The Movie.",
+      "best_match": "Citizens United sought declaratory and injunctive relief against the Federal Election Commission (FEC), arguing that \u00a7441b was unconstitutional as applied to its documentary and that BCRA's disclaimer, disclosure, and reporting requirements were unconstitutional as applied to the documentary and related advertisements.",
+      "similarity": 0.6870322823524475,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Movie expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.",
+      "best_match": "Facts of the Case\nCitizens United, a non-profit corporation, produced a documentary critical of then-Senator Hillary Clinton during her 2008 presidential primary campaign.",
+      "similarity": 0.36258113384246826,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "In an attempt to regulate \"big money\" campaign contributions, the BCRA applies a variety of restrictions to \"electioneering communications.\"",
+      "best_match": "\u00a7441b, which prohibits corporations and unions from using their general treasury funds to make independent expenditures for speech that is an \"electioneering communication\" or for speech that expressly advocates the election or defeat of a candidate.",
+      "similarity": 0.6229662895202637,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Section 203 of the BCRA prevents corporations or labor unions from funding such communication from their general treasuries.",
+      "best_match": "\u00a7441b, which prohibits corporations and unions from using their general treasury funds to make independent expenditures for speech that is an \"electioneering communication\" or for speech that expressly advocates the election or defeat of a candidate.",
+      "similarity": 0.5296698808670044,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Sections 201 and 311 require the disclosure of donors to such communication and a disclaimer when the communication is not authorized by the candidate it intends to support.",
+      "best_match": "**BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.",
+      "similarity": 0.567505419254303,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Citizens United argued that: 1) Section 203 violates the First Amendment on its face and when applied to The Movie and its related advertisements, and that 2) Sections 201 and 203 are also unconstitutional as applied to the circumstances.",
+      "best_match": "Citizens United sought declaratory and injunctive relief against the Federal Election Commission (FEC), arguing that \u00a7441b was unconstitutional as applied to its documentary and that BCRA's disclaimer, disclosure, and reporting requirements were unconstitutional as applied to the documentary and related advertisements.",
+      "similarity": 0.6207263469696045,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The United States District Court denied the injunction.",
+      "best_match": "The Court rejected Citizens United's argument that these requirements should be limited to speech that is the functional equivalent of express advocacy.",
+      "similarity": 0.39439600706100464,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Section 203 on its face was not unconstitutional because the Supreme Court in McConnell v. FEC had already reached that determination.",
+      "best_match": "Citizens United sought declaratory and injunctive relief against the Federal Election Commission (FEC), arguing that \u00a7441b was unconstitutional as applied to its documentary and that BCRA's disclaimer, disclosure, and reporting requirements were unconstitutional as applied to the documentary and related advertisements.",
+      "similarity": 0.5593757033348083,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The District Court also held that The Movie was the functional equivalent of express advocacy, as it attempted to inform voters that Senator Clinton was unfit for office, and thus Section 203 was not unconstitutionally applied.",
+      "best_match": "The Court rejected Citizens United's argument that these requirements should be limited to speech that is the functional equivalent of express advocacy.",
+      "similarity": 0.5231202840805054,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Lastly, it held that Sections 201 and 203 were not unconstitutional as applied to the The Movie or its advertisements.",
+      "best_match": "Citizens United sought declaratory and injunctive relief against the Federal Election Commission (FEC), arguing that \u00a7441b was unconstitutional as applied to its documentary and that BCRA's disclaimer, disclosure, and reporting requirements were unconstitutional as applied to the documentary and related advertisements.",
+      "similarity": 0.5694968104362488,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The court reasoned that the McConnell decision recognized that disclosure of donors \"might be unconstitutional if it imposed an unconstitutional burden on the freedom to associate in support of a particular cause,\" but those circumstances did not exist in Citizen United's claim.",
+      "best_match": "Citizens United sought declaratory and injunctive relief against the Federal Election Commission (FEC), arguing that \u00a7441b was unconstitutional as applied to its documentary and that BCRA's disclaimer, disclosure, and reporting requirements were unconstitutional as applied to the documentary and related advertisements.",
+      "similarity": 0.5707377791404724,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1) Did the Supreme Court's decision in McConnell resolve all constitutional as-applied challenges to the BCRA when it upheld the disclosure requirements of the statute as constitutional?",
+      "best_match": "** The Court overruled Austin v. Michigan Chamber of Commerce (1990) and the part of McConnell v. FEC (2003) that upheld BCRA \u00a7203's extension of \u00a7441b's restrictions on corporate independent expenditures.",
+      "similarity": 0.5353571772575378,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "2) Do the BCRA's disclosure requirements impose an unconstitutional burden when applied to electioneering requirements because they are protected \"political speech\" and not subject to regulation as \"campaign speech\"?",
+      "best_match": "Whether BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.",
+      "similarity": 0.6797774434089661,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "3) If a communication lacks a clear plea to vote for or against a particular candidate, is it subject to regulation under the BCRA?",
+      "best_match": "Whether BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.",
+      "similarity": 0.5574775338172913,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "4) Should a feature length documentary about a candidate for political office be treated like the advertisements at issue in McConnell and therefore be subject to regulation under the BCRA?",
+      "best_match": "Whether BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.",
+      "similarity": 0.6035443544387817,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nNo.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1.",
+      "similarity": 0.35428884625434875,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court overruled Austin v. Michigan Chamber of Commerce and portions of McConnell v. FEC.",
+      "best_match": "** The Court overruled Austin v. Michigan Chamber of Commerce (1990) and the part of McConnell v. FEC (2003) that upheld BCRA \u00a7203's extension of \u00a7441b's restrictions on corporate independent expenditures.",
+      "similarity": 0.7333208322525024,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "(In the prior cases, the Court had held that political speech may be banned based on the speaker's corporate identity.)",
+      "best_match": "The Court found that political speech does not lose First Amendment protection simply because its source is a corporation.",
+      "similarity": 0.7437442541122437,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "By a 5-to-4 vote along ideological lines, the majority held that under the First Amendment corporate funding of independent political broadcasts in candidate elections cannot be limited.",
+      "best_match": "\u00a7441b, which prohibits corporations and unions from using their general treasury funds to make independent expenditures for speech that is an \"electioneering communication\" or for speech that expressly advocates the election or defeat of a candidate.",
+      "similarity": 0.5548298954963684,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1.",
+      "similarity": 0.3599981665611267,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1.",
+      "similarity": 0.2915417551994324,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The majority maintained that political speech is indispensable to a democracy, which is no less true because the speech comes from a corporation.",
+      "best_match": "The Court found that political speech does not lose First Amendment protection simply because its source is a corporation.",
+      "similarity": 0.6448802351951599,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The majority also held that the BCRA's disclosure requirements as applied to The Movie were constitutional, reasoning that disclosure is justified by a \"governmental interest\" in providing the \"electorate with information\" about election-related spending resources.",
+      "best_match": "**BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.",
+      "similarity": 0.6959505677223206,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court also upheld the disclosure requirements for political advertising sponsors and it upheld the ban on direct contributions to candidates from corporations and unions.",
+      "best_match": "\u00a7441b, which prohibits corporations and unions from using their general treasury funds to make independent expenditures for speech that is an \"electioneering communication\" or for speech that expressly advocates the election or defeat of a candidate.",
+      "similarity": 0.552889347076416,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1.",
+      "similarity": 0.39005085825920105,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Here, the Court had no narrower grounds upon which to rule, except to handle the First Amendment issues embodied within the case.",
+      "best_match": "The Court rejected Citizens United's argument that these requirements should be limited to speech that is the functional equivalent of express advocacy.",
+      "similarity": 0.5051831007003784,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1.",
+      "similarity": 0.3754737377166748,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Stevens argued that corporations are not members of society and that there are compelling governmental interests to curb corporations' ability to spend money during local and national elections.",
+      "best_match": "It rejected the antidistortion rationale and other justifications for restricting corporate political speech, concluding that such restrictions are not justified by a compelling governmental interest and are not narrowly tailored to achieve such an interest.",
+      "similarity": 0.5088150501251221,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "The Movie expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.",
+      "best_similarity": 0.36258113384246826,
+      "best_match": "Facts of the Case\nCitizens United, a non-profit corporation, produced a documentary critical of then-Senator Hillary Clinton during her 2008 presidential primary campaign."
+    },
+    {
+      "sentence": "The United States District Court denied the injunction.",
+      "best_similarity": 0.39439600706100464,
+      "best_match": "The Court rejected Citizens United's argument that these requirements should be limited to speech that is the functional equivalent of express advocacy."
+    },
+    {
+      "sentence": "Conclusion\nNo.",
+      "best_similarity": 0.35428884625434875,
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1."
+    },
+    {
+      "sentence": "Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas.",
+      "best_similarity": 0.3599981665611267,
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1."
+    },
+    {
+      "sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "best_similarity": 0.2915417551994324,
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1."
+    },
+    {
+      "sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "best_similarity": 0.39005085825920105,
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1."
+    },
+    {
+      "sentence": "Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations.",
+      "best_similarity": 0.3754737377166748,
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that:\n1."
+    }
+  ],
+  "total_gt_sentences": 28,
+  "covered_sentences": 21,
+  "coverage_percentage": 75.0,
+  "coverage_score": 0.75,
+  "threshold": 0.5
+}

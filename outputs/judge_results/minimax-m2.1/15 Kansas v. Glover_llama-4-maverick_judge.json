@@ -1,0 +1,21 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "Justice Kagan highlighted that the key factor in this case was not just that Glover's license was revoked, but that the revocation was likely due to serious or repeated driving offenses, which provides a reason to infer that he might continue to drive.",
+      "issue": "The generated summary adds interpretive content not present in the reference. The reference states Kagan pointed out that license-revocation alerts do not end the inquiry and that most suspensions (not revocations) do not relate to driving and are correlated with poverty. The generated summary incorrectly attributes a specific causal reasoning about revocations being due to driving offenses to Kagan.",
+      "correct_info": "The reference states: 'Justice Kagan authored a concurring opinion... to point out that the license-revocation alert does not end the inquiry because, in a similar setting with slightly different facts, there might not be reasonable suspicion. Justice Kagan specifically described that most license suspensions (as opposed to revocations) do not relate to driving at all but are highly correlated with poverty.'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The reference mentions that the Kansas Supreme Court held the inference impermissibly 'stacked' assumptions and would relieve the state of its burden of showing reasonable suspicion",
+    "The reference includes the specific procedural history: trial court granted motion to suppress, appellate court reversed, Kansas Supreme Court granted review",
+    "The reference notes that Justice Ginsburg joined Kagan's concurrence",
+    "The reference includes Sotomayor's specific argument that the decision 'flips the burden of proof' and that drivers with revoked licenses have demonstrated disregard for the law"
+  ],
+  "overall_assessment": "The generated summary is generally accurate and captures the core facts, legal question, and holding effectively. It correctly explains the majority reasoning about common-sense inferences and reasonable suspicion. However, it contains one notable inaccuracy in its characterization of Justice Kagan's concurrence, adding interpretive content about revocations being due to driving offenses that isn't in the reference. It also omits some procedural history details and specific arguments from the dissent. Overall, the summary is solid but not perfect.",
+  "judge_score": 0.8
+}

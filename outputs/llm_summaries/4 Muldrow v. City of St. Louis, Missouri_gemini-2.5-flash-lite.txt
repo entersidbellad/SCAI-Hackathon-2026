@@ -1,0 +1,21 @@
+Here is a summary of the Supreme Court's opinion in *Muldrow v. City of St. Louis, Missouri, et al.*:
+
+### 1. Facts of the Case
+
+Sergeant Jatonya Clayborn Muldrow worked as a plainclothes officer in the St. Louis Police Department's Intelligence Division from 2008 to 2017. In 2017, the new commander of the Intelligence Division requested Muldrow's transfer so he could replace her with a male officer. Despite Muldrow's objections, the Department approved the transfer, reassigning her to a uniformed position elsewhere. While her rank and pay remained the same, her responsibilities, perks, and schedule changed significantly. She no longer worked with high-ranking officials on departmental priorities but instead supervised neighborhood patrol officers. She also lost access to an unmarked take-home vehicle and had a less regular schedule that included weekend shifts.
+
+Muldrow filed a lawsuit against the City of St. Louis under Title VII of the Civil Rights Act of 1964, alleging that the transfer constituted sex discrimination with respect to the terms or conditions of her employment. The District Court granted summary judgment to the City, and the Eighth Circuit Court of Appeals affirmed. The Eighth Circuit held that Muldrow had to demonstrate a "materially significant disadvantage" resulting from the transfer, which she failed to do, as her title, salary, and benefits did not decrease, and the changes in her working conditions were considered minor. Muldrow petitioned the Supreme Court, which granted certiorari to address a split among the Circuit Courts regarding the required level of harm for a Title VII transfer claim.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was:
+
+*   Under Title VII of the Civil Rights Act of 1964, must an employee challenging a job transfer based on sex discrimination demonstrate that the transfer caused a "significant" or "materially adverse" disadvantage, or is a lesser showing of harm sufficient?
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that an employee challenging a job transfer under Title VII must show that the transfer brought about some harm with respect to an identifiable term or condition of employment, but that harm **need not be significant**.
+
+The Court reasoned that Title VII, 42 U. S. C. §2000e–2(a)(1), prohibits employers from discriminating against any individual "with respect to his compensation, terms, conditions, or privileges of employment, because of such individual’s . . . sex." The Court clarified that "discriminate against" means to "treat worse" and that this treatment must be "with respect to" the "terms [or] conditions" of employment. While this requires showing a "disadvantageous" change, the statutory text does not impose a heightened threshold of "significance" or "materiality." The Court rejected the City's arguments based on statutory text (ejusdem generis), precedent (distinguishing *Burlington Northern & Santa Fe Railway Co. v. White*, 548 U. S. 53, which applied a "materially adverse" standard to the anti-retaliation provision), and policy concerns about increased litigation.
+
+The Court vacated the Eighth Circuit's judgment, finding that it applied the wrong standard by requiring Muldrow to show a "significant" disadvantage. The Court stated that Muldrow need only show some injury respecting her employment terms or conditions, and her allegations, if properly preserved and supported, met this less stringent test. The Court remanded the case for further proceedings consistent with its opinion, allowing the lower courts to address issues of forfeiture and proof under the correct Title VII standard.

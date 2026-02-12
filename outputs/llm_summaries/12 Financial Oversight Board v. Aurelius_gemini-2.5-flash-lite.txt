@@ -1,0 +1,23 @@
+Here is a summary of the Supreme Court's opinion in *Financial Oversight and Management Board for Puerto Rico v. Aurelius Investment, LLC*:
+
+### 1. Facts of the Case
+
+In response to a severe fiscal crisis in Puerto Rico, Congress enacted the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) in 2016. PROMESA established a Financial Oversight and Management Board for Puerto Rico, composed of seven voting members appointed by the President without the advice and consent of the Senate. The Board was granted broad powers, including the authority to file for bankruptcy on behalf of Puerto Rico and its instrumentalities, supervise and modify Puerto Rico's laws and budget, and conduct investigations.
+
+Following the appointment of the Board's members by President Obama, the Board initiated bankruptcy proceedings for Puerto Rico and several of its entities. Several creditors subsequently moved to dismiss these proceedings, arguing that the method of appointing the Board members violated the Appointments Clause of the U.S. Constitution. The lower court denied these motions, but the United States Court of Appeals for the First Circuit reversed, holding that the Appointments Clause was violated. However, the First Circuit also concluded that the Board's actions taken prior to its decision were valid under the "de facto officer" doctrine. The Supreme Court granted certiorari to review these decisions.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was whether the Appointments Clause of the U.S. Constitution, which requires the President to nominate and the Senate to confirm "Officers of the United States," applies to the appointment of members of the Financial Oversight and Management Board for Puerto Rico, given that they are appointed without Senate confirmation.
+
+A related question was whether the Board members, despite their appointment process, were "Officers of the United States" within the meaning of the Appointments Clause, or if their duties were primarily local in nature, thereby exempting them from the Clause's requirements.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the Appointments Clause applies to the appointment of all "Officers of the United States," including those who exercise power in or in relation to Puerto Rico. However, the Court concluded that the members of the Financial Oversight and Management Board for Puerto Rico are **not** "Officers of the United States" for the purposes of the Appointments Clause. Therefore, the Appointments Clause does not restrict the method by which they are selected.
+
+The Court reasoned that while the Appointments Clause applies to federal officers, Congress has constitutional authority under Article I, Section 8, Clause 17, and Article IV, Section 3, Clause 2, to create local offices for entities like Puerto Rico and the District of Columbia. Historical practice demonstrates that when Congress creates offices with primarily local duties under these provisions, the officers are not considered "Officers of the United States" subject to the Appointments Clause.
+
+The Court found that the Board members' powers and duties were primarily local in nature. These included overseeing Puerto Rico's fiscal and budgetary plans, initiating bankruptcy proceedings on behalf of Puerto Rico, and exercising investigatory powers backed by Puerto Rican law. The Court distinguished these duties from those that are "indisputably federal or national in nature," which were the subject of prior Appointments Clause cases like *Buckley v. Valeo*, *Freytag v. Commissioner*, and *Lucia v. SEC*.
+
+Because the Court found the appointment process to be constitutionally valid, it did not need to address the application of the "de facto officer" doctrine or consider overruling the "Insular Cases."

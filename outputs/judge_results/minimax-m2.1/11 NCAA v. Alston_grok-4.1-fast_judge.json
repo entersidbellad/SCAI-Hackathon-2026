@@ -1,0 +1,14 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The reference mentions specific examples of education-related benefits the district court required the NCAA to allow: 'computers, science equipment, musical instruments and other tangible items not included in the cost of attendance calculation but nonetheless related to the pursuit of academic studies'",
+    "The reference explicitly states the district court held 'that the NCAA may still limit cash or cash-equivalent awards for academic purposes'",
+    "The reference notes that the student-athletes 'did not appeal the Ninth Circuit's ruling upholding the NCAA's rules \"untethered to education,\"' which the Court therefore did not judge"
+  ],
+  "overall_assessment": "The generated summary is highly accurate and comprehensive, providing extensive detail about the case facts, legal questions, and reasoning. It correctly captures the core holding that NCAA compensation restrictions are subject to ordinary rule of reason analysis and that Board of Regents did not shield the NCAA from antitrust challenges. However, it omits some specific details from the reference, such as the concrete examples of education-related benefits (computers, science equipment, musical instruments) and the district court's ruling on cash/cash-equivalent limits. The summary is well-structured and faithful to the reference overall.",
+  "judge_score": 0.8
+}

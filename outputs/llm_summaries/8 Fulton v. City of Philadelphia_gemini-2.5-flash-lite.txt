@@ -1,0 +1,21 @@
+Here is a summary of the Supreme Court's opinion in *Fulton et al. v. City of Philadelphia, Pennsylvania, et al.*:
+
+### 1. Facts of the Case
+
+Philadelphia's foster care system operates through a partnership between the City and private foster care agencies. These agencies are responsible for certifying prospective foster families according to state criteria. Catholic Social Services (CSS), an agency that has contracted with the City for over 50 years, holds a religious belief that marriage is exclusively between a man and a woman. Consequently, CSS will not certify unmarried couples or same-sex married couples as foster parents, viewing such certification as an endorsement of their relationships. Other agencies in Philadelphia do certify same-sex couples, and no same-sex couple has ever sought certification from CSS.
+
+In 2018, a newspaper article highlighted the Archdiocese of Philadelphia's position that CSS could not consider same-sex married couples as foster parents. This led to investigations and ultimately the City informing CSS that it would cease referring children to the agency and would not enter future foster care contracts with CSS unless the agency agreed to certify same-sex couples. The City cited violations of a non-discrimination provision in its contract with CSS and the citywide Fair Practices Ordinance. CSS and three affiliated foster parents sued, alleging that the City's actions violated the Free Exercise and Free Speech Clauses of the First Amendment. The District Court denied preliminary relief, finding the City's policies to be neutral and generally applicable under *Employment Div., Dept. of Human Resources of Ore. v. Smith*, 494 U. S. 872. The Third Circuit affirmed, reaching a similar conclusion regarding the City's proposed contract renewal terms.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was whether the City of Philadelphia's refusal to contract with Catholic Social Services (CSS) for foster care services, unless CSS agreed to certify same-sex couples as foster parents, violated the Free Exercise Clause of the First Amendment. The Court also considered whether the City's actions violated the Free Speech Clause, though it ultimately did not rule on this aspect. A related question involved the applicability and general applicability of the City's Fair Practices Ordinance.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the City of Philadelphia's refusal to contract with CSS unless it agreed to certify same-sex couples as foster parents violated the Free Exercise Clause of the First Amendment.
+
+The Court reasoned that the City's actions burdened CSS's religious exercise by forcing it to choose between curtailing its mission or violating its religious beliefs. The Court found that the City's policies were not "neutral and generally applicable" as required by *Smith*. Specifically, the Court determined that the non-discrimination requirement in the City's standard foster care contract was not generally applicable because it contained a provision allowing for exceptions at the "sole discretion" of the Commissioner. The existence of a mechanism for individualized, discretionary exemptions meant the policy was not generally applicable, and therefore, the City could not refuse to extend such exemptions to cases of religious hardship without a compelling reason.
+
+The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's actions. The Court reasoned that the process of certifying foster parents is a "customized and selective assessment" that does not constitute a "public accommodation" as defined by the ordinance, distinguishing it from services like staying in a hotel or eating at a restaurant.
+
+Because the contractual non-discrimination requirement burdened CSS's religious exercise and was not generally applicable, it was subject to strict scrutiny. The Court found that the City did not have a compelling interest in denying an exception to CSS under these circumstances. CSS sought only an accommodation to continue its mission in accordance with its beliefs, not to impose those beliefs on others. Therefore, the City's refusal to contract with CSS could not survive strict scrutiny. The Court reversed the judgment of the Third Circuit and remanded the case.

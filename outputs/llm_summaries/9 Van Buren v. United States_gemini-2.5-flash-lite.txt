@@ -1,0 +1,22 @@
+Here is a summary of the Supreme Court's opinion in *Van Buren v. United States*:
+
+## Summary of *Van Buren v. United States*
+
+### 1. Facts of the Case
+
+Nathan Van Buren, a former police sergeant for the Georgia Bureau of Investigation, was charged with a felony violation of the Computer Fraud and Abuse Act of 1986 (CFAA). The charges stemmed from his actions while on duty, where he used his patrol-car computer and his own valid credentials to access a law enforcement database. Van Buren conducted a search for a specific license plate number in exchange for money, approximately $5,000, from an individual named Andrew Albo. Unbeknownst to Van Buren, his actions were part of a Federal Bureau of Investigation (FBI) sting operation.
+
+Van Buren's conduct violated a department policy that prohibited obtaining database information for non-law-enforcement purposes. The government argued that this violation of departmental policy also constituted a violation of the CFAA. A jury convicted Van Buren, and he was sentenced to 18 months in prison. Van Buren appealed, arguing that the CFAA's "exceeds authorized access" clause only applies to individuals who access information to which their computer access does not extend, not to those who misuse access they otherwise possess. The Eleventh Circuit, adhering to its precedent, affirmed the conviction. The Supreme Court granted certiorari to resolve a split among the federal circuit courts regarding the interpretation of this clause.
+
+### 2. Legal Question(s)
+
+The central legal question before the Supreme Court was the interpretation of the phrase "exceeds authorized access" as defined in the Computer Fraud and Abuse Act of 1986 (CFAA). Specifically, the Court addressed:
+
+*   Whether the CFAA's provision making it illegal to "intentionally accesses a computer without authorization or exceeds authorized access" and thereby obtains information, when read in conjunction with the definition of "exceeds authorized access" as "to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter" (18 U.S.C. § 1030(a)(2), (e)(6)), applies to an individual who has authorization to access a computer and its information but uses that access for an improper purpose that violates a departmental policy.
+*   More narrowly, what does the phrase "is not entitled so to obtain" mean within the definition of "exceeds authorized access"?
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that an individual "exceeds authorized access" under the CFAA when they access a computer with authorization but then obtain information located in particular areas of the computer—such as specific files, folders, or databases—that are off-limits to them. The Court ruled that Van Buren did not violate the CFAA because he had authorization to access the law enforcement database and was entitled to obtain the type of information he retrieved (license plate information). His violation was one of departmental policy regarding the *purpose* for which he obtained the information, not a violation of his *access* to the information itself.
+
+The Court reasoned that the phrase "entitled so to obtain" refers to the entitlement to obtain information in the *manner* previously stated in the statute, which is by using a computer one is authorized to access. The word "so" acts as a term of reference, pointing back to the authorized manner of access. Therefore, if an individual is authorized to access a computer and the information within it, they do not "exceed authorized access" by obtaining that information for an improper purpose. The Court found that the government's interpretation would criminalize a vast amount of commonplace computer activity, such as employees sending personal emails on work computers, which was not the intent of the CFAA. The Court reversed the Eleventh Circuit's judgment and remanded the case for further proceedings.

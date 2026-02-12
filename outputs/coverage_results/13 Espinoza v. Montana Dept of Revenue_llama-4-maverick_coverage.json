@@ -1,0 +1,189 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nPetitioners Kendra Espinoza and others are low-income mothers who applied for scholarships to keep their children enrolled in Stillwater Christian School, in Kalispell, Montana.",
+      "best_match": "Facts of the Case\nThe Montana Legislature established a scholarship program in 2015 to provide tuition assistance to parents sending their children to private schools.",
+      "similarity": 0.609149694442749,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Montana legislature enacted a tax-credit scholarship program in 2015 to provide a modest tax credit to individuals and businesses who donate to private, nonprofit scholarship organizations.",
+      "best_match": "Facts of the Case\nThe Montana Legislature established a scholarship program in 2015 to provide tuition assistance to parents sending their children to private schools.",
+      "similarity": 0.7552912831306458,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Shortly after the program was enacted, the Montana Department of Revenue promulgated an administrative rule (\"Rule 1\") prohibiting scholarship recipients from using their scholarships at religious schools, citing a provision of the state constitution that prohibits \"direct or indirect\" public funding of religiously affiliated educational programs.",
+      "best_match": "The Montana Department of Revenue promulgated \"Rule 1,\" which prohibited families from using the scholarships at religious schools, citing the Montana Constitution's no-aid provision (Article X, \u00a76(1)).",
+      "similarity": 0.9072009325027466,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Espinoza and the other mothers filed a lawsuit in state court challenging Rule 1.",
+      "best_match": "### Summary of the Supreme Court Opinion in Espinoza v. Montana Department of Revenue\n\n#### 1.",
+      "similarity": 0.4850431978702545,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The court determined that the scholarship program was constitutional without Rule 1 and granted the plaintiffs' motion for summary judgment.",
+      "best_match": "The trial court enjoined Rule 1, but the Montana Supreme Court reversed, holding that the program, without Rule 1, aided religious schools in violation of the no-aid provision and invalidated the entire program.",
+      "similarity": 0.5865586400032043,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "On appeal, the Department of Revenue argued that the program is unconstitutional without Rule 1.",
+      "best_match": "The trial court enjoined Rule 1, but the Montana Supreme Court reversed, holding that the program, without Rule 1, aided religious schools in violation of the no-aid provision and invalidated the entire program.",
+      "similarity": 0.5576670169830322,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Montana Supreme Court agreed with the Department and reversed the lower court.",
+      "best_match": "The Court reversed the Montana Supreme Court's judgment and remanded the case for further proceedings, holding that the Free Exercise Clause barred the application of the no-aid provision and that the Montana Supreme Court had no authority to invalidate the program on that basis.",
+      "similarity": 0.6454102993011475,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes a state law that allows for funding for education generally while prohibiting funding for religious schools violate the Religion Clauses or the Equal Protection Clause of the federal Constitution?",
+      "best_match": "The Montana Department of Revenue promulgated \"Rule 1,\" which prohibited families from using the scholarships at religious schools, citing the Montana Constitution's no-aid provision (Article X, \u00a76(1)).",
+      "similarity": 0.6504420638084412,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe application of the Montana Constitution's \"no-aid\" provision to a state program providing tuition assistance to parents who send their children to private schools discriminated against religious schools and the families whose children attend or hope to attend them in violation of the Free Exercise Clause.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the application of Montana's no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them, in violation of the Free Exercise Clause.",
+      "similarity": 0.8910649418830872,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts authored the opinion on behalf of the 5-4 majority.",
+      "best_match": "### Summary of the Supreme Court Opinion in Espinoza v. Montana Department of Revenue\n\n#### 1.",
+      "similarity": 0.3641536831855774,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Court first noted that the Free Exercise Clause \"protects religious observers against unequal treatment\" and against \"laws that impose special disabilities on the basis of religious status.\"",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the application of Montana's no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them, in violation of the Free Exercise Clause.",
+      "similarity": 0.6229722499847412,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In this case, Montana's no-aid provision excluded religious schools from public benefits solely because of religious status.",
+      "best_match": "The Court applied strict scrutiny because the no-aid provision excluded religious schools from public benefits solely because of their religious status.",
+      "similarity": 0.770536482334137,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "As such, the law must be subject to strict scrutiny review; that is, the government must show that its action advances \"'interests of the highest order\" and that the action is \"narrowly tailored in pursuit of those interests.\"",
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling.",
+      "similarity": 0.36538490653038025,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Montana's interest in this case\u2014which the Court described as creating greater separation of church and state than the federal Constitution requires\u2014does not satisfy strict scrutiny given its infringement of free exercise.",
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling.",
+      "similarity": 0.7179529666900635,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Because the Free Exercise Clause barred the application of Montana's no-aid provision, the Montana Supreme Court lacked the authority to invalidate the program on the basis of that provision.",
+      "best_match": "The Court reversed the Montana Supreme Court's judgment and remanded the case for further proceedings, holding that the Free Exercise Clause barred the application of the no-aid provision and that the Montana Supreme Court had no authority to invalidate the program on that basis.",
+      "similarity": 0.8826282024383545,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas authored a concurring opinion in which Justice Neil Gorsuch joined, opining that the Court's interpretation of the Establishment Clause (not at issue in this case) hampers free exercise rights.",
+      "best_match": "The Court reversed the Montana Supreme Court's judgment and remanded the case for further proceedings, holding that the Free Exercise Clause barred the application of the no-aid provision and that the Montana Supreme Court had no authority to invalidate the program on that basis.",
+      "similarity": 0.43706271052360535,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Samuel Alito and Justice Gorsuch each filed their own separate concurrences.",
+      "best_match": "### Summary of the Supreme Court Opinion in Espinoza v. Montana Department of Revenue\n\n#### 1.",
+      "similarity": 0.37924718856811523,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Alito argued that original motivation should have no bearing on the present constitutionality of a provision of law, yet even without that consideration, the majority reached the correct conclusion in this case.",
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling.",
+      "similarity": 0.44703561067581177,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Gorsuch argued that the Court's characterization of the Montana Constitution as discriminating based on \"religious status\" and not \"religious use,\" is dubious at best.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the application of Montana's no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them, in violation of the Free Exercise Clause.",
+      "similarity": 0.5680686235427856,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ruth Bader Ginsburg filed a dissenting opinion in which Justice Elena Kagan joined, arguing that the Montana Supreme Court's decision does not place a burden on petitioners' religious exercise and thus does not violate the Free Exercise Clause.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the application of Montana's no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them, in violation of the Free Exercise Clause.",
+      "similarity": 0.587536633014679,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court's precedents establish that neutral government action is not unconstitutional solely because it fails to benefit religious exercise.",
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling.",
+      "similarity": 0.6421969532966614,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Stephen Breyer filed a dissenting opinion, in which Justice Elena Kagan joined in part.",
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling.",
+      "similarity": 0.26161691546440125,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Sonia Sotomayor filed a separate dissenting opinion, arguing that the Court in this case resolved a constitutional question not presented, thereby violating \"Article III principles older than the Religion Clause\" itself.",
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling.",
+      "similarity": 0.49287620186805725,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Espinoza and the other mothers filed a lawsuit in state court challenging Rule 1.",
+      "best_similarity": 0.4850431978702545,
+      "best_match": "### Summary of the Supreme Court Opinion in Espinoza v. Montana Department of Revenue\n\n#### 1."
+    },
+    {
+      "sentence": "Chief Justice John Roberts authored the opinion on behalf of the 5-4 majority.",
+      "best_similarity": 0.3641536831855774,
+      "best_match": "### Summary of the Supreme Court Opinion in Espinoza v. Montana Department of Revenue\n\n#### 1."
+    },
+    {
+      "sentence": "As such, the law must be subject to strict scrutiny review; that is, the government must show that its action advances \"'interests of the highest order\" and that the action is \"narrowly tailored in pursuit of those interests.\"",
+      "best_similarity": 0.36538490653038025,
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling."
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a concurring opinion in which Justice Neil Gorsuch joined, opining that the Court's interpretation of the Establishment Clause (not at issue in this case) hampers free exercise rights.",
+      "best_similarity": 0.43706271052360535,
+      "best_match": "The Court reversed the Montana Supreme Court's judgment and remanded the case for further proceedings, holding that the Free Exercise Clause barred the application of the no-aid provision and that the Montana Supreme Court had no authority to invalidate the program on that basis."
+    },
+    {
+      "sentence": "Justice Samuel Alito and Justice Gorsuch each filed their own separate concurrences.",
+      "best_similarity": 0.37924718856811523,
+      "best_match": "### Summary of the Supreme Court Opinion in Espinoza v. Montana Department of Revenue\n\n#### 1."
+    },
+    {
+      "sentence": "Justice Alito argued that original motivation should have no bearing on the present constitutionality of a provision of law, yet even without that consideration, the majority reached the correct conclusion in this case.",
+      "best_similarity": 0.44703561067581177,
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling."
+    },
+    {
+      "sentence": "Justice Stephen Breyer filed a dissenting opinion, in which Justice Elena Kagan joined in part.",
+      "best_similarity": 0.26161691546440125,
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling."
+    },
+    {
+      "sentence": "Justice Sonia Sotomayor filed a separate dissenting opinion, arguing that the Court in this case resolved a constitutional question not presented, thereby violating \"Article III principles older than the Religion Clause\" itself.",
+      "best_similarity": 0.49287620186805725,
+      "best_match": "The Court found that the provision imposed a penalty on the free exercise of religion and that the State's interest in greater separation of church and State than required by the Federal Constitution was not compelling."
+    }
+  ],
+  "total_gt_sentences": 23,
+  "covered_sentences": 15,
+  "coverage_percentage": 65.21739130434783,
+  "coverage_score": 0.6521739130434783,
+  "threshold": 0.5
+}

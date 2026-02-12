@@ -1,0 +1,221 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn 2012, the Township of Scott, Pennsylvania, passed an ordinance affecting private properties determined to be or contain cemeteries.",
+      "best_match": "In December 2012, the Township passed an ordinance requiring all cemeteries to be kept open and accessible to the public during daylight hours.",
+      "similarity": 0.64691561460495,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In relevant part, the ordinance required that \"all cemeteries within the Township \u2026 be kept open and accessible to the general public during daylight hours\" and that no owner could unreasonably restrict nor charge any fee to access the cemetery (the \"public-access provision\").",
+      "best_match": "In December 2012, the Township passed an ordinance requiring all cemeteries to be kept open and accessible to the public during daylight hours.",
+      "similarity": 0.8767687082290649,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, the ordinance permitted a Township officer to enter any property within the Township to determine whether there is a cemetery on the property, in order to enforce the public-access provision.",
+      "best_match": "In December 2012, the Township passed an ordinance requiring all cemeteries to be kept open and accessible to the public during daylight hours.",
+      "similarity": 0.6642760038375854,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Rose Mary Knick owns property in the Township of Scott, and in April 2013, a Township officer entered her property without an administrative warrant and identified certain stones as grave markers.",
+      "best_match": "Facts of the Case\n\nRose Mary Knick owns a 90-acre rural property in Scott Township, Pennsylvania, which includes a small family graveyard.",
+      "similarity": 0.7810384035110474,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The officer cited Knick as violating the ordinance.",
+      "best_match": "A Township officer notified Knick that she was violating this ordinance due to the presence of grave markers on her property.",
+      "similarity": 0.7408478260040283,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Knick disputes that a cemetery exists on her property and filed a lawsuit to challenge.",
+      "best_match": "Knick initiated legal proceedings in state court, seeking declaratory and injunctive relief, arguing that the ordinance constituted a taking of her property without just compensation.",
+      "similarity": 0.6678913235664368,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Knick challenged the ordinance on several grounds, two of which are most salient.",
+      "best_match": "Knick initiated legal proceedings in state court, seeking declaratory and injunctive relief, arguing that the ordinance constituted a taking of her property without just compensation.",
+      "similarity": 0.6781483888626099,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "First, she alleges that the ordinance authorizes unrestrained searches of private property in violation of the Fourth Amendment of the US Constitution.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that a government violates the Takings Clause of the Fifth Amendment when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under \u00a71983 at that time.",
+      "similarity": 0.45682647824287415,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Second, she argues that the ordinance takes private property without just compensation, in violation of the Fifth Amendment.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that a government violates the Takings Clause of the Fifth Amendment when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under \u00a71983 at that time.",
+      "similarity": 0.6551087498664856,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Notably, Knick did not initiate an \"inverse-condemnation proceeding\" against the Township, which is the local administrative process for challenging a taking by the government.",
+      "best_match": "However, she did not file an inverse condemnation action under state law to seek compensation.",
+      "similarity": 0.6156769394874573,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court dismissed all but two of Knick's claims with prejudice, and dismissed two of them (described above) without prejudice pending exhaustion of state-law remedies.",
+      "best_match": "The state court declined to rule on Knick's request for equitable relief, finding she could not demonstrate irreparable harm without an ongoing enforcement action.",
+      "similarity": 0.5906367897987366,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Knick appealed the dismissal of her claims to the Third Circuit.",
+      "best_match": "Knick initiated legal proceedings in state court, seeking declaratory and injunctive relief, arguing that the ordinance constituted a taking of her property without just compensation.",
+      "similarity": 0.6295313835144043,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Third Circuit affirmed the dismissal, finding that although the ordinance was constitutionally suspect, she lacks Article III standing because she failed to demonstrate an injury-in-fact and redressability as to her Fourth Amendment claim, and that her Fifth Amendment claims are not ripe until she has sought and been denied just compensation using state inverse-condemnation procedures as required in the US Supreme Court's 1985 decision in Williamson County Regional Planning Commission v. Hamilton Bank of Johnson City.",
+      "best_match": "The District Court dismissed her claim, relying on *Williamson County Regional Planning Comm\u2019n v. Hamilton Bank of Johnson City*, 473 U.S. 172 (1985), which held that property owners must first seek compensation through state law remedies before bringing a federal takings claim.",
+      "similarity": 0.6570401191711426,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "Legal Question(s)\n\nThe primary legal question before the Supreme Court was whether a property owner must first seek compensation through state inverse condemnation procedures before bringing a federal takings claim under 42 U.S.C.",
+      "similarity": 0.3570687174797058,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Should the Court affirm or abrogate its holding in Williamson County Regional Planning Commission v. Hamilton Bank, which requires property owners to exhaust state court remedies before bringing federal Takings Clause claims?",
+      "best_match": "The District Court dismissed her claim, relying on *Williamson County Regional Planning Comm\u2019n v. Hamilton Bank of Johnson City*, 473 U.S. 172 (1985), which held that property owners must first seek compensation through state law remedies before bringing a federal takings claim.",
+      "similarity": 0.7112248539924622,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Does the ripeness doctrine established in Williamson County apply to takings claims that assert that a law is unconstitutional on its face?",
+      "best_match": "The Court found the reasoning in *Williamson County* to be flawed, inconsistent with other takings jurisprudence, and unworkable in practice.",
+      "similarity": 0.6449697017669678,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nA government violates the Takings Clause when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under 42 U.S.C.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that a government violates the Takings Clause of the Fifth Amendment when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under \u00a71983 at that time.",
+      "similarity": 0.8975105285644531,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 1983 at that time; the state-litigation requirement set forth in Williamson County Regional Planning Comm'n v. Hamilton Bank of Johnson City, 473 U.S. 172 (1985), is overruled.",
+      "best_match": "The District Court dismissed her claim, relying on *Williamson County Regional Planning Comm\u2019n v. Hamilton Bank of Johnson City*, 473 U.S. 172 (1985), which held that property owners must first seek compensation through state law remedies before bringing a federal takings claim.",
+      "similarity": 0.7273591756820679,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts delivered the 5-4 majority opinion for the Court.",
+      "best_match": "Here is a summary of the Supreme Court's opinion in *Knick v. Township of Scott, Pennsylvania, et al.",
+      "similarity": 0.3600350022315979,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Court found that the state-litigation requirement in Williamson County \"imposes an unjustifiable burden on takings plaintiffs\" and \"conflicts with the rest of our takings jurisprudence.\"",
+      "best_match": "The Court **overruled** the state-litigation requirement established in *Williamson County*.",
+      "similarity": 0.7882793545722961,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Looking to the text of the Takings Clause, the Court found that the most natural reading of that provision is that the right of compensation arises at the time of the taking.",
+      "best_match": "The Court reasoned that the Fifth Amendment right to just compensation arises at the moment of the taking, regardless of any subsequent state remedies.",
+      "similarity": 0.6468157768249512,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Under Williamson County, the government did not need to compensate in advance or simultaneously with the taking, but only provide a \"reasonable, certain, and adequate\" mechanism for recovering such compensation after the fact.",
+      "best_match": "The *Williamson County* decision, by requiring property owners to first pursue state compensation remedies, created a \"Catch-22\" situation where a failed state claim would be precluded in federal court due to the Full Faith and Credit Statute, thus denying a federal forum for takings claims.",
+      "similarity": 0.6539759039878845,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "By forcing plaintiffs to seek compensation after the taking in state court before allowing them to proceed in federal court, Williamson County imposes an \"unjustifiable burden\" on these plaintiffs.",
+      "best_match": "The *Williamson County* decision, by requiring property owners to first pursue state compensation remedies, created a \"Catch-22\" situation where a failed state claim would be precluded in federal court due to the Full Faith and Credit Statute, thus denying a federal forum for takings claims.",
+      "similarity": 0.661987841129303,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, the Court expressed concern over the likelihood that a plaintiff would bring a state-court claim, lose, and therefore be precluded from bringing a claim in federal court at all.",
+      "best_match": "The *Williamson County* decision, by requiring property owners to first pursue state compensation remedies, created a \"Catch-22\" situation where a failed state claim would be precluded in federal court due to the Full Faith and Credit Statute, thus denying a federal forum for takings claims.",
+      "similarity": 0.5370081663131714,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas wrote a separate concurrence underscoring his opposition to the position advocated by the township, the United States (as amicus curiae), and the dissent, that there is no constitutional violation as long as there is a mechanism for receiving compensation later.",
+      "best_match": "Here is a summary of the Supreme Court's opinion in *Knick v. Township of Scott, Pennsylvania, et al.",
+      "similarity": 0.46717125177383423,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Elena Kagan dissented, joined by Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor.",
+      "best_match": "The United States Court of Appeals for the Third Circuit affirmed this decision.",
+      "similarity": 0.3080722689628601,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan argued that the Takings Clause is at its core (and in its text) different from other constitutional provisions in its qualifying phrase \"without just compensation.\"",
+      "best_match": "The Court reasoned that the Fifth Amendment right to just compensation arises at the moment of the taking, regardless of any subsequent state remedies.",
+      "similarity": 0.5914581418037415,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan argued that the Clause does not forbid all takings, only those without just compensation, and the majority disregards the text of the Clause in its interpretation requiring compensation at the time of taking.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that a government violates the Takings Clause of the Fifth Amendment when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under \u00a71983 at that time.",
+      "similarity": 0.5753831267356873,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan also dismissed the majority's concern over the preclusive effect of state-court litigation, arguing that Congress bears the burden of correcting errors that become evident from application of laws.",
+      "best_match": "The Court found the reasoning in *Williamson County* to be flawed, inconsistent with other takings jurisprudence, and unworkable in practice.",
+      "similarity": 0.5152521133422852,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Most importantly, the dissent noted, the majority departs from lost-established precedent and disregards the doctrine of stare decisis.",
+      "best_match": "The Court found the reasoning in *Williamson County* to be flawed, inconsistent with other takings jurisprudence, and unworkable in practice.",
+      "similarity": 0.36570706963539124,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "First, she alleges that the ordinance authorizes unrestrained searches of private property in violation of the Fourth Amendment of the US Constitution.",
+      "best_similarity": 0.45682647824287415,
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that a government violates the Takings Clause of the Fifth Amendment when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under \u00a71983 at that time."
+    },
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.3570687174797058,
+      "best_match": "Legal Question(s)\n\nThe primary legal question before the Supreme Court was whether a property owner must first seek compensation through state inverse condemnation procedures before bringing a federal takings claim under 42 U.S.C."
+    },
+    {
+      "sentence": "Chief Justice John Roberts delivered the 5-4 majority opinion for the Court.",
+      "best_similarity": 0.3600350022315979,
+      "best_match": "Here is a summary of the Supreme Court's opinion in *Knick v. Township of Scott, Pennsylvania, et al."
+    },
+    {
+      "sentence": "Justice Clarence Thomas wrote a separate concurrence underscoring his opposition to the position advocated by the township, the United States (as amicus curiae), and the dissent, that there is no constitutional violation as long as there is a mechanism for receiving compensation later.",
+      "best_similarity": 0.46717125177383423,
+      "best_match": "Here is a summary of the Supreme Court's opinion in *Knick v. Township of Scott, Pennsylvania, et al."
+    },
+    {
+      "sentence": "Justice Elena Kagan dissented, joined by Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor.",
+      "best_similarity": 0.3080722689628601,
+      "best_match": "The United States Court of Appeals for the Third Circuit affirmed this decision."
+    },
+    {
+      "sentence": "Most importantly, the dissent noted, the majority departs from lost-established precedent and disregards the doctrine of stare decisis.",
+      "best_similarity": 0.36570706963539124,
+      "best_match": "The Court found the reasoning in *Williamson County* to be flawed, inconsistent with other takings jurisprudence, and unworkable in practice."
+    }
+  ],
+  "total_gt_sentences": 30,
+  "covered_sentences": 24,
+  "coverage_percentage": 80.0,
+  "coverage_score": 0.8,
+  "threshold": 0.5
+}

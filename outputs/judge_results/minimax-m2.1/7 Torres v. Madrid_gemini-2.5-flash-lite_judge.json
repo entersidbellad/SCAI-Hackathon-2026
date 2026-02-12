@@ -1,0 +1,50 @@
+{
+  "factual_accuracy": 2,
+  "completeness": 2,
+  "factual_errors": [
+    {
+      "error_quote": "New Mexico State Police officers Janice Madrid and Richard Williamson arrived at an Albuquerque apartment complex to execute an arrest warrant.",
+      "issue": "The generated summary states officers were executing an arrest warrant, but the reference summary indicates officers were pursuing Torres for DUI and she endangered them while fleeing. The reference does not mention an arrest warrant.",
+      "correct_info": "The reference summary states officers were pursuing Torres while she was operating a vehicle under the influence of methamphetamine and endangered the two officers pursuing her."
+    },
+    {
+      "error_quote": "Believing the officers to be carjackers, Torres accelerated her vehicle to escape.",
+      "issue": "The generated summary claims Torres believed officers were carjackers, but this specific detail is not mentioned in the reference summary.",
+      "correct_info": "The reference summary does not include any information about Torres's subjective beliefs about the officers."
+    },
+    {
+      "error_quote": "The officers then fired their service pistols 13 times, striking Torres twice.",
+      "issue": "The generated summary provides specific details about 13 shots being fired, which is not contained in the reference summary.",
+      "correct_info": "The reference summary states only that one of the officers shot and injured her, without specifying the number of shots."
+    },
+    {
+      "error_quote": "eventually reaching a hospital 75 miles away",
+      "issue": "The generated summary provides a specific distance of 75 miles, which is not mentioned in the reference summary.",
+      "correct_info": "The reference summary does not mention the distance Torres traveled to reach the hospital."
+    },
+    {
+      "error_quote": "she was arrested the following day",
+      "issue": "The generated summary states Torres was arrested the following day at the hospital, but the reference summary does not include this detail.",
+      "correct_info": "The reference summary does not specify when or where Torres was arrested."
+    },
+    {
+      "error_quote": "Torres subsequently filed a lawsuit against Officers Madrid and Williamson under 42 U.S.C. \u00a7 1983",
+      "issue": "The generated summary mentions filing under 42 U.S.C. \u00a7 1983, but the reference summary does not specify the statutory basis for the lawsuit.",
+      "correct_info": "The reference summary states she filed a civil-rights complaint in federal court without specifying the statutory citation."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Torres was operating a vehicle under the influence of methamphetamine",
+    "Torres pleaded no contest to three crimes: aggravated fleeing from a law enforcement officer, assault on a police officer, and unlawfully taking a motor vehicle",
+    "The officers were entitled to qualified immunity because the court concluded they had not seized Torres at the time of the shooting",
+    "Chief Justice John Roberts authored the majority opinion",
+    "Justice Amy Coney Barrett took no part in the consideration or decision of the case",
+    "Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined",
+    "The dissent argued that 'neither the Constitution nor common sense' support the majority's definition of a seizure",
+    "The case involves the question of whether physical force must be successful to constitute a seizure"
+  ],
+  "overall_assessment": "The generated summary contains multiple factual inaccuracies including unverified details about an arrest warrant, Torres's beliefs about carjackers, specific shot count, and distance traveled. It also omits critical information about Torres's methamphetamine use, her criminal convictions, the qualified immunity issue, authorship of opinions, and Justice Barrett's non-participation. While the core holding is correct, the summary's accuracy and completeness are significantly compromised.",
+  "judge_score": 0.4
+}

@@ -1,0 +1,126 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\nAfter the 2020 census, Alabama created a redistricting plan for its seven seats in the U.S. House of Representatives.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "One of the districts in the plan is a majority-Black district.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Registered voters and several organizations challenged the map, arguing that the state had illegally packed Black voters into a single district while dividing other clusters of Black voters across multiple districts.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The challengers alleged that the map effectively minimizes the number of districts in which Black voters can elect their chosen candidates, in violation of Section 2 of the Voting Rights Act, which bans racial discrimination in voting policies.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "A three-judge district court agreed with the challengers that the map likely violated Section 2 of the VRA, granting a preliminary injunction that ordered the state to draw a new map.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Alabama asked the U.S. Supreme Court to freeze the district court\u2019s injunction, which the Court did by a 5-4 decision pending a merits decision.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.489013671875,
+        "neutral": 0.329345703125,
+        "entailment": 0.181640625
+      }
+    },
+    {
+      "sentence": "Question\nDoes Alabama\u2019s 2021 redistricting plan for its seven U.S. House seats violate Section 2 of the Voting Rights Act?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.5185546875,
+        "neutral": 0.28466796875,
+        "entailment": 0.1966552734375
+      }
+    },
+    {
+      "sentence": "Conclusion\nThe district court correctly applied binding Supreme Court precedent to conclude that Alabama\u2019s redistricting map likely violates Section 2 of the Voting Rights Act.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court\u2019s decision in Thornburg v. Gingles, 478 U.S. 30 (1986) sets out a three-part framework for evaluating claims brought under Section 2 of the Voting Rights Act.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "First, the plaintiffs must prove that the minority group is sufficiently large and geographically compact to constitute a majority in a reasonably configured district (measured by criteria such as contiguity and compactness).",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Second, the plaintiffs must show that the minority group is politically cohesive.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Third, the plaintiffs must show that under the totality of the circumstances, the political process is not \u201cequally open\u201d to minority voters.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The majority applied that three-part framework to the facts in the record and agreed with the district court that the plaintiffs were likely to succeed on their challenge.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The plaintiffs submitted maps demonstrating the traditional districting criteria, and the district court found \u201cno serious dispute\u201d that Black voters are politically cohesive or that the challenged districts\u2019 white majority consistently defeated Black voters\u2019 preferred candidates.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Brett Kavanaugh joined the majority opinion except for a discussion of the difference between race-consciousness and race-predominance.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "He concurred separately to emphasize and clarify four additional points.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Neil Gorsuch joined in full, and Justices Amy Coney Barrett and Samuel Alito joined in part.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.462646484375,
+        "neutral": 0.31396484375,
+        "entailment": 0.223388671875
+      }
+    },
+    {
+      "sentence": "Justice Thomas argued that Section 2 of the VRA does not require Alabama to redraw its congressional districts so that Black voters can control a number of seats proportional to Black voters in its population.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Alito authored a dissenting opinion in which Justice Gorsuch joined arguing that the majority\u2019s understanding of Gingles\u2014specifically its understanding of the phrase \u201creasonably configured\u201d within the context of the first precondition\u2014is flawed, and that a correct understanding would lead to a different result in this case.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.498046875,
+        "neutral": 0.41455078125,
+        "entailment": 0.08740234375
+      }
+    }
+  ],
+  "counts": {
+    "contradiction": 4
+  },
+  "total_sentences": 20,
+  "contradiction_rate": 0.2,
+  "nli_score": 0.8
+}

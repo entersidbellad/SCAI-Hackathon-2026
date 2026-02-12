@@ -1,0 +1,29 @@
+Here is a summary of the Supreme Court's opinion in *Espinoza et al. v. Montana Department of Revenue et al.*:
+
+### 1. Facts of the Case
+
+The Montana Legislature established a program offering tax credits to individuals who donate to organizations that, in turn, provide scholarships for private school tuition. To comply with a provision in the Montana Constitution (Article X, §6(1)) that prohibits government aid to schools controlled by religious entities, the Montana Department of Revenue enacted "Rule 1." This rule specifically prohibited families from using these scholarships at religious schools.
+
+Three mothers whose children attended Stillwater Christian School, a religious institution, were prevented by Rule 1 from using scholarship funds for their children's tuition. They filed a lawsuit in state court, arguing that Rule 1 discriminated against them based on their religious views and the religious nature of their chosen school.
+
+The trial court initially enjoined Rule 1. However, the Montana Supreme Court reversed this decision. The state Supreme Court held that the scholarship program, even without Rule 1, violated the Montana Constitution's no-aid provision by providing aid to religious schools. Consequently, the court invalidated the entire scholarship program. The case reached the U.S. Supreme Court to determine if the application of Montana's no-aid provision violated the Free Exercise Clause of the U.S. Constitution.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was:
+
+*   Does the Free Exercise Clause of the First Amendment to the U.S. Constitution prohibit a state from applying its constitutional no-aid provision to exclude religious schools from a generally available public benefit program (in this case, a tax-credit-funded scholarship program)?
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the application of Montana's no-aid provision discriminated against religious schools and the families whose children attend them, in violation of the Free Exercise Clause of the U.S. Constitution.
+
+The Court reasoned that the Free Exercise Clause protects individuals from unequal treatment and laws that impose special disabilities based on religious status. Citing *Trinity Lutheran Church of Columbia, Inc. v. Comer*, the Court stated that disqualifying otherwise eligible recipients from a public benefit "solely because of their religious character" triggers strict scrutiny. Montana's no-aid provision, as applied by the Montana Supreme Court, excluded religious schools from the scholarship program solely due to their religious status.
+
+The Court distinguished this case from *Locke v. Davey*, explaining that *Locke* involved a state's decision not to fund a specific "essentially religious endeavor" (training for the ministry), whereas Montana's provision barred aid to a religious school "simply because of what it is"—a religious school. The Court also found no comparable historical tradition supporting Montana's exclusion of religious schools from aid, unlike the tradition against funding clergy that was present in *Locke*.
+
+The Court rejected the Montana Supreme Court's reasoning that the state's interest in greater separation of church and state than required by the Federal Constitution could justify the infringement on free exercise. The Court also found unavailing the argument that the no-aid provision promoted religious freedom, as an infringement of First Amendment rights cannot be justified by a state's alternative view of religious liberty. Furthermore, the Court noted that the provision broadly burdened not only religious schools but also the families who chose them for their children's education.
+
+Finally, the Court concluded that because the Free Exercise Clause barred the application of the no-aid provision, the Montana Supreme Court erred in invalidating the entire scholarship program on that basis. The Court stated that the Montana Supreme Court should have disregarded the no-aid provision and decided the case in accordance with the Federal Constitution.
+
+The judgment of the Montana Supreme Court was reversed, and the case was remanded for further proceedings consistent with the U.S. Supreme Court's opinion. The precedent set is that states cannot exclude religious schools from generally available public benefit programs solely because of their religious status, as this violates the Free Exercise Clause.

@@ -1,0 +1,28 @@
+Here is a summary of the Supreme Court's opinion in *Google LLC v. Oracle America, Inc.*:
+
+### 1. Facts of the Case
+
+Oracle America, Inc. (Oracle) owned the copyright to Java SE, a computer platform utilizing the Java programming language. In 2005, Google acquired Android and sought to develop a new software platform for mobile devices. To facilitate adoption by the millions of programmers familiar with Java, Google copied approximately 11,500 lines of code from Java SE's Application Programming Interface (API). These copied lines were part of the "declaring code" within the API, which allows programmers to call prewritten computing tasks.
+
+This case has a lengthy history through the lower courts. Initially, the courts considered whether the copied lines were copyrightable and, if so, whether Google's use constituted "fair use." The Federal Circuit held that the copied lines were copyrightable. Subsequently, a jury found that Google's use was a fair use. However, the Federal Circuit reversed this finding, ruling as a matter of law that Google's copying was not fair use. The Supreme Court granted certiorari to review the Federal Circuit's determinations on both copyrightability and fair use.
+
+### 2. Legal Question(s)
+
+The Supreme Court addressed two primary legal questions:
+1.  Is the declaring code within the Java SE API copyrightable?
+2.  If the declaring code is copyrightable, did Google's copying of this code constitute a "fair use" under the Copyright Act, thereby excusing it from liability for copyright infringement?
+
+The Court explicitly stated that to resolve the case, it would *assume* for argument's sake that the copied lines were copyrightable and focus its analysis on the fair use question.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that Google's copying of the Java SE API, specifically the declaring code, was a fair use as a matter of law. The Court reversed the judgment of the Federal Circuit.
+
+The Court's reasoning centered on an analysis of the four statutory fair use factors:
+
+*   **Nature of the Copyrighted Work:** The Court found this factor weighed in favor of fair use. It noted that the declaring code, as part of a user interface, is "inextricably bound" with uncopyrightable ideas (task organization) and new creative expression (Google's implementing code). The value of this code also derives significantly from the investment of programmers who learn it, rather than solely from the copyright holder's creativity. This nature, the Court reasoned, places it further from the "core of copyright" than many other computer programs.
+*   **Purpose and Character of the Use:** The Court determined that Google's use was "transformative." Google copied only what was necessary to allow programmers familiar with Java to work in the new Android smartphone environment without having to learn an entirely new system. This facilitated the creation of a new platform (Android) for a different computing environment, which the Court viewed as consistent with copyright's constitutional objective to promote progress.
+*   **Amount and Substantiality of the Portion Used:** While Google copied a significant amount of declaring code (11,500 lines), the Court considered this in relation to the entire API (2.86 million lines), finding the copied portion to be a small percentage. More importantly, the Court reasoned that the copying was "tethered to a valid, and transformative, purpose." Google copied the declaring code not for its inherent creativity but because it was necessary to unlock programmers' existing skills for the new platform.
+*   **Effect of the Use Upon the Potential Market:** The Court found this factor also weighed in favor of fair use. The evidence suggested that Google's Android platform was not a market substitute for Java SE. Furthermore, the Court noted that Sun (Oracle's predecessor) had business challenges in the mobile market and that the reimplementation of its API might even benefit the broader Java ecosystem by expanding the network of Java-trained programmers. The Court also expressed concern that enforcing copyright on such interfaces could harm public creativity by creating a "lock" on future innovation.
+
+The Court concluded that, when applied to the functional nature of computer programs and the specific context of reimplementing a user interface to enable programmers to use their existing skills in a new and transformative program, Google's copying constituted fair use. The Court emphasized that its decision did not alter existing fair use precedent but rather applied those principles to the unique circumstances of computer software.

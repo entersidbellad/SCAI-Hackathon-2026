@@ -1,0 +1,34 @@
+{
+  "factual_accuracy": 3,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "The access was part of an FBI sting operation. Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "issue": "The generated summary incorrectly states Van Buren was charged and convicted under the CFAA, implying a single proceeding. The reference shows he was charged with BOTH honest-services wire fraud AND felony computer fraud, convicted on both counts, and the Sixth Circuit affirmed the computer fraud conviction before the Supreme Court review.",
+      "correct_info": "A federal grand jury charged Van Buren with one count of honest-services wire fraud AND one count of felony computer fraud. A jury convicted him on both counts. The U.S. Court of Appeals for the Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial, but found no deficiencies in the conviction for computer fraud and affirmed that conviction."
+    },
+    {
+      "error_quote": "The Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial. It found no deficiencies in the conviction for computer fraud and affirmed that conviction, citing Eleventh Circuit precedent holding that a person with authority to access a computer can be guilty of computer fraud if that person subsequently misuses the computer.",
+      "issue": "The generated summary incorrectly identifies the circuit court as the Sixth Circuit. The reference clearly states this was the Eleventh Circuit's ruling that was being reviewed, and the Sixth Circuit is mentioned only in passing as the circuit where Van Buren appealed (though this appears to be an error in the reference as well - Van Buren was from Georgia which is in the Eleventh Circuit).",
+      "correct_info": "The U.S. Court of Appeals for the Eleventh Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial. It found no deficiencies in the conviction for computer fraud and affirmed that conviction, citing Eleventh Circuit precedent."
+    },
+    {
+      "error_quote": "Van Buren searched the woman's information in a government database maintained by the Georgia Bureau of Investigation (GBI) and the FBI.",
+      "issue": "The generated summary says Van Buren searched for \"a woman's information\" but the reference specifies he searched for information about a license plate number associated with a woman Albo named.",
+      "correct_info": "Van Buren searched the woman's information in a government database maintained by the Georgia Bureau of Investigation (GBI) and the FBI. The reference states Albo asked Van Buren to look into whether a woman Albo named was an undercover officer, and Van Buren searched the woman's information."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The reference mentions that Van Buren asked Albo for a loan, falsely claiming he needed over $15,000 to settle his son's medical bills, and that Albo recorded this conversation",
+    "The reference includes the specific statutory definition from Section 1030(e)(6) defining 'exceeds authorized access'",
+    "The reference explains the two competing interpretations of 'entitled so to obtain' - Van Buren's vs the government's",
+    "The reference mentions that Congress removed the statute's reference to purpose, which supports Van Buren's reading",
+    "The reference notes that adopting the government's interpretation 'would attach criminal penalties to a breathtaking amount of commonplace computer activity'",
+    "The reference identifies the specific justices who joined the dissent (Thomas, Roberts, and Alito)",
+    "The reference includes the detail that Van Buren admitted to understanding the purpose of searching the database was to discover and reveal to Albo whether the woman was an undercover officer"
+  ],
+  "overall_assessment": "The generated summary captures the core holding and legal question accurately but contains notable factual errors including misidentifying the circuit court and oversimplifying the charges and procedural history. It also omits several important details such as the specific statutory language, the competing interpretations of the key phrase, the statutory history regarding purpose, and the composition of the dissent. The summary is moderately accurate but incomplete for a comprehensive understanding of the case.",
+  "judge_score": 0.6
+}

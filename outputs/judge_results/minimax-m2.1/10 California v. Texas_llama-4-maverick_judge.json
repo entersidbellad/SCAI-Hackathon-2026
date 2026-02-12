@@ -1,0 +1,22 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [],
+  "hedging_detected": true,
+  "hedging_examples": [
+    {
+      "summary_says": "The Supreme Court held that the plaintiffs do not have standing",
+      "reference_says": "The plaintiffs lack standing to challenge the Affordable Care Act's minimum essential coverage provision. Justice Stephen Breyer authored the 7-2 majority opinion of the Court.",
+      "issue": "The generated summary omits the specific vote count (7-2) and the author of the opinion (Justice Breyer), which are definitive details from the reference."
+    }
+  ],
+  "key_omissions": [
+    "Justice Breyer authored the 7-2 majority opinion",
+    "Justice Thomas's concurring opinion that praised Justice Alito's dissent in the 'epic Affordable Care Act trilogy'",
+    "Justice Samuel Alito's dissenting opinion joined by Justice Neil Gorsuch",
+    "Alito's argument that Texas and state plaintiffs have standing and that the mandate cannot be sustained under the taxing power because the 'tax' is now $0",
+    "The specific legal standard for standing: 'allege personal injury fairly traceable to the defendant's allegedly unlawful conduct and likely to be redressed by the requested relief'"
+  ],
+  "overall_assessment": "The generated summary is factually accurate and captures the core holding and reasoning regarding standing, but it is incomplete and softens the definitive language by omitting the 7-2 vote count, Justice Breyer as author, and all concurrences/dissents. It provides a solid but stripped-down version of the case.",
+  "judge_score": 0.7
+}

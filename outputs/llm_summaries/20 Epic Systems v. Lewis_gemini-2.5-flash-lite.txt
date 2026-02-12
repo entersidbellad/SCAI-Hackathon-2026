@@ -1,0 +1,25 @@
+Here is a summary of the Supreme Court's opinion in *Epic Systems Corp. v. Lewis*:
+
+## Summary of *Epic Systems Corp. v. Lewis*
+
+### 1. Facts of the Case
+
+This case consolidated three separate lawsuits brought by employees against their employers. In each instance, the employees had entered into employment contracts that included mandatory arbitration clauses requiring that any disputes be resolved through individualized arbitration proceedings. Despite these agreements, the employees sought to litigate claims related to wage and hour laws, specifically the Fair Labor Standards Act (FLSA) and related state laws, through class or collective actions in federal court. The employers moved to compel arbitration based on the agreements. The employees argued that these arbitration agreements, by mandating individualized proceedings and prohibiting class or collective actions, violated the National Labor Relations Act (NLRA) and therefore should not be enforced under the "saving clause" of the Federal Arbitration Act (FAA). The National Labor Relations Board (NLRB) had previously taken the position that the NLRA effectively nullified the FAA in such cases, a position that had been adopted by some lower courts. However, the Executive Branch, through the Solicitor General, presented a different view. The Supreme Court granted certiorari to resolve this conflict.
+
+### 2. Legal Question(s)
+
+The central legal question before the Supreme Court was whether employment contracts requiring individualized arbitration, thereby precluding employees from bringing class or collective actions, are enforceable under the Federal Arbitration Act, or if such agreements are rendered unlawful by the National Labor Relations Act.
+
+Specifically, the Court addressed:
+* Whether the "saving clause" of the Federal Arbitration Act, which allows for the revocation of arbitration agreements on grounds applicable to any contract, permits the refusal to enforce arbitration agreements that mandate individualized proceedings based on a claim that such provisions violate the National Labor Relations Act.
+* Whether the National Labor Relations Act, through its provisions protecting employees' rights to engage in "concerted activities for the purpose of collective bargaining or other mutual aid or protection," implicitly prohibits employers from requiring employees to waive their right to participate in class or collective actions in arbitration or litigation.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that Congress has instructed, through the Federal Arbitration Act, that arbitration agreements providing for individualized proceedings must be enforced as written. The Court ruled that neither the FAA's saving clause nor the NLRA provides a basis for invalidating these agreements.
+
+The Court reasoned that the FAA establishes a strong federal policy favoring arbitration and requires courts to enforce arbitration agreements according to their terms. The saving clause of the FAA allows for the revocation of arbitration agreements only on grounds that apply to contracts generally, such as fraud or unconscionability, and not on defenses that specifically target arbitration or interfere with its fundamental attributes. The Court found that prohibiting individualized arbitration proceedings, as the employees argued, directly interferes with a fundamental attribute of arbitration.
+
+Furthermore, the Court concluded that the NLRA does not conflict with the FAA. Section 7 of the NLRA protects employees' rights to organize and engage in collective bargaining and other concerted activities. However, the Court found no clear and manifest congressional intent within the NLRA to displace the FAA or to create a right to class or collective action procedures in litigation or arbitration. The Court noted that the NLRA was enacted before modern class action procedures were well-developed and that the phrase "other concerted activities" should be interpreted in context with the specific activities listed, which relate to unionization and collective bargaining, not procedural rights in court or arbitration. The Court also emphasized the strong presumption against implied repeals of statutes and the need to interpret statutes harmoniously. The Court found no basis to defer to the NLRB's interpretation, as the agency sought to interpret one statute in a way that limited the scope of another statute it did not administer, and the Executive Branch itself presented conflicting views.
+
+Therefore, the Court reversed the judgments in *Epic Systems Corp. v. Lewis* (No. 16–285) and *Ernst & Young LLP v. Morris* (No. 16–300), and affirmed the judgment in *National Labor Relations Board v. Murphy Oil USA, Inc.* (No. 16–307), holding that employment agreements requiring individualized arbitration are enforceable.

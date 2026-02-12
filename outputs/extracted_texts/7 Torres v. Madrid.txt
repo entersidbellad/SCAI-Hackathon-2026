@@ -1,0 +1,2656 @@
+  
+ 
+ 
+ 
+ 
+    
+       
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+1 (Slip Opinion) OCTOBER TERM, 2020 
+Syllabus 
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is 
+being done in connection with this case, at the time the opinion is issued. 
+The syllabus constitutes no part of the opinion of the Court but has been 
+prepared by the Reporter of Decisions for the convenience of the reader. 
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337. 
+SUPREME COURT OF THE UNITED STATES 
+Syllabus 
+TORRES v. MADRID ET AL. 
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR 
+THE TENTH CIRCUIT 
+No. 19–292. Argued October 14, 2020—Decided March 25, 2021 
+Respondents Janice Madrid and Richar d Williamson, officers with the
+New Mexico State Police, arrived at an Albuquerque apartment com-
+plex to execute an arrest warrant and approached petitioner Roxanne
+Torres, then standing near a Toyota FJ Cruiser.  The officers at -
+tempted to speak with her as she got into the driver’s seat.  Believing 
+the officers to be carjackers, Torres hit the gas to escape.  The officers 
+fired their service pistols 13 times to stop Torres, striking her twice. 
+Torres managed to escape and drove to a hospital 75 miles away, only
+to be airlifted back to a hospital in Albuquerque, where the police ar -
+rested her the next day.  Torres later sought damages from the officers 
+under 42 U. S. C. §1983.  She claime d that the officers used excessive 
+force against her and that the shooting constituted an unreasonable 
+seizure under the Fourth Amendment.  Affirming the District Court’s 
+grant of summary judgment to the officers, the Tenth Circuit held that 
+“a suspect’s continued flight after being shot by police negates a Fourth
+Amendment excessive-force claim.”  769 Fed. Appx. 654, 657.   
+Held: The application of physical force to the body of a person with intent 
+to restrain is a seizure even if th e person does not submit and is not 
+subdued.  Pp. 3–18. 
+(a) The Fourth Amendment protects “[t]he right of the people to be 
+secure in their persons, houses, papers, and effects, against unreason-
+able searches and seizures.”  This Court’s precedents have interpreted
+the term “seizure” by consulting the common law of arrest, the “quin-
+tessential” seizure of the person. Payton v. New York, 445 U. S. 573, 
+585; California v. Hodari D ., 499 U. S. 621, 624.  In Hodari D. , this 
+Court explained that the common la w considered the application of 
+physical force to the body of a person  with the intent to restrain to be 
+an arrest—not an attempted arrest—even  if the person does not yield. 
+
+   
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+     
+ 
+ 
+   
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+2 TORRES v. MADRID 
+Syllabus 
+Id., at 624–625.  A review of the pertinent English and American deci-
+sions confirms that the slightest touching was a constructive detention
+that would complete the arrest.  See, e.g., Genner v. Sparks, 6 Mod. 
+173, 87 Eng. Rep. 928.
+The analysis does not change because the officers used force from a
+distance to restrain Torres.  The required “corporal seising or touching
+the defendant’s body,” 3 W. Blackstone, Commentaries on the Laws of 
+England 288 (1768), can be as readily accomplished by a bullet as by 
+the end of a finger.  The focus of the Fourth Amendment is “the privacy 
+and security of individuals,” not the particular form of governmental 
+intrusion. Camara v. Municipal Court of City and County of San Fran-
+cisco, 387 U. S. 523, 528. 
+The application of force, standing  alone, does not satisfy the rule
+recognized in this decision.  A seiz ure requires the use of force with 
+intent to restrain, as opposed to force applied by accident or for some
+other purpose. County of Sacramento v. Lewis, 523 U. S. 833, 844.  The 
+appropriate inquiry is whether th e challenged conduct objectively
+manifests an intent to restrain.  Michigan v. Chesternut, 486 U. S. 567, 
+574. This test does not depend on either the subjective motivation of 
+the officer or the subjective percept ion of the suspect.  Finally, a sei-
+zure by force lasts only as long as  the application of force unless the 
+suspect submits. Hodari D., 499 U. S., at 625. Pp. 3–11.
+(b)  In place of the rule that the application of force completes an
+arrest, the officers would assess all seizures under one test: intentional 
+acquisition of control.  This alternative approach finds support in nei-
+ther the history of the Fourth Amendment nor this Court’s precedents. 
+Pp. 11–16. 
+(1) The officers attempt to recast the common law doctrine recog-
+nized in Hodari D . as a rule applicable only to civil arrests.  But the 
+common law did not define the arrest of a debtor any differently from 
+the arrest of a felon.  Treatises and courts discussing criminal arrests
+articulated a rule indist inguishable from the on e applied to civil ar-
+rests at common law.  Pp. 11–14.
+(2) The officers’ contrary test would limit seizures of a person to
+“an intentional acquisition of physical control.”  Brower v. County of 
+Inyo, 489 U. S. 593, 596.  While that test properly describes seizures 
+by control, seizures by force enjoy a separate common law pedigree 
+that gives rise to a separate rule.  A seizure by acquisition of control
+involves either voluntary submission to a show of authority or the ter-
+mination of freedom of movement. But as common law courts recog -
+nized, any such requirement of control would be difficult to apply to 
+seizures by force.  The officers’ test will often yield uncertainty about
+whether an officer succeeded in gain ing control over a suspect.  For 
+centuries, the rule recognized in this opinion has avoided such line-
+
+  
+ 
+ 
+ 
+  
+ 
+  
+    
+ 
+3 Cite as: 592 U. S. ____ (2021) 
+Syllabus 
+drawing problems.  Pp. 14–16. 
+(c) The officers seized Torres by shooting her with the intent to re-
+strain her movement.  This Court does not address the reasonableness 
+of the seizure, the damages caused by the seizure, or the officers’ enti-
+tlement to qualified immunity.  Pp. 17–18. 
+769 Fed. Appx. 654, vacated and remanded. 
+ROBERTS, C. J., delivered the opinion of the Court, in which B REYER, 
+SOTOMAYOR, KAGAN, and KAVANAUGH, JJ., joined. G ORSUCH, J., filed a 
+dissenting opinion, in which THOMAS and ALITO, JJ., joined.  BARRETT, J., 
+took no part in the consideration or decision of the case. 
+
+  
+ 
+ 
+   
+    
+ 
+  
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+_________________ 
+_________________ 
+1 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+NOTICE: This opinion is subject to formal revision before publication in the 
+preliminary print of the United States Reports. Readers are requested to 
+notify the Reporter of Decisions, Supreme Court of the United States, Wash -
+ington, D. C. 20543, of any typographical or other formal errors, in order that 
+corrections may be made before the preliminary print goes to press. 
+SUPREME COURT OF THE UNITED STATES 
+No. 19–292 
+ROXANNE TORRES, PETITIONER v. 
+JANICE MADRID, ET AL. 
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+APPEALS FOR THE TENTH CIRCUIT 
+[March 25, 2021]
+ CHIEF JUSTICE ROBERTS delivered the opinion of the 
+Court. 
+The Fourth Amendment prohibits unreasonable “sei-
+zures” to safeguard “[t]he right of the people to be secure in
+their persons.” Under our case s, an officer seizes a person
+when he uses force to apprehend her.  The question in this 
+case is whether a seizure occurs when an officer shoots 
+someone who temporarily eludes capture after the shooting. 
+The answer is yes: The application of physical force to the 
+body of a person with intent to restrain is a seizure, even if
+the force does not succeed in subduing the person. 
+I 
+At dawn on July 15, 2014, four New Mexico State Police
+officers arrived at an apartment complex in Albuquerque to 
+execute an arrest warrant for a woman accused of white col-
+lar crimes, but also “suspected of having been involved in
+drug trafficking, murder, and ot her violent crimes.”  App.
+to Pet. for Cert. 11a. What happened next is hotly con-
+tested. We recount the facts in the light most favorable to 
+petitioner Roxanne Torres because the court below granted 
+summary judgment to Officers Janice Madrid and Richard 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+2 TORRES v. MADRID 
+Opinion of the Court 
+Williamson, the two respondents here.  Tolan v. Cotton, 572 
+U. S. 650, 655–656 (2014) (per curiam).
+The officers observed Torres standing with another per-
+son near a Toyota FJ Cruiser in the parking lot of the com-
+plex. Officer Williamson concluded that neither Torres nor 
+her companion was the target of the warrant.  As the offic-
+ers approached the vehicle, the companion departed, and 
+Torres—at the time experiencing methamphetamine with-
+drawal—got into the driver’s seat.  The officers attempted
+to speak with her, but she did not notice their presence until 
+one of them tried to open the door of her car. 
+Although the officers wore tactical vests marked with po-
+lice identification, Torres saw only that they had guns.  She 
+thought the officers were carjackers trying to steal her car,
+and she hit the gas to escape them. Neither Officer Madrid 
+nor Officer Williamson, according to Torres, stood in the 
+path of the vehicle, but both fired their service pistols to
+stop her. All told, the two officers fired 13 shots at Torres, 
+striking her twice in the back and temporarily paralyzing
+her left arm. 
+Steering with her right arm,  Torres accelerated through
+the fusillade of bullets, exited the apartment complex, drove 
+a short distance, and stopped in a parking lot. After asking
+a bystander to report an attempted carjacking, Torres stole 
+a Kia Soul that happened to be idling nearby and drove 75
+miles to Grants, New Mexico.  The good news for Torres was
+that the hospital in Grants was able to airlift her to another 
+hospital where she could receive appropriate care.  The bad 
+news was that the hospital was back in Albuquerque, where
+the police arrested her the next day.  She pleaded no contest 
+to aggravated fleeing from a law enforcement officer, as -
+sault on a peace officer, and unlawfully taking a motor 
+vehicle. 
+Torres later sought damages from Officers Madrid and
+Williamson under 42 U. S. C. §1983, which provides a cause 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+3 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+of action for the deprivation of constitutional rights by per-
+sons acting under color of state law.  She claimed that the 
+officers applied excessive force, making the shooting an un-
+reasonable seizure under the Fourth Amendment.  The Dis-
+trict Court granted summary judgment to the officers, and
+the Court of Appeals for the Tenth Circuit affirmed on the 
+ground that “a suspect’s continued flight after being shot by 
+police negates a Fourth Amendment excessive-force claim.” 
+769 Fed. Appx. 654, 657 (2019).  The court relied on Circuit 
+precedent providing that “no seizure can occur unless there
+is physical touch or a show of authority,” and that “such
+physical touch (or force) must terminate the suspect’s move-
+ment” or otherwise give rise to physical control over the sus-
+pect. Brooks v. Gaenzle, 614 F. 3d 1213, 1223 (2010). 
+We granted certiorari. 589 U. S. ___ (2019). 
+II 
+The Fourth Amendment protects “[t]he right of the people 
+to be secure in their person s, houses, papers, and effects,
+against unreasonable searches and seizures.”  This case 
+concerns the “seizure” of a “person,” which can take the 
+form of “physical force” or a “show of authority” that “in
+some way restrain[s] the liberty” of the person. Terry v. 
+Ohio, 392 U. S. 1, 19, n. 16 (1968).  The question before us
+is whether the application of physical force is a seizure if 
+the force, despite hitting its target, fails to stop the person. 
+We largely covered this ground in California v. Hodari 
+D., 499 U. S. 621 (1991).  There we interpreted the term 
+“seizure” by consulting the common law of arrest, the “quin-
+tessential ‘seizure of the person’ under our Fourth Amend-
+ment jurisprudence.” Id., at 624.  As Justice Scalia ex -
+plained for himself and six other Members of the Court, the 
+common law treated “the mere grasping or application of
+physical force with lawful authority” as an arrest, “whether
+or not it succeeded in subduing the arrestee.”  Ibid.; see id., 
+at 625 (“merely touching” sufficient to constitute an arrest). 
+
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+4 TORRES v. MADRID 
+Opinion of the Court 
+Put another way, an officer’s application of physical force to
+the body of a person “‘for the purpose of arresting him’” was 
+itself an arrest—not an attempted arrest—even if the per-
+son did not yield. Id., at 624 (quoting Whithead v. Keyes, 85 
+Mass. 495, 501 (1862)). 
+The common law distinguished the application of force 
+from a show of authority, such as an order for a suspect to
+halt. The latter does not become an arrest unless and until 
+the arrestee complies with the demand.  As the Court ex-
+plained in Hodari D., “[a]n arrest requires either physical
+force . . . or, where that is absent, submission to the asser-
+tion of authority.” 499 U. S., at 626 (emphasis in original). 
+Hodari D. articulates two pertinent principles.  First, 
+common law arrests are Fourth Amendment seizures. And 
+second, the common law considered the application of force
+to the body of a person with in tent to restrain to be an ar-
+rest, no matter whether the arrestee escaped.  We need not 
+decide whether Hodari D. , which principally concerned a 
+show of authority, controls the outcome of this case as a
+matter of stare decisis, because we independently reach the 
+same conclusions. 
+At the adoption of the Fourth Amendment, a “seizure”
+was the “act of taking by warrant” or “of laying hold on sud-
+denly”—for example, when an “officer seizes a thief.”  2 N. 
+Webster, An American Dictionary of the English Language
+67 (1828) (Webster) (emphasis deleted). A seizure did not 
+necessarily result in actual control or detention. It is true 
+that, when speaking of property, “[f]rom the time of the 
+founding to the present, the word ‘seizure’ has meant a ‘tak-
+ing possession.’”  Hodari D. , 499 U. S., at 624 (quoting 2 
+Webster 67). But the Framers selected a term—seizure— 
+broad enough to apply to all the concerns of the Fourth 
+Amendment: “persons,” as well as “houses, papers, and ef-
+fects.” As applied to a person , “[t]he word ‘seizure’ readily
+bears the meaning of a laying on of hands or application of 
+
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+5 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+physical force to restrain movement, even when it is ulti-
+mately unsuccessful.” 499 U. S., at 626.  Then, as now, an 
+ordinary user of the English language could remark: “She
+seized the purse-snatcher, but he broke out of her grasp.” 
+Ibid. 
+The “seizure” of a “person” plainly refers to an arrest. 
+That linkage existed at the founding.  Samuel Johnson, for 
+example, defined an “arrest” as “[a]ny . . . seizure of the per-
+son.” 1 A Dictionary of the English Language 108 (4th ed. 
+1773). And that linkage persists today.  As we have repeat-
+edly recognized, “the arrest of a person is quintessentially 
+a seizure.” Payton v. New York , 445 U. S. 573, 585 (1980) 
+(internal quotation marks omitted); see Hodari D. , 499 
+U. S., at 624. 
+Because arrests are seizures of a person, Hodari D. 
+properly looked to the common law of arrest for “historical
+understandings ‘of what was deemed an unreasonable 
+search and seizure when the Fourth Amendment was 
+adopted.’”  Carpenter v. United States , 585 U. S. ___, ___ 
+(2018) (slip op., at 6) (quoting Carroll v. United States, 267 
+U. S. 132, 149 (1925); alteration omitted).  Sometimes the 
+historical record will not yield a well-settled legal rule.  See, 
+e.g., Atwater v. Lago Vista, 532 U. S. 318, 327–328 (2001); 
+Payton, 445 U. S., at 593–596.  We do not face that problem 
+here. The cases and commentary speak with virtual una-
+nimity on the question before us today. 
+The common law rule identified in Hodari D.—that the 
+application of force gives rise to an arrest, even if the officer
+does not secure control over the arrestee—achieved recog-
+nition to such an extent that English lawyers could confi-
+dently (and accurately) proclaim that “[a]ll the authorities,
+from the earliest time to the present, establish that a cor -
+poral touch is sufficient to constitute an arrest, even though 
+the defendant do not submit.”  Nicholl v. Darley, 2 Y. & J. 
+399, 400, 148 Eng. Rep. 974 (Exch. 1828) (citing Hodges v. 
+Marks, Cro. Jac. 485, 79 Eng. Rep. 414 (K. B. 1615)).  The 
+
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+6 TORRES v. MADRID 
+Opinion of the Court 
+slightest application of force could satisfy this rule.  In Gen-
+ner v. Sparks , 6 Mod. 173, 87 Eng. Rep. 928 (Q. B. 1704),
+the defendant did not submit to  the authority of an arrest 
+warrant, but the court explained that the bailiff would have 
+made an arrest if he “had but touched the defendant even 
+with the end of his finger.” Ibid., 87 Eng. Rep., at 929.  So 
+too, if a “bailiff caught on e by the hand (whom he had a 
+warrant to arrest) as he held it out of a window,” that alone 
+would accomplish an arrest.  Anonymus , 1 Vent. 306, 86 
+Eng. Rep. 197 (K. B. 1677).  The touching of the person—
+frequently called a laying of hands—was enough. See Dun-
+scomb v. Smith, Cro. Car. 164, 79 Eng. Rep. 743 (K. B. 
+1629). Only later did English law grow to recognize arrest
+without touching through a submission to a show of author-
+ity. See Horner v. Battyn, Bull. N. P. 62 (K. B. 1738), re-
+printed in W. Loyd, Cases on Civil Procedure 798 (1916).
+Even so, the traditional rule persisted that all an arrest re-
+quired was “corporal seising or touching the defendant’s 
+body.” 3 W. Blackstone, Commentaries on the Laws of Eng-
+land 288 (1768) (Blackstone).
+Early American courts adopted this mere-touch rule from
+England, just as they embraced other common law princi-
+ples of search and seizure.  See Wilson v. Arkansas , 514 
+U. S. 927, 933 (1995). Justice Baldwin, instructing a jury
+in his capacity as Circuit Justice, defined an arrest to in-
+clude “touching or putting hands upon [the arrestee] in the
+execution of process.” United States v. Benner, 24 F. Cas. 
+1084, 1086–1087 (No. 14,568) (CC ED Pa. 1830).  State 
+courts agreed that “any touching, however slight, is
+enough,” Butler v. Washburn, 25 N. H. 251, 258 (1852), pro-
+vided the officer made his intent to arrest clear, see Jones 
+v. Jones, 35 N. C. 448, 448–449 (1852).  Courts continued to 
+hold that an arrest required only the application of force—
+not control or custody—through the framing of the Four -
+teenth Amendment, which incorporated the protections of
+the Fourth Amendment against the States.  See Whithead, 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+85 Mass., at 501; Searls  v. Viets , 2 Thomp. & C. 224, 226 
+(N. Y. Sup. Ct. 1873); State v. Dennis, 16 Del. 433, 436–437, 
+43 A. 261, 262 (1895); see also H. Voorhees, The Law of Ar-
+rest in Civil and Criminal Actions §74, p. 44 (1904). 
+Stated simply, the cases “abundantly shew that the 
+slightest touch [was] an arrest in point of law.” Nicholl, 2 
+Y. & J., at 404, 148 Eng. Rep., at 976.  Indeed, it was not 
+even required that the officer have, at the time of such an 
+arrest, “the power of keeping the party so arrested under 
+restraint.” Sandon v. Jervis, El. Bl. & El. 935, 940, 120 Eng. 
+Rep. 758, 760 (Q. B. 1858).  The consequences would be 
+“pernicious,” an English judge worried, if the question of 
+control “were perpetually to be submitted to a jury.”  Ibid.; 
+cf. 3 Blackstone 120 (describing how “[t]he least touching of 
+another’s person” could satisfy the common law definition 
+of force to commit battery, “for the law cannot draw the line 
+between different degrees of violence”). 
+This case, of course, does not involve “laying hands,” 
+Sheriff v. Godfrey, 7 Mod. 288, 289, 87 Eng. Rep. 1247 (K. B.
+1739), but instead a shooting.  Neither the parties nor the 
+United States as amicus curiae suggests that the officers’ 
+use of bullets to restrain Torres alters the analysis in any 
+way. And we are aware of no common law authority ad -
+dressing an arrest under such circumstances, or indeed any 
+case involving an application of force from a distance.
+The closest decision seems to be Countess of Rutland’s 
+Case, 6 Co. Rep. 52b, 77 Eng. Rep. 332 (Star Chamber 
+1605). In that case, serjeants-at-mace tracked down Isabel 
+Holcroft, Countess of Rutland, to execute a writ for a judg-
+ment of debt. They “shewed her their mace, and touching
+her body with it, said to he r, we arrest you, madam.”  Id. , 
+at 54a, 77 Eng. Rep., at 336.  We think the case is best un-
+derstood as an example of an arrest made by touching with
+an object, for the serjeants-at-mace announced the arrest at
+the time they touched the countess with the mace.  See, e.g., 
+
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+8 TORRES v. MADRID 
+Opinion of the Court 
+Hodges, Cro. Jac., at 485, 79 Eng. Rep., at 414 (similar an -
+nouncement upon laying of hands).  Maybe the arrest could
+be viewed as a submission to a show of authority, because a
+mace served not only as a weapon but also as an insignia of 
+office. See Kelly, The Great Mace, and Other Corporation 
+Insignia of the Borough of Leicester, 3 Transactions of the
+Royal Hist. Soc. 295, 296–301 (1874).  But that view is dif -
+ficult to reconcile with the fa ct that English courts did not
+recognize arrest by submission to a show of authority until
+the following century.  See supra, at 6.* 
+However one reads Countess of Rutland , we see no basis 
+for drawing an artificial line between grasping with a hand 
+and other means of applying physical force to effect an ar-
+rest. The dissent (though not the officers) argues that the 
+common law limited arrests by force to the literal place-
+ment of hands on the suspect, because no court published 
+an opinion discussing a suspect who continued to flee after 
+being hit with a bullet or some other weapon.  See post, at 
+18–20 (opinion of G
+ORSUCH, J.). This objection calls to mind
+the unavailing defense of the person who “persistently de-
+nied that he had laid hands upon a priest, for he had only 
+cudgelled and kicked him.” 2 S. Pufendorf, De Jure Natu-
+rae et Gentium 795 (C. Oldfather & W. Oldfather transl.
+1934). The required “corporal seising or touching the de-
+fendant’s body” can be as readily accomplished by a bullet 
+as by the end of a finger. 3 Blackstone 288. 
+We will not carve out this greater intrusion on personal
+security from the mere-touch rule just because founding-
+—————— 
+*The arrest was not Isabel’s first brush with the law or money trou- 
+bles. A decade earlier, Elizabeth Char lton sued to recover for the estate 
+of her husband, the fourth Earl of Rutland, an assortment of jewels al-
+legedly taken by Isabel, the widow of the third Earl of Rutland.  Eliza -
+beth bested Isabel in the clash of the countesses, and Isabel was found 
+liable for 940 pounds, worth about $400,000 today. Elizabeth Countess 
+of Rutland v. Isabel Countess of Rutland, Cro. Eliz. 377, 78 Eng. Rep. 624 
+(C. P. 1595). 
+
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+9 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+era courts did not confront apprehension by firearm.  While 
+firearms have existed for a millennium and were certainly 
+familiar at the founding, we have observed that law en-
+forcement did not carry handguns until the latter half of the
+19th century, at which point “it bec[a]me possible to use 
+deadly force from a distance as a means of apprehension.” 
+Tennessee v. Garner, 471 U. S. 1, 14–15 (1985).  So it should 
+come as no surprise that neither we nor the dissent has lo-
+cated a common law case in which an officer used a gun to
+apprehend a suspect.  Cf. post, at 20 (discussing Dickenson 
+v. Watson, Jones, T. 205, 84 Eng. Rep. 1218, 1218–1219 
+(K. B. 1682), in which a tax collector accidentally dis-
+charged hailshot into a passerby’s eye).  But the focus of the 
+Fourth Amendment is “the privacy and security of individ-
+uals,” not the particular manner of “arbitrary invasion[] by
+governmental officials.” Camara v. Municipal Court of City 
+and County of San Francisco, 387 U. S. 523, 528 (1967).  As 
+noted, our precedent protects “that degree of privacy
+against government that existed when the Fourth Amend-
+ment was adopted,” Kyllo v. United States, 533 U. S. 27, 34 
+(2001)—a protection that extends to “[s]ubtler and more
+far-reaching means of invading privacy” adopted only later, 
+Olmstead v. United States, 277 U. S. 438, 473 (1928) 
+(Brandeis, J., dissenting). There is nothing subtle about a
+bullet, but the Fourth Amendment preserves personal se-
+curity with respect to methods of apprehension old and new.
+We stress, however, that the application of the common
+law rule does not transform every physical contact between 
+a government employee and a member of the public into a
+Fourth Amendment seizure. A seizure requires the use of 
+force with intent to restrain. Accidental force will not qual-
+ify. See County of Sacramento v. Lewis, 523 U. S. 833, 844 
+(1998). Nor will force intentionally applied for some other 
+purpose satisfy this rule. In this opinion, we consider only
+force used to apprehend. We do not accept the dissent’s in-
+vitation to opine on matters not presented here—pepper 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+10 TORRES v. MADRID 
+Opinion of the Court 
+spray, flash-bang grenades, lasers, and more.  Post, at 23. 
+Moreover, the appropriate inquiry is whether the chal-
+lenged conduct objectively  manifests an intent to restrain, 
+for we rarely probe the subje ctive motivations of police of-
+ficers in the Fourth Amendment context. See Nieves v. 
+Bartlett, 587 U. S. ___, ___ (2019) (slip op., at 10).  Only an
+objective test “allows the police to determine in advance 
+whether the conduct contemplated will implicate the
+Fourth Amendment.”  Michigan v. Chesternut , 486 U. S. 
+567, 574 (1988). While a mere touch can be enough for a 
+seizure, the amount of force remains pertinent in assessing 
+the objective intent to restrain.  A tap on the shoulder to get
+one’s attention will rarely exhibit such an intent.  See INS 
+v. Delgado, 466 U. S. 210, 220 (1984); Jones, 35 N. C., at 
+448–449. 
+Nor does the seizure depend on the subjective perceptions
+of the seized person.  Here, for example, Torres claims to
+have perceived the officers’ actions as an attempted carjack-
+ing. But the conduct of the officers—ordering Torres to stop 
+and then shooting to restrain her movement—satisfies the 
+objective test for a seizure, regardless whether Torres com-
+prehended the governmental character of their actions.
+The rule we announce today is narrow.  In addition to the 
+requirement of intent to restrain, a seizure by force—absent
+submission—lasts only as long as the application of force. 
+That is to say that the Fourth Amendment does not recog -
+nize any “continuing arrest during the period of fugitivity.” 
+Hodari D., 499 U. S., at 625.  The fleeting nature of some 
+seizures by force undoubtedly may inform what damages a
+civil plaintiff may recover, and what evidence a criminal de-
+fendant may exclude from trial. See, e.g. , Utah v. Strieff, 
+579 U. S. ___, ___ (2016) (slip op., at 4).  But brief seizures 
+are seizures all the same. 
+Applying these principles to the facts viewed in the light 
+most favorable to Torres, the officers’ shooting applied 
+
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+11 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+physical force to her body and objectively manifested an in-
+tent to restrain her from driving away. We therefore con-
+clude that the officers seized Torres for the instant that the 
+bullets struck her. 
+III 
+In place of the rule that the application of force completes
+an arrest even if the arrestee eludes custody, the officers 
+would introduce a single test for all types of seizures: inten-
+tional acquisition of control. This alternative rule is incon-
+sistent with the history of the Fourth Amendment and our 
+cases. 
+A 
+The officers and their amici stress that common law rules 
+are not automatically “elevated to constitutional proscrip-
+tions,” Hodari D., 499 U. S., at 626, n. 2, especially if they
+are “distorted almost beyond recognition when literally ap-
+plied,” Garner, 471 U. S., at 15. In their view, the common 
+law doctrine recognized in Hodari D. is just “a narrow legal
+rule intended to govern liability in civil cases involving 
+debtors.” Brief for National Association of Counties et al. 
+as Amici Curiae 12. The dissent presses the same argu-
+ment. See post, at 14–17. 
+But the common law did not define the arrest of a debtor 
+any differently from the arrest of a felon. Whether the ar-
+rest was authorized by a criminal indictment or a civil writ,
+“there must be a corporal seizing, or touching the defend -
+ant’s person; or, what is tantamount, a power of taking im-
+mediate possession of the body, and the party’s submission 
+thereto, and a declaration of the officer that he makes an 
+arrest.” 1 J. Backus, A Digest of Laws Relating to the Of-
+fices and Duties of Sheriff, Coroner and Constable 115–116 
+(1812). Treatises on the law governing criminal arrests 
+cited Genner v. Sparks, 6 Mod. 173, 87 Eng. Rep. 928—the 
+preeminent mere-touch case involving a debtor—for the 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+12 TORRES v. MADRID 
+Opinion of the Court 
+proposition that, “[i]n making the arrest, the constable or
+party making it should actually seize or touch the offender’s
+body, or otherwise restrain his liberty.”  1 R. Burn, The Jus-
+tice of the Peace 275 (28th ed. 1837).  When English courts 
+confronted arrests for criminal offenses, they too relied on 
+precedents concerning arrests for civil offenses. See 
+Bridgett v. Coyney, 1 Man. & Ryl. 1, 5–6 (K. B. 1827); Ar-
+rowsmith v. Le Mesurier, 2 Bos. & Pul. 211, 211–212, 127 
+Eng. Rep. 605, 606 (C. P. 1806).  American courts likewise 
+articulated a materially identical definition in criminal
+cases—that “[t]he arrest itself is the laying hands on the
+defendant,” State v. Townsend, 5 Del. 487, 488 (Ct. Gen.
+Sess. 1854), or that an arrest is “the taking, seizing, or de-
+taining of the person of another, either by touching him or 
+putting hands on him,” McAdams v. State, 30 Okla. Crim. 
+207, 210, 235 P. 241, 242 (1925). 
+This uniform definition also explains why an arrest by
+mere touch carried legal consequences in both the criminal 
+and civil contexts.  The point of an arrest was of course to 
+take custody of a person to secure his appearance at a pro-
+ceeding. But some arrests did not culminate in actual con-
+trol of the individual, let alone a trip to the gaol or compter.
+See Nicholl, 2 Y. & J., at 403–404, 148 Eng. Rep., at 975– 
+976. When an officer let an arrestee get away, the officer 
+risked becoming a defendant himself in an action for “es-
+cape.” See Perkins, The Law of Arrest, 25 Iowa L. Rev. 201, 
+204 (1940). The laying of hands constituted a taking cus-
+tody and would expose the officer to liability for the escape 
+of felons and debtors alike.  See 1 M. Hale, Pleas of the 
+Crown 590–591, 597, 603 (1736); 2 id., at 93 (no liability for
+escape “if the felon were not once in the hands of an officer”);
+see also Perkins, 25 Iowa L. Rev., at 206. 
+The tort of false imprisonment, which the dissent rightly
+acknowledges as the “‘closest analogy’ to an arrest without 
+probable cause,” post, at 12 (quoting Wallace v. Kato, 549 
+U. S. 384, 388–389 (2007)), reinforces the conclusion that 
+
+   
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+13 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+the common law considered touching to be a seizure.  Stated 
+generally, false imprisonment required “confinement,” such 
+as “taking a person into custody under an asserted legal au-
+thority.” Restatement of Torts §§35, 41 (1934); see 3 Black-
+stone 127. But that element of confinement demanded no 
+more than that the defendant “had for one moment taken 
+possession of the plaintiff ’s person”—including, “for exam-
+ple, if he had tapped her on the shoulder, and said, ‘You are 
+my prisoner.’” Simpson v. Hill, 1 Esp. 431, 431–432, 170
+Eng. Rep. 409 (N. P. 1795); see Restatement of Torts §41, 
+Comment h (noting that “the touching alone of the person 
+against whom [legal authority] was asserted would be suf-
+ficient to constitute” confinement by arrest when the au-
+thority was valid).  While the dissent emphasizes that “the
+court [in Simpson] proceeded to reject  the plaintiff ’s claim 
+for false imprisonment,” post, at 13, that was only because 
+“the constable never touched the plaintiff, or took her into
+custody.” 1 Esp., at 431, 170 Eng. Rep., at 409. 
+To be sure, the mere-touch rule was particularly well doc-
+umented in cases involving the execution of civil process.
+An officer pursuing a debtor  could not forcibly enter the 
+debtor’s home unless the debtor had escaped arrest, such as 
+by fleeing after being touched. See Semayne’s Case, 5 Co. 
+Rep. 91a, 91b, 77 Eng. Rep. 194, 196 (K. B. 1604); see also 
+Miller v. United States, 357 U. S. 301, 307 (1958).  Officers 
+seeking to execute criminal process, on the other hand, pos-
+sessed greater pre-arrest authority to enter a felon’s home.
+See Payton, 445 U. S., at 598.  But the fact that the common 
+law rules of arrest generated more litigation in the civil con-
+text proves only that credito rs had ready recourse to the 
+courts to pursue escape action s for unsatisfactory arrests.
+There is no reason to suspect that English jurists silently
+adopted a special definition of arrest only for debt collec-
+tion—indeed, they told us just the opposite.  See supra, at 
+12. Nothing specific to debt collection elevated escape from 
+arrest into a justification for entry of the home.  Whenever 
+
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 TORRES v. MADRID 
+Opinion of the Court 
+a person was “lawfully arrested for any  Cause and after-
+wards escape[d], and shelter[ed] himself in a House,” the 
+officer could break open the doors of the house.  2 W. Haw-
+kins, Pleas of the Crown 87 (1721) (emphasis added). 
+In any event, the officers and the dissent misapprehend 
+the history of the Fourth Amendment by minimizing the
+role of practices in civil cases.  “[A]rrests in civil suits were
+still common in America” at the founding. Long v. Ansell, 
+293 U. S. 76, 83 (1934).  And questions regarding the legal-
+ity of an arrest “typically arose in civil damages actions for
+trespass or false arrest.” Payton, 445 U. S., at 592.  Accord-
+ingly, this Court has not hesitated to rely on such decisions
+when interpreting the Fourth Amendment.  See, e.g., 
+United States v. Jones, 565 U. S. 400, 404–405 (2012); Boyd 
+v. United States, 116 U. S. 616, 626 (1886).  We see no rea-
+son to break with our settled approach in this case. 
+B 
+The officers and the dissent derive from our cases a dif-
+ferent touchstone for the seizure of a person: “an intentional
+acquisition of physical control.”  Brower v. County of Inyo, 
+489 U. S. 593, 596 (1989).  Under their alternative rule, the 
+use of force becomes a seizure “only when there is a govern-
+mental termination of freedom of movement through means
+intentionally applied.”  Id., at 597 (emphasis deleted); see 
+Brief for Respondents 12–15; post, at 6–7. 
+This approach improperly erases the distinction between
+seizures by control and seizures by force. In all fairness, we 
+too have not always been attentive to this distinction when
+a case did not implicate the issue. See, e.g., Brendlin v. Cal-
+ifornia, 551 U. S. 249, 254 (2007).  But each type of seizure
+enjoys a separate common law pedigree that gives rise to a 
+separate rule. See Hodari D., 499 U. S., at 624–625; A. Cor-
+nelius, The Law of Search and Seizure §47, pp. 163–164 (2d 
+ed. 1930) (contrasting actual control with “constructive de-
+tention” by touching). 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+15 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+Unlike a seizure by force, a seizure by acquisition of con-
+trol involves either voluntary submission to a show of au-
+thority or the termination of freedom of movement.  A prime
+example of the latter comes from Brower, where the police 
+seized a driver when he crashed into their roadblock.  489 
+U. S., at 598–599; see also, e.g., Scott v. Harris , 550 U. S. 
+372, 385 (2007) (ramming car off road); Williams v. Jones, 
+Cas. t. Hard. 299, 301, 95 Eng. Rep. 193, 194 (K. B. 1736)
+(locking person in room).  Under the common law rules of 
+arrest, actual control is a necessary element for this type of
+seizure. See Wilgus, Arrest Without a Warrant, 22 Mich.
+L. Rev. 541, 553 (1924).  Such a seizure requires that “a per-
+son be stopped by the very instrumentality set in motion or
+put in place in order to achieve that result.” Brower, 489 
+U. S., at 599.  But that requirement of control or submission
+never extended to seizures by force. See, e.g. , Sandon, El. 
+Bl. & El., at 940–941, 120 Eng. Rep., at 760. 
+As common law courts recognized, any such requirement 
+of control would be difficult to  apply in cases involving the 
+application of force. See supra, at 7. At the most basic level, 
+it will often be unclear when an officer succeeds in gaining 
+control over a struggling suspect. Courts will puzzle over 
+whether an officer exercises control when he grabs a sus -
+pect, when he tackles him, or only when he slaps on the
+cuffs. Neither the officers nor the dissent explains how long
+the control must be maintained—only for a moment, into
+the squad car, or all the way to the station house.  To cite 
+another example, counsel for the officers speculated that 
+the shooting would have been a seizure if Torres stopped 
+“maybe 50 feet” or “half a block” from the scene of the shoot-
+ing to allow the officers to prom ptly acquire control.  Tr. of 
+Oral Arg. 45.  None of this squares with our recognition that 
+“‘[a] seizure is a single act, and not a continuous fact.’”  Ho-
+dari D., 499 U. S., at 625 (quoting Thompson v. Whitman, 
+18 Wall. 457, 471 (1874)).  For centuries, the common law 
+
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+16 TORRES v. MADRID 
+Opinion of the Court 
+rule has avoided such line-drawing problems by clearly fix-
+ing the moment of the seizure. 
+IV 
+The dissent sees things differently. It insists that the 
+term “seizure” has always entailed a taking of possession, 
+whether the officer is seizing a person, a ship, or a promis -
+sory note. See post, at 6–7. But the facts of the cases and 
+the language of the opinions confirm that the concept of pos-
+session included the “constructive detention” of persons
+“never actually brought within the physical control of the 
+party making an arrest.”  Wilgus, 22 Mich. L. Rev., at 556 
+(emphasis deleted); see, e.g., Nicholl, 2 Y. & J., at 404, 148 
+Eng. Rep., at 976 (explaining that the “slightest touch” can 
+constitute “custody”); Anonymus, 1 Vent., at 306, 86 Eng.
+Rep., at 197 (describing a touch as a “taking” of a person).
+Even the dissent acknowledges that a touch can establish a
+form of constructive possession.  See post, at 20. 
+The dissent says that “common law courts never contem-
+plated” that the touching itself could effect a seizure.  Post, 
+at 18. But one need only look at the many decisions adopt-
+ing that definition of arrest. See supra, at 5–8, 12–13.  The 
+dissent can offer no case expr essing doubt about the rule 
+that the touching constitutes an arrest, much less refusing 
+to apply that rule in any context—felon or debtor.  And we 
+have, as noted, definitively stated that “the arrest of a per-
+son is quintessentially a seizure.”  Payton, 445 U. S., at 585 
+(internal quotation marks omitted). The dissent’s attempt 
+to ignore arrests it appraises as “unfortunate” or “peculiar,” 
+post, at 15, 16, pays insufficient regard to the complete his-
+tory underlying the Fourth Amendment. 
+The dissent argues that we advance a “schizophrenic
+reading of the word ‘seizure.’”  Post, at 7. But our cases 
+demonstrate the unremarkable proposition that the nature
+of a seizure can depend on the nature of the object being
+seized. It is not surprising that the concept of constructive 
+
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+17 Cite as: 592 U. S. ____ (2021) 
+Opinion of the Court 
+detention or the mere-touch rule developed in the context 
+of seizures of a person—capable of fleeing and with an in-
+terest in doing so—rather than seizures of “houses, papers,
+and effects.” 
+The dissent also criticizes us for “posit[ing] penumbras”
+of “privacy” and “personal security” in our analysis of the 
+Fourth Amendment. Post, at 24. But the text of the Fourth 
+Amendment expressly guarantees the “right of the people 
+to be secure  in their persons ,” and our earliest precedents 
+recognized privacy as the “essence” of the Amendment—not 
+some penumbral emanation. Boyd, 116 U. S., at 630. We 
+have relied on that understanding in construing the mean-
+ing of the Amendment. See, e.g., Riley v. California, 573 
+U. S. 373, 403 (2014).
+The dissent speculates that the real reason for today’s de-
+cision is an “impulse” to provide relief to Torres, post, at 23, 
+or maybe a desire “to make life easier for ourselves,” post, 
+at 22.  It may even be, says the dissent, that the Court “at 
+least hopes to be seen as trying” to achieve particular goals. 
+Post, at 25. There is no call for such surmise.  At the end of 
+the day we simply agree with the analysis of the common
+law of arrest and its relation to the Fourth Amendment set 
+forth thirty years ago by Justice Scalia, joined by six of his
+colleagues, rather than the competing view urged by the
+dissent today. 
+* * * 
+We hold that the application of physical force to the body 
+of a person with intent to res train is a seizure even if the 
+person does not submit and is not subdued.  Of course, a 
+seizure is just the first step in the analysis. The Fourth 
+Amendment does not forbid all or even most seizures—only 
+unreasonable ones.  All we decide today is that the officers 
+seized Torres by shooting her with intent to restrain her 
+movement. We leave open on remand any questions re-
+garding the reasonableness of the seizure, the damages 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+18 TORRES v. MADRID 
+Opinion of the Court 
+caused by the seizure, and the officers’ entitlement to qual-
+ified immunity. 
+The judgment of the Court of Appeals is vacated, and the
+case is remanded for further proceedings consistent with
+this opinion. 
+It is so ordered.
+ J
+USTICE BARRETT took no part in the consideration or de-
+cision of this case. 
+
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________ 
+_________________ 
+1 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+SUPREME COURT OF THE UNITED STATES 
+No. 19–292 
+ROXANNE TORRES, PETITIONER v. 
+JANICE MADRID, ET AL. 
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+APPEALS FOR THE TENTH CIRCUIT 
+[March 25, 2021]
+ JUSTICE GORSUCH, with whom J USTICE THOMAS and 
+JUSTICE ALITO join, dissenting. 
+The majority holds that a criminal suspect can be simul-
+taneously seized and roaming at large.  On the majority’s
+account, a Fourth Amendment “seizure” takes place when-
+ever an officer “merely touches” a suspect. It’s a seizure 
+even if the suspect refuses to stop, evades capture, and rides 
+off into the sunset never to be seen again.  That view is as 
+mistaken as it is novel. 
+Until today, a Fourth Amendment “seizure” has required
+taking possession of someone or something. To reach its 
+contrary judgment, the majority must conflate a seizure
+with its attempt and confuse an arrest with a battery.  In 
+the process, too, the majority must disregard the Constitu -
+tion’s original and ordinary meaning, dispense with our
+conventional interpretive rules, and bypass the main cur-
+rents of the common law.  Unable to rely on any of these
+traditional sources of authority, the majority is left to lean
+on (really, repurpose) an abusive and long-abandoned Eng-
+lish debt-collection practice. But there is a reason why, in
+two centuries filled with litigation over the Fourth Amend-
+ment’s meaning, this Court has never before adopted the 
+majority’s definition of a “seizure.”  Neither the Constitu-
+tion nor common sense can sustain it. 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+I 
+A 
+This case began when two Albuquerque police officers ap-
+proached Roxanne Torres on foot.  The officers thought
+Ms. Torres was the subject of an arrest warrant and sus-
+pected of involvement in murder and drug trafficking.  As 
+it turned out, they had the wrong person; Ms. Torres was 
+the subject of a different  arrest warrant. As she saw the 
+officers walk toward her, Ms . Torres responded by getting
+into her car and hitting the gas. At the time, Ms. Torres 
+admits, she was “tripping out bad” on methamphetamine.
+Fearing the oncoming car was about to hit them, the officers 
+fired their duty weapons, and two bullets struck Ms. Torres 
+while others hit her car. 
+None of that stopped Ms. Torres.  She continued driv-
+ing—over a curb, across some landscaping, and into a 
+street, eventually colliding with another vehicle. Abandon-
+ing her car, she promptly stole a different one parked 
+nearby. Ms. Torres then drove over 75 miles to another city. 
+When she eventually sought medical treatment, doctors de-
+cided she needed to be airlifted back to Albuquerque for 
+more intensive care. Only at that point, a day after her en-
+counter with the officers, was Ms. Torres finally identified
+and arrested.  Ultimately, she pleaded no contest to assault 
+on a police officer, aggravated fleeing from an officer, and 
+the unlawful taking of a motor vehicle.
+More than two years later, Ms. Torres sued the officers 
+for damages in federal court under 42 U. S. C. §1983.  She 
+alleged that they had violated the Fourth Amendment by 
+unreasonably “seizing” her. After discovery, the officers 
+moved for summary judgment.  The district court granted
+the motion, and the court of appeals affirmed. Individuals 
+like Ms. Torres are free to sue officers under New Mexico 
+state law for assault or battery. They may also sue officers
+under the Fourteenth Amendment for conduct that “shocks 
+the conscience.” But under longstanding circuit precedent, 
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+3 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+the courts explained, a Fourth Amendment “seizure” occurs
+only when the government obtains “physical control” over a
+person or object.  Because Ms. Torres “managed to elude the 
+police for at least a full day after being shot,” the courts rea-
+soned, the officers’ bullets had not “seized” her; any seizure
+took place only when she was finally arrested back in Albu-
+querque the following day.  Torres v. Madrid, 769 Fed. 
+Appx. 654, 657 (CA10 2019). 
+B 
+Now before us, Ms. Torres ar gues that this Court’s deci-
+sion in California v. Hodari D., 499 U. S. 621 (1991), “com-
+pel[s] reversal.” Brief for Petitioner 25.  As she reads it, 
+Hodari D. held that a Fourth Amendment seizure takes 
+place whenever an officer shoots or even “mere[ly]
+touch[es]” an individual with the intent to restrain.  Brief 
+for Petitioner 15. 
+Whatever one thinks of Ms. Torres’s argument, one thing 
+is certain: Hodari D. has generated considerable confusion.
+There, officers chased a suspect on foot.  499 U. S., at 623. 
+Later, the suspect argued that he was “seized” for purposes
+of the Fourth Amendment the moment the chase began. 
+See id., at 625.  Though he fled, the suspect argued, a “rea-
+sonable person” would not have felt at liberty given the of-
+ficers’ “show of authority,” so a Fourth Amendment seizure 
+had occurred.  Id., at 627–628. 
+The Court rejected this argument. In doing so, it ex-
+plained that, “[f]rom the time of the founding to the present, 
+the word ‘seizure’ has meant a ‘taking possession.’”  Id., at 
+624. Because the defendant did not submit to the officers’ 
+show of authority, the Court reasoned, the officers’ conduct 
+amounted at most to an attempted seizure.  See id., at 626, 
+and n. 2.  And “neither usage nor common-law tradition 
+makes an attempted seizure a seizure.”  Ibid. 
+At the same time, and as Ms. Torres emphasizes, the 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+  
+ 
+ 
+ 
+  
+ 
+4 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+Court didn’t end its discussion there.  It proceeded to imag-
+ine a different and hypothetical case, one in which the offic-
+ers not only chased the suspect but also “appl[ied] physical
+force” to him. In these circumstances, the Court suggested, 
+“merely touching” a suspect, even when officers fail to gain
+possession, might qualify as a seizure.  Id., at 624–625. 
+Unsurprisingly, these dueling passages in Hodari D. led 
+to a circuit split.  For the first time, some lower courts began
+holding that a “mere touch” constitutes a Fourth Amend-
+ment “seizure.” Others, howe ver, continued to adhere to 
+the view, taken “[f]rom the time of the founding to the pre-
+sent,” that the word “seizure ” means “taking possession.” 
+Id., at 624 (internal quotation marks omitted). We took this 
+case to sort out the confusion. 
+II 
+As an initial matter, Ms. Torres is mistaken that Hodari 
+D.’s discussion of “mere touch” seizures compels a ruling in
+her favor. Under the doctrine of stare decisis , we normally
+afford prior holdings of this Court considerable respect.
+But, in the course of issuing their holdings, judges some-
+times include a “witty opening paragraph, the background
+information on how the law developed,” or “digressions
+speculating on how similar hypothetical cases might be re -
+solved.” B. Garner et al., The Law of Judicial Precedent 44 
+(2016). Such asides are dicta.  The label is hardly an epi-
+thet: “Dicta may afford litigants the benefit of a fuller un-
+derstanding of the court’s decisional path or related areas 
+of concern.” Id., at 65. Dicta can also “be a source of advice 
+to successors.” Ibid.  But whatever utility it may have, dicta 
+cannot bind future courts. 
+This ancient rule serves important purposes.  A passage
+unnecessary to the outcome may not be fully considered. 
+Parties with little at stake in a hypothetical question may 
+afford it little or no adversarial testing. And, of course, fed-
+eral courts possess no authority to issue rulings beyond the 
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+   
+ 
+  
+ 
+5 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+cases and controversies before them.  If the respect we af-
+ford past holdings under the doctrine of stare decisis may 
+be justified in part as an act of judicial humility, respecting
+that doctrine’s limits must be too.  Fewer things could be
+less humble than insisting our every passing surmise con -
+stitutes a rule forever binding a Nation of over 300 million
+people.  No judge can see around every corner, predict the
+future, or fairly resolve matters not at issue.  See, e.g., Co-
+hens v. Virginia, 6 Wheat. 264, 399–400 (1821); Central Va. 
+Community College v. Katz, 546 U. S. 356, 363 (2006).
+On any account, the passage in Hodari D.  Ms. Torres 
+seeks to invoke was dicta. The only question presented in
+that case was whether officers seize a defendant by a show 
+of authority without touching him. The Court answered 
+that question in the negative. The separate question
+whether a “mere touch” also qualifies as a seizure was not
+presented by facts of the case.  No party briefed the issue. 
+And the opinion offered the matter only shallow considera-
+tion, resting on just three sources: A state court opinion 
+from the 1860s, a “comment” in the 1934 Restatement of 
+Torts, and a 1930s legal treatise.  See 499 U. S., at 624–625. 
+Already some lower courts, including those below, have
+recognized that Hodari D. ’s aside does not constitute a 
+binding holding. See Brooks v. Gaenzle, 614 F. 3d 1213, 
+1220–1221 (CA10 2010); Henson v. United States, 55 A. 3d 
+859, 864–865 (D. C. 2012).  Today’s majority seems to ac -
+cept the point too. It acknowledges that Hodari D.  “princi-
+pally concerned a show of authority.” Ante, at 4. And it 
+says it intends to rule for Ms. Torres “independently” of Ho-
+dari D. Ante, at 4. 
+III 
+Seeking to carry that burden, the majority picks up where 
+Hodari D.’s dicta left off.  It contends that an officer “seizes” 
+a person by merely touching  him with an “intent to re-
+strain.” Ante, at 9. We are told that a touch is a seizure 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+6 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+even if the suspect never stops or slows down; it’s a seizure
+even if he evades capture.  In all the years before Hodari 
+D.’s dicta, this conclusion would have sounded more than a 
+little improbable to most lawy ers and judges—as it should 
+still today. A mere touch may be a battery.  It may even be 
+part of an attempted seizure.  But the Fourth Amendment’s 
+text, its history, and our precedent all confirm that “seizing” 
+something doesn’t mean touching it; it means taking pos-
+session. 
+A 
+Start with the text. The Fourth Amendment guarantees 
+that “[t]he right of the people to be secure in their persons,
+houses, papers, and effects, against unreasonable searches
+and seizures, shall not be violated.”  As at least part of Ho-
+dari D. recognized, “[f]rom the time of the founding to the 
+present,” the key term here—“seizure”—has always meant
+“‘taking possession.’”  499 U. S., at 624. 
+Countless contemporary dictionaries define a “seizure” or 
+the act of “seizing” in terms of possession.
+1  T h i s  C o u r t ’ s 
+early cases reflect the same understanding.  Just sixteen 
+—————— 
+1 N. Bailey, Universal Etymological English Dictionary (22 ed. 1770)
+(To seize is “to take into Custody or Possession by Force, or wrongfully;
+to distrain, to attack, to lay hold of, or catch”; a seizure is a “seizing, tak-
+ing into Custody”); T. Dyche & W. Pardon, A New General English Dic-
+tionary (14th ed. 1771) (To seize is “to lay or take hold of violently or at 
+unawares, wrongfully, or by force”; a seizing or seizure is “a taking pos-
+session of any thing by violent, force, &c”); 2 S. Johnson, A Dictionary of 
+the English Language (6th ed. 1785) (T o seize is “1. To take hold of; to 
+gripe; to grasp.” “2. To take possession of by force.” “3. To take possession
+of; to lay hold on; to invade suddenly.” “4. To take forcible possession of 
+by law.” “5. To make possessed; to put in possession of.” A seizure is “1. 
+The act of seizing.” “2. The thing seiz ed.” “3. The act of taking forcible
+possession.” “4. Gripe; possession.” “5. Catch”); 2 J. Ash, The New and 
+Complete Dictionary of the English Language (2d ed. 1795) (To seize is
+“[t]o grasp, to lay hold on, to fasten on, to take possession of, to take pos-
+session by law”; a seizure is “[t]he act of seizing, a gripe, a catch; the act
+of taking possession by force of law; the thing seized, the thing pos-
+sessed”). 
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+7 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+years after the Fourth Amendment’s adoption, Congress 
+passed a statute regulating the “seizure” of ships.  See The 
+Josefa Segunda, 10 Wheat. 312, 322 (1825). This Court in -
+terpreted the term to require  “an open, visible possession 
+claimed,” so that those previously possessing the ship “un-
+derstand that they are dispossessed, and that they are no
+longer at liberty to exercise any dominion on board of the 
+ship.” Id., at 325. Nor did the Court’s view change over 
+time. In Pelham v. Rose, 9 Wall. 103, 106 (1870), the Court
+likewise explained that “[t]o effect [a] seizure” of something, 
+one needed “to take” the thing “into his actual custody and
+control.” Id., at 107. 
+Today’s majority disputes none of this.  It accepts that a
+seizure of the inanimate objects mentioned in the Fourth 
+Amendment (houses, papers, and effects) requires posses-
+sion. Ante, at 4. And when it comes to persons, the majority 
+agrees (as Hodari D. held) that a seizure in response to a 
+“show of authority” takes place if and when the suspect sub-
+mits to an officer’s possession. Ante, at 15. The majority
+insists that a different rule should apply only  in cases 
+where an officer “touches” the suspect.  Here—and here 
+alone—possession is not required.  So, under the majority’s
+logic, we are quite literally as ked to believe the officers in 
+this case “seized” Ms. Torres’s person, but not her car, when 
+they shot both and both continued speeding down the 
+highway.
+The majority’s need to resort to such a schizophrenic
+reading of the word “seizure” should be a signal that some-
+thing has gone seriously wrong.  The Fourth Amendment’s 
+Search and Seizure Clause uses the word “seizures” once in 
+connection with four objects (persons, houses, papers, and 
+effects). The text thus suggests parity, not disparity, in
+meaning. It is close to canon that when a provision uses the 
+same word multiple times, courts must give it the same 
+meaning each time. Ratzlaf v. United States, 510 U. S. 135, 
+143 (1994).  And it is canonical that courts cannot give a 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+8 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+single word different meanings depending on the happen-
+stance of “which object it is modifying.” Reno v. Bossier Par-
+ish School Bd. , 528 U. S. 320, 329 (2000) (“[W]e refuse to 
+adopt a construction that wo uld attribute different mean-
+ings to the same phrase in the same sentence, depending on 
+which object it is modifying”). To “[a]scrib[e] various mean-
+ings” to a single word, we have observed, is to “render mean-
+ing so malleable” that written laws risk “becom[ing] suscep-
+tible to individuated interpretation.”  Ratzlaf, 510 U. S., at 
+143 (internal quotation marks omitted).  The majority’s con-
+clusion that a single use of the word “seizures” bears two 
+different meanings at the same time—indeed, in this very 
+case—is truly novel.  And when it comes to construing the 
+Constitution, that kind of innovation is no virtue. 
+If more textual evidence were needed, the Fourth Amend-
+ment’s neighboring Warrant Clause would seem to provide 
+it. That Clause states that warrants must describe “the 
+persons or things to be seized.”  Once more, the Amendment 
+uses the same verb—“seized”—for both persons and objects. 
+Once more, it suggests parity, not some hidden divergence 
+between people and their possessions.  Nor does anyone dis-
+pute that a warrant for the “seizure” of a person means a 
+warrant authorizing officers to take that person into their 
+possession. 
+Against all these adverse textual clues, the majority of-
+fers little in reply.  It admits that its interpretation defies
+this Court’s teachings in Ratzlaf and Reno by ascribing dif-
+ferent meanings to the word “seizure” depending on “the ob-
+ject being seized.”  Ante, at 16.  It says only that we should 
+overlook the problem because “our cases” in the Fourth
+Amendment context compel this remarkable construction. 
+Ibid. But it is unclear what cases the majority might have 
+in mind for it cites none. 
+Instead, the majority proceeds to reason that the word
+“seizure” must carry a different meaning for persons and 
+objects because persons alone are “capable of fleeing” and 
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+   
+ 
+ 
+  
+ 
+  
+ 
+ 
+9 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+have “an interest in doing so.” Ibid.  But that reasoning
+faces trouble even from Hodari D., which explained that “[a] 
+ship still fleeing, even though under attack, would not be
+considered to have been seized as a war prize.”  499 U. S., 
+at 624. Of course, as the majority observes, persons alone 
+can possess “an interest” in fleeing. But, as Hodari D.’s ex-
+ample shows, they can have as much (or more) interest in
+fleeing to prevent the seizure of their possessions as they do 
+their persons. Even today, a suspect driving a car loaded 
+with illegal drugs may be more interested in fleeing to avoid
+the loss of her valuable cargo than to prevent her own de-
+tention. Yet the majority offers no reasoned explanation 
+why the meaning of the word “seizure” changes when offic-
+ers hit the suspect and when they hit her drugs and car as
+all three speed away. 
+Unable to muster any preced ent or sound reason for its
+reading, the majority finishes its textual analysis with a se-
+lective snippet from Webster’s Dictionary and a hypothet-
+ical about a purse snatching.  The majority notes that Web-
+ster equated a seizure with “‘the act of taking by warrant’” 
+or “‘laying hold on suddenly.’”  Ante, at 4.  But Webster used 
+the warrant definition to describe “the seizure of contra-
+band goods”—a seizure the majority agrees requires posses-
+sion. Meanwhile, the phrase “laying hold on” a person con-
+notes physical possession, as a look at the dictionary’s
+entire definition demonstrates.   A “seizure,” Webster con-
+tinued, is the “act of taking possession by force,” the “act of 
+taking by warrant,” “possession,” and “a catching.”
+2  Read 
+—————— 
+2 2 N. Webster, An American Dictio nary of the English Language 67 
+(1828) (To seize is “1.  To fall or rush upon suddenly and lay hold on; or 
+to gripe or grasp suddenly.” “2. To take possession by force, with or with-
+out right.” “3. To invade suddenly; to take hold of; to come upon suddenly;
+as, a fever seizes a patient.” “4. To take possession by virtue of a warrant
+or legal authority.” To be seized is to be “[s]uddenly caught or grasped; 
+taken by force; invaded suddenly; taken possession of; fastened with a 
+cord; having possession.”  A seizure is “1. The act of seizing; the act of 
+laying hold on suddenly; as the seizure of a thief.  2. The act of taking 
+
+   
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+10 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+in full, Webster thus lends no support to the majority’s 
+view. 
+The purse hypothetical, borrowed from Hodari D.’s dicta, 
+turns out to be even less illuminating.  It supposes that “an
+ordinary user of the English language could remark: ‘She
+seized the purse-snatcher, but he broke out of her grasp.’ ”  
+Ante, at 5 (quoting Hodari D., 499 U. S., at 626).  But what 
+does that prove? The hypoth etical contemplates a woman 
+who takes possession of the purse-snatcher, establishing a
+“grasp” for him to “break out of.”  One doesn’t “break out of ” 
+a mere touch. 
+Really, the majority’s answer to the Constitution’s text is
+to ignore it.  The majority stands mute before the consensus
+among founding-era dictionaries, this Court’s early cases 
+interpreting the word “seizure,” and the Warrant Clause.
+It admits its interpretation spurns the canonical interpre -
+tive principle that a single word in a legal text does not
+change its meaning depending on what object it modifies. 
+All we’re offered is a curated snippet and an unhelpful hy-
+pothetical. Ultimately, it’s hard not to wonder whether the 
+majority says so little about the Constitution’s terms be-
+cause so little can be said that might support its ruling. 
+B 
+Rather than focus on text, the majority turns quickly to 
+history. At common law, it insists, a “linkage” existed be-
+tween the “seizure” of a person and the concept of an “ar -
+rest.” Ante, at 5. Thus, the majority contends, we must
+examine how the common law defined that term.  But fol -
+lowing the majority down this path only leads to another
+dead end. Unsurprisingly, an “arrest” at common law ordi-
+narily required possession too. 
+—————— 
+possession by force; as the seizure of lands or goods; the seizure of a town 
+by an enemy; the seizure of a throne by an usurper.  3. The act of taking 
+by warrant; as the seizure of contraband goods.  4. The thing taken or 
+seized.” “5. Gripe; grasp; possession.” “6. Catch; a catching”). 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+  
+ 
+11 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+1 
+Consider what some of our usual common law guides say 
+on the subject.  Blackstone defined “an arrest” in the crim-
+inal context as “the apprehending or restraining of one’s 
+person, in order to be forthco ming to answer an alleged or 
+suspected crime.” 4 Commentaries on the Laws of England 
+286 (1769).  Hale and Hawkins both equated an “arrest” 
+with “apprehending,” “taking,” and “detain[ing]” a person. 
+See 1 M. Hale, Pleas of the Crown 89, 93–94 (5th ed. 1716);
+2 W. Hawkins, Pleas of the Crown 74–75, 77, 80–81, 86 (3d 
+ed. 1739). And Hawkins stated that an arrest required the 
+officer to “actually have” the suspect “in his Custody.” Id., 
+at 129. Any number of historical dictionaries attest to a 
+similar understanding—defining an “arrest” as a “stop,” a 
+“taking of a person,” and the act “by which a man becomes 
+a prisoner.”
+3 
+Common law causes of action point to the same common-
+sense conclusion. During the founding era, an individual 
+who was unlawfully arrested could seek redress through 
+the tort of false imprisonment. See 3 W. Blackstone, Com-
+mentaries on the Laws of England 127 (1768); see also Pay-
+ton v. New York, 445 U. S. 573, 592 (1980); Wallace v. Kato, 
+—————— 
+3 See, e.g., Bailey, Universal Etymological English Dictionary (To ar-
+rest is “to stop or stay”; an arrest (in the legal sense) is “a Legal taking
+of a Person, and restraining him from Liberty”); Dyche & Pardon, A New 
+General English Dictionary (An arrest is “the stopping or detaining a
+person, by a legal process”); 1 Johnson, A Dictionary of the English Lan-
+guage (“1. In law.  A stop or stay; as, a man apprehended for debt, is said 
+to be arrested.” “An arrest is a certain restraint of a man’s person, de-
+priving him of his own will, and binding it to become obedient to the will 
+of the law, and may be called the beginning of imprisonment.” “2. Any 
+caption, seizure of the person.” “3. A stop” (emphasis deleted)); 1 Ash, 
+The New and Complete Dictionary of the English Language (To arrest is
+“[t]o seize a man for debt, to apprehend by virtue of a writ from any court
+of justice, to stop, to hinder”; an arrest is “[t]he act of seizing on a man’s 
+person for debt, the execution of a writ from any court of justice by which
+a man becomes a prisoner, a stop, a hindrance”). 
+
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+549 U. S. 384, 388–389 (2007) (describing “false arrest and 
+false imprisonment” as the “closest analogy” to an arrest 
+without probable cause).  That cause of action aimed to rem-
+edy “the violation of the right of personal liberty,” 3 Black-
+stone, supra, at 127, which was “the power of loco-motion,
+of changing situation, or remo ving one’s person to whatso-
+ever place one’s own inclination may direct,” 1 W. Black-
+stone, Commentaries on the Laws of England 130 (1765). 
+Thus, false imprisonment—the violation of the right to 
+move where one desired—required proof of “[t]he detention 
+of the person” and “[t]he unlawfulness of such detention.”  3 
+Blackstone, supra, at 127.  That detention could occur “in a 
+gaol, house, stocks, or in the street,” but it occurred only if 
+a person was “ under the custody of another.” 1 E. East, 
+Pleas of the Crown 428 (1806) (emphasis added). 
+Much the same held true in another related field.  At com-
+mon law, an officer could be held criminally liable for allow-
+ing an individual to escape after being arrested. And to 
+prove the existence of an arrest in an “Indictment for an
+Escape,” a prosecutor had to “expressly shew” that “the 
+Party was actually in the Defendant’s Custody for a Crime, 
+Action, or Commitment for it.” 2 Hawkins, supra, at 132 
+(emphasis added).  In other words, to demonstrate an ar-
+rest, a prosecutor had to prove the suspect had been “a Pris-
+oner in [the officer’s] Custody.” 1 Hale, supra , at 112 (em-
+phasis added). Here, too, an arrest required possession.
+Once more, the majority’s primary answer to all this 
+countervailing evidence is to ignore it. And once more, the 
+majority’s own sources do more to hurt than help its cause.  
+Lifting a line from Simpson v. Hill, 1 Esp. 431, 170 Eng.
+Rep. 409 (N. P. 1795), the majority suggests that the tort of 
+false imprisonment at common law required no more than
+a “tapping on the shoulder.”  Ante, at 13 (citing 1 Esp., at 
+431–432, 170 Eng. Rep., at 409).  But Simpson could not 
+have stated the possession requirement more plainly: 
+“[W]ithout any taking possession  of the person,” there “is 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+13 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+not, by law, a false imprisonment.”  Id., at 432, 170 Eng.
+Rep., at 409 (emphasis added).  And the court proceeded to 
+reject the plaintiff ’s claim for false imprisonment because 
+the “constable did never take her into custody.” Ibid. (em-
+phasis added). The majority offers no case finding the ele-
+ments of false imprisonment satisfied by the mere touch of 
+a fleeing person. 
+What remains of the majority’s response follows the same 
+course. The majority asserts t hat claims for escape only re-
+quired proof that the officer touched a suspect. Ante, at 12. 
+But to prove its point, the majority quotes a sentence from 
+Hale stating that no liability for escape exists “‘if the felon
+were not once in the hands of an officer.’”  Ibid. (quoting 2
+Pleas of the Crown 93 (1736)).  And as Hale proceeded to 
+make plain, a felon “in the hands of an officer” was another 
+way of saying the officer had “apprehended” or “taken” the
+felon into his “custody.” See id., at 89, 93–94 (5th ed. 1716).
+Ultimately, the majority seeks to invoke Samuel John-
+son’s dictionary and Payton, 445 U. S., at 585, to confirm 
+only the anodyne point that some sort of “linkage” existed 
+at common law between the concepts of “arrests” and “sei-
+zures.” Ante, at 5.  Yet, even here it turns out there is more 
+to the story. The majority neglects to mention that Johnson
+proceeded to define an “arrest” as a “caption” of the person,
+“a stop or stay,” a “restraint of a man’s person, depriving
+him of his own will,” and “the beginning of imprisonment.” 
+1 S. Johnson, A Dictionary of the English Language (6th ed.
+1785). “To arrest,” Johnson said, was “[t]o seize,” “to detain 
+by power,” “[t]o withhold; to hinder,” and “[t]o stop motion.” 
+Ibid.  Meanwhile, the sentence fragment the majority
+quotes from Payton turns out to have originated in Justice
+Powell’s concurrence in United States v. Watson, 423 U. S. 
+411, 428 (1976). And looking to that sentence in full, it is 
+plain Justice Powell, too, understood an arrest not as a 
+touching, but as “the taking hold of one’s person.” Ibid. 
+
+   
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+14 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+Thus, even the majority’s best sources only wind up point-
+ing us back to the traditional possession rule. 
+2 
+Unable to identify anything helpful in the main current
+of the common law, the majority is forced to retreat to an 
+obscure eddy. Starting from Hodari D.’s three references to 
+“mere touch” arrests, the majority traces these authorities
+back to their English origins.  The tale that unfolds is a cu-
+rious one. 
+Before bankruptcy reforms in the 19th century, creditors
+seeking to induce repayment of their loans could employ 
+bailiffs to civilly arrest delinquent debtors and haul them
+off to debtors prison.  See Cohen, The History of Imprison-
+ment for Debt and Its Relation to the Development of Dis-
+charge in Bankruptcy, 3 J. Legal Hist. 153, 154–155 (1982). 
+But the common law also offered debtors some tools to avoid 
+or delay that fate. Relevant here, the common law treated 
+the home as a “castle of defence and asylum” so no bailiff
+could break into a debtor’s home to effect a civil arrest. 3 
+Blackstone, supra, at 288; see also Treiman, Escaping the 
+Creditor in the Middle Ages, 43 L. Q. Rev. 230, 233 (1927). 
+Over time, the practice of “keeping house” became an in-
+creasingly popular way for debtors to evade the bailiff.  Id., 
+at 234. Naturally, too, creditors railed against this “notori-
+ous” practice.  See ibid.  And eventually Parliament re-
+sponded to their clamor.  The English bankruptcy statutes
+of 1542 and 1570 imposed serious penalties on debtors who
+“kept house” to avoid imprisonment. Cohen, supra, at 157. 
+It was seemingly against this backdrop that the strange 
+cases Hodari D.’s dicta briefly alluded to and the majority
+has now dug up began to appear. Under their terms, a bail-
+iff who could manage to touch a person hiding in his home,
+often through an open window or door, was deemed to have 
+effected a civil “arrest.”  See Genner v. Sparks, 6 Mod. 173, 
+87 Eng. Rep. 928 (K. B. 1704). And because this mere touch 
+
+   
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+15 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+was deemed an “arrest,” the bailiff was then permitted by
+law to proceed to “br[eak] the house . . . to seize upon” the 
+person and render him to prison.  Ibid., 87 Eng. Rep., at 
+929. Of course it was farcical to call a tap through an open 
+window an “arrest.”  But it proved a useful farce, at least 
+for creditors. 
+One of the majority’s lead cases, Sandon v. Jervis, El. Bl. 
+& El. 935, 120 Eng. Rep. 758 (K. B. 1858), illustrates the 
+absurdity of it all. There, a bailiff tried and failed “on sev-
+eral occasions” to arrest a debtor. Id., at 936, 120 Eng. Rep.,
+at 758. Eventually, the bailiff spotted an open window on
+“an upper story,” so he ordered an assistant to fetch a lad-
+der. Ibid.  But the debtor and his daughter noticed the ploy 
+and “ran to the window,” slamming it closed.  Ibid.  Unfor-
+tunately, in the excitement a window pane broke.  Seeing
+the opportunity, the bailiff ’s assistant, while perched atop 
+the ladder, thrust his hand through the opening and man -
+aged to touch the debtor. Id., at 936–937, 120 Eng. Rep., at 
+758. According to the court, this “arrest” was sufficient to 
+justify the bailiff ’s later forcible entry into the home.  Id. , 
+at 946–948, 120 Eng. Rep., at 762–763.
+By everyone’s account, however, the farce extended only
+so far. Yes, the mere-touch arrest was a feature of civil 
+bankruptcy practice for an unfortunate period.  But the ma-
+jority has not identified a single founding-era case extend-
+ing the mere-touch arrest rule to the criminal context.  The 
+majority points to two nineteenth-century treatises, but 
+both reference only a case abo ut a debt-collection arrest.
+See ante, at 11–12 (citing 1 J. Backus, A Digest of Laws Re-
+lating to the Offices and Duties of Sheriff, Coroner and Con-
+stable 115–116, n. (c) (1812) (citing Genner v. Sparks , 6 
+Mod. 173, 87 Eng. Rep. 928 (K. B. 1704)), and 1 R. Burn,
+The Justice of the Peace 275 (28th ed. 1837) (citing the 
+same)). The majority nods to dicta from an 1854 Delaware 
+state trial court, but that came long after the founding and 
+the majority does not explain how it sheds light on the 
+
+   
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+Fourth Amendment’s original meaning.  See ante, at 12 (cit-
+ing State v. Townsend, 5 Del. 487, 488)).  And every remain-
+ing early American case the majority cites for its “mere
+touch” rule—from the founding through the Civil War—in-
+volved only civil debt-collection arrests. See ante, at 4 (cit-
+ing Whithead v. Keyes, 85 Mass. 495 (1862)); ante, at 6 (cit-
+ing United States v. Benner, 24 F. Cas. 1084 (No. 14,568) 
+(CC ED Pa. 1830)); ante, at 6 (citing Butler v. Washburn, 25 
+N. H. 251 (1852) (tax collection)).  The same goes for the
+majority’s primary English authorities. See ante, at 7 (cit-
+ing Nicholl v. Darley, 2 Y. & J. 399, 400, 148 Eng. Rep. 974 
+(Exch. 1828); Sandon, El. Bl. & El., at 940, 120 Eng. Rep., 
+at 760)).
+So what relevance do these obscure and long-abandoned 
+civil debt-collection practices have for today’s case concern-
+ing a criminal arrest and brought under the Fourth Amend-
+ment? The answer seems to be not much, for at least three 
+reasons. 
+In the first place, the Amendment speaks of “seizures,” 
+not “arrests.”  To the extent the common law of arrests in-
+forms the Amendment’s meaning, we have already seen 
+that an arrest normally meant taking possession of an ar -
+restee. Maybe in one peculiar area, and for less than admi-
+rable reasons, the common law deviated from this under-
+standing. But this Court usually presumes that those who 
+wrote the Constitution used words in their ordinary sense, 
+not in some idiosyncratic way. See District of Columbia v. 
+Heller, 554 U. S. 570, 576 (2008).  And today’s majority sup-
+plies no evidence that anyone during the founding era un-
+derstood the Fourth Amendment to adopt the specialized
+definition of “arrest” from civil debt-collection practice.
+Second, even if we were to hypothesize that people did 
+understand the Fourth Amendment to incorporate this
+quirky rule, what would that tell us?  Here, the officers tried 
+to arrest Ms. Torres in a parking lot on behalf of the State
+for serious crimes, not break into her home on behalf of the 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+17 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+local credit union for missing a payment. So even if we were 
+willing to suppose that the founding generation understood
+the Constitution to incorporate the majority’s civil debt-
+collection arrest rule, nothing before us suggests they con-
+templated, let alone endorsed, injecting it into the criminal 
+law and overriding settled do ctrine equating arrests with 
+possession.
+Finally, even in the civil debt-collection context, the ma-
+jority cannot point to even a single case suggesting that hit-
+ting a suspect with an object—an arrow, a bullet, a cudgel, 
+anything—as she flees amounted to an arrest.  Instead, the 
+majority’s cases hold only that the “laying of hands” on an 
+arrestee constituted an arrest. Ante, at 7.  Thus, even if the 
+Fourth Amendment did transpose the “mere touch” rule
+from the context of civil arrests into the criminal arena, it 
+still would not reach this case. 
+How does the majority respond? Again, it does little more
+than disregard the difficulties. The majority says there is 
+“no reason to suspect” the common law defined criminal ar-
+rests of felons “any differently” than civil arrests of debtors. 
+Ante, at 13, 11.  But the majority skips over all the evidence 
+canvassed above showing that a criminal arrest required
+possession, not a mere touch.  See Part III–B–1, supra. It 
+sails past its failure to identify any case holding that a mere
+touch qualified as a criminal arrest. It ignores the fact 
+Blackstone defined criminal and civil arrests differently.
+4 
+And it claims to find support in Hawkins’s statement that
+an officer could break into a house to capture an arrestee 
+—————— 
+4 The majority cites only Blackstone’s definition of a civil arrest, which 
+required a “corporal seising or touching the defendant’s body.” Ante, at 
+6 (quoting 3 W. Blackstone, Commentaries on the Laws of England 288
+(1768)). But flipping from Blackstone’s third volume (discussing “private
+wrongs”) to his fourth volume (discussing “public wrongs”) reveals—as
+we have already seen but the majority fails to acknowledge—that Black-
+stone equated a criminal arrest with “apprehending or restraining . . . 
+one’s person, in order to be forthcoming to answer an alleged or suspected
+crime.” See supra, at 11. 
+
+   
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+18 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+who escaped after being “‘lawfully arrested for any Cause.’”  
+Ante, at 13–14 (quoting 2 Pleas of the Crown 87 (1721)). 
+Yet, the question before us isn’t what an officer might do 
+after making an arrest; it’s what constitutes an arrest in the 
+first place. 
+Rather than confront shortcomings like these, the major-
+ity asks us to glide past them.  It suggests that importing
+the mere-touch rule into the criminal context is permissible 
+because “no common law case” had occasion to reject that
+idea expressly. See ante, at 16. But this gets things back-
+wards.  Today, for the first time, the majority seeks to
+equate seizures and criminal arrests with mere touches, at-
+tempted seizures, and batteries.  It is for the majority  to 
+show the Fourth Amendment commands this result. No 
+amount of rhetorical maneuver ing can obscure how flat it
+has fallen: Even its own authorities do more to undermine 
+than support its thesis. If common law courts never con-
+templated the majority’s odd definition of a criminal ar-
+rest—and this Court didn’t either for more than two centu-
+ries—that can only be further proof of its implausibility.
+The majority asks us to glide past another problem too.
+It acknowledges that its debt-collection cases required a 
+“laying on of hands” to complete an arrest. But it says we
+should overlook that rule as an accident of antiquity. 
+“Touchings” by “firearm,” we are told, were unknown to 
+“founding-era courts,” and no “officer used a gun to appre-
+hend a suspect” before 1850. Ante, at 9. Never mind the 
+shot heard round the world in 1775 and the adoption of the 
+Second Amendment.  Never mind that as early as 1592,
+when a bailiff “feared resistance” and thus “brought with
+him” a gun “to arrest” someone,  a common law court 
+deemed it lawful because “[t]he sheriff or any of his minis -
+ters may for the better execution of justice carry with them
+offensive or defensive weapons.”  Seint John’s Case, 5 Co. 
+Rep. 71b, 77 Eng. Rep. 162, 162–163 (K. B. 1592).  Never 
+mind that even tax collectors were carrying guns by the 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+1680s. E.g., Dickenson v. Watson, Jones, T. 205, 205–206, 
+84 Eng. Rep. 1218, 1218–1219 (K. B. 1682). And never 
+mind, too, that the majority’s problem isn’t limited to guns. 
+It fails to cite any case in which a touching by any weapon
+was deemed sufficient to effect an arrest. Seemingly, the 
+majority would have us believe that bailiffs wielding any-
+thing but their fists were beyond the framers’ imagination. 
+Faced with all these problems, the majority tacks.  It 
+scrambles to locate a case— any case—suggesting that com-
+mon law courts considered “touchings” by weapon enough 
+to effect an arrest in the debt -collection context.  Ulti -
+mately, the majority asks us to dwell at length on the Coun-
+tess of Rutland’s case.  In at least that lone instance, the 
+majority promises, we will find bailiffs who arrested a
+debtor by touching her with an object (a mace) rather than
+a laying on of hands. See ante, at 7–8 (citing Countess of 
+Rutland’s Case, 6 Co. Rep. 52b, 54a, 77 Eng. Rep. 332 (Star 
+Chamber 1605)). But it turns out the dispute concerned
+whether a countess could be civilly arrested at all, not when 
+or how the arrest was completed.  The court had no reason 
+to (and did not) decide whether the bailiffs accomplished 
+their arrest when they “shewed her their mace,” “touch[ed]”
+her with the mace, or “comp elled the coachman to carry”
+her to jail. Id., at 54a, 77 Eng. Rep., at 336.  And no one 
+questions that these things together—a show of authority 
+followed by compelled detention—have always been enough
+to complete an arrest.  Not ev en minor royalty can rescue 
+the majority.
+So the majority tacks again.  Now it asks us to dispense
+with the common law’s “laying on of hands” requirement as
+an “artificial” rule.  Ante , at 8. Distinguishing between
+“touchings” by hand and by weapon, it says, “calls to mind 
+the unavailing defense of the person who ‘persistently de-
+nied that he had laid hands upon a priest, for he had only 
+cudgelled and kicked him.’”  Ibid. But the quip exposes the 
+majority’s bind.  To get where it wishes to go, the majority 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+20 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+not only must rework the rules found in the cases on which 
+it relies, it must also abandon their rationale. The debt-
+collection cases treated the “laying on of hands” as a sign of 
+possession.
+5  Maybe the possession was more “constructive”
+or even fictional than “actual.”  See ante, at 16. But the idea 
+was that someone who stood next to a debtor and laid hands 
+on him could theoretically exercise a degree of control over
+his person. Common law courts never said the same of bail-
+iffs who fired arrows at debtors, shot them with firearms, 
+or cudgeled them as they ran away. Such conduct might 
+have amounted to a battery, but it was never deemed suffi-
+cient to constitute an arrest. Doubtless that’s why when a 
+tax collector shot a man in the eye with a (supposedly una-
+vailable) firearm in 1682, the man sued the officer for “as-
+sault, battery, and wounding”— not false imprisonment. 
+See Dickenson, Jones, T., at 205, 84 Eng. Rep., at 1218– 
+1219. 
+The majority implores us to study the common law his -
+tory of arrests.  But almost immediately, the majority real-
+izes it cannot find what it seeks in the history of criminal 
+arrests. So it is forced to disinter a long-abandoned mere-
+touch rule from civil bankruptcy practice.  Then it must im-
+port that rule into the criminal law.  And because even that 
+isn’t enough to do the work it wishes done, the majority
+must jettison both the laying on of hands requirement and 
+the rationale that sustained it. All of which leaves us con-
+—————— 
+5 That is why the mere-touch cases often discussed the “corporal pos-
+session of the debtor.”  E.g., Sandon v. Jervis, El. Bl. & El. 935, 941–942, 
+120 Eng. Rep. 758 (K. B. 1858) (Hill, J. ).  A “corporal” touch was a legal 
+term of art and was frequently used  in the context of determining the
+possession of goods. E.g., Jordan v. James, 5 Ohio 88, 98 (1831) (stating 
+that an owner “may deliver any cha ttel he sells, symbolically and con-
+structively, as well as by corporal touch”); see also 2 W. Blackstone, Com-
+mentaries on the Laws 448–449, n. 16 (J. Chitty ed. 1826); Friedman, 
+Formative Elements in the Law of Sales: The Eight eenth Century, 44 
+Minn. L. Rev. 411, 445 (1960). 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+21 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+fusing seizures with their attempts and arrests with batter-
+ies. 
+The common law offers a vast legal library.  Like any
+other, it must be used thoughtfully.  We have no business 
+wandering about and randomly grabbing volumes off the 
+shelf, plucking out passages we like, scratching out bits we 
+don’t, all before pasting our own new pastiche into the U. S.
+Reports. That does not respect legal history; it rewrites it. 
+C 
+If text and history pose challenges for the majority, so do 
+this Court’s precedents.  The majority admits (as it must)
+that the seizure of an object occurs only through taking pos-
+session. Ante, at 4.  The majority also admits (as it must)
+that the seizure of a person through a “show of authority”
+occurs only if the suspect submits to an officer’s possession. 
+Ante, at 15.  But the majority fails to acknowledge that this
+Court has also said the same principle governs the seizure 
+of persons effected through the use of force. 
+In Terry v. Ohio, 392 U. S. 1 (1968), the Court explained 
+that “[o]nly when the officer, by means of physical force or
+show of authority, has in some way restrained the liberty of
+a citizen may we conclude that a ‘seizure’ has occurred.” Id., 
+at 19, n. 16 (emphasis added).  The restraint of liberty Terry
+referred to was “interference” with a person’s “freedom of 
+movement.” United States v. Jacobsen, 466 U. S. 109, 113, 
+n. 5 (1984). As the Court put it in Brower v. County of Inyo, 
+489 U. S. 593 (1989), a decision issued just two years before 
+Hodari D.: “It is clear, in other words, that a Fourth Amend-
+ment seizure” occurs “only when there is a governmental 
+termination of freedom of movement through means inten-
+tionally applied.” 489 U. S., at 597 (emphasis deleted). 
+Rather than follow these teachings, the majority dispar-
+ages them. After highlighting (multiple times) that Justice
+Scalia authored Hodari D.’s dicta, the majority turns about 
+
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+and faults his opinion for the Court in Brower for “improp-
+erly eras[ing] the distinction between seizures by control 
+and seizures by force.” Ante, at 14. The majority continues
+on to blame other of our decisions, too, for “hav[ing] not al-
+ways been attentive” to this supposedly fundamental dis -
+tinction. Ibid.  But this Court has not been “[in]attentive”
+to a fundamental Fourth Amendment distinction for over 
+two centuries, let alone sought to “erase” it.  In truth, the 
+majority’s “distinction” is a product of its own invention. 
+This Court has always recognized that how seizures take 
+place can differ. Some may take place after a show of au-
+thority, others by the applicat ion of force, still others after 
+a polite request. But to be a “seizure,” the same result has 
+always been required: An officer must acquire possession. 
+IV 
+If text, history, and precedent cannot explain today’s re-
+sult, what can? The majority seems to offer a clue when it 
+promises its new rule will help us “avoi[d] . . . line-drawing
+problems.” Ante, at 15–16 (internal quotation marks omit-
+ted). Any different standard,  the majority worries, would
+be “difficult to apply.” Ante, at 15. 
+But if efficiency in judicial administration is the explana-
+tion, it is a troubling one. Surely our role as interpreters of
+the Constitution isn’t to make life easier for ourselves.  Cf. 
+Calabresi & Lawson, The Rule of Law as a Law of Law, 90 
+Notre Dame L. Rev. 483, 488 (2014).  Nor, for that matter, 
+has the majority even tried to show that the traditional pos-
+session rule—in use “[f]rom the time of the founding,” Ho-
+dari D., 499 U. S., at 624—has proven unreasonably diffi-
+cult to administer.  Everyo ne agrees, too, that the
+possession rule will continue to govern when it comes to the 
+seizures of objects and persons through a show of authority. 
+So, rather than simplify things, the majority’s new rule for 
+“mere touch” seizures promises only to add another layer of
+complexity to the law. 
+
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+23 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+Even within its field of operation, the majority’s rule
+seems destined to underdeliver on its predicted efficiencies. 
+The majority tells us that its new test requires an “objective
+intent to restrain.”  Ante, at 10.  But what qualifies is far 
+from clear. The majority assures us that a “tap on the 
+shoulder to get one’s attention will rarely exhibit such an
+intent.” Ibid.  Suppose, though, the circumstances “objec-
+tively” indicate that the tap was “intended” to secure a per-
+son’s attention for a minute, a quarter hour, or longer.
+Would that be enough?
+Then there’s the question what kind of “touching” will
+suffice. Imagine that, with an objective intent to detain a
+suspect, officers deploy pepper spray that enters a suspect’s 
+lungs as he sprints away. D oes the application of the pep -
+per spray count?  Suppose that, intending to capture a flee-
+ing suspect, officers detonate flash-bang grenades that are 
+so loud they damage the suspect’s eardrum, even though he
+manages to run off. Or imagine an officer shines a laser 
+into a suspect’s eyes to get him to stop, but the suspect is
+able to drive away with now-damaged retinas. Are these 
+“touchings”? What about an o fficer’s bullet that shatters 
+the driver’s windshield, a piece of which cuts her as she
+speeds away? Maybe the officer didn’t touch the suspect,
+but he set in motion a series of events that yielded a touch-
+ing. Does that count?  While assuring us that its new rule 
+will prove easy to administer, the majority refuses to con-
+front its certain complications.  Lower courts and law en-
+forcement won’t have that luxury. 
+If efficiency cannot explain today’s decision, what’s left? 
+Maybe it is an impulse that individuals like Ms. Torres 
+should be able to sue for damages. Sometimes police shoot-
+ings are justified, but other times they cry out for a remedy.
+The majority seems to give voic e to this sentiment when it 
+disparages the traditional possession rule as “artificial” and 
+promotes its alternative as more sensitive to “personal se-
+curity” and “new” policing realities.  Ante, at 8–9.  It takes 
+
+   
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+pains to explain, too, that it s new rule will provide greater 
+protection for personal “privacy” interests, which we’re told
+make up the “essence” of the Fourth Amendment.  Ante, at 
+16 (internal quotation marks omitted). 
+But tasked only with applying the Constitution’s terms,
+we have no authority to posit penumbras of “privacy” and
+“personal security” and devise whatever rules we think 
+might best serve the Amendment’s “essence.”  The Fourth 
+Amendment allows this Court to protect against specific
+governmental actions—unreasonable searches and seizures
+of persons, houses, papers, and effects—and that is the 
+limit of our license.  Besides, it’s hard to see why we should
+stretch to invent a new remedy here.  Ms. Torres had ready-
+made claims for assault and battery under New Mexico law 
+to test the officers’ actions.  See N. M. Stat. Ann §41–4–12 
+(2020). The only reason this case comes before us under 
+§1983 and the Fourth Amendment rather than before a 
+New Mexico court under state tort law seems to be that Ms. 
+Torres (or her lawyers) missed the State’s two-year statu-
+tory filing deadline. See Tr. of Oral Arg. 16–17; Brief for 
+Respondents 20, n. 4.  That may be a misfortune for her, 
+but it is hardly a reason to upend a 230 year-old under-
+standing of our Constitution.
+Nor, if we are honest, does today’s decision promise much 
+help to anyone else.  Like Ms. Torres, many seeking to sue 
+officers will be able to bring state tort claims.  Even for 
+those whose only recourse is a federal lawsuit, the major-
+ity’s new rule seems likely to accomplish little.  This Court 
+has already said that a remedy lies under §1983 and the 
+Fourteenth Amendment for police conduct that “shocks the
+conscience.” County of Sacramento v. Lewis, 523 U. S. 833, 
+840, 845–847 (1998).  At the same time, qualified immunity
+poses a daunting hurdle for those seeking to recover for less
+egregious police behavior. In our own case, Ms. Torres has 
+yet to clear that bar and still faces it on remand.  So, at the 
+end of it all, the majority’s new rule will help only those who 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 Cite as: 592 U. S. ____ (2021) 
+GORSUCH, J., dissenting 
+(1) lack a state-law remedy, (2) evade custody, (3) after
+some physical contact by the police, (4) where the contact
+was sufficient to show an objective intent to restrain, (5) 
+and where the police acted “unreasonably” in light of clearly 
+established law, (6) but the police conduct was not “con-
+science shocking.”  With qualification heaped on qualifica -
+tion, that can describe only a vanishingly small number of 
+cases. 
+Even if its holding offers little practical assistance to an-
+yone, perhaps the majority at least hopes to be seen as try-
+ing to vindicate “personal security” and the “essence” of 
+“privacy” when it derides the traditional possession rule as 
+“artificial.” But an attractive narrative cannot obscure the 
+hard truth.  Not only does the majority’s “mere touch” rule 
+allow a new cause of action in exceedingly few cases (non-
+conscience-shocking-but-still-unreasonable batteries in-
+tended to result in possession that don’t achieve it). It sup-
+plies no path to relief for ot herwise identical near-misses
+(assaults).  A fleeing suspect briefly touched by pursuing 
+officers may have a claim. But a suspect who evades a hail 
+of bullets unscathed, or one who endures a series of flash-
+bang grenades untouched, is out of luck.  That distinction 
+is no less “artificial” than the one the law has recognized for
+centuries. And the majority’s new rule promises such
+scarce relief that it can hardly claim more sensitivity to
+“personal security” than the rule the Constitution has long
+enshrined. 
+In the face of these concerns, the majority replies by deny-
+ing their relevance.  It says there is “no call” to “surmise”
+that its decision rests on anything beyond an “analysis of 
+the common law of arrest.” Ante, at 17. But there is no 
+surmise about it.  The majority itself tells us that its deci-
+sion is also justified by the need to “avoi[d] . . . line-drawing
+problems,” protect “personal security,” and advance the 
+“privacy” interests that form the “essence” of the Fourth
+Amendment. Having invoked these sundry considerations, 
+
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+26 TORRES v. MADRID 
+GORSUCH, J., dissenting 
+it’s hard to see how the majority might disown them. 
+* 
+To rule as it does, the majority must endow the term “sei-
+zure” with two different meanings at the same time.  It 
+must disregard the dominant rule of the common law.  It 
+must disparage this Court’s existing case law for erasing
+distinctions that never existed.   It cannot even guarantee
+that its new rule will offer great efficiencies or meaningfully 
+vindicate the penumbral promises it supposes.  Instead, we 
+are asked to skip from one snippet to another, finally land-
+ing on a long-abandoned debt-collection practice that must
+be reengineered to do the work the majority wishes done.
+Our final destination confuses a battery for a seizure and 
+an attempted seizure with its completion.  All this is miles 
+from where the standard principles of interpretation lead
+and just as far from the Constitution’s original meaning.
+And for what?  A new rule that may seem tempting at first
+blush, but that offers those like Ms. Torres little more than 
+false hope in the end. 
+Respectfully, I dissent. 

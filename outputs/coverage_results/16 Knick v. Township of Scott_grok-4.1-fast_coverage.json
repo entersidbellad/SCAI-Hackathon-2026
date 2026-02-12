@@ -1,0 +1,201 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn 2012, the Township of Scott, Pennsylvania, passed an ordinance affecting private properties determined to be or contain cemeteries.",
+      "best_match": "In December 2012, the Township of Scott passed Ordinance No.",
+      "similarity": 0.7020631432533264,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In relevant part, the ordinance required that \"all cemeteries within the Township \u2026 be kept open and accessible to the general public during daylight hours\" and that no owner could unreasonably restrict nor charge any fee to access the cemetery (the \"public-access provision\").",
+      "best_match": "be kept open and accessible to the general public during daylight hours,\" defining a \"cemetery\" as \"[a] place or area of ground, whether contained on private or public property, which has been set apart for or otherwise utilized as a burial place for deceased human beings,\" and authorizing Township code enforcement officers to \"enter upon any property\" to determine the existence and location of a cemetery.",
+      "similarity": 0.800100564956665,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, the ordinance permitted a Township officer to enter any property within the Township to determine whether there is a cemetery on the property, in order to enforce the public-access provision.",
+      "best_match": "be kept open and accessible to the general public during daylight hours,\" defining a \"cemetery\" as \"[a] place or area of ground, whether contained on private or public property, which has been set apart for or otherwise utilized as a burial place for deceased human beings,\" and authorizing Township code enforcement officers to \"enter upon any property\" to determine the existence and location of a cemetery.",
+      "similarity": 0.7262265682220459,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Rose Mary Knick owns property in the Township of Scott, and in April 2013, a Township officer entered her property without an administrative warrant and identified certain stones as grave markers.",
+      "best_match": "Facts of the Case\nPetitioner Rose Mary Knick owns a 90-acre rural property in Scott Township, Pennsylvania, north of Scranton, which includes her single-family home, grazing areas for horses and farm animals, and a small family graveyard containing ancestors of her neighbors.",
+      "similarity": 0.7723636627197266,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The officer cited Knick as violating the ordinance.",
+      "best_match": "In 2013, a Township officer discovered grave markers on Knick's property and notified her of a violation for failing to open the cemetery to the public during daylight hours.",
+      "similarity": 0.6315246820449829,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Knick disputes that a cemetery exists on her property and filed a lawsuit to challenge.",
+      "best_match": "Knick filed suit in Pennsylvania state court seeking declaratory and injunctive relief, alleging the ordinance effected a taking of her property without just compensation under the Fifth Amendment, but she did not pursue an inverse condemnation action under Pennsylvania law, 26 Pa. Cons.",
+      "similarity": 0.5955813527107239,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Knick challenged the ordinance on several grounds, two of which are most salient.",
+      "best_match": "Knick then filed a complaint under 42 U.S.C.",
+      "similarity": 0.595203161239624,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "First, she alleges that the ordinance authorizes unrestrained searches of private property in violation of the Fourth Amendment of the US Constitution.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held, in a 5-4 decision, that a government violates the Takings Clause of the Fifth Amendment when it takes property for public use without just compensation, and a property owner may bring a \u00a71983 claim in federal court at that time without first pursuing state remedies.",
+      "similarity": 0.5392295122146606,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Second, she argues that the ordinance takes private property without just compensation, in violation of the Fifth Amendment.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether a property owner may bring a Fifth Amendment Takings Clause claim under 42 U.S.C.",
+      "similarity": 0.651935338973999,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Notably, Knick did not initiate an \"inverse-condemnation proceeding\" against the Township, which is the local administrative process for challenging a taking by the government.",
+      "best_match": "Knick filed suit in Pennsylvania state court seeking declaratory and injunctive relief, alleging the ordinance effected a taking of her property without just compensation under the Fifth Amendment, but she did not pursue an inverse condemnation action under Pennsylvania law, 26 Pa. Cons.",
+      "similarity": 0.6099224090576172,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court dismissed all but two of Knick's claims with prejudice, and dismissed two of them (described above) without prejudice pending exhaustion of state-law remedies.",
+      "best_match": "Knick filed suit in Pennsylvania state court seeking declaratory and injunctive relief, alleging the ordinance effected a taking of her property without just compensation under the Fifth Amendment, but she did not pursue an inverse condemnation action under Pennsylvania law, 26 Pa. Cons.",
+      "similarity": 0.6002751588821411,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Knick appealed the dismissal of her claims to the Third Circuit.",
+      "best_match": "Knick filed suit in Pennsylvania state court seeking declaratory and injunctive relief, alleging the ordinance effected a taking of her property without just compensation under the Fifth Amendment, but she did not pursue an inverse condemnation action under Pennsylvania law, 26 Pa. Cons.",
+      "similarity": 0.6313948631286621,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Third Circuit affirmed the dismissal, finding that although the ordinance was constitutionally suspect, she lacks Article III standing because she failed to demonstrate an injury-in-fact and redressability as to her Fourth Amendment claim, and that her Fifth Amendment claims are not ripe until she has sought and been denied just compensation using state inverse-condemnation procedures as required in the US Supreme Court's 1985 decision in Williamson County Regional Planning Commission v. Hamilton Bank of Johnson City.",
+      "best_match": "The U.S. Court of Appeals for the Third Circuit affirmed, noting the ordinance was \"extraordinary and constitutionally suspect\" but bound by Williamson County, 862 F.3d 310 (2017).",
+      "similarity": 0.645183265209198,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "\u00a7502(c) (2009).",
+      "similarity": 0.25983452796936035,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Should the Court affirm or abrogate its holding in Williamson County Regional Planning Commission v. Hamilton Bank, which requires property owners to exhaust state court remedies before bringing federal Takings Clause claims?",
+      "best_match": "\u00a71983 immediately upon a government taking of property without just compensation, or whether, as held in Williamson County Regional Planning Comm\u2019n v. Hamilton Bank of Johnson City, 473 U.S. 172 (1985), such a federal claim is premature until the owner has sought and been denied compensation through available state procedures, such as an inverse condemnation action.",
+      "similarity": 0.7175185084342957,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Does the ripeness doctrine established in Williamson County apply to takings claims that assert that a law is unconstitutional on its face?",
+      "best_match": "The Court overruled Williamson County\u2019s state-litigation requirement as poorly reasoned, unworkable, and inconsistent with longstanding Takings Clause jurisprudence.",
+      "similarity": 0.5999903678894043,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nA government violates the Takings Clause when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under 42 U.S.C.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held, in a 5-4 decision, that a government violates the Takings Clause of the Fifth Amendment when it takes property for public use without just compensation, and a property owner may bring a \u00a71983 claim in federal court at that time without first pursuing state remedies.",
+      "similarity": 0.8571046590805054,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 1983 at that time; the state-litigation requirement set forth in Williamson County Regional Planning Comm'n v. Hamilton Bank of Johnson City, 473 U.S. 172 (1985), is overruled.",
+      "best_match": "The District Court dismissed the claim as unripe under Williamson County Regional Planning Comm\u2019n v. Hamilton Bank of Johnson City, 473 U.S. 172 (1985), which required property owners to seek compensation through state inverse condemnation procedures before filing a federal takings claim.",
+      "similarity": 0.7634217739105225,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts delivered the 5-4 majority opinion for the Court.",
+      "best_match": "Chief Justice Roberts delivered the opinion, joined by Justices Thomas, Alito, Gorsuch, and Kavanaugh; Justice Thomas concurred; Justice Kagan dissented, joined by Justices Ginsburg, Breyer, and Sotomayor.",
+      "similarity": 0.6445350646972656,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court found that the state-litigation requirement in Williamson County \"imposes an unjustifiable burden on takings plaintiffs\" and \"conflicts with the rest of our takings jurisprudence.\"",
+      "best_match": "The Court overruled Williamson County\u2019s state-litigation requirement as poorly reasoned, unworkable, and inconsistent with longstanding Takings Clause jurisprudence.",
+      "similarity": 0.7849100828170776,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Looking to the text of the Takings Clause, the Court found that the most natural reading of that provision is that the right of compensation arises at the time of the taking.",
+      "best_match": "The Court reasoned that the Takings Clause is self-executing, providing a constitutional right to compensation immediately upon an uncompensated taking, as affirmed in Jacobs v. United States, 290 U.S. 13 (1933) (compensation \"rest[s] upon the Fifth Amendment,\" due at time of taking plus interest), and First English Evangelical Lutheran Church of Glendale v. County of Los Angeles, 482 U.S. 304 (1987) (\"government action that works a taking .",
+      "similarity": 0.6982595920562744,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Under Williamson County, the government did not need to compensate in advance or simultaneously with the taking, but only provide a \"reasonable, certain, and adequate\" mechanism for recovering such compensation after the fact.",
+      "best_match": "\u00a71983 immediately upon a government taking of property without just compensation, or whether, as held in Williamson County Regional Planning Comm\u2019n v. Hamilton Bank of Johnson City, 473 U.S. 172 (1985), such a federal claim is premature until the owner has sought and been denied compensation through available state procedures, such as an inverse condemnation action.",
+      "similarity": 0.6176700592041016,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "By forcing plaintiffs to seek compensation after the taking in state court before allowing them to proceed in federal court, Williamson County imposes an \"unjustifiable burden\" on these plaintiffs.",
+      "best_match": "The Court overruled Williamson County\u2019s state-litigation requirement as poorly reasoned, unworkable, and inconsistent with longstanding Takings Clause jurisprudence.",
+      "similarity": 0.6983709335327148,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, the Court expressed concern over the likelihood that a plaintiff would bring a state-court claim, lose, and therefore be precluded from bringing a claim in federal court at all.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held, in a 5-4 decision, that a government violates the Takings Clause of the Fifth Amendment when it takes property for public use without just compensation, and a property owner may bring a \u00a71983 claim in federal court at that time without first pursuing state remedies.",
+      "similarity": 0.5120989680290222,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas wrote a separate concurrence underscoring his opposition to the position advocated by the township, the United States (as amicus curiae), and the dissent, that there is no constitutional violation as long as there is a mechanism for receiving compensation later.",
+      "best_match": "Chief Justice Roberts delivered the opinion, joined by Justices Thomas, Alito, Gorsuch, and Kavanaugh; Justice Thomas concurred; Justice Kagan dissented, joined by Justices Ginsburg, Breyer, and Sotomayor.",
+      "similarity": 0.5039066076278687,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Elena Kagan dissented, joined by Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor.",
+      "best_match": "Chief Justice Roberts delivered the opinion, joined by Justices Thomas, Alito, Gorsuch, and Kavanaugh; Justice Thomas concurred; Justice Kagan dissented, joined by Justices Ginsburg, Breyer, and Sotomayor.",
+      "similarity": 0.8077268004417419,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan argued that the Takings Clause is at its core (and in its text) different from other constitutional provisions in its qualifying phrase \"without just compensation.\"",
+      "best_match": "The Court reasoned that the Takings Clause is self-executing, providing a constitutional right to compensation immediately upon an uncompensated taking, as affirmed in Jacobs v. United States, 290 U.S. 13 (1933) (compensation \"rest[s] upon the Fifth Amendment,\" due at time of taking plus interest), and First English Evangelical Lutheran Church of Glendale v. County of Los Angeles, 482 U.S. 304 (1987) (\"government action that works a taking .",
+      "similarity": 0.6510574221611023,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan argued that the Clause does not forbid all takings, only those without just compensation, and the majority disregards the text of the Clause in its interpretation requiring compensation at the time of taking.",
+      "best_match": "The Court reasoned that the Takings Clause is self-executing, providing a constitutional right to compensation immediately upon an uncompensated taking, as affirmed in Jacobs v. United States, 290 U.S. 13 (1933) (compensation \"rest[s] upon the Fifth Amendment,\" due at time of taking plus interest), and First English Evangelical Lutheran Church of Glendale v. County of Los Angeles, 482 U.S. 304 (1987) (\"government action that works a taking .",
+      "similarity": 0.6012247800827026,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan also dismissed the majority's concern over the preclusive effect of state-court litigation, arguing that Congress bears the burden of correcting errors that become evident from application of laws.",
+      "best_match": "Chief Justice Roberts delivered the opinion, joined by Justices Thomas, Alito, Gorsuch, and Kavanaugh; Justice Thomas concurred; Justice Kagan dissented, joined by Justices Ginsburg, Breyer, and Sotomayor.",
+      "similarity": 0.513810932636261,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Most importantly, the dissent noted, the majority departs from lost-established precedent and disregards the doctrine of stare decisis.",
+      "best_match": "Stare decisis factors\u2014poor reasoning, unworkability (San Remo trap), inconsistency with related decisions, and lack of reliance interests\u2014supported overruling Williamson County, whose rationale had been repeatedly recast.",
+      "similarity": 0.4675600528717041,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.25983452796936035,
+      "best_match": "\u00a7502(c) (2009)."
+    },
+    {
+      "sentence": "Most importantly, the dissent noted, the majority departs from lost-established precedent and disregards the doctrine of stare decisis.",
+      "best_similarity": 0.4675600528717041,
+      "best_match": "Stare decisis factors\u2014poor reasoning, unworkability (San Remo trap), inconsistency with related decisions, and lack of reliance interests\u2014supported overruling Williamson County, whose rationale had been repeatedly recast."
+    }
+  ],
+  "total_gt_sentences": 30,
+  "covered_sentences": 28,
+  "coverage_percentage": 93.33333333333333,
+  "coverage_score": 0.9333333333333332,
+  "threshold": 0.5
+}

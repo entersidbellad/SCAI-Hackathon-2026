@@ -1,0 +1,27 @@
+{
+  "factual_accuracy": 1,
+  "completeness": 1,
+  "factual_errors": [
+    {
+      "error_quote": "The entire generated summary is garbled text containing fragments like '(sic)', '(citation omitted)', incomplete sentences, and incoherent legal terminology without proper context or structure.",
+      "issue": "The generated summary is completely incoherent and unreadable. It contains no coherent information about the case facts, parties, legal issues, or holdings. The text appears to be corrupted or improperly generated output.",
+      "correct_info": "The reference summary clearly states: After the 2020 census, Alabama created a redistricting plan for its seven U.S. House seats. One district is majority-Black. Challengers argued the map illegally packed Black voters into one district while dividing others, violating Section 2 VRA. The district court agreed and granted a preliminary injunction. The Supreme Court froze it 5-4 pending merits. The Court ultimately held the map likely violates Section 2 VRA under the Gingles framework."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Complete absence of case facts about Alabama's 2021 redistricting plan",
+    "No mention of the Section 2 Voting Rights Act violation claim",
+    "No information about the district court's preliminary injunction",
+    "No mention of the Supreme Court's 5-4 decision to freeze the injunction",
+    "No description of the Thornburg v. Gingles three-part framework",
+    "No information about Chief Justice Roberts' majority opinion",
+    "No mention of Justice Kavanaugh's separate concurrence",
+    "No information about Justice Thomas' dissent (joined by Gorsuch fully, Barrett and Alito partially)",
+    "No mention of Justice Alito's separate dissent",
+    "No explanation of the proportionality issue raised in dissent"
+  ],
+  "overall_assessment": "The generated summary is completely unusable and appears to be corrupted or improperly generated text. It contains no coherent information about the Alabama redistricting case, making it impossible to evaluate for factual accuracy or completeness. The summary fails entirely to convey any of the key facts, legal issues, or holdings from the reference summary.",
+  "judge_score": 0.2
+}

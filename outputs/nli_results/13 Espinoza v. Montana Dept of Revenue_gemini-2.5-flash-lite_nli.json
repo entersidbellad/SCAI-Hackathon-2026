@@ -1,0 +1,137 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nPetitioners Kendra Espinoza and others are low-income mothers who applied for scholarships to keep their children enrolled in Stillwater Christian School, in Kalispell, Montana.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Montana legislature enacted a tax-credit scholarship program in 2015 to provide a modest tax credit to individuals and businesses who donate to private, nonprofit scholarship organizations.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Shortly after the program was enacted, the Montana Department of Revenue promulgated an administrative rule (\"Rule 1\") prohibiting scholarship recipients from using their scholarships at religious schools, citing a provision of the state constitution that prohibits \"direct or indirect\" public funding of religiously affiliated educational programs.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Espinoza and the other mothers filed a lawsuit in state court challenging Rule 1.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The court determined that the scholarship program was constitutional without Rule 1 and granted the plaintiffs' motion for summary judgment.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "On appeal, the Department of Revenue argued that the program is unconstitutional without Rule 1.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Montana Supreme Court agreed with the Department and reversed the lower court.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Question\nDoes a state law that allows for funding for education generally while prohibiting funding for religious schools violate the Religion Clauses or the Equal Protection Clause of the federal Constitution?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Conclusion\nThe application of the Montana Constitution's \"no-aid\" provision to a state program providing tuition assistance to parents who send their children to private schools discriminated against religious schools and the families whose children attend or hope to attend them in violation of the Free Exercise Clause.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Chief Justice John Roberts authored the opinion on behalf of the 5-4 majority.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court first noted that the Free Exercise Clause \"protects religious observers against unequal treatment\" and against \"laws that impose special disabilities on the basis of religious status.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In this case, Montana's no-aid provision excluded religious schools from public benefits solely because of religious status.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.94287109375,
+        "neutral": 0.04949951171875,
+        "entailment": 0.007415771484375
+      }
+    },
+    {
+      "sentence": "As such, the law must be subject to strict scrutiny review; that is, the government must show that its action advances \"'interests of the highest order\" and that the action is \"narrowly tailored in pursuit of those interests.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Montana's interest in this case\u2014which the Court described as creating greater separation of church and state than the federal Constitution requires\u2014does not satisfy strict scrutiny given its infringement of free exercise.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.89892578125,
+        "neutral": 0.099365234375,
+        "entailment": 0.0014905929565429688
+      }
+    },
+    {
+      "sentence": "Because the Free Exercise Clause barred the application of Montana's no-aid provision, the Montana Supreme Court lacked the authority to invalidate the program on the basis of that provision.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a concurring opinion in which Justice Neil Gorsuch joined, opining that the Court's interpretation of the Establishment Clause (not at issue in this case) hampers free exercise rights.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Samuel Alito and Justice Gorsuch each filed their own separate concurrences.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Alito argued that original motivation should have no bearing on the present constitutionality of a provision of law, yet even without that consideration, the majority reached the correct conclusion in this case.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Gorsuch argued that the Court's characterization of the Montana Constitution as discriminating based on \"religious status\" and not \"religious use,\" is dubious at best.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Ruth Bader Ginsburg filed a dissenting opinion in which Justice Elena Kagan joined, arguing that the Montana Supreme Court's decision does not place a burden on petitioners' religious exercise and thus does not violate the Free Exercise Clause.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court's precedents establish that neutral government action is not unconstitutional solely because it fails to benefit religious exercise.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.3818359375,
+        "neutral": 0.299072265625,
+        "entailment": 0.319091796875
+      }
+    },
+    {
+      "sentence": "Justice Stephen Breyer filed a dissenting opinion, in which Justice Elena Kagan joined in part.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Sonia Sotomayor filed a separate dissenting opinion, arguing that the Court in this case resolved a constitutional question not presented, thereby violating \"Article III principles older than the Religion Clause\" itself.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 3
+  },
+  "total_sentences": 23,
+  "contradiction_rate": 0.13043478260869565,
+  "nli_score": 0.8695652173913043
+}

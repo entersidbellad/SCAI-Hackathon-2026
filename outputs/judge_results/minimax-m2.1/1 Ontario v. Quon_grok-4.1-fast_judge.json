@@ -1,0 +1,10 @@
+{
+  "factual_accuracy": 5,
+  "completeness": 5,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [],
+  "overall_assessment": "The generated summary is highly accurate and comprehensive, correctly representing the facts, legal issues, and holding. It accurately captures the Supreme Court's rejection of the Ninth Circuit's 'least intrusive means' test and the conclusion that the search was reasonable. The summary provides excellent detail on the multiple justices' opinions while maintaining faithfulness to the reference summary's core findings.",
+  "judge_score": 1.0
+}

@@ -1,0 +1,24 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "The Eighth Circuit held that Muldrow had to demonstrate a 'materially significant disadvantage' resulting from the transfer",
+      "issue": "The reference summary states the Eighth Circuit required 'a tangible change in working conditions that produces a material employment disadvantage,' not specifically 'materially significant disadvantage'",
+      "correct_info": "The reference states the Eighth Circuit required 'a tangible change in working conditions that produces a material employment disadvantage'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The specific $17,500 in annual overtime pay that Muldrow lost",
+    "That Interim Police Commissioner Lawrence O'Toole appointed Captain Deeba who made the transfer decision",
+    "That Muldrow was deputized by the FBI and her Task Force Officer status was revoked",
+    "That Justice Kagan's majority opinion was joined by five other Justices (not specified which ones)",
+    "Justice Thomas's concurrence arguing the majority misinterpreted the Eighth Circuit's opinion",
+    "Justice Alito's concurrence criticizing the majority for failing to clarify the degree of harm required",
+    "Justice Kavanaugh's specific example about transferring someone to Cincinnati 'because you are black' with no compensation change"
+  ],
+  "overall_assessment": "The generated summary accurately captures the core holding and reasoning but contains minor factual inaccuracies and omits significant details about the concurrences and specific financial harm. It correctly states the 'some harm' standard but fails to convey the depth of disagreement among the justices regarding the proper legal standard.",
+  "judge_score": 0.7
+}

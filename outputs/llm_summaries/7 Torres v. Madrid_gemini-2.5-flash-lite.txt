@@ -1,0 +1,19 @@
+Here is a summary of the Supreme Court opinion in *Torres v. Madrid et al.*:
+
+### 1. Facts of the Case
+
+On July 15, 2014, New Mexico State Police officers Janice Madrid and Richard Williamson arrived at an Albuquerque apartment complex to execute an arrest warrant. They approached Roxanne Torres, who was standing near a Toyota FJ Cruiser. As Torres entered the driver's seat, the officers attempted to speak with her. Believing the officers to be carjackers, Torres accelerated her vehicle to escape. The officers then fired their service pistols 13 times, striking Torres twice. Despite being shot, Torres managed to drive away, eventually reaching a hospital 75 miles away. She was later airlifted to another hospital in Albuquerque, where she was arrested the following day. Torres subsequently filed a lawsuit against Officers Madrid and Williamson under 42 U.S.C. § 1983, alleging that they used excessive force and that the shooting constituted an unreasonable seizure under the Fourth Amendment. The Tenth Circuit Court of Appeals affirmed the District Court's grant of summary judgment to the officers, holding that a suspect's continued flight after being shot negates a Fourth Amendment excessive force claim.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was: Does the application of physical force to a person's body with the intent to restrain constitute a seizure under the Fourth Amendment, even if the person does not submit to the force and is not subdued?
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the application of physical force to the body of a person with the intent to restrain is a seizure under the Fourth Amendment, even if the person does not submit and is not subdued.
+
+The Court reasoned that its precedents have interpreted the term "seizure" by consulting the common law of arrest. In *California v. Hodari D.*, 499 U. S. 621 (1991), the Court explained that the common law considered the application of physical force to the body with the intent to restrain to be an arrest, regardless of whether the person yielded. The Court reviewed historical English and American legal decisions, confirming that the slightest touching with the intent to restrain was sufficient to complete an arrest. The Court found no basis to distinguish between a "laying on of hands" and other means of applying physical force, such as a bullet, to effect an arrest. The Court emphasized that the Fourth Amendment's focus is on the privacy and security of individuals, not the specific method of governmental intrusion.
+
+The Court clarified that a seizure by force requires the use of force with the intent to restrain, not force applied accidentally or for another purpose. The objective manifestation of intent to restrain is the relevant inquiry, not the subjective motivation of the officer or the perception of the suspect. Furthermore, a seizure by force lasts only as long as the application of force, unless the suspect submits.
+
+Applying this principle, the Court concluded that the officers seized Torres at the instant the bullets struck her, as the application of physical force objectively manifested an intent to restrain her movement. The Court vacated the Tenth Circuit's judgment and remanded the case for further proceedings, leaving open questions regarding the reasonableness of the seizure, the damages caused, and the officers' entitlement to qualified immunity.

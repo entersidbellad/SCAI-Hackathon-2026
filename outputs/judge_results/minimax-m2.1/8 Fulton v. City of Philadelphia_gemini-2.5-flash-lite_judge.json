@@ -1,0 +1,16 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The three specific legal questions presented to the Court",
+    "Justice Amy Coney Barrett's concurrence (joined by Kavanaugh and partially by Breyer)",
+    "Justice Samuel Alito's concurrence (joined by Thomas and Gorsuch) advocating to overrule Smith",
+    "Justice Neil Gorsuch's concurrence (joined by Thomas and Alito) criticizing the majority's circumvention of Smith",
+    "The reference to the Free Speech claim being raised but not ruled upon in the generated summary's legal questions section"
+  ],
+  "overall_assessment": "The generated summary is accurate and captures the essential facts, legal reasoning, and holding of the case. It correctly identifies the key issue (Free Exercise violation), the main reasoning (non-neutral and non-generally applicable due to discretionary exception provision), and the outcome (reversal and remand). However, it omits the specific legal questions presented and all the concurring opinions, which represent significant aspects of the Court's analysis and the justices' divided views on Employment Division v. Smith.",
+  "judge_score": 0.8
+}

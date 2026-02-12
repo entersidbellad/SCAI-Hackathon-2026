@@ -1,0 +1,15 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The specific examples of education-related benefits mentioned in the reference (computers, science equipment, musical instruments)",
+    "The NCAA's argument about promoting competitive equity and distinguishing college athletics from professional sports",
+    "Justice Kavanaugh's specific quote: 'there are serious questions whether the NCAA's remaining compensation rules can pass muster under ordinary rule of reason scrutiny'",
+    "The reference's clarification that the Court did not pass judgment on rules 'untethered to education' because they were not appealed"
+  ],
+  "overall_assessment": "The generated summary is accurate and well-structured, correctly identifying the key legal issues, the Court's reasoning (rule of reason analysis, rejection of Board of Regents as precedent, no Sherman Act exemption), and the holding. However, it omits some specific details from the reference, including concrete examples of education-related benefits, the NCAA's competitive equity argument, and Justice Kavanaugh's notable concluding quote about serious questions regarding remaining compensation rules.",
+  "judge_score": 0.8
+}

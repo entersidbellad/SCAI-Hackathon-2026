@@ -1,0 +1,93 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nThis case was the consolidation of cases arising in Kansas, South Carolina, Virginia, Delaware, and Washington D.C. relating to the segregation of public schools on the basis of race.",
+      "best_match": "In the Kansas case, Negro elementary school children in Topeka sought to enjoin a state statute permitting segregation in cities over 15,000 population (Kan. Gen. Stat.",
+      "similarity": 0.7322277426719666,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In each of the cases, African American students had been denied admittance to certain public schools based on laws allowing public education to be segregated by race.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether segregation of white and Negro children in public schools solely on the basis of race, pursuant to state laws permitting or requiring such segregation, denies Negro children the equal protection of the laws guaranteed by the Fourteenth Amendment, even though physical facilities and other \"tangible\" factors of white and Negro schools may be equal.",
+      "similarity": 0.6824340224266052,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "They argued that such segregation violated the Equal Protection Clause of the Fourteenth Amendment.",
+      "best_match": "Conclusion/Holding\nThe Court unanimously held that such segregation denies Negro children equal protection under the Fourteenth Amendment, as separate educational facilities are inherently unequal.",
+      "similarity": 0.7827565670013428,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The plaintiffs were denied relief in the lower courts based on Plessy v. Ferguson, which held that racially segregated public facilities were legal so long as the facilities for blacks and whites were equal.",
+      "best_match": "In each case except Delaware, lower federal courts denied relief based on the \"separate but equal\" doctrine from Plessy v. Ferguson, 163 U.S. 537.",
+      "similarity": 0.7458562254905701,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "(This was known as the \u201cseparate but equal\u201d doctrine.)",
+      "best_match": "This directly presented whether the \"separate but equal\" doctrine from Plessy v. Ferguson, 163 U.S. 537, applies to public education, particularly where lower courts found or were equalizing tangible factors such as buildings, curricula, transportation, and teacher qualifications.",
+      "similarity": 0.6251744031906128,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes the segregation of public education based solely on race violate the Equal Protection Clause of the Fourteenth Amendment?",
+      "best_match": "The precedent is that racial segregation in public schools violates the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.8352088928222656,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nSeparate but equal educational facilities for racial minorities is inherently unequal, violating the Equal Protection Clause of the Fourteenth Amendment.",
+      "best_match": "Conclusion/Holding\nThe Court unanimously held that such segregation denies Negro children equal protection under the Fourteenth Amendment, as separate educational facilities are inherently unequal.",
+      "similarity": 0.8634769916534424,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice Earl Warren delivered the opinion of the unanimous Court.",
+      "best_match": "Const., \u00a7 140; Va. Code \u00a7 22-221 (1950)); the three-judge district court ordered equalization but upheld segregation (103 F. Supp.",
+      "similarity": 0.4105336666107178,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court held that \u201cseparate but equal\u201d facilities are inherently unequal and violate the protections of the Equal Protection Clause of the Fourteenth Amendment.",
+      "best_match": "Conclusion/Holding\nThe Court unanimously held that such segregation denies Negro children equal protection under the Fourteenth Amendment, as separate educational facilities are inherently unequal.",
+      "similarity": 0.7006649374961853,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court reasoned that the segregation of public education based on race instilled a sense of inferiority that had a hugely detrimental effect on the education and personal growth of African American children.",
+      "best_match": "Segregation itself deprives minority children of equal educational opportunities by generating a feeling of inferiority affecting their hearts and minds, supported by district court findings (e.g., Kansas: 98 F. Supp.",
+      "similarity": 0.7427994608879089,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Warren based much of his opinion on information from social science studies rather than court precedent.",
+      "best_match": "Chief Justice Warren's opinion reasoned that the history of the Fourteenth Amendment is inconclusive regarding public education, given its limited development in 1868 (e.g., nonexistent Negro education in the South, rudimentary Northern systems), requiring consideration of education's modern central role in American life as a right available on equal terms where states provide it, essential for citizenship, cultural awakening, professional training, and life success.",
+      "similarity": 0.5348101854324341,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The decision also used language that was relatively accessible to non-lawyers because Warren felt it was necessary for all Americans to understand its logic.",
+      "best_match": "Chief Justice Warren's opinion reasoned that the history of the Fourteenth Amendment is inconclusive regarding public education, given its limited development in 1868 (e.g., nonexistent Negro education in the South, rudimentary Northern systems), requiring consideration of education's modern central role in American life as a right available on equal terms where states provide it, essential for citizenship, cultural awakening, professional training, and life success.",
+      "similarity": 0.47805023193359375,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Chief Justice Earl Warren delivered the opinion of the unanimous Court.",
+      "best_similarity": 0.4105336666107178,
+      "best_match": "Const., \u00a7 140; Va. Code \u00a7 22-221 (1950)); the three-judge district court ordered equalization but upheld segregation (103 F. Supp."
+    },
+    {
+      "sentence": "The decision also used language that was relatively accessible to non-lawyers because Warren felt it was necessary for all Americans to understand its logic.",
+      "best_similarity": 0.47805023193359375,
+      "best_match": "Chief Justice Warren's opinion reasoned that the history of the Fourteenth Amendment is inconclusive regarding public education, given its limited development in 1868 (e.g., nonexistent Negro education in the South, rudimentary Northern systems), requiring consideration of education's modern central role in American life as a right available on equal terms where states provide it, essential for citizenship, cultural awakening, professional training, and life success."
+    }
+  ],
+  "total_gt_sentences": 12,
+  "covered_sentences": 10,
+  "coverage_percentage": 83.33333333333334,
+  "coverage_score": 0.8333333333333335,
+  "threshold": 0.5
+}

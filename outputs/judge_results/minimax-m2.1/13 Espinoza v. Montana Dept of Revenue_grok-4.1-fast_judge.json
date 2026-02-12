@@ -1,0 +1,10 @@
+{
+  "factual_accuracy": 5,
+  "completeness": 5,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [],
+  "overall_assessment": "The generated summary is highly faithful to the reference summary, providing exceptional factual accuracy with additional contextual details that enhance understanding without introducing errors. It maintains the definitive language of the reference and covers all key points including the voting breakdown, specific concurrences and dissents, and the core legal reasoning about strict scrutiny and status-based discrimination.",
+  "judge_score": 1.0
+}

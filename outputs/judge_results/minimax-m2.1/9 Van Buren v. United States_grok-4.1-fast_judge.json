@@ -1,0 +1,31 @@
+{
+  "factual_accuracy": 2,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "Nathan Van Buren, a former police sergeant with the Wrens, Georgia Police Department",
+      "issue": "The city is incorrect - Van Buren was with the Cumming, Georgia Police Department, not Wrens",
+      "correct_info": "Nathan Van Buren was a sergeant with the Cumming, Georgia, Police Department"
+    },
+    {
+      "error_quote": "Albo offered Van Buren approximately $5,000",
+      "issue": "The loan amount is incorrect - Van Buren asked for over $15,000 to settle his son's medical bills, not $5,000",
+      "correct_info": "Van Buren asked Albo for a loan, falsely claiming that he needed over $15,000 to settle his son's medical bills"
+    },
+    {
+      "error_quote": "The U.S. Court of Appeals for the Eleventh Circuit affirmed",
+      "issue": "The circuit court is incorrect - it was the Sixth Circuit that decided the appeal, not the Eleventh Circuit",
+      "correct_info": "The U.S. Court of Appeals for the Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial. It found no deficiencies in the conviction for computer fraud and affirmed that conviction"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The honest-services wire fraud charge (18 U.S.C. \u00a7\u00a7 1343 and 1346) that was also brought against Van Buren",
+    "The Sixth Circuit's finding that the jury instructions for the honest-services count were fatally flawed and the remand for a new trial on that charge",
+    "The detail that Albo recorded the conversation without Van Buren's knowledge and presented it to a detective alleging Van Buren was 'shaking him down for his money'",
+    "The detail that Van Buren admitted to the fake story about his son, his use of the government database, and that he understood the purpose of the search"
+  ],
+  "overall_assessment": "The generated summary contains multiple factual errors including incorrect city name (Wrens vs Cumming), incorrect loan amount ($5,000 vs over $15,000), and incorrect circuit court (Eleventh vs Sixth). It also omits the honest-services wire fraud charge and the Sixth Circuit's remand on that count. While the legal reasoning and holding are accurately presented, the factual inaccuracies significantly reduce its reliability.",
+  "judge_score": 0.5
+}

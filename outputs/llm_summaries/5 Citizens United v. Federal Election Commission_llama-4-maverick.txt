@@ -1,0 +1,16 @@
+### Summary of Citizens United v. FEC
+
+#### 1. Facts of the Case
+Citizens United, a non-profit corporation, produced a documentary critical of then-Senator Hillary Clinton during her 2008 presidential primary campaign. The corporation intended to make the documentary available through video-on-demand, a cable television service. However, it was concerned that doing so within 30 days of the primary elections would violate the Bipartisan Campaign Reform Act of 2002 (BCRA), specifically 2 U.S.C. §441b, which prohibits corporations and unions from using their general treasury funds to make independent expenditures for speech that is an "electioneering communication" or for speech that expressly advocates the election or defeat of a candidate. Citizens United sought declaratory and injunctive relief against the Federal Election Commission (FEC), arguing that §441b was unconstitutional as applied to its documentary and that BCRA's disclaimer, disclosure, and reporting requirements were unconstitutional as applied to the documentary and related advertisements.
+
+#### 2. Legal Question(s)
+The Court addressed two primary legal questions:
+1. Whether the restriction on corporate independent expenditures under §441b violates the First Amendment.
+2. Whether BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.
+
+#### 3. Conclusion/Holding
+The Supreme Court held that:
+1. **§441b's restriction on corporate independent expenditures is unconstitutional.** The Court overruled Austin v. Michigan Chamber of Commerce (1990) and the part of McConnell v. FEC (2003) that upheld BCRA §203's extension of §441b's restrictions on corporate independent expenditures. The Court found that political speech does not lose First Amendment protection simply because its source is a corporation. It rejected the antidistortion rationale and other justifications for restricting corporate political speech, concluding that such restrictions are not justified by a compelling governmental interest and are not narrowly tailored to achieve such an interest.
+2. **BCRA's disclaimer and disclosure requirements are constitutional as applied to Citizens United's documentary and advertisements.** The Court applied "exacting scrutiny" and found that these requirements serve a sufficiently important governmental interest in providing the electorate with information about the sources of election-related spending. The Court rejected Citizens United's argument that these requirements should be limited to speech that is the functional equivalent of express advocacy.
+
+The Court's decision effectively allows corporations and unions to spend unlimited amounts from their general treasuries on independent expenditures, such as advertisements and other forms of electioneering communications, as long as they do not coordinate with candidates or their campaigns. This ruling has had significant implications for campaign finance law and the role of money in politics.

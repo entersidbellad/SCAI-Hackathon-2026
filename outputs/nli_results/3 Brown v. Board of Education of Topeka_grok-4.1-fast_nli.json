@@ -1,0 +1,90 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\nThis case was the consolidation of cases arising in Kansas, South Carolina, Virginia, Delaware, and Washington D.C. relating to the segregation of public schools on the basis of race.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In each of the cases, African American students had been denied admittance to certain public schools based on laws allowing public education to be segregated by race.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.76513671875,
+        "neutral": 0.19189453125,
+        "entailment": 0.042877197265625
+      }
+    },
+    {
+      "sentence": "They argued that such segregation violated the Equal Protection Clause of the Fourteenth Amendment.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.94677734375,
+        "neutral": 0.046417236328125,
+        "entailment": 0.006992340087890625
+      }
+    },
+    {
+      "sentence": "The plaintiffs were denied relief in the lower courts based on Plessy v. Ferguson, which held that racially segregated public facilities were legal so long as the facilities for blacks and whites were equal.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "(This was known as the \u201cseparate but equal\u201d doctrine.)",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.9375,
+        "neutral": 0.053436279296875,
+        "entailment": 0.0088043212890625
+      }
+    },
+    {
+      "sentence": "Question\nDoes the segregation of public education based solely on race violate the Equal Protection Clause of the Fourteenth Amendment?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.990234375,
+        "neutral": 0.007801055908203125,
+        "entailment": 0.001953125
+      }
+    },
+    {
+      "sentence": "Conclusion\nSeparate but equal educational facilities for racial minorities is inherently unequal, violating the Equal Protection Clause of the Fourteenth Amendment.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.94775390625,
+        "neutral": 0.049774169921875,
+        "entailment": 0.0024852752685546875
+      }
+    },
+    {
+      "sentence": "Chief Justice Earl Warren delivered the opinion of the unanimous Court.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Supreme Court held that \u201cseparate but equal\u201d facilities are inherently unequal and violate the protections of the Equal Protection Clause of the Fourteenth Amendment.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court reasoned that the segregation of public education based on race instilled a sense of inferiority that had a hugely detrimental effect on the education and personal growth of African American children.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Warren based much of his opinion on information from social science studies rather than court precedent.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The decision also used language that was relatively accessible to non-lawyers because Warren felt it was necessary for all Americans to understand its logic.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 5
+  },
+  "total_sentences": 12,
+  "contradiction_rate": 0.4166666666666667,
+  "nli_score": 0.5833333333333333
+}

@@ -1,0 +1,167 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn March 2018, the City of Philadelphia barred Catholic Social Services (CSS) from placing children in foster homes because of its policy of not licensing same-sex couples to be foster parents.",
+      "best_match": "CSS holds the religious belief that marriage is between a man and a woman and therefore will not certify same-sex couples as foster parents.",
+      "similarity": 0.6688554286956787,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "CSS sued the City of Philadelphia, asking the court to order the city to renew their contract.",
+      "best_match": "### Summary of Fulton v. City of Philadelphia\n\n#### Facts of the Case\nThe case involves Catholic Social Services (CSS), a foster care agency in Philadelphia that has been contracted by the City to provide foster care services for over 50 years.",
+      "similarity": 0.5458543300628662,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "CSS argued that its right to free exercise of religion and free speech entitled it to reject qualified same-sex couples because they were same-sex couples, rather than for any reason related to their qualifications to care for children.",
+      "best_match": "CSS holds the religious belief that marriage is between a man and a woman and therefore will not certify same-sex couples as foster parents.",
+      "similarity": 0.7483774423599243,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court denied CSS's motion for a preliminary injunction, and the Third Circuit affirmed, finding that the City's non-discrimination policy was a neutral, generally applicable law and that CSS had not demonstrated that the City targeted CSS for its religious beliefs or was motivated by ill will against its religion.",
+      "best_match": "The Court found that the City's non-discrimination requirement in its contract with CSS was not generally applicable because it included a system of individualized exemptions at the discretion of the Commissioner.",
+      "similarity": 0.6970354318618774,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "#### Legal Question(s)\nThe Court addressed whether the City's actions in conditioning its contract with CSS on the agency's agreement to certify same-sex couples violated the Free Exercise Clause of the First Amendment.",
+      "similarity": 0.25733649730682373,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "To succeed on their free exercise claim, must plaintiffs prove that the government would allow the same conduct by someone who held different religious views, or only provide sufficient evidence that a law is not neutral and generally applicable?",
+      "best_match": "#### Legal Question(s)\nThe Court addressed whether the City's actions in conditioning its contract with CSS on the agency's agreement to certify same-sex couples violated the Free Exercise Clause of the First Amendment.",
+      "similarity": 0.4239344298839569,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Should the Court revisit its decision in Employment Division v. Smith?",
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.",
+      "similarity": 0.6664705872535706,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Does the government violate the First Amendment by conditioning a religious agency's ability to participate in the foster care system on taking actions and making statements that directly contradict the agency's religious beliefs?",
+      "best_match": "The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's certification practices, as foster care agencies are not considered \"public accommodations\" under the ordinance.",
+      "similarity": 0.425415962934494,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe refusal of Philadelphia to contract with CSS for the provision of foster care services unless CSS agrees to certify same-sex couples as foster parents violates the Free Exercise Clause of the First Amendment.",
+      "best_match": "#### Legal Question(s)\nThe Court addressed whether the City's actions in conditioning its contract with CSS on the agency's agreement to certify same-sex couples violated the Free Exercise Clause of the First Amendment.",
+      "similarity": 0.7411676645278931,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "best_match": "The judgment of the Third Circuit was reversed, and the case was remanded for further proceedings.",
+      "similarity": 0.3587174117565155,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Philadelphia's actions burdened CSS's religious exercise by forcing it either to curtail its mission or to certify same-sex couples as foster parents, in violation of its stated religious beliefs.",
+      "best_match": "CSS holds the religious belief that marriage is between a man and a woman and therefore will not certify same-sex couples as foster parents.",
+      "similarity": 0.6435325145721436,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Although the Court held in Employment Division v. Smith that neutral, generally applicable laws may incidentally burden religion, the Philadelphia law was not neutral and generally applicable because it allowed for exceptions to the anti-discrimination requirement at the sole discretion of the Commissioner.",
+      "best_match": "Specifically, the Court examined whether the City's non-discrimination policies were neutral and generally applicable, as required by Employment Division v. Smith (1990).",
+      "similarity": 0.7590622901916504,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, CSS's actions do not fall within public accommodations laws because certification as a foster parent is not \"made available to the public\" in the usual sense of the phrase.",
+      "best_match": "The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's certification practices, as foster care agencies are not considered \"public accommodations\" under the ordinance.",
+      "similarity": 0.7229788899421692,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Thus, the non-discrimination requirement is subject to strict scrutiny, which requires that the government show the law is necessary to achieve a compelling government interest.",
+      "best_match": "The Court applied strict scrutiny to the City's actions and found that they were not narrowly tailored to serve a compelling government interest.",
+      "similarity": 0.6390568614006042,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court pointed out that the question is not whether the City has a compelling interest in enforcing its non-discrimination policies generally, but whether it has such an interest in denying an exception to CSS.",
+      "best_match": "The Court found that the City's non-discrimination requirement in its contract with CSS was not generally applicable because it included a system of individualized exemptions at the discretion of the Commissioner.",
+      "similarity": 0.7908404469490051,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court concluded that it did not.",
+      "best_match": "The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's certification practices, as foster care agencies are not considered \"public accommodations\" under the ordinance.",
+      "similarity": 0.4853684902191162,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Amy Coney Barrett wrote a separate concurring opinion in which Justice Brett Kavanaugh joined and in which Justice Stephen Breyer joined as to all but the first paragraph.",
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.",
+      "similarity": 0.3587677478790283,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Barrett acknowledged strong arguments for overruling Smith but agreed with the majority that the facts of the case did not trigger Smith.",
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.",
+      "similarity": 0.5636457204818726,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Samuel Alito authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Neil Gorsuch joined.",
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.",
+      "similarity": 0.5413106679916382,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Alito would overrule Smith, replacing it with a rule that any law that burdens religious exercise must be subject to strict scrutiny.",
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.",
+      "similarity": 0.5989115238189697,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Gorsuch authored an opinion concurring in the judgment, in which Justices Thomas and Alito joined, criticizing the majority's circumvention of Smith.",
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.",
+      "similarity": 0.574533224105835,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.25733649730682373,
+      "best_match": "#### Legal Question(s)\nThe Court addressed whether the City's actions in conditioning its contract with CSS on the agency's agreement to certify same-sex couples violated the Free Exercise Clause of the First Amendment."
+    },
+    {
+      "sentence": "To succeed on their free exercise claim, must plaintiffs prove that the government would allow the same conduct by someone who held different religious views, or only provide sufficient evidence that a law is not neutral and generally applicable?",
+      "best_similarity": 0.4239344298839569,
+      "best_match": "#### Legal Question(s)\nThe Court addressed whether the City's actions in conditioning its contract with CSS on the agency's agreement to certify same-sex couples violated the Free Exercise Clause of the First Amendment."
+    },
+    {
+      "sentence": "Does the government violate the First Amendment by conditioning a religious agency's ability to participate in the foster care system on taking actions and making statements that directly contradict the agency's religious beliefs?",
+      "best_similarity": 0.425415962934494,
+      "best_match": "The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's certification practices, as foster care agencies are not considered \"public accommodations\" under the ordinance."
+    },
+    {
+      "sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "best_similarity": 0.3587174117565155,
+      "best_match": "The judgment of the Third Circuit was reversed, and the case was remanded for further proceedings."
+    },
+    {
+      "sentence": "The Court concluded that it did not.",
+      "best_similarity": 0.4853684902191162,
+      "best_match": "The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's certification practices, as foster care agencies are not considered \"public accommodations\" under the ordinance."
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett wrote a separate concurring opinion in which Justice Brett Kavanaugh joined and in which Justice Stephen Breyer joined as to all but the first paragraph.",
+      "best_similarity": 0.3587677478790283,
+      "best_match": "The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause."
+    }
+  ],
+  "total_gt_sentences": 21,
+  "covered_sentences": 15,
+  "coverage_percentage": 71.42857142857143,
+  "coverage_score": 0.7142857142857143,
+  "threshold": 0.5
+}

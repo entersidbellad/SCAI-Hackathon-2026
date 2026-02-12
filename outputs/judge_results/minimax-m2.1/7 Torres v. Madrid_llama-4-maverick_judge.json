@@ -1,0 +1,28 @@
+{
+  "factual_accuracy": 2,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "The majority opinion, delivered by Chief Justice Roberts, was joined by Justices Breyer, Sotomayor, Kagan, and Kavanaugh",
+      "issue": "The reference summary does not list the joining justices, but the generated summary includes Kavanaugh as a joiner. The reference summary only mentions that Justice Gorsuch authored a dissent joined by Thomas and Alito, and that Barrett took no part. The reference does not confirm Kavanaugh joined.",
+      "correct_info": "The reference summary states: 'Chief Justice John Roberts authored the majority opinion' and 'Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined.' It does not specify which justices joined the majority."
+    },
+    {
+      "error_quote": "The Court rejected the argument that a seizure requires actual control or submission",
+      "issue": "The reference summary does not explicitly mention this specific argument being rejected. The reference focuses on the common law definition and the application of force with intent to restrain.",
+      "correct_info": "The reference summary states: 'Under the Court's precedents, common law arrests are considered seizures under the Fourth Amendment, and the application of force to the body of a person with intent to restrain constitutes an arrest even if the arrestee escapes.'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Torres's criminal background and the crimes she pleaded no contest to (aggravated fleeing, assault on police officer, unlawfully taking motor vehicle)",
+    "The lower courts' reasoning that officers were entitled to qualified immunity because no seizure occurred",
+    "The specific legal standard that the key consideration is whether conduct objectively manifests intent to restrain (subjective perceptions are irrelevant)",
+    "The detail that the requirement of intent to restrain lasts only as long as the application of force",
+    "The reference to there being no reason to draw an 'artificial line' between grasping an arrestee with a hand and using other means of applying physical force",
+    "The reference to the officers endangering the two officers pursuing her during the incident"
+  ],
+  "overall_assessment": "The generated summary captures the core holding and basic facts but contains significant omissions including Torres's criminal background and the lower courts' qualified immunity reasoning. It also makes unsupported claims about which justices joined the majority. The summary is partially accurate but incomplete and includes some unverifiable details not present in the reference.",
+  "judge_score": 0.5
+}

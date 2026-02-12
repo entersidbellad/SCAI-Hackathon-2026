@@ -1,0 +1,136 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nAfter the 2020 census, Alabama created a redistricting plan for its seven seats in the U.S. House of Representatives.",
+      "best_match": "Facts of the Case\nAlabama's congressional districting map (HB1), enacted in 2021 following the 2020 decennial census showing 5.1% population growth, created seven single-member districts with only one majority-black voting-age population district (District 7), despite black voters comprising approximately 27% of the state's population and 25.9% of its voting-age population.",
+      "similarity": 0.6234066486358643,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "One of the districts in the plan is a majority-Black district.",
+      "best_match": "Plaintiffs satisfied the first precondition: eleven illustrative maps (e.g., by experts Moon Duchin and Bill Cooper) showed black voters could form a majority in a second reasonably configured district, performing as well as or better than HB1 on compactness, contiguity, equal population, and political subdivisions (e.g., splitting fewer or equal county lines), while respecting communities of interest like the Black Belt; Gulf Coast arguments failed for lack of evidence.",
+      "similarity": 0.5891076922416687,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Registered voters and several organizations challenged the map, arguing that the state had illegally packed Black voters into a single district while dividing other clusters of Black voters across multiple districts.",
+      "best_match": "Plaintiffs satisfied the first precondition: eleven illustrative maps (e.g., by experts Moon Duchin and Bill Cooper) showed black voters could form a majority in a second reasonably configured district, performing as well as or better than HB1 on compactness, contiguity, equal population, and political subdivisions (e.g., splitting fewer or equal county lines), while respecting communities of interest like the Black Belt; Gulf Coast arguments failed for lack of evidence.",
+      "similarity": 0.6807994842529297,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The challengers alleged that the map effectively minimizes the number of districts in which Black voters can elect their chosen candidates, in violation of Section 2 of the Voting Rights Act, which bans racial discrimination in voting policies.",
+      "best_match": "Plaintiffs satisfied the first precondition: eleven illustrative maps (e.g., by experts Moon Duchin and Bill Cooper) showed black voters could form a majority in a second reasonably configured district, performing as well as or better than HB1 on compactness, contiguity, equal population, and political subdivisions (e.g., splitting fewer or equal county lines), while respecting communities of interest like the Black Belt; Gulf Coast arguments failed for lack of evidence.",
+      "similarity": 0.6463383436203003,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A three-judge district court agreed with the challengers that the map likely violated Section 2 of the VRA, granting a preliminary injunction that ordered the state to draw a new map.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Alabama's HB1 congressional districting map likely violated \u00a72 of the VRA, 52 U.S.C.",
+      "similarity": 0.6475174427032471,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Alabama asked the U.S. Supreme Court to freeze the district court\u2019s injunction, which the Court did by a 5-4 decision pending a merits decision.",
+      "best_match": "Alabama appealed to the Supreme Court, which stayed the injunction (595 U.S. ___ (2022)) and noted probable jurisdiction in Milligan while granting certiorari before judgment in Caster from the Eleventh Circuit.",
+      "similarity": 0.6801713705062866,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes Alabama\u2019s 2021 redistricting plan for its seven U.S. House seats violate Section 2 of the Voting Rights Act?",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Alabama's HB1 congressional districting map likely violated \u00a72 of the VRA, 52 U.S.C.",
+      "similarity": 0.6340452432632446,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe district court correctly applied binding Supreme Court precedent to conclude that Alabama\u2019s redistricting map likely violates Section 2 of the Voting Rights Act.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Alabama's HB1 congressional districting map likely violated \u00a72 of the VRA, 52 U.S.C.",
+      "similarity": 0.705510675907135,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "best_match": "Chief Justice Roberts delivered the opinion (joined fully by Justices Sotomayor, Kagan, and Jackson; Justice Kavanaugh joined except Part III\u2013B\u20131).",
+      "similarity": 0.6524340510368347,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court\u2019s decision in Thornburg v. Gingles, 478 U.S. 30 (1986) sets out a three-part framework for evaluating claims brought under Section 2 of the Voting Rights Act.",
+      "best_match": "The Court applied the Gingles framework's three preconditions and totality-of-circumstances test: (1) whether black voters were sufficiently large and geographically compact for a majority in a reasonably configured district; (2) political cohesion; and (3) white bloc voting usually defeating black-preferred candidates.",
+      "similarity": 0.591494083404541,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "First, the plaintiffs must prove that the minority group is sufficiently large and geographically compact to constitute a majority in a reasonably configured district (measured by criteria such as contiguity and compactness).",
+      "best_match": "Plaintiffs satisfied the first precondition: eleven illustrative maps (e.g., by experts Moon Duchin and Bill Cooper) showed black voters could form a majority in a second reasonably configured district, performing as well as or better than HB1 on compactness, contiguity, equal population, and political subdivisions (e.g., splitting fewer or equal county lines), while respecting communities of interest like the Black Belt; Gulf Coast arguments failed for lack of evidence.",
+      "similarity": 0.6198621392250061,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Second, the plaintiffs must show that the minority group is politically cohesive.",
+      "best_match": "Subsidiary questions included: (a) whether plaintiffs' illustrative maps satisfied the first Gingles precondition as reasonably configured under traditional districting criteria (e.g., compactness, contiguity, equal population, respecting political subdivisions, communities of interest); (b) Alabama's \"race-neutral benchmark\" theory, requiring comparison to race-blind simulated maps rather than plaintiffs' illustrative maps; (c) whether \u00a72 applies to single-member districting challenges; and (d) whether \u00a72, as applied via Gingles to require race-conscious remedies, exceeds Congress's Fifteenth Amendment enforcement authority.",
+      "similarity": 0.5496434569358826,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Third, the plaintiffs must show that under the totality of the circumstances, the political process is not \u201cequally open\u201d to minority voters.",
+      "best_match": "Plaintiffs satisfied the first precondition: eleven illustrative maps (e.g., by experts Moon Duchin and Bill Cooper) showed black voters could form a majority in a second reasonably configured district, performing as well as or better than HB1 on compactness, contiguity, equal population, and political subdivisions (e.g., splitting fewer or equal county lines), while respecting communities of interest like the Black Belt; Gulf Coast arguments failed for lack of evidence.",
+      "similarity": 0.5638014078140259,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The majority applied that three-part framework to the facts in the record and agreed with the district court that the plaintiffs were likely to succeed on their challenge.",
+      "best_match": "The Court applied the Gingles framework's three preconditions and totality-of-circumstances test: (1) whether black voters were sufficiently large and geographically compact for a majority in a reasonably configured district; (2) political cohesion; and (3) white bloc voting usually defeating black-preferred candidates.",
+      "similarity": 0.5041850805282593,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The plaintiffs submitted maps demonstrating the traditional districting criteria, and the district court found \u201cno serious dispute\u201d that Black voters are politically cohesive or that the challenged districts\u2019 white majority consistently defeated Black voters\u2019 preferred candidates.",
+      "best_match": "Plaintiffs satisfied the first precondition: eleven illustrative maps (e.g., by experts Moon Duchin and Bill Cooper) showed black voters could form a majority in a second reasonably configured district, performing as well as or better than HB1 on compactness, contiguity, equal population, and political subdivisions (e.g., splitting fewer or equal county lines), while respecting communities of interest like the Black Belt; Gulf Coast arguments failed for lack of evidence.",
+      "similarity": 0.7718753814697266,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Brett Kavanaugh joined the majority opinion except for a discussion of the difference between race-consciousness and race-predominance.",
+      "best_match": "Chief Justice Roberts delivered the opinion (joined fully by Justices Sotomayor, Kagan, and Jackson; Justice Kavanaugh joined except Part III\u2013B\u20131).",
+      "similarity": 0.6081160306930542,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He concurred separately to emphasize and clarify four additional points.",
+      "best_match": "Chief Justice Roberts delivered the opinion (joined fully by Justices Sotomayor, Kagan, and Jackson; Justice Kavanaugh joined except Part III\u2013B\u20131).",
+      "similarity": 0.3767029643058777,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Neil Gorsuch joined in full, and Justices Amy Coney Barrett and Samuel Alito joined in part.",
+      "best_match": "Chief Justice Roberts delivered the opinion (joined fully by Justices Sotomayor, Kagan, and Jackson; Justice Kavanaugh joined except Part III\u2013B\u20131).",
+      "similarity": 0.5815942287445068,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas argued that Section 2 of the VRA does not require Alabama to redraw its congressional districts so that Black voters can control a number of seats proportional to Black voters in its population.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Alabama's HB1 congressional districting map likely violated \u00a72 of the VRA, 52 U.S.C.",
+      "similarity": 0.6449034214019775,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Alito authored a dissenting opinion in which Justice Gorsuch joined arguing that the majority\u2019s understanding of Gingles\u2014specifically its understanding of the phrase \u201creasonably configured\u201d within the context of the first precondition\u2014is flawed, and that a correct understanding would lead to a different result in this case.",
+      "best_match": "**Reasoning**: The District Court faithfully applied Gingles.",
+      "similarity": 0.607745885848999,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "He concurred separately to emphasize and clarify four additional points.",
+      "best_similarity": 0.3767029643058777,
+      "best_match": "Chief Justice Roberts delivered the opinion (joined fully by Justices Sotomayor, Kagan, and Jackson; Justice Kavanaugh joined except Part III\u2013B\u20131)."
+    }
+  ],
+  "total_gt_sentences": 20,
+  "covered_sentences": 19,
+  "coverage_percentage": 95.0,
+  "coverage_score": 0.95,
+  "threshold": 0.5
+}

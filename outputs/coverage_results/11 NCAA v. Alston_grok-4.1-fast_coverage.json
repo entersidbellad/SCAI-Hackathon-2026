@@ -1,0 +1,100 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn NCAA v. Board of Regents of the University of Oklahoma, 468 U.S. 85 (1984), the Supreme Court struck down the NCAA's television plan as violating antitrust law, but in so doing it held that the rules regarding eligibility standards for college athletes are subject to a different and less stringent analysis than other types of antitrust cases.",
+      "best_match": "of Okla., 468 U. S. 85 (1984), approved the NCAA\u2019s compensation limits; whether the NCAA merits a Sherman Act exemption as a noncommercial entity advancing undergraduate education; and whether the district court\u2019s application of the rule of reason\u2014requiring proof of anticompetitive effects, procompetitive justifications, and substantially less restrictive alternatives\u2014and its injunction were lawful, including claims of imposing a least-restrictive-means test, redefining amateurism, and micromanaging the NCAA.",
+      "similarity": 0.7479355931282043,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Because of this lower standard, the NCAA has long argued that antitrust law permits them to restrict athlete compensation to promote competitive equity and to distinguish college athletics from professional sports.",
+      "best_match": "The NCAA\u2019s compensation restrictions are subject to ordinary rule of reason analysis\u2014a fact-specific assessment of market power and actual effects on competition\u2014rather than quick-look approval, as the NCAA exercises monopsony power in the labor market for Division I basketball and FBS football student-athletes, suppressing wages and labor quantity below competitive levels.",
+      "similarity": 0.7624120712280273,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Several Division 1 football and basketball players filed a lawsuit against the NCAA, arguing that its restrictions on \"non-cash education-related benefits,\" violated antitrust law under the Sherman Act.",
+      "best_match": "The plaintiffs challenged the NCAA\u2019s rules limiting compensation and benefits for student-athletes as violations of \u00a71 of the Sherman Act, 15 U.S.C.",
+      "similarity": 0.7856622934341431,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court found for the athletes, holding that the NCAA must allow for certain types of academic benefits, such as \"computers, science equipment, musical instruments and other tangible items not included in the cost of attendance calculation but nonetheless related to the pursuit of academic studies.\"",
+      "best_match": "2019), the district court upheld NCAA rules limiting undergraduate athletic scholarships and compensation unrelated to education but enjoined rules capping education-related benefits, such as graduate or vocational school scholarships, academic tutoring payments, and post-eligibility internships.",
+      "similarity": 0.6926193237304688,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "However, the district court held that the NCAA may still limit cash or cash-equivalent awards for academic purposes.",
+      "best_match": "2019), the district court upheld NCAA rules limiting undergraduate athletic scholarships and compensation unrelated to education but enjoined rules capping education-related benefits, such as graduate or vocational school scholarships, academic tutoring payments, and post-eligibility internships.",
+      "similarity": 0.6909443140029907,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Ninth Circuit affirmed, recognizing the NCAA's interest in \"preserving amateurism,\" but concluding nevertheless that its practices violated antitrust law.",
+      "best_match": "The district court correctly applied the rule of reason: plaintiffs proved substantial anticompetitive effects (undisputed); the NCAA\u2019s procompetitive justification (preserving consumer demand for amateur college sports distinct from professional sports) succeeded only for non-education-related limits; and plaintiffs showed substantially less restrictive alternatives for education-related benefits, which \u201cemphasize that the recipients are students\u201d without blurring the college-professional distinction or impairing demand.",
+      "similarity": 0.7121768593788147,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes the National Collegiate Athletic Association (NCAA)'s prohibition on compensation for college athletes violate federal antitrust law?",
+      "best_match": "The plaintiffs challenged the NCAA\u2019s rules limiting compensation and benefits for student-athletes as violations of \u00a71 of the Sherman Act, 15 U.S.C.",
+      "similarity": 0.7448742985725403,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe NCAA's rules restricting certain education-related benefits for student-athletes violate federal antitrust laws.",
+      "best_match": "2019), the district court upheld NCAA rules limiting undergraduate athletic scholarships and compensation unrelated to education but enjoined rules capping education-related benefits, such as graduate or vocational school scholarships, academic tutoring payments, and post-eligibility internships.",
+      "similarity": 0.7668149471282959,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Writing for a unanimous Court, Justice Neil Gorsuch upheld the trial court's ruling.",
+      "best_match": "Justice Gorsuch delivered the opinion.",
+      "similarity": 0.6597366333007812,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court affirmed that the traditional \"rule of reason\" standard was appropriate in this case and rejected the NCAA's call for a more deferential standard.",
+      "best_match": "The district court correctly applied the rule of reason: plaintiffs proved substantial anticompetitive effects (undisputed); the NCAA\u2019s procompetitive justification (preserving consumer demand for amateur college sports distinct from professional sports) succeeded only for non-education-related limits; and plaintiffs showed substantially less restrictive alternatives for education-related benefits, which \u201cemphasize that the recipients are students\u201d without blurring the college-professional distinction or impairing demand.",
+      "similarity": 0.6879336833953857,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Because the student-athletes who brought the lawsuit did not appeal the Ninth Circuit's ruling upholding the NCAA's rules \"untethered to education,\" the Court did not pass judgment on that aspect of the case.",
+      "best_match": "The NCAA petitioned for certiorari, seeking reversal of the injunction; the student-athletes did not challenge the upheld rules.",
+      "similarity": 0.7282690405845642,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In affirming the Ninth Circuit's ruling, the Court clarified that a prior statement made in the 1984 case NCAA v. Board of Regents of the University of Oklahoma noting that the NCAA's role in maintaining the \"revered tradition of amateurism\" was \"entirely consistent with the goals of the Sherman Act\" was not a shield against all challenges to compensation restrictions, as such rules were not even at issue in that case.",
+      "best_match": "of Okla., 468 U. S. 85 (1984), approved the NCAA\u2019s compensation limits; whether the NCAA merits a Sherman Act exemption as a noncommercial entity advancing undergraduate education; and whether the district court\u2019s application of the rule of reason\u2014requiring proof of anticompetitive effects, procompetitive justifications, and substantially less restrictive alternatives\u2014and its injunction were lawful, including claims of imposing a least-restrictive-means test, redefining amateurism, and micromanaging the NCAA.",
+      "similarity": 0.8094301223754883,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Instead, there was nothing so unique about the NCAA or amateur sports to alter the traditional method of analysis applied to claims of antitrust violations.",
+      "best_match": "The NCAA receives no antitrust exemption for pursuing noncommercial educational objectives, as the Sherman Act applies regardless and exemptions are for Congress.",
+      "similarity": 0.5878763198852539,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In a concurring opinion, Justice Brett Kavanaugh noted that while other rules limiting student-athlete compensation unrelated to academics remain in place because they were not properly before the Court, this decision makes clear that the same traditional \"rule of reason\" analysis would apply.",
+      "best_match": "Justice Kavanaugh concurred, noting the decision requires ordinary rule of reason scrutiny for remaining NCAA compensation rules and questioning their procompetitive justification.",
+      "similarity": 0.7507120370864868,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He concluded, \"there are serious questions whether the NCAA's remaining compensation rules can pass muster under ordinary rule of reason scrutiny.\"",
+      "best_match": "Precedent: NCAA compensation rules receive no special deference and must withstand rule of reason scrutiny; courts must avoid rote frameworks but assess restraints\u2019 effects, justifications, and alternatives cautiously, mindful of judicial limits in dynamic markets.",
+      "similarity": 0.7139990329742432,
+      "is_covered": true
+    }
+  ],
+  "omissions": [],
+  "total_gt_sentences": 15,
+  "covered_sentences": 15,
+  "coverage_percentage": 100.0,
+  "coverage_score": 1.0,
+  "threshold": 0.5
+}

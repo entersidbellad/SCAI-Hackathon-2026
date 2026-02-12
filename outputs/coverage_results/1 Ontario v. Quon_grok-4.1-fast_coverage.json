@@ -1,0 +1,152 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nEmployees of the City of Ontario, California police department filed a 42 U.S.C.",
+      "best_match": "Facts of the Case\nThe City of Ontario, California (City), Ontario Police Department (OPD), and OPD Chief Lloyd Scharf (petitioners) issued alphanumeric pagers capable of sending and receiving text messages to OPD SWAT team members, including respondent Jeff Quon, a police sergeant, in October 2001.",
+      "similarity": 0.5139731764793396,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 1983 claim in a California federal district court against the police department, city, chief of police, and an internal affairs officer.",
+      "best_match": "\u00a7 1983 (Fourth Amendment), 18 U.S.C.",
+      "similarity": 0.46440303325653076,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "They alleged Fourth Amendment violations in relation to the police department's review of text messages made by an employee on a city issued text-message pager.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether petitioners violated respondents' Fourth Amendment rights against unreasonable searches and seizures by obtaining and reviewing transcripts of text messages sent and received on Jeff Quon's City-issued pager.",
+      "similarity": 0.694088339805603,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "While the city did not have an official text-messaging privacy policy, it did have a general \"Computer Usage, Internet and E-mail Policy.\"",
+      "best_match": "The City's Computer Usage, Internet and E-Mail Policy, acknowledged by Quon in March 2000, stated that users had no expectation of privacy in City computer resources, and OPD informed employees, including at an April 18, 2002, meeting attended by Quon and in a Chief Scharf memorandum dated April 29, 2002, that pager text messages were treated as e-mails subject to auditing.",
+      "similarity": 0.6872447729110718,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The policy in part stated that \"[t]he City of Ontario reserves the right to monitor and log all network activity including e-mail and Internet use, with or without notice,\" and that \"[u]sers should have no expectation of privacy or confidentiality when using these resources.\"",
+      "best_match": "The City's Computer Usage, Internet and E-Mail Policy, acknowledged by Quon in March 2000, stated that users had no expectation of privacy in City computer resources, and OPD informed employees, including at an April 18, 2002, meeting attended by Quon and in a Chief Scharf memorandum dated April 29, 2002, that pager text messages were treated as e-mails subject to auditing.",
+      "similarity": 0.6010071039199829,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Employees were told verbally that the text-messaging pagers were considered e-mail and subject to the general policy.",
+      "best_match": "The City's Computer Usage, Internet and E-Mail Policy, acknowledged by Quon in March 2000, stated that users had no expectation of privacy in City computer resources, and OPD informed employees, including at an April 18, 2002, meeting attended by Quon and in a Chief Scharf memorandum dated April 29, 2002, that pager text messages were treated as e-mails subject to auditing.",
+      "similarity": 0.6679598093032837,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court entered judgment in favor of the defendants.",
+      "best_match": "Justice Scalia concurred in judgment/part, rejecting O\u2019Connor plurality's \"operational realities\" as standardless and unnecessary here.",
+      "similarity": 0.4062452018260956,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed in part.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Ninth Circuit, 529 F. 3d 892, holding that petitioners did not violate respondents' Fourth Amendment rights because the search of Jeff Quon's pager transcripts was reasonable.",
+      "similarity": 0.700999915599823,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The court held that city employees had a reasonable expectation of privacy for the text messages they sent on their city-issued pagers because there was no text message privacy policy in place.",
+      "best_match": "The City's Computer Usage, Internet and E-Mail Policy, acknowledged by Quon in March 2000, stated that users had no expectation of privacy in City computer resources, and OPD informed employees, including at an April 18, 2002, meeting attended by Quon and in a Chief Scharf memorandum dated April 29, 2002, that pager text messages were treated as e-mails subject to auditing.",
+      "similarity": 0.7277975082397461,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Moreover, the court noted that the police department's review of the text messages was unreasonable because it could have used \"less intrusive methods\" to determine whether employees' had properly used the text messaging service.",
+      "best_match": "Precedent: Government employer searches of employee electronic communications are evaluated for reasonableness under O\u2019Connor even assuming privacy expectations; courts should avoid broad rules on evolving technology/workplace norms; no \"least intrusive means\" requirement.",
+      "similarity": 0.5924788117408752,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1) Does a city employee have a reasonable expectation of privacy in text messages transmitted on his city-issued pager when the police department has no official privacy policy for the pagers?",
+      "best_match": "The City's Computer Usage, Internet and E-Mail Policy, acknowledged by Quon in March 2000, stated that users had no expectation of privacy in City computer resources, and OPD informed employees, including at an April 18, 2002, meeting attended by Quon and in a Chief Scharf memorandum dated April 29, 2002, that pager text messages were treated as e-mails subject to auditing.",
+      "similarity": 0.7223619222640991,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "2) Did the Ninth Circuit contravene Supreme Court precedent by analyzing whether the police department could have used \"less intrusive methods\" of reviewing text messages?",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Ninth Circuit, 529 F. 3d 892, holding that petitioners did not violate respondents' Fourth Amendment rights because the search of Jeff Quon's pager transcripts was reasonable.",
+      "similarity": 0.5963689684867859,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nNot answered.",
+      "best_match": "Justice Stevens concurred, noting no resolution of O\u2019Connor framework and Quon's limited expectation.",
+      "similarity": 0.2955164313316345,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court held that the City of Ontario did not violate its employees' Fourth Amendment rights because the city's search of Mr. Quon's text messages was reasonable.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether petitioners violated respondents' Fourth Amendment rights against unreasonable searches and seizures by obtaining and reviewing transcripts of text messages sent and received on Jeff Quon's City-issued pager.",
+      "similarity": 0.6530332565307617,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "With Justice Anthony M. Kennedy writing for the majority, the Court reasoned that even assuming that Mr. Quon had a reasonable expectation of privacy in his text messages, the city's search of them was reasonable because it was motivated by a legitimate work-related purpose and was not excessive in scope.",
+      "best_match": "Under the O\u2019Connor plurality, 480 U.S. at 725-726, the search was justified at inception (jury-found legitimate work-related purpose: determining if 25,000-character limit met City needs and avoided officers paying for work messages or City subsidizing personal use); reasonable in scope (efficient/expedient review of only August-September 2002 transcripts for sample size; off-duty messages redacted by McMahon); and not excessively intrusive (Quon's limited privacy expectation as SWAT officer aware of auditing policy and scrutiny needs; less intrusive than personal email/wiretap).",
+      "similarity": 0.6939119100570679,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In reaching its conclusion, the Court rejected the Ninth Circuit's \"least intrusive\" means approach to the issue.",
+      "best_match": "The Ninth Circuit erred by applying a \"least intrusive means\" test, rejected in Vernonia School Dist.",
+      "similarity": 0.6685826778411865,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice John Paul Stevens concurred.",
+      "best_match": "Justice Stevens concurred, noting no resolution of O\u2019Connor framework and Quon's limited expectation.",
+      "similarity": 0.6410130858421326,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He observed that the majority had not settled on one of the three approaches enunciated in O'Connor v. Ortega for determining the parameters of a \"reasonable expectation of privacy.\"",
+      "best_match": "The Court examined the analytical framework from O\u2019Connor v. Ortega for government employer searches, including whether Jeff Quon had a reasonable expectation of privacy in his pager messages (considering the Computer Policy, OPD notices, and Duke's statements), whether petitioners' review constituted a Fourth Amendment search, and whether the warrantless search was reasonable under the O\u2019Connor plurality's two-step approach (operational realities of workplace for privacy expectation; then reasonableness under all circumstances for noninvestigatory work-related purposes or work-misconduct investigations) or Justice Scalia's concurrence (government offices generally protected, but searches reasonable/normal in private-employer context do not violate the Fourth Amendment).",
+      "similarity": 0.6706005930900574,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He reasoned that under any of the three approaches, Mr. Quon's expectations were not violated.",
+      "best_match": "Justice Stevens concurred, noting no resolution of O\u2019Connor framework and Quon's limited expectation.",
+      "similarity": 0.5702412128448486,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Antonin Scalia concurred in part and concurred in the judgment.",
+      "best_match": "Justice Scalia concurred in judgment/part, rejecting O\u2019Connor plurality's \"operational realities\" as standardless and unnecessary here.",
+      "similarity": 0.6374515891075134,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He disagreed that the Court tacitly reaffirmed the O'Connor framework for determining whether the Fourth Amendment applies to public employees, arguing that it was \"standardless\" and \"unsupported.\"",
+      "best_match": "The Court examined the analytical framework from O\u2019Connor v. Ortega for government employer searches, including whether Jeff Quon had a reasonable expectation of privacy in his pager messages (considering the Computer Policy, OPD notices, and Duke's statements), whether petitioners' review constituted a Fourth Amendment search, and whether the warrantless search was reasonable under the O\u2019Connor plurality's two-step approach (operational realities of workplace for privacy expectation; then reasonableness under all circumstances for noninvestigatory work-related purposes or work-misconduct investigations) or Justice Scalia's concurrence (government offices generally protected, but searches reasonable/normal in private-employer context do not violate the Fourth Amendment).",
+      "similarity": 0.6263958215713501,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "\u00a7 1983 claim in a California federal district court against the police department, city, chief of police, and an internal affairs officer.",
+      "best_similarity": 0.46440303325653076,
+      "best_match": "\u00a7 1983 (Fourth Amendment), 18 U.S.C."
+    },
+    {
+      "sentence": "The district court entered judgment in favor of the defendants.",
+      "best_similarity": 0.4062452018260956,
+      "best_match": "Justice Scalia concurred in judgment/part, rejecting O\u2019Connor plurality's \"operational realities\" as standardless and unnecessary here."
+    },
+    {
+      "sentence": "Conclusion\nNot answered.",
+      "best_similarity": 0.2955164313316345,
+      "best_match": "Justice Stevens concurred, noting no resolution of O\u2019Connor framework and Quon's limited expectation."
+    }
+  ],
+  "total_gt_sentences": 21,
+  "covered_sentences": 18,
+  "coverage_percentage": 85.71428571428571,
+  "coverage_score": 0.8571428571428571,
+  "threshold": 0.5
+}

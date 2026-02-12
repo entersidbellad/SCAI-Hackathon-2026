@@ -1,0 +1,155 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nNathan Van Buren was a sergeant with the Cumming, Georgia, Police Department.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In that capacity, he came to know a man named Andrew Albo, who allegedly paid young prostitutes to spend time with him and then accused the women of stealing the money he gave them.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Van Buren asked Albo for a loan, falsely claiming that he needed over $15,000 to settle his son's medical bills.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Unbeknownst to Van Buren, Albo recorded the conversation in which Van Buren requested the loan.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98779296875,
+        "neutral": 0.0117645263671875,
+        "entailment": 0.0006079673767089844
+      }
+    },
+    {
+      "sentence": "Albo presented the recording to a detective in the Forsyth County Sheriff's Office, alleging that Van Buren was \"shaking him down for his money.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "As a result, the FBI conducted a sting operation to test how far Van Buren was willing to go for money.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "As part of the sting operation, Albo asked Van Buren to look into a woman Albo named, to see whether she was an undercover officer before he would provide Van Buren with the full amount of money Van Buren requested.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Van Buren searched the woman's information in a government database maintained by the Georgia Bureau of Investigation (GBI) and the FBI.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The next day, FBI and GBI agents confronted Van Buren, and Van Buren admitted to the fake story about his son to get the loan from Albo, his use of the government database to search for the woman Albo mentioned might be an undercover officer, and that he understood the purpose of searching the database was to discover and reveal to Albo whether the woman was an undercover officer.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "A federal grand jury charged Van Buren with one count of honest-services wire fraud, in violation of 18 U.S.C.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "\u00a7\u00a7 1343 and 1346, and one count of felony computer fraud, in violation of 18 U.S.C.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "A jury convicted Van Buren on both counts, and Van Buren appealed his convictions.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The U.S. Court of Appeals for the Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "It found no deficiencies in the conviction for computer fraud and affirmed that conviction, citing Eleventh Circuit precedent holding that a person with authority to access a computer can be guilty of computer fraud if that person subsequently misuses the computer.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.5263671875,
+        "neutral": 0.462158203125,
+        "entailment": 0.01158905029296875
+      }
+    },
+    {
+      "sentence": "Question\nDoes a person who is authorized to access information on a computer for certain purposes violate Section 1030(a)(2) of the Computer Fraud and Abuse Act if he accesses that information for an improper purpose?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Conclusion\nAn individual \"exceeds authorized access\" under Section 1030(a)(2) of the Computer Fraud and Abuse Act of 1986 when he accesses a computer with authorization and obtains information located in particular areas of the computer that are off-limits to him, not simply when he obtains information available to him with improper motives.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.471435546875,
+        "neutral": 0.453369140625,
+        "entailment": 0.075439453125
+      }
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett authored the 6-3 majority opinion of the Court.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Under Section 1030(e)(6), an individual \"exceeds authorized access\" when he \"access[es] a computer with authorization\" and \"use[s] such access to obtain .",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98828125,
+        "neutral": 0.007472991943359375,
+        "entailment": 0.004150390625
+      }
+    },
+    {
+      "sentence": "information in the computer that the accesser is not entitled so to obtain.\"",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.900390625,
+        "neutral": 0.09283447265625,
+        "entailment": 0.00676727294921875
+      }
+    },
+    {
+      "sentence": "The parties in this case agreed that Van Buren was entitled to obtain the license-plate information, but they disagreed that he was \"entitled so to obtain\" it.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Van Buren argued that the phrase means information one is not allowed to obtain \"by using a computer that he is authorized to access,\" while the government argued that it meant information one was not allowed to obtain \"in the particular manner or circumstances in which he obtained it.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court found Van Buren's interpretation more plausible and natural than the government's, and the statute's structure further supports that interpretation.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Moreover, the statutory history\u2014Congress's choice to remove the statute's reference to purpose\u2014lends still further support to Van Buren's reading.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Finally, to adopt the government's interpretation \"would attach criminal penalties to a breathtaking amount of commonplace computer activity\" and would inject arbitrariness into the assessment of criminal liability.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a dissenting opinion, which Chief Justice John Roberts and Justice Samuel Alito joined, arguing that \"the text, ordinary principles of property law, and statutory history\" support the government's proposed interpretation of the provision.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 5
+  },
+  "total_sentences": 25,
+  "contradiction_rate": 0.2,
+  "nli_score": 0.8
+}

@@ -1,0 +1,10 @@
+### Summary of Torres v. Madrid
+
+#### 1. Facts of the Case
+The case involves petitioner Roxanne Torres, who was shot by New Mexico State Police Officers Janice Madrid and Richard Williamson. The officers arrived at an Albuquerque apartment complex to execute an arrest warrant for a different individual. Torres, who was experiencing methamphetamine withdrawal, got into her car and attempted to escape, believing the officers were carjackers. The officers fired 13 shots, striking Torres twice. She managed to escape, drove 75 miles to a hospital, and was later arrested the next day upon being airlifted back to Albuquerque. Torres sought damages under 42 U.S.C. §1983, claiming the officers used excessive force and that the shooting constituted an unreasonable seizure under the Fourth Amendment.
+
+#### 2. Legal Question(s)
+The specific legal question addressed by the Court was whether the application of physical force to a person's body with the intent to restrain constitutes a seizure under the Fourth Amendment, even if the person does not submit to the authority or is not subdued.
+
+#### 3. Conclusion/Holding
+The Supreme Court held that the application of physical force to the body of a person with the intent to restrain is a seizure, even if the person does not submit and is not subdued. The Court's reasoning was based on the common law of arrest, which considered the slightest touching or application of physical force to be an arrest. The Court rejected the argument that a seizure requires actual control or submission, holding that the use of force with intent to restrain is sufficient. The Court's decision vacated the Tenth Circuit's judgment and remanded the case for further proceedings to address the reasonableness of the seizure, damages, and the officers' entitlement to qualified immunity. The majority opinion, delivered by Chief Justice Roberts, was joined by Justices Breyer, Sotomayor, Kagan, and Kavanaugh, while Justice Gorsuch dissented, joined by Justices Thomas and Alito. Justice Barrett took no part in the decision.

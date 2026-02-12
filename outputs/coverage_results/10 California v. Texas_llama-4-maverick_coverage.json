@@ -1,0 +1,168 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn 2012, the U.S. Supreme Court upheld the individual mandate of the Affordable Care Act (ACA) against a constitutional challenge by characterizing the penalty for not buying health insurance as a tax, which Congress has the power to impose.",
+      "best_match": "Facts of the Case\n\nThe Patient Protection and Affordable Care Act (ACA), enacted in 2010, originally required most Americans to obtain minimum essential health insurance coverage and imposed a monetary penalty on those who failed to comply.",
+      "similarity": 0.795199453830719,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In 2017, the Republican-controlled Congress enacted an amendment to the ACA that set the penalty for not buying health insurance to zero, but it left the rest of the ACA in place.",
+      "best_match": "Facts of the Case\n\nThe Patient Protection and Affordable Care Act (ACA), enacted in 2010, originally required most Americans to obtain minimum essential health insurance coverage and imposed a monetary penalty on those who failed to comply.",
+      "similarity": 0.640113890171051,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Texas and several other states and individuals filed a lawsuit in federal court challenging the individual mandate again, arguing that because the penalty was zero, it can no longer be characterized as a tax and is therefore unconstitutional.",
+      "best_match": "Texas, along with 17 other states and two individuals (Neill Hurley and John Nantz), brought suit against federal officials, claiming that without the penalty, the ACA's minimum essential coverage provision (26 U.S.C.",
+      "similarity": 0.5891106128692627,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "California and several other states joined the lawsuit to defend the individual mandate.",
+      "best_match": "California and other states intervened to defend the ACA's constitutionality.",
+      "similarity": 0.7175629138946533,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The federal district court held that the individual mandate is now unconstitutional and that as a result, the entire ACA is invalidated because the individual mandate cannot be \"severed\" from the rest of the Act.",
+      "best_match": "They sought a declaration that \u00a75000A(a) is unconstitutional, a finding that the rest of the ACA is not severable from \u00a75000A(a), and an injunction against enforcement of the rest of the ACA.",
+      "similarity": 0.669640302658081,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Fifth Circuit upheld the district court's conclusion but remanded the case for reconsideration of whether any part of the ACA survives in the absence of the individual mandate.",
+      "best_match": "The Court reversed the Fifth Circuit's judgment regarding standing, vacated the judgment, and remanded the case with instructions to dismiss.",
+      "similarity": 0.6018860340118408,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court granted California's petition for review, as well as Texas's cross-petition for review.",
+      "best_match": "California and other states intervened to defend the ACA's constitutionality.",
+      "similarity": 0.44317781925201416,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Question\nDo the plaintiffs in this case have standing to challenge the individual mandate of the Affordable Care Act (ACA), which now has a penalty of zero for not buying health insurance?",
+      "best_match": "Facts of the Case\n\nThe Patient Protection and Affordable Care Act (ACA), enacted in 2010, originally required most Americans to obtain minimum essential health insurance coverage and imposed a monetary penalty on those who failed to comply.",
+      "similarity": 0.6942002773284912,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "If the plaintiffs have standing, is the individual mandate unconstitutional?",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the plaintiffs do not have standing to challenge the constitutionality of \u00a75000A(a) because they have not shown a past or future injury fairly traceable to the defendants' conduct enforcing the specific statutory provision they attack as unconstitutional.",
+      "similarity": 0.5453121662139893,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "If the individual mandate is unconstitutional, is it severable from the remainder of the ACA?",
+      "best_match": "They sought a declaration that \u00a75000A(a) is unconstitutional, a finding that the rest of the ACA is not severable from \u00a75000A(a), and an injunction against enforcement of the rest of the ACA.",
+      "similarity": 0.6865739226341248,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe plaintiffs lack standing to challenge the Affordable Care Act's minimum essential coverage provision.",
+      "best_match": "Facts of the Case\n\nThe Patient Protection and Affordable Care Act (ACA), enacted in 2010, originally required most Americans to obtain minimum essential health insurance coverage and imposed a monetary penalty on those who failed to comply.",
+      "similarity": 0.5754945278167725,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Stephen Breyer authored the 7-2 majority opinion of the Court.",
+      "best_match": "The Court reversed the Fifth Circuit's judgment regarding standing, vacated the judgment, and remanded the case with instructions to dismiss.",
+      "similarity": 0.3599507212638855,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "To have standing to bring a claim in federal court, a plaintiff must \"allege personal injury fairly traceable to the defendant's allegedly unlawful conduct and likely to be redressed by the requested relief.\"",
+      "best_match": "The Court considered whether the individual and state plaintiffs have alleged a personal injury fairly traceable to the defendants' allegedly unlawful conduct and likely to be redressed by the requested relief.",
+      "similarity": 0.8140519261360168,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "No plaintiff in this case has shown such an injury.",
+      "best_match": "The Court concluded that the lack of enforcement or threat of enforcement of \u00a75000A(a) means that the plaintiffs' injuries are not redressable by a declaratory judgment that \u00a75000A(a) is unconstitutional.",
+      "similarity": 0.5231711864471436,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "With respect to the individual plaintiffs, the Court found the injuries they alleged\u2014past and future payments necessary to carry the minimum essential coverage that \u00a75000A(a) requires\u2014not \"fairly traceable\" to the allegedly unlawful conduct.",
+      "best_match": "The Court considered whether the individual and state plaintiffs have alleged a personal injury fairly traceable to the defendants' allegedly unlawful conduct and likely to be redressed by the requested relief.",
+      "similarity": 0.7488250732421875,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "There is no penalty for noncompliance, only the statute's unenforceable language, which alone is insufficient to establish standing.",
+      "best_match": "The Court reasoned that, without a penalty, \u00a75000A(a) is unenforceable, and the individual plaintiffs' alleged pocketbook injury (costs of purchasing health insurance) is not fairly traceable to any Government action or conduct.",
+      "similarity": 0.49686720967292786,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "With respect to the state plaintiffs, the Court found the injuries they alleged not traceable to the government's allegedly unlawful conduct.",
+      "best_match": "The Court considered whether the individual and state plaintiffs have alleged a personal injury fairly traceable to the defendants' allegedly unlawful conduct and likely to be redressed by the requested relief.",
+      "similarity": 0.7751092910766602,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The state plaintiffs alleged direct and indirect injuries.",
+      "best_match": "The Court considered whether the individual and state plaintiffs have alleged a personal injury fairly traceable to the defendants' allegedly unlawful conduct and likely to be redressed by the requested relief.",
+      "similarity": 0.7289759516716003,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The states alleged indirect injuries in the form of increased costs to run state-operated medical insurance programs, but they failed to show how an unenforceable mandate would cause state residents to enroll in valuable benefits programs that they would otherwise forgo.",
+      "best_match": "Similarly, the state plaintiffs' alleged injuries, both indirect (increased costs to state-operated medical insurance programs) and direct (administrative and related expenses), are not traceable to the Government's enforcement of \u00a75000A(a).",
+      "similarity": 0.7512322068214417,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The states alleged direct injuries in the form of increased administrative and related expenses, but those expenses are the result of other provisions of the Act, not \u00a75000A(a) and are thus not fairly traceable to the conduct alleged.",
+      "best_match": "Similarly, the state plaintiffs' alleged injuries, both indirect (increased costs to state-operated medical insurance programs) and direct (administrative and related expenses), are not traceable to the Government's enforcement of \u00a75000A(a).",
+      "similarity": 0.828843355178833,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas authored a concurring opinion, praising Justice Samuel Alito's dissent in this case (describing the \"epic Affordable Care Act trilogy\") but stopping short of agreeing with his opinion in its entirety because Justice Thomas agreed with the majority that the plaintiffs lack standing in this case.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the plaintiffs do not have standing to challenge the constitutionality of \u00a75000A(a) because they have not shown a past or future injury fairly traceable to the defendants' conduct enforcing the specific statutory provision they attack as unconstitutional.",
+      "similarity": 0.44184526801109314,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Samuel Alito authored a dissenting opinion, which Justice Neil Gorsuch joined, arguing that Texas and the other state plaintiffs have standing and that because the \"tax\" imposed by the individual mandate is now $0, the mandate cannot be sustained under the taxing power.",
+      "best_match": "Texas, along with 17 other states and two individuals (Neill Hurley and John Nantz), brought suit against federal officials, claiming that without the penalty, the ACA's minimum essential coverage provision (26 U.S.C.",
+      "similarity": 0.4348827600479126,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "The Supreme Court granted California's petition for review, as well as Texas's cross-petition for review.",
+      "best_similarity": 0.44317781925201416,
+      "best_match": "California and other states intervened to defend the ACA's constitutionality."
+    },
+    {
+      "sentence": "Justice Stephen Breyer authored the 7-2 majority opinion of the Court.",
+      "best_similarity": 0.3599507212638855,
+      "best_match": "The Court reversed the Fifth Circuit's judgment regarding standing, vacated the judgment, and remanded the case with instructions to dismiss."
+    },
+    {
+      "sentence": "There is no penalty for noncompliance, only the statute's unenforceable language, which alone is insufficient to establish standing.",
+      "best_similarity": 0.49686720967292786,
+      "best_match": "The Court reasoned that, without a penalty, \u00a75000A(a) is unenforceable, and the individual plaintiffs' alleged pocketbook injury (costs of purchasing health insurance) is not fairly traceable to any Government action or conduct."
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a concurring opinion, praising Justice Samuel Alito's dissent in this case (describing the \"epic Affordable Care Act trilogy\") but stopping short of agreeing with his opinion in its entirety because Justice Thomas agreed with the majority that the plaintiffs lack standing in this case.",
+      "best_similarity": 0.44184526801109314,
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the plaintiffs do not have standing to challenge the constitutionality of \u00a75000A(a) because they have not shown a past or future injury fairly traceable to the defendants' conduct enforcing the specific statutory provision they attack as unconstitutional."
+    },
+    {
+      "sentence": "Justice Samuel Alito authored a dissenting opinion, which Justice Neil Gorsuch joined, arguing that Texas and the other state plaintiffs have standing and that because the \"tax\" imposed by the individual mandate is now $0, the mandate cannot be sustained under the taxing power.",
+      "best_similarity": 0.4348827600479126,
+      "best_match": "Texas, along with 17 other states and two individuals (Neill Hurley and John Nantz), brought suit against federal officials, claiming that without the penalty, the ACA's minimum essential coverage provision (26 U.S.C."
+    }
+  ],
+  "total_gt_sentences": 22,
+  "covered_sentences": 17,
+  "coverage_percentage": 77.27272727272727,
+  "coverage_score": 0.7727272727272727,
+  "threshold": 0.5
+}

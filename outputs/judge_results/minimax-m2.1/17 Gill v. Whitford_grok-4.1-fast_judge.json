@@ -1,0 +1,33 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "The defendants moved to dismiss for lack of standing, arguing that individual voters' interests are limited to their own districts. A three-judge District Court denied the motion (Whitford v. Nichol, 151 F. Supp. 3d 918 (WD Wis. 2015)), held a trial, and ruled Act 43 unconstitutional under a three-part test",
+      "issue": "The generated summary omits that Act 43 was passed in 2011, not 2015, and implies the district court denied the motion to dismiss when it did, but the key issue on appeal was standing which the Supreme Court found lacking.",
+      "correct_info": "The reference summary states the redistricting plan was introduced in July 2011, passed by both chambers, and signed by the governor in August 2011. The plan faced two legal challenges even before enactment. The Supreme Court found the plaintiffs failed to demonstrate Article III standing, vacating the district court's judgment."
+    },
+    {
+      "error_quote": "Justice Kagan agreed with the findings and conclusions of the Court but wrote separately, in essence, to describe how the plaintiffs might proceed upon remand.",
+      "issue": "This understates the significance of Kagan's concurrence. The reference shows she was advocating for a broader theory of associational harm under the First Amendment that would allow statewide claims without requiring district-specific injury proof.",
+      "correct_info": "Justice Kagan 'agreed with the findings and conclusions of the Court but wrote separately, in essence, to describe how the plaintiffs might proceed upon remand' and suggests 'plaintiffs might present more than simply a vote dilution theory, but also an infringement of their First Amendment right of association' which 'would not require the plaintiffs to show injury-in-fact in the form of injury to her particular voting district because that claim would be statewide in nature.'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [
+    {
+      "summary_says": "The Supreme Court held unanimously that the plaintiffs failed to demonstrate Article III standing and vacated the District Court's judgment",
+      "reference_says": "The plaintiffs failed to demonstrate Article III standing, so there is no need to resolve any of the questions presented. In a unanimous decision authored by Chief Justice John Roberts, the Court sidestepped (for now) all of the key issues regarding partisan gerrymandering, resolving the case instead on the technical issue of judicial standing.",
+      "issue": "The generated summary is actually more definitive ('held unanimously that the plaintiffs failed to demonstrate Article III standing') compared to the reference which emphasizes the Court 'sidestepped' issues, but this is accurate - the holding was indeed about standing."
+    }
+  ],
+  "key_omissions": [
+    "The five specific legal questions presented in the case (authority for statewide challenge, constitutionality of the plan, incorrect gerrymander test, defendants' evidence entitlement, and justiciability)",
+    "That the plan was passed in 2011 after the 2010 census and first Republican control in 40+ years",
+    "That the plan already faced and survived one federal court challenge before this case",
+    "The detail that Thomas and Gorsuch disagreed with the remand disposition and wanted dismissal",
+    "The specific context that the Court 'sidestepped (for now) all of the key issues regarding partisan gerrymandering'"
+  ],
+  "overall_assessment": "The generated summary provides substantial factual detail about the procedural history, plaintiffs, and legal arguments, including additional information not in the reference (specific election results, efficiency gap metric, details about the three-part test). However, it omits several key elements from the reference, including the five specific legal questions, the 2011 timeline of the redistricting plan, the prior legal challenge it faced, and the precise nature of Thomas/Gorsuch's disagreement. The summary accurately captures the core holding on standing but slightly understates Kagan's concurrence about associational harm theory. Overall, a solid summary with good supplementary detail but missing some reference points.",
+  "judge_score": 0.8
+}

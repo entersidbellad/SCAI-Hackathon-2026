@@ -1,0 +1,29 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "The District Court denied the creditors' motions to dismiss, but the First Circuit Court of Appeals reversed, holding that the Board members' appointments violated the Appointments Clause.",
+      "issue": "The reference summary states the District Court ruled against the creditors (denied their challenge), but the generated summary incorrectly says the District Court 'denied the creditors' motions to dismiss' which is ambiguous and could imply the opposite outcome. More importantly, the reference indicates the District Court found the board is an instrumentality of the Commonwealth and members are not 'Officers of the United States' - the generated summary doesn't capture this key reasoning.",
+      "correct_info": "The reference states: 'The federal district court in Puerto Rico ruled against the creditors, finding the board is an instrumentality of the Commonwealth government established pursuant to Congress's plenary powers under the Territorial Clause and that the board members are not \"Officers of the United States.\"'"
+    }
+  ],
+  "hedging_detected": true,
+  "hedging_examples": [
+    {
+      "summary_says": "The Board's responsibilities, such as representing Puerto Rico in bankruptcy proceedings and overseeing Puerto Rico's fiscal and budgetary policies, are primarily local in nature.",
+      "reference_says": "The Board members have primarily local powers and duties, exemplified by the fact that the power of the Board is backed by Puerto Rico law rather than federal law.",
+      "issue": "The generated summary uses 'primarily local in nature' which softens the definitive nature of the reference's statement. The reference makes a stronger claim that the power is 'backed by Puerto Rico law rather than federal law' as the key exemplification, which the generated summary omits."
+    }
+  ],
+  "key_omissions": [
+    "The reference mentions Puerto Rico's debt accumulated since 1898 and the 2015 'death spiral' announcement by the governor",
+    "The reference states the Board was appointed based on lists supplied by Republic and Democratic lawmakers",
+    "The reference notes the second question about the de facto officer doctrine and that the Court had 'no reason to address' it",
+    "The reference mentions the judgment was unanimous and Justice Breyer authored the opinion",
+    "The reference includes Justice Thomas's concurrence based on 'original public meaning'",
+    "The reference includes Justice Sotomayor's concurrence exploring Puerto Rico-US relationship issues"
+  ],
+  "overall_assessment": "The generated summary captures the core holding and main legal reasoning accurately, but contains minor factual imprecision regarding the District Court's ruling and omits several important details including the unanimous nature of the judgment, the author's identity, and both concurring opinions. The summary also shows some hedging in language compared to the definitive statements in the reference.",
+  "judge_score": 0.7
+}

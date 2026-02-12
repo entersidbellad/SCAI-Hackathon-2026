@@ -1,0 +1,119 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nEpic Systems Corporation (Epic) is a Wisconsin-based healthcare data management software company.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Epic has an arbitration agreement that requires its employees to resolve any employment-based disputes with Epic through individual arbitration and to waive their right to participate in or receive benefit from any class, collective, or representative proceedings.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In February 2015, former Epic employee Jacob Lewis sued Epic in federal court individually and on behalf of similarly-situated employees and claimed that they had been denied overtime wages in violation of the Fair Labor Standards Act of 1938.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Epic moved to dismiss the complaint and cited the waiver clause of its arbitration agreement.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The district court denied Epic's motion and held that the waiver was unenforceable because it violated the right of employees to engage in \"concerted activities\" under Section Seven of the National Labor Relations Act (NLRA).",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The U.S. Court of Appeals for the Seventh Circuit affirmed the lower court's decision and added that the waiver was also unenforceable under the savings clause of the Federal Arbitration Act (FAA).",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "That clause provides that arbitration agreements are to be enforced unless there legal or equitable grounds that would render a contract unenforceable.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.974609375,
+        "neutral": 0.01617431640625,
+        "entailment": 0.0093536376953125
+      }
+    },
+    {
+      "sentence": "Finding the waiver of collective proceedings illegal under the NLRA, the appellate court held that the arbitration agreement was unenforceable under the FAA.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.487060546875,
+        "neutral": 0.4267578125,
+        "entailment": 0.08624267578125
+      }
+    },
+    {
+      "sentence": "This case was consolidated with Ernst & Young v. Morris and National Labor Relations Board v. Murphy Oil USA, Inc., both cases that dealt with the relationship between the FAA and the NLRA.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Question\nDoes the National Labor Relations Act prohibit enforcement of an agreement requiring employees to resolve disputes with the employer through individual arbitration under the Federal Arbitration Act?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.87451171875,
+        "neutral": 0.06640625,
+        "entailment": 0.059051513671875
+      }
+    },
+    {
+      "sentence": "Conclusion\nThe Court held that neither the Arbitration Act's saving clause nor the National Labor Relations Act (NLRA) supersede Congress's instructions in the Federal Arbitration Act that arbitration agreements providing for individualized proceedings must be enforced.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.99169921875,
+        "neutral": 0.0071563720703125,
+        "entailment": 0.0010309219360351562
+      }
+    },
+    {
+      "sentence": "Justice Neil Gorsuch delivered the opinion for a 5-4 majority.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.99560546875,
+        "neutral": 0.0032100677490234375,
+        "entailment": 0.0009589195251464844
+      }
+    },
+    {
+      "sentence": "The majority found that the Federal Arbitration Act \"instructed federal courts to enforce arbitration agreements according to their terms\" and that the NLRA \"does not mention class or collection action procedures\" and thus cannot be read to displace the Arbitration Act.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas filed a concurring opinion to add that \"the employees also cannot prevail under the plain meaning of the Federal Arbitration Act.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Ruth Bader Ginsburg filed a dissenting opinion in which Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan joined.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.974609375,
+        "neutral": 0.0243072509765625,
+        "entailment": 0.0010538101196289062
+      }
+    },
+    {
+      "sentence": "The dissent noted the extreme imbalance between employer and employee and Congress's attempt to remedy that imbalance in passing the NLRA and its forerunner, the Norris-LaGuardia Act.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In this context, the dissent found that the Federal Arbitration Act should not shrink the NLRA's \"protective sphere.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 6
+  },
+  "total_sentences": 17,
+  "contradiction_rate": 0.35294117647058826,
+  "nli_score": 0.6470588235294117
+}

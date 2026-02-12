@@ -1,0 +1,516 @@
+{
+  "timestamp": "2026-02-11T23:02:51.371684",
+  "kendall_tau": {
+    "pairwise": {
+      "claude-opus-4.5 \u2194 gemini-3-flash-preview": {
+        "overall_tau": 0.6547,
+        "overall_p_value": 0.0,
+        "n_comparisons": 57,
+        "n_cases_with_tau": 19,
+        "mean_per_case_tau": 0.799,
+        "interpretation": "Moderate agreement"
+      },
+      "claude-opus-4.5 \u2194 minimax-m2.1": {
+        "overall_tau": 0.2768,
+        "overall_p_value": 0.0098,
+        "n_comparisons": 57,
+        "n_cases_with_tau": 18,
+        "mean_per_case_tau": 0.1842,
+        "interpretation": "Weak agreement"
+      },
+      "gemini-3-flash-preview \u2194 minimax-m2.1": {
+        "overall_tau": 0.205,
+        "overall_p_value": 0.0538,
+        "n_comparisons": 57,
+        "n_cases_with_tau": 18,
+        "mean_per_case_tau": 0.1916,
+        "interpretation": "Weak agreement"
+      }
+    },
+    "per_case": {
+      "claude-opus-4.5 \u2194 gemini-3-flash-preview": [
+        {
+          "case": "1 Ontario v. Quon",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "10 California v. Texas",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "11 NCAA v. Alston",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "12 Financial Oversight Board v. Aurelius",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "13 Espinoza v. Montana Dept of Revenue",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "14 American Legion v. American Humanist Assn",
+          "tau": 1.0,
+          "p_value": 0.3333
+        },
+        {
+          "case": "15 Kansas v. Glover",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "16 Knick v. Township of Scott",
+          "tau": 1.0,
+          "p_value": 0.3333
+        },
+        {
+          "case": "17 Gill v. Whitford",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "19 Encino Motorcars v. Navarro",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "2 Allen v. Michigan",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "20 Epic Systems v. Lewis",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "3 Brown v. Board of Education of Topeka",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "4 Muldrow v. City of St. Louis, Missouri",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "5 Citizens United v. Federal Election Commission",
+          "tau": -0.5,
+          "p_value": 0.4795
+        },
+        {
+          "case": "6 Google LLC v. Oracle America Inc",
+          "tau": 0.3333,
+          "p_value": 1.0
+        },
+        {
+          "case": "7 Torres v. Madrid",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "8 Fulton v. City of Philadelphia",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "9 Van Buren v. United States",
+          "tau": 1.0,
+          "p_value": 0.1573
+        }
+      ],
+      "claude-opus-4.5 \u2194 minimax-m2.1": [
+        {
+          "case": "1 Ontario v. Quon",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "10 California v. Texas",
+          "tau": -0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "11 NCAA v. Alston",
+          "tau": 0.5,
+          "p_value": 0.4795
+        },
+        {
+          "case": "12 Financial Oversight Board v. Aurelius",
+          "tau": -0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "13 Espinoza v. Montana Dept of Revenue",
+          "tau": 0.5,
+          "p_value": 0.4795
+        },
+        {
+          "case": "14 American Legion v. American Humanist Assn",
+          "tau": 0.3333,
+          "p_value": 1.0
+        },
+        {
+          "case": "15 Kansas v. Glover",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "16 Knick v. Township of Scott",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "17 Gill v. Whitford",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "2 Allen v. Michigan",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "20 Epic Systems v. Lewis",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "3 Brown v. Board of Education of Topeka",
+          "tau": -0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "4 Muldrow v. City of St. Louis, Missouri",
+          "tau": -1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "5 Citizens United v. Federal Election Commission",
+          "tau": 0.0,
+          "p_value": 1.0
+        },
+        {
+          "case": "6 Google LLC v. Oracle America Inc",
+          "tau": -0.3333,
+          "p_value": 1.0
+        },
+        {
+          "case": "7 Torres v. Madrid",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "8 Fulton v. City of Philadelphia",
+          "tau": -0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "9 Van Buren v. United States",
+          "tau": 0.5,
+          "p_value": 0.4795
+        }
+      ],
+      "gemini-3-flash-preview \u2194 minimax-m2.1": [
+        {
+          "case": "1 Ontario v. Quon",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "10 California v. Texas",
+          "tau": -0.3333,
+          "p_value": 1.0
+        },
+        {
+          "case": "11 NCAA v. Alston",
+          "tau": 0.5,
+          "p_value": 0.4795
+        },
+        {
+          "case": "12 Financial Oversight Board v. Aurelius",
+          "tau": -0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "13 Espinoza v. Montana Dept of Revenue",
+          "tau": 0.0,
+          "p_value": 1.0
+        },
+        {
+          "case": "14 American Legion v. American Humanist Assn",
+          "tau": 0.3333,
+          "p_value": 1.0
+        },
+        {
+          "case": "15 Kansas v. Glover",
+          "tau": 1.0,
+          "p_value": 0.3333
+        },
+        {
+          "case": "16 Knick v. Township of Scott",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "17 Gill v. Whitford",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "2 Allen v. Michigan",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "20 Epic Systems v. Lewis",
+          "tau": 1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "3 Brown v. Board of Education of Topeka",
+          "tau": -0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "4 Muldrow v. City of St. Louis, Missouri",
+          "tau": -1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "5 Citizens United v. Federal Election Commission",
+          "tau": 0.8165,
+          "p_value": 0.2207
+        },
+        {
+          "case": "6 Google LLC v. Oracle America Inc",
+          "tau": -1.0,
+          "p_value": 0.3333
+        },
+        {
+          "case": "7 Torres v. Madrid",
+          "tau": 1.0,
+          "p_value": 0.3333
+        },
+        {
+          "case": "8 Fulton v. City of Philadelphia",
+          "tau": -1.0,
+          "p_value": 0.1573
+        },
+        {
+          "case": "9 Van Buren v. United States",
+          "tau": 0.5,
+          "p_value": 0.4795
+        }
+      ]
+    },
+    "overall_summary": {}
+  },
+  "score_distributions": {
+    "claude-opus-4.5": {
+      "n_evaluations": 57,
+      "factual_accuracy": {
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 18,
+          "4": 37,
+          "5": 0
+        },
+        "mean": 3.579,
+        "std": 0.674,
+        "min": 1,
+        "max": 4,
+        "range_used": 3
+      },
+      "completeness": {
+        "distribution": {
+          "1": 2,
+          "2": 3,
+          "3": 25,
+          "4": 10,
+          "5": 17
+        },
+        "mean": 3.649,
+        "std": 1.068,
+        "min": 1,
+        "max": 5,
+        "range_used": 4
+      },
+      "judge_score_normalized": {
+        "mean": 0.7228,
+        "std": 0.1579,
+        "min": 0.2,
+        "max": 0.9
+      },
+      "warnings": []
+    },
+    "gemini-3-flash-preview": {
+      "n_evaluations": 57,
+      "factual_accuracy": {
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 11,
+          "4": 13,
+          "5": 31
+        },
+        "mean": 4.246,
+        "std": 0.996,
+        "min": 1,
+        "max": 5,
+        "range_used": 4
+      },
+      "completeness": {
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 22,
+          "4": 12,
+          "5": 20
+        },
+        "mean": 3.825,
+        "std": 1.045,
+        "min": 1,
+        "max": 5,
+        "range_used": 4
+      },
+      "judge_score_normalized": {
+        "mean": 0.807,
+        "std": 0.1766,
+        "min": 0.2,
+        "max": 1.0
+      },
+      "warnings": []
+    },
+    "minimax-m2.1": {
+      "n_evaluations": 57,
+      "factual_accuracy": {
+        "distribution": {
+          "1": 2,
+          "2": 6,
+          "3": 17,
+          "4": 20,
+          "5": 12
+        },
+        "mean": 3.596,
+        "std": 1.041,
+        "min": 1,
+        "max": 5,
+        "range_used": 4
+      },
+      "completeness": {
+        "distribution": {
+          "1": 2,
+          "2": 3,
+          "3": 29,
+          "4": 13,
+          "5": 10
+        },
+        "mean": 3.456,
+        "std": 0.956,
+        "min": 1,
+        "max": 5,
+        "range_used": 4
+      },
+      "judge_score_normalized": {
+        "mean": 0.7053,
+        "std": 0.1923,
+        "min": 0.2,
+        "max": 1.0
+      },
+      "warnings": []
+    }
+  },
+  "cohens_kappa": {
+    "claude-opus-4.5 \u2194 gemini-3-flash-preview": {
+      "factual_accuracy_kappa": 0.4248,
+      "completeness_kappa": 0.8604,
+      "n_paired_observations": 57,
+      "interpretation_accuracy": "Moderate agreement",
+      "interpretation_completeness": "Near-perfect agreement"
+    },
+    "claude-opus-4.5 \u2194 minimax-m2.1": {
+      "factual_accuracy_kappa": 0.555,
+      "completeness_kappa": 0.371,
+      "n_paired_observations": 57,
+      "interpretation_accuracy": "Moderate agreement",
+      "interpretation_completeness": "Fair agreement"
+    },
+    "gemini-3-flash-preview \u2194 minimax-m2.1": {
+      "factual_accuracy_kappa": 0.3605,
+      "completeness_kappa": 0.304,
+      "n_paired_observations": 57,
+      "interpretation_accuracy": "Fair agreement",
+      "interpretation_completeness": "Fair agreement"
+    }
+  },
+  "pillar_correlations": {
+    "claude-opus-4.5": {
+      "n_aligned_observations": 57,
+      "correlations": {
+        "Judge (claude-opus-4.5) \u2194 NLI": {
+          "spearman_rho": -0.4586,
+          "p_value": 0.0003,
+          "interpretation": "Moderate negative correlation"
+        },
+        "Judge (claude-opus-4.5) \u2194 Coverage": {
+          "spearman_rho": 0.4735,
+          "p_value": 0.0002,
+          "interpretation": "Moderate positive correlation"
+        },
+        "NLI \u2194 Coverage": {
+          "spearman_rho": -0.4745,
+          "p_value": 0.0002,
+          "interpretation": "Moderate negative correlation"
+        }
+      }
+    },
+    "gemini-3-flash-preview": {
+      "n_aligned_observations": 57,
+      "correlations": {
+        "Judge (gemini-3-flash-preview) \u2194 NLI": {
+          "spearman_rho": -0.2586,
+          "p_value": 0.0521,
+          "interpretation": "Weak negative correlation"
+        },
+        "Judge (gemini-3-flash-preview) \u2194 Coverage": {
+          "spearman_rho": 0.4388,
+          "p_value": 0.0006,
+          "interpretation": "Moderate positive correlation"
+        },
+        "NLI \u2194 Coverage": {
+          "spearman_rho": -0.4745,
+          "p_value": 0.0002,
+          "interpretation": "Moderate negative correlation"
+        }
+      }
+    },
+    "minimax-m2.1": {
+      "n_aligned_observations": 57,
+      "correlations": {
+        "Judge (minimax-m2.1) \u2194 NLI": {
+          "spearman_rho": -0.3309,
+          "p_value": 0.0119,
+          "interpretation": "Weak negative correlation"
+        },
+        "Judge (minimax-m2.1) \u2194 Coverage": {
+          "spearman_rho": 0.2643,
+          "p_value": 0.0469,
+          "interpretation": "Weak positive correlation"
+        },
+        "NLI \u2194 Coverage": {
+          "spearman_rho": -0.4745,
+          "p_value": 0.0002,
+          "interpretation": "Moderate negative correlation"
+        }
+      }
+    }
+  }
+}

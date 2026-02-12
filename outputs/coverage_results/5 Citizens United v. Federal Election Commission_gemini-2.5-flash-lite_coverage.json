@@ -1,0 +1,204 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nCitizens United sought an injunction against the Federal Election Commission in the United States District Court for the District of Columbia to prevent the application of the Bipartisan Campaign Reform Act (BCRA) to its film Hillary: The Movie.",
+      "best_match": "Facts of the Case\n\nCitizens United, a non-profit corporation, produced a film titled *Hillary: The Movie* that was critical of then-Senator Hillary Clinton, a candidate for the 2008 Presidential nomination.",
+      "similarity": 0.5983000993728638,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Movie expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.",
+      "best_match": "Facts of the Case\n\nCitizens United, a non-profit corporation, produced a film titled *Hillary: The Movie* that was critical of then-Senator Hillary Clinton, a candidate for the 2008 Presidential nomination.",
+      "similarity": 0.5280406475067139,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In an attempt to regulate \"big money\" campaign contributions, the BCRA applies a variety of restrictions to \"electioneering communications.\"",
+      "best_match": "Under Section 441b of the Bipartisan Campaign Reform Act of 2002 (BCRA), corporations and unions are prohibited from using their general treasury funds for \"independent expenditures\" for speech that constitutes an \"electioneering communication\" or expressly advocates for the election or defeat of a candidate.",
+      "similarity": 0.7678624391555786,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Section 203 of the BCRA prevents corporations or labor unions from funding such communication from their general treasuries.",
+      "best_match": "Under Section 441b of the Bipartisan Campaign Reform Act of 2002 (BCRA), corporations and unions are prohibited from using their general treasury funds for \"independent expenditures\" for speech that constitutes an \"electioneering communication\" or expressly advocates for the election or defeat of a candidate.",
+      "similarity": 0.663155198097229,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Sections 201 and 311 require the disclosure of donors to such communication and a disclaimer when the communication is not authorized by the candidate it intends to support.",
+      "best_match": "They also challenged BCRA's disclaimer, disclosure, and reporting requirements as applied to their materials.",
+      "similarity": 0.5528395771980286,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Citizens United argued that: 1) Section 203 violates the First Amendment on its face and when applied to The Movie and its related advertisements, and that 2) Sections 201 and 203 are also unconstitutional as applied to the circumstances.",
+      "best_match": "Citizens United sought declaratory and injunctive relief, arguing that Section 441b was unconstitutional as applied to their film and advertisements.",
+      "similarity": 0.6576095223426819,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The United States District Court denied the injunction.",
+      "best_match": "The District Court denied Citizens United's request for an injunction and granted summary judgment to the Federal Election Commission (FEC).",
+      "similarity": 0.7061596512794495,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Section 203 on its face was not unconstitutional because the Supreme Court in McConnell v. FEC had already reached that determination.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court, in a 5-4 decision, **overruled** *Austin v. Michigan Chamber of Commerce* and held that Section 441b's restrictions on independent expenditures by corporations and unions are **unconstitutional**.",
+      "similarity": 0.5203666090965271,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The District Court also held that The Movie was the functional equivalent of express advocacy, as it attempted to inform voters that Senator Clinton was unfit for office, and thus Section 203 was not unconstitutionally applied.",
+      "best_match": "Citizens United sought declaratory and injunctive relief, arguing that Section 441b was unconstitutional as applied to their film and advertisements.",
+      "similarity": 0.5615677237510681,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Lastly, it held that Sections 201 and 203 were not unconstitutional as applied to the The Movie or its advertisements.",
+      "best_match": "Citizens United sought declaratory and injunctive relief, arguing that Section 441b was unconstitutional as applied to their film and advertisements.",
+      "similarity": 0.5997011065483093,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The court reasoned that the McConnell decision recognized that disclosure of donors \"might be unconstitutional if it imposed an unconstitutional burden on the freedom to associate in support of a particular cause,\" but those circumstances did not exist in Citizen United's claim.",
+      "best_match": "The Court found that Citizens United had not demonstrated that these requirements would subject its donors to threats or reprisals.",
+      "similarity": 0.6021453738212585,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1) Did the Supreme Court's decision in McConnell resolve all constitutional as-applied challenges to the BCRA when it upheld the disclosure requirements of the statute as constitutional?",
+      "best_match": "*   **Disclaimer and Disclosure Requirements Upheld:** The Court affirmed the constitutionality of BCRA's disclaimer and disclosure requirements.",
+      "similarity": 0.5911094546318054,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "2) Do the BCRA's disclosure requirements impose an unconstitutional burden when applied to electioneering requirements because they are protected \"political speech\" and not subject to regulation as \"campaign speech\"?",
+      "best_match": "Under Section 441b of the Bipartisan Campaign Reform Act of 2002 (BCRA), corporations and unions are prohibited from using their general treasury funds for \"independent expenditures\" for speech that constitutes an \"electioneering communication\" or expressly advocates for the election or defeat of a candidate.",
+      "similarity": 0.6921289563179016,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "3) If a communication lacks a clear plea to vote for or against a particular candidate, is it subject to regulation under the BCRA?",
+      "best_match": "Under Section 441b of the Bipartisan Campaign Reform Act of 2002 (BCRA), corporations and unions are prohibited from using their general treasury funds for \"independent expenditures\" for speech that constitutes an \"electioneering communication\" or expressly advocates for the election or defeat of a candidate.",
+      "similarity": 0.6089447736740112,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "4) Should a feature length documentary about a candidate for political office be treated like the advertisements at issue in McConnell and therefore be subject to regulation under the BCRA?",
+      "best_match": "*   Whether BCRA's disclaimer, disclosure, and reporting requirements are constitutional as applied to Citizens United's film and advertisements.",
+      "similarity": 0.5845410227775574,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nNo.",
+      "best_match": "*   **Disclaimer and Disclosure Requirements Upheld:** The Court affirmed the constitutionality of BCRA's disclaimer and disclosure requirements.",
+      "similarity": 0.32308706641197205,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court overruled Austin v. Michigan Chamber of Commerce and portions of McConnell v. FEC.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court, in a 5-4 decision, **overruled** *Austin v. Michigan Chamber of Commerce* and held that Section 441b's restrictions on independent expenditures by corporations and unions are **unconstitutional**.",
+      "similarity": 0.7344037890434265,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "(In the prior cases, the Court had held that political speech may be banned based on the speaker's corporate identity.)",
+      "best_match": "The Court reasoned that the First Amendment protects political speech regardless of the speaker's corporate identity.",
+      "similarity": 0.8064739108085632,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "By a 5-to-4 vote along ideological lines, the majority held that under the First Amendment corporate funding of independent political broadcasts in candidate elections cannot be limited.",
+      "best_match": "It reasoned that these requirements do not prevent speech but rather provide information to the electorate about the sources of election-related spending, which is a sufficiently important governmental interest.",
+      "similarity": 0.5219873189926147,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas.",
+      "best_match": "Here is a summary of the Supreme Court's decision in *Citizens United v. Federal Election Commission*:\n\n### 1.",
+      "similarity": 0.4208499789237976,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "best_match": "Here is a summary of the Supreme Court's decision in *Citizens United v. Federal Election Commission*:\n\n### 1.",
+      "similarity": 0.36624473333358765,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The majority maintained that political speech is indispensable to a democracy, which is no less true because the speech comes from a corporation.",
+      "best_match": "It rejected the idea that the government can ban political speech based on the speaker's corporate identity.",
+      "similarity": 0.6116207242012024,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The majority also held that the BCRA's disclosure requirements as applied to The Movie were constitutional, reasoning that disclosure is justified by a \"governmental interest\" in providing the \"electorate with information\" about election-related spending resources.",
+      "best_match": "*   Whether BCRA's disclaimer, disclosure, and reporting requirements are constitutional as applied to Citizens United's film and advertisements.",
+      "similarity": 0.6792532205581665,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court also upheld the disclosure requirements for political advertising sponsors and it upheld the ban on direct contributions to candidates from corporations and unions.",
+      "best_match": "The Court also noted that this rationale could lead to banning political speech by media corporations, which are currently exempt from some restrictions but possess significant wealth.",
+      "similarity": 0.6248838305473328,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "best_match": "Here is a summary of the Supreme Court's decision in *Citizens United v. Federal Election Commission*:\n\n### 1.",
+      "similarity": 0.3883685767650604,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Here, the Court had no narrower grounds upon which to rule, except to handle the First Amendment issues embodied within the case.",
+      "best_match": "The Court returned to the principle that the First Amendment protects political speech based on its content, not the identity of the speaker.",
+      "similarity": 0.5334794521331787,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court, in a 5-4 decision, **overruled** *Austin v. Michigan Chamber of Commerce* and held that Section 441b's restrictions on independent expenditures by corporations and unions are **unconstitutional**.",
+      "similarity": 0.4087243676185608,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Stevens argued that corporations are not members of society and that there are compelling governmental interests to curb corporations' ability to spend money during local and national elections.",
+      "best_match": "The Court also noted that this rationale could lead to banning political speech by media corporations, which are currently exempt from some restrictions but possess significant wealth.",
+      "similarity": 0.504686713218689,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Conclusion\nNo.",
+      "best_similarity": 0.32308706641197205,
+      "best_match": "*   **Disclaimer and Disclosure Requirements Upheld:** The Court affirmed the constitutionality of BCRA's disclaimer and disclosure requirements."
+    },
+    {
+      "sentence": "Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas.",
+      "best_similarity": 0.4208499789237976,
+      "best_match": "Here is a summary of the Supreme Court's decision in *Citizens United v. Federal Election Commission*:\n\n### 1."
+    },
+    {
+      "sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "best_similarity": 0.36624473333358765,
+      "best_match": "Here is a summary of the Supreme Court's decision in *Citizens United v. Federal Election Commission*:\n\n### 1."
+    },
+    {
+      "sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "best_similarity": 0.3883685767650604,
+      "best_match": "Here is a summary of the Supreme Court's decision in *Citizens United v. Federal Election Commission*:\n\n### 1."
+    },
+    {
+      "sentence": "Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations.",
+      "best_similarity": 0.4087243676185608,
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court, in a 5-4 decision, **overruled** *Austin v. Michigan Chamber of Commerce* and held that Section 441b's restrictions on independent expenditures by corporations and unions are **unconstitutional**."
+    }
+  ],
+  "total_gt_sentences": 28,
+  "covered_sentences": 23,
+  "coverage_percentage": 82.14285714285714,
+  "coverage_score": 0.8214285714285714,
+  "threshold": 0.5
+}

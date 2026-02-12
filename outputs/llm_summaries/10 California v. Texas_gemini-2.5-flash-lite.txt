@@ -1,0 +1,29 @@
+Here is a summary of the Supreme Court's opinion in *California v. Texas*:
+
+### 1. Facts of the Case
+
+The Patient Protection and Affordable Care Act (ACA), as originally enacted in 2010, required most Americans to obtain minimum essential health insurance coverage and imposed a monetary penalty on those who failed to do so. In 2017, Congress amended the ACA, effectively nullifying this penalty by reducing its amount to $0.
+
+Following this amendment, Texas, joined by 17 other states and two individuals (Neill Hurley and John Nantz), filed a lawsuit against federal officials. The plaintiffs argued that without the penalty, the ACA's minimum essential coverage provision, codified at 26 U.S.C. §5000A(a), was unconstitutional. They sought a declaration that this provision was unconstitutional, a finding that the rest of the ACA was not severable from §5000A(a), and an injunction against the enforcement of the entire Act.
+
+The District Court found that the individual plaintiffs had standing, declared §5000A(a) unconstitutional, and determined it was not severable from the rest of the ACA. The Fifth Circuit Court of Appeals agreed that the plaintiffs had standing and that §5000A(a) was unconstitutional, but it concluded that the District Court's severability analysis was insufficient to strike down the entire Act and remanded the case. California and other states intervened to defend the ACA's constitutionality and sought further review by the Supreme Court.
+
+### 2. Legal Question(s)
+
+The central legal question before the Supreme Court was whether the plaintiffs—the states and the two individuals—had standing under Article III of the Constitution to challenge the minimum essential coverage provision of the Affordable Care Act (ACA), 26 U.S.C. §5000A(a), after Congress reduced the penalty for non-compliance to zero. Specifically, the Court considered whether the plaintiffs had alleged a concrete and particularized injury in fact that was fairly traceable to the government's conduct in enforcing §5000A(a) and that could be redressed by a favorable judicial decision.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the plaintiffs did not have standing to challenge the ACA's minimum essential coverage provision. The Court reasoned that the plaintiffs had failed to demonstrate a past or future injury that was fairly traceable to the government's conduct in enforcing the specific statutory provision they attacked as unconstitutional.
+
+The Court explained that for standing, a plaintiff must allege a personal injury fairly traceable to the defendant's allegedly unlawful conduct and likely to be redressed by the requested relief.
+
+*   **For the individual plaintiffs:** The Court found that while they alleged a pocketbook injury (payments for health insurance), this injury was not fairly traceable to any unlawful conduct by the government. Because the penalty for non-compliance with §5000A(a) was zero, the provision was unenforceable. The individuals had not shown any government action or conduct that caused or would cause their alleged injury. The Court emphasized that unenforce able statutory language alone is insufficient to establish standing, and the relief sought (declaratory relief that the provision is unconstitutional) would amount to an advisory opinion without the possibility of an Article III remedy.
+
+*   **For the state plaintiffs:** The Court found that they also failed to show that their alleged pocketbook injuries were traceable to the government's conduct.
+    *   Regarding indirect injury (increased costs to state-run insurance programs due to more enrollments), the Court found that the states had not shown how this alleged harm was traceable to the government's enforcement of §5000A(a). Furthermore, they had not shown that the unenforceable provision would lead more individuals to enroll in these programs, as such theories often rely on speculation about independent third-party decisions.
+    *   Regarding direct injury (increased administrative expenses), the Court noted that these expenses were imposed by other provisions of the ACA, not §5000A(a) itself, and these other provisions were enforced independently of §5000A(a). Therefore, the government's conduct in enforcing these other provisions was not fairly traceable to the allegedly unlawful provision (§5000A(a)) that the plaintiffs complained of.
+
+The Court declined to consider novel standing theories raised for the first time in the merits briefs.
+
+Consequently, the Supreme Court reversed the Fifth Circuit's judgment regarding standing, vacated the judgment, and remanded the case with instructions to dismiss the complaint for lack of standing.

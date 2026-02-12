@@ -1,0 +1,178 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\nCitizens United sought an injunction against the Federal Election Commission in the United States District Court for the District of Columbia to prevent the application of the Bipartisan Campaign Reform Act (BCRA) to its film Hillary: The Movie.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Movie expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.77734375,
+        "neutral": 0.2197265625,
+        "entailment": 0.0031566619873046875
+      }
+    },
+    {
+      "sentence": "In an attempt to regulate \"big money\" campaign contributions, the BCRA applies a variety of restrictions to \"electioneering communications.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Section 203 of the BCRA prevents corporations or labor unions from funding such communication from their general treasuries.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.9970703125,
+        "neutral": 0.0023059844970703125,
+        "entailment": 0.000667572021484375
+      }
+    },
+    {
+      "sentence": "Sections 201 and 311 require the disclosure of donors to such communication and a disclaimer when the communication is not authorized by the candidate it intends to support.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Citizens United argued that: 1) Section 203 violates the First Amendment on its face and when applied to The Movie and its related advertisements, and that 2) Sections 201 and 203 are also unconstitutional as applied to the circumstances.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The United States District Court denied the injunction.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.55517578125,
+        "neutral": 0.4423828125,
+        "entailment": 0.0023479461669921875
+      }
+    },
+    {
+      "sentence": "Section 203 on its face was not unconstitutional because the Supreme Court in McConnell v. FEC had already reached that determination.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The District Court also held that The Movie was the functional equivalent of express advocacy, as it attempted to inform voters that Senator Clinton was unfit for office, and thus Section 203 was not unconstitutionally applied.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Lastly, it held that Sections 201 and 203 were not unconstitutional as applied to the The Movie or its advertisements.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The court reasoned that the McConnell decision recognized that disclosure of donors \"might be unconstitutional if it imposed an unconstitutional burden on the freedom to associate in support of a particular cause,\" but those circumstances did not exist in Citizen United's claim.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Question\n1) Did the Supreme Court's decision in McConnell resolve all constitutional as-applied challenges to the BCRA when it upheld the disclosure requirements of the statute as constitutional?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.480224609375,
+        "neutral": 0.33203125,
+        "entailment": 0.187744140625
+      }
+    },
+    {
+      "sentence": "2) Do the BCRA's disclosure requirements impose an unconstitutional burden when applied to electioneering requirements because they are protected \"political speech\" and not subject to regulation as \"campaign speech\"?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "3) If a communication lacks a clear plea to vote for or against a particular candidate, is it subject to regulation under the BCRA?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "4) Should a feature length documentary about a candidate for political office be treated like the advertisements at issue in McConnell and therefore be subject to regulation under the BCRA?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Conclusion\nNo.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Supreme Court overruled Austin v. Michigan Chamber of Commerce and portions of McConnell v. FEC.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "(In the prior cases, the Court had held that political speech may be banned based on the speaker's corporate identity.)",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.701171875,
+        "neutral": 0.2880859375,
+        "entailment": 0.0110015869140625
+      }
+    },
+    {
+      "sentence": "By a 5-to-4 vote along ideological lines, the majority held that under the First Amendment corporate funding of independent political broadcasts in candidate elections cannot be limited.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.8310546875,
+        "neutral": 0.1673583984375,
+        "entailment": 0.001613616943359375
+      }
+    },
+    {
+      "sentence": "Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.96630859375,
+        "neutral": 0.0267181396484375,
+        "entailment": 0.007080078125
+      }
+    },
+    {
+      "sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The majority maintained that political speech is indispensable to a democracy, which is no less true because the speech comes from a corporation.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The majority also held that the BCRA's disclosure requirements as applied to The Movie were constitutional, reasoning that disclosure is justified by a \"governmental interest\" in providing the \"electorate with information\" about election-related spending resources.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court also upheld the disclosure requirements for political advertising sponsors and it upheld the ban on direct contributions to candidates from corporations and unions.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Here, the Court had no narrower grounds upon which to rule, except to handle the First Amendment issues embodied within the case.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Stevens argued that corporations are not members of society and that there are compelling governmental interests to curb corporations' ability to spend money during local and national elections.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 7
+  },
+  "total_sentences": 28,
+  "contradiction_rate": 0.25,
+  "nli_score": 0.75
+}

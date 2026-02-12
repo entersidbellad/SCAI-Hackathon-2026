@@ -1,0 +1,289 @@
+{
+  "timestamp": "2026-02-12T00:56:43.548706",
+  "length_bias": {
+    "claude-opus-4.5": {
+      "n_evaluations": 57,
+      "pearson_r": -0.2736,
+      "pearson_p": 0.0395,
+      "spearman_rho": 0.1164,
+      "spearman_p": 0.3884,
+      "factual_accuracy_r": -0.5162,
+      "completeness_r": -0.0786,
+      "summary_lengths": {
+        "mean": 645.6,
+        "min": 268,
+        "max": 1759,
+        "std": 257.5
+      },
+      "bias_detected": "False",
+      "interpretation": "Slight tendency toward shorter summaries (r=-0.274), not significant"
+    },
+    "gemini-3-flash-preview": {
+      "n_evaluations": 57,
+      "pearson_r": -0.1763,
+      "pearson_p": 0.1896,
+      "spearman_rho": 0.3253,
+      "spearman_p": 0.0135,
+      "factual_accuracy_r": -0.1338,
+      "completeness_r": -0.1704,
+      "summary_lengths": {
+        "mean": 645.6,
+        "min": 268,
+        "max": 1759,
+        "std": 257.5
+      },
+      "bias_detected": "False",
+      "interpretation": "Slight tendency toward shorter summaries (r=-0.176), not significant"
+    },
+    "minimax-m2.1": {
+      "n_evaluations": 57,
+      "pearson_r": -0.2486,
+      "pearson_p": 0.0622,
+      "spearman_rho": 0.0002,
+      "spearman_p": 0.9988,
+      "factual_accuracy_r": -0.2314,
+      "completeness_r": -0.2482,
+      "summary_lengths": {
+        "mean": 645.6,
+        "min": 268,
+        "max": 1759,
+        "std": 257.5
+      },
+      "bias_detected": "False",
+      "interpretation": "Slight tendency toward shorter summaries (r=-0.249), not significant"
+    }
+  },
+  "self_consistency": {
+    "claude-opus-4.5": {
+      "n_retests": 5,
+      "mean_score_diff": 0.0,
+      "max_score_diff": 0.0,
+      "exact_match_rate": 1.0,
+      "close_match_rate": 1.0,
+      "mean_fa_diff": 0.0,
+      "mean_comp_diff": 0.0,
+      "details": [
+        {
+          "case": "16 Knick v. Township of Scott",
+          "model": "llama-4-maverick",
+          "original_score": 0.2,
+          "retest_score": 0.2,
+          "score_diff": 0.0,
+          "original_fa": 1,
+          "retest_fa": 1,
+          "fa_diff": 0,
+          "original_comp": 1,
+          "retest_comp": 1,
+          "comp_diff": 0
+        },
+        {
+          "case": "7 Torres v. Madrid",
+          "model": "gemini-2.5-flash-lite",
+          "original_score": 0.6,
+          "retest_score": 0.6,
+          "score_diff": 0.0,
+          "original_fa": 3,
+          "retest_fa": 3,
+          "fa_diff": 0,
+          "original_comp": 3,
+          "retest_comp": 3,
+          "comp_diff": 0
+        },
+        {
+          "case": "5 Citizens United v. Federal Election Commission",
+          "model": "llama-4-maverick",
+          "original_score": 0.7,
+          "retest_score": 0.7,
+          "score_diff": 0.0,
+          "original_fa": 4,
+          "retest_fa": 4,
+          "fa_diff": 0,
+          "original_comp": 3,
+          "retest_comp": 3,
+          "comp_diff": 0
+        },
+        {
+          "case": "10 California v. Texas",
+          "model": "grok-4.1-fast",
+          "original_score": 0.9,
+          "retest_score": 0.9,
+          "score_diff": 0.0,
+          "original_fa": 4,
+          "retest_fa": 4,
+          "fa_diff": 0,
+          "original_comp": 5,
+          "retest_comp": 5,
+          "comp_diff": 0
+        },
+        {
+          "case": "8 Fulton v. City of Philadelphia",
+          "model": "grok-4.1-fast",
+          "original_score": 0.9,
+          "retest_score": 0.9,
+          "score_diff": 0.0,
+          "original_fa": 4,
+          "retest_fa": 4,
+          "fa_diff": 0,
+          "original_comp": 5,
+          "retest_comp": 5,
+          "comp_diff": 0
+        }
+      ],
+      "interpretation": "Highly consistent (excellent test-retest reliability)"
+    },
+    "gemini-3-flash-preview": {
+      "n_retests": 5,
+      "mean_score_diff": 0.0,
+      "max_score_diff": 0.0,
+      "exact_match_rate": 1.0,
+      "close_match_rate": 1.0,
+      "mean_fa_diff": 0.0,
+      "mean_comp_diff": 0.0,
+      "details": [
+        {
+          "case": "16 Knick v. Township of Scott",
+          "model": "llama-4-maverick",
+          "original_score": 0.2,
+          "retest_score": 0.2,
+          "score_diff": 0.0,
+          "original_fa": 1,
+          "retest_fa": 1,
+          "fa_diff": 0,
+          "original_comp": 1,
+          "retest_comp": 1,
+          "comp_diff": 0
+        },
+        {
+          "case": "7 Torres v. Madrid",
+          "model": "gemini-2.5-flash-lite",
+          "original_score": 0.6,
+          "retest_score": 0.6,
+          "score_diff": 0.0,
+          "original_fa": 3,
+          "retest_fa": 3,
+          "fa_diff": 0,
+          "original_comp": 3,
+          "retest_comp": 3,
+          "comp_diff": 0
+        },
+        {
+          "case": "5 Citizens United v. Federal Election Commission",
+          "model": "llama-4-maverick",
+          "original_score": 0.7,
+          "retest_score": 0.7,
+          "score_diff": 0.0,
+          "original_fa": 4,
+          "retest_fa": 4,
+          "fa_diff": 0,
+          "original_comp": 3,
+          "retest_comp": 3,
+          "comp_diff": 0
+        },
+        {
+          "case": "10 California v. Texas",
+          "model": "grok-4.1-fast",
+          "original_score": 1.0,
+          "retest_score": 1.0,
+          "score_diff": 0.0,
+          "original_fa": 5,
+          "retest_fa": 5,
+          "fa_diff": 0,
+          "original_comp": 5,
+          "retest_comp": 5,
+          "comp_diff": 0
+        },
+        {
+          "case": "8 Fulton v. City of Philadelphia",
+          "model": "grok-4.1-fast",
+          "original_score": 1.0,
+          "retest_score": 1.0,
+          "score_diff": 0.0,
+          "original_fa": 5,
+          "retest_fa": 5,
+          "fa_diff": 0,
+          "original_comp": 5,
+          "retest_comp": 5,
+          "comp_diff": 0
+        }
+      ],
+      "interpretation": "Highly consistent (excellent test-retest reliability)"
+    },
+    "minimax-m2.1": {
+      "n_retests": 5,
+      "mean_score_diff": 0.06,
+      "max_score_diff": 0.2,
+      "exact_match_rate": 0.6,
+      "close_match_rate": 0.8,
+      "mean_fa_diff": 0.4,
+      "mean_comp_diff": 0.6,
+      "details": [
+        {
+          "case": "16 Knick v. Township of Scott",
+          "model": "llama-4-maverick",
+          "original_score": 0.2,
+          "retest_score": 0.2,
+          "score_diff": 0.0,
+          "original_fa": 1,
+          "retest_fa": 1,
+          "fa_diff": 0,
+          "original_comp": 1,
+          "retest_comp": 1,
+          "comp_diff": 0
+        },
+        {
+          "case": "7 Torres v. Madrid",
+          "model": "gemini-2.5-flash-lite",
+          "original_score": 0.4,
+          "retest_score": 0.6,
+          "score_diff": 0.2,
+          "original_fa": 2,
+          "retest_fa": 3,
+          "fa_diff": 1,
+          "original_comp": 2,
+          "retest_comp": 3,
+          "comp_diff": 1
+        },
+        {
+          "case": "5 Citizens United v. Federal Election Commission",
+          "model": "llama-4-maverick",
+          "original_score": 0.5,
+          "retest_score": 0.6,
+          "score_diff": 0.1,
+          "original_fa": 3,
+          "retest_fa": 3,
+          "fa_diff": 0,
+          "original_comp": 2,
+          "retest_comp": 3,
+          "comp_diff": 1
+        },
+        {
+          "case": "10 California v. Texas",
+          "model": "grok-4.1-fast",
+          "original_score": 0.6,
+          "retest_score": 0.6,
+          "score_diff": 0.0,
+          "original_fa": 3,
+          "retest_fa": 3,
+          "fa_diff": 0,
+          "original_comp": 3,
+          "retest_comp": 3,
+          "comp_diff": 0
+        },
+        {
+          "case": "8 Fulton v. City of Philadelphia",
+          "model": "grok-4.1-fast",
+          "original_score": 0.6,
+          "retest_score": 0.6,
+          "score_diff": 0.0,
+          "original_fa": 3,
+          "retest_fa": 2,
+          "fa_diff": 1,
+          "original_comp": 3,
+          "retest_comp": 4,
+          "comp_diff": 1
+        }
+      ],
+      "interpretation": "Good consistency (acceptable variation)"
+    }
+  }
+}

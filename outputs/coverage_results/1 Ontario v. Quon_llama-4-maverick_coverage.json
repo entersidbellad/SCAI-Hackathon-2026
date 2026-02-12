@@ -1,0 +1,157 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nEmployees of the City of Ontario, California police department filed a 42 U.S.C.",
+      "best_match": "Facts of the Case\n\nThe City of Ontario, California, issued alphanumeric pagers to its police officers, including Sergeant Jeff Quon, as part of their job.",
+      "similarity": 0.6369284987449646,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 1983 claim in a California federal district court against the police department, city, chief of police, and an internal affairs officer.",
+      "best_match": "Facts of the Case\n\nThe City of Ontario, California, issued alphanumeric pagers to its police officers, including Sergeant Jeff Quon, as part of their job.",
+      "similarity": 0.49051105976104736,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "They alleged Fourth Amendment violations in relation to the police department's review of text messages made by an employee on a city issued text-message pager.",
+      "best_match": "- Whether the City's search of Quon's text messages was reasonable under the Fourth Amendment.",
+      "similarity": 0.6397993564605713,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "While the city did not have an official text-messaging privacy policy, it did have a general \"Computer Usage, Internet and E-mail Policy.\"",
+      "best_match": "The pagers were subject to a monthly character limit, and the City had a policy stating that employees should have no expectation of privacy when using City computers and other resources.",
+      "similarity": 0.562501072883606,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The policy in part stated that \"[t]he City of Ontario reserves the right to monitor and log all network activity including e-mail and Internet use, with or without notice,\" and that \"[u]sers should have no expectation of privacy or confidentiality when using these resources.\"",
+      "best_match": "The pagers were subject to a monthly character limit, and the City had a policy stating that employees should have no expectation of privacy when using City computers and other resources.",
+      "similarity": 0.4671635329723358,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Employees were told verbally that the text-messaging pagers were considered e-mail and subject to the general policy.",
+      "best_match": "The pagers were subject to a monthly character limit, and the City had a policy stating that employees should have no expectation of privacy when using City computers and other resources.",
+      "similarity": 0.5790070295333862,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court entered judgment in favor of the defendants.",
+      "best_match": "The judgment of the Court of Appeals for the Ninth Circuit was reversed, and the case was remanded for further proceedings.",
+      "similarity": 0.5801665782928467,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed in part.",
+      "best_match": "The judgment of the Court of Appeals for the Ninth Circuit was reversed, and the case was remanded for further proceedings.",
+      "similarity": 0.8763837814331055,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The court held that city employees had a reasonable expectation of privacy for the text messages they sent on their city-issued pagers because there was no text message privacy policy in place.",
+      "best_match": "The specific legal questions addressed by the Court included:\n\n- Whether Quon had a reasonable expectation of privacy in his text messages sent on the City-issued pager.",
+      "similarity": 0.7349213361740112,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Moreover, the court noted that the police department's review of the text messages was unreasonable because it could have used \"less intrusive methods\" to determine whether employees' had properly used the text messaging service.",
+      "best_match": "The Court concluded that the search was justified because it was conducted for a legitimate work-related purpose (to determine whether the character limit was sufficient) and was not excessively intrusive in scope (as it was limited to reviewing transcripts for two months and redacting messages sent while Quon was off-duty).",
+      "similarity": 0.5526634454727173,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1) Does a city employee have a reasonable expectation of privacy in text messages transmitted on his city-issued pager when the police department has no official privacy policy for the pagers?",
+      "best_match": "The pagers were subject to a monthly character limit, and the City had a policy stating that employees should have no expectation of privacy when using City computers and other resources.",
+      "similarity": 0.7306962013244629,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "2) Did the Ninth Circuit contravene Supreme Court precedent by analyzing whether the police department could have used \"less intrusive methods\" of reviewing text messages?",
+      "best_match": "Legal Question(s)\n\nThe case centered on whether the City's audit of Quon's text messages constituted an unreasonable search under the Fourth Amendment.",
+      "similarity": 0.576476514339447,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nNot answered.",
+      "best_match": "The Court's decision was based on the assumption that Quon had a reasonable expectation of privacy, but it did not definitively resolve the issue.",
+      "similarity": 0.200600728392601,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court held that the City of Ontario did not violate its employees' Fourth Amendment rights because the city's search of Mr. Quon's text messages was reasonable.",
+      "best_match": "- Whether the City's search of Quon's text messages was reasonable under the Fourth Amendment.",
+      "similarity": 0.7803427577018738,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "With Justice Anthony M. Kennedy writing for the majority, the Court reasoned that even assuming that Mr. Quon had a reasonable expectation of privacy in his text messages, the city's search of them was reasonable because it was motivated by a legitimate work-related purpose and was not excessive in scope.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that, even assuming Quon had a reasonable expectation of privacy in his text messages, the City's search was reasonable under the Fourth Amendment.",
+      "similarity": 0.7878125309944153,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In reaching its conclusion, the Court rejected the Ninth Circuit's \"least intrusive\" means approach to the issue.",
+      "best_match": "The judgment of the Court of Appeals for the Ninth Circuit was reversed, and the case was remanded for further proceedings.",
+      "similarity": 0.5943987369537354,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice John Paul Stevens concurred.",
+      "best_match": "The judgment of the Court of Appeals for the Ninth Circuit was reversed, and the case was remanded for further proceedings.",
+      "similarity": 0.3821505904197693,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "He observed that the majority had not settled on one of the three approaches enunciated in O'Connor v. Ortega for determining the parameters of a \"reasonable expectation of privacy.\"",
+      "best_match": "The Court applied the framework from O'Connor v. Ortega (1987), which provides that a government employer's search of an employee's property is reasonable if it is justified at its inception and reasonably related in scope to the circumstances that justified the search.",
+      "similarity": 0.5533938407897949,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He reasoned that under any of the three approaches, Mr. Quon's expectations were not violated.",
+      "best_match": "The Court's decision was based on the assumption that Quon had a reasonable expectation of privacy, but it did not definitively resolve the issue.",
+      "similarity": 0.5553184151649475,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Antonin Scalia concurred in part and concurred in the judgment.",
+      "best_match": "The judgment of the Court of Appeals for the Ninth Circuit was reversed, and the case was remanded for further proceedings.",
+      "similarity": 0.5436699390411377,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "He disagreed that the Court tacitly reaffirmed the O'Connor framework for determining whether the Fourth Amendment applies to public employees, arguing that it was \"standardless\" and \"unsupported.\"",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that, even assuming Quon had a reasonable expectation of privacy in his text messages, the City's search was reasonable under the Fourth Amendment.",
+      "similarity": 0.5022727847099304,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "\u00a7 1983 claim in a California federal district court against the police department, city, chief of police, and an internal affairs officer.",
+      "best_similarity": 0.49051105976104736,
+      "best_match": "Facts of the Case\n\nThe City of Ontario, California, issued alphanumeric pagers to its police officers, including Sergeant Jeff Quon, as part of their job."
+    },
+    {
+      "sentence": "The policy in part stated that \"[t]he City of Ontario reserves the right to monitor and log all network activity including e-mail and Internet use, with or without notice,\" and that \"[u]sers should have no expectation of privacy or confidentiality when using these resources.\"",
+      "best_similarity": 0.4671635329723358,
+      "best_match": "The pagers were subject to a monthly character limit, and the City had a policy stating that employees should have no expectation of privacy when using City computers and other resources."
+    },
+    {
+      "sentence": "Conclusion\nNot answered.",
+      "best_similarity": 0.200600728392601,
+      "best_match": "The Court's decision was based on the assumption that Quon had a reasonable expectation of privacy, but it did not definitively resolve the issue."
+    },
+    {
+      "sentence": "Justice John Paul Stevens concurred.",
+      "best_similarity": 0.3821505904197693,
+      "best_match": "The judgment of the Court of Appeals for the Ninth Circuit was reversed, and the case was remanded for further proceedings."
+    }
+  ],
+  "total_gt_sentences": 21,
+  "covered_sentences": 17,
+  "coverage_percentage": 80.95238095238095,
+  "coverage_score": 0.8095238095238095,
+  "threshold": 0.5
+}

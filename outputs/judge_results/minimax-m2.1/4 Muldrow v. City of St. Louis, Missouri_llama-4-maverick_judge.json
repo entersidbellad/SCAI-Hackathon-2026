@@ -1,0 +1,24 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "Interim Police Commissioner Lawrence O'Toole's appointee, Captain Deeba",
+      "issue": "The generated summary omits the commissioner entirely and doesn't mention that Captain Deeba was appointed by Interim Police Commissioner Lawrence O'Toole",
+      "correct_info": "Captain Deeba was the Intelligence Division commander and was an appointee of Interim Police Commissioner Lawrence O'Toole"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The reference mentions that Muldrow lost potential $17,500 in annual overtime pay from FBI-related privileges",
+    "The reference provides details about the procedural history: case was removed to federal court, district court granted summary judgment, Eighth Circuit affirmed",
+    "The reference includes information about the retaliation claim under Title VII that was also addressed",
+    "The reference mentions the unanimous nature of the judgment and that Justice Kagan authored the majority opinion joined by five other Justices",
+    "The reference includes Justice Thomas's concurrence arguing the majority misinterpreted the Eighth Circuit's language",
+    "The reference includes Justice Alito's concurrence criticizing the majority for failing to clarify the degree of harm required",
+    "The reference includes Justice Kavanaugh's concurrence disagreeing with the 'some harm' standard and providing the Cincinnati transfer example"
+  ],
+  "overall_assessment": "The generated summary accurately captures the core facts, legal question, and holding of the case, but is incomplete in several respects. It omits the procedural history, the specific dollar amount of lost overtime pay, the unanimous nature of the decision, Justice Kagan's authorship, and all three concurring opinions (Thomas, Alito, and Kavanaugh) that provide important context about the Court's interpretation and disagreements. The summary is factually accurate but significantly less comprehensive than the reference summary.",
+  "judge_score": 0.7
+}

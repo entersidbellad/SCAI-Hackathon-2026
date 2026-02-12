@@ -1,0 +1,48 @@
+{
+  "factual_accuracy": 2,
+  "completeness": 2,
+  "factual_errors": [
+    {
+      "error_quote": "a 32-foot tall Latin cross, known as the Bladensburg Peace Cross, erected in 1925",
+      "issue": "The cross is 40 feet tall, not 32 feet, and construction began in 1918, not 1925",
+      "correct_info": "The reference states it is a '40-foot tall cross' and 'Construction on the cross began in 1918'"
+    },
+    {
+      "error_quote": "The District Court ruled in favor of the Commission and the American Legion, which intervened to defend the cross, but the Fourth Circuit Court of Appeals reversed, finding the cross unconstitutional.",
+      "issue": "The reference does not mention the American Legion as an intervenor, and the summary incorrectly states the Fourth Circuit found the cross 'unconstitutional' rather than reversing and remanding for further proceedings",
+      "correct_info": "The reference states 'The Fourth Circuit reversed and remanded' without mentioning the American Legion's intervention"
+    },
+    {
+      "error_quote": "The Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "issue": "While the Court did reverse, the summary omits that Justice Kagan joined only 'in part' and fails to identify the specific justices who joined the opinion",
+      "correct_info": "The reference states 'Justice Samuel Alito authored the opinion of the Court, joined by Chief Justice John Roberts and Justices Stephen Breyer and Brett Kavanaugh. Justice Elena Kagan joined the majority opinion in part.'"
+    }
+  ],
+  "hedging_detected": true,
+  "hedging_examples": [
+    {
+      "summary_says": "The decision underscores the importance of historical context and the evolution of symbols over time in Establishment Clause jurisprudence.",
+      "reference_says": "The Bladensburg Cross does not violate the Establishment Clause.",
+      "issue": "The summary uses softer, descriptive language about the decision's significance rather than clearly stating the definitive holding"
+    },
+    {
+      "summary_says": "The Court's ruling allows the State to maintain the cross on public land but does not require it to do so, leaving open the possibility for alternative solutions",
+      "reference_says": "The Bladensburg Cross does not violate the Establishment Clause.",
+      "issue": "The summary adds hedging language about what the ruling 'allows' and 'does not require' rather than stating the clear constitutional holding"
+    }
+  ],
+  "key_omissions": [
+    "The specific maintenance costs ($117,000 spent + $100,000 set aside in 2008)",
+    "The three questions presented (unconstitutionality, proper test, excessive entanglement)",
+    "The Lemon test critique and the presumption of constitutionality for existing monuments",
+    "Justice Breyer's concurrence (joined by Kagan) about no single test",
+    "Justice Kavanaugh's concurrence about Lemon test not being good law in 5 categories",
+    "Justice Kagan's separate concurrence about purpose and effect analysis",
+    "Justice Thomas's concurrence based on Establishment Clause not applying to states",
+    "Justice Gorsuch's concurrence (joined by Thomas) about lack of standing",
+    "Justice Ginsburg's dissent (joined by Sotomayor) arguing the cross elevates Christianity",
+    "The reference to 42 U.S.C. \u00a7 1983 as the basis for the lawsuit"
+  ],
+  "overall_assessment": "The generated summary contains significant factual errors regarding the cross's dimensions and erection date, omits critical details about the maintenance costs, legal claims, and the Court's specific reasoning about the Lemon test, and fails to mention any concurrences or dissents. The summary also uses hedging language rather than clearly stating the definitive holding that the cross does not violate the Establishment Clause.",
+  "judge_score": 0.4
+}

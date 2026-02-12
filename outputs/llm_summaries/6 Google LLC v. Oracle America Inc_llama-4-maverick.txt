@@ -1,0 +1,12 @@
+### Summary of Google LLC v. Oracle America, Inc.
+
+#### 1. Facts of the Case
+Google acquired Android, Inc. in 2005 and sought to develop a software platform for mobile devices. To attract programmers familiar with the Java programming language, Google copied approximately 11,500 lines of code from Oracle's Java SE program, which is part of an Application Programming Interface (API). Oracle sued Google for copyright infringement. The lower courts considered whether the copied lines were copyrightable and whether Google's copying constituted fair use. The Federal Circuit held that the copied lines were copyrightable, and after a jury found for Google on fair use, the Federal Circuit reversed, concluding that Google's copying was not fair use as a matter of law.
+
+#### 2. Legal Question(s)
+The Supreme Court addressed whether Google's copying of the Java SE API constituted fair use under the Copyright Act. Specifically, the Court examined the four statutory factors for determining fair use: (1) the purpose and character of the use, (2) the nature of the copyrighted work, (3) the amount and substantiality of the portion used, and (4) the effect of the use on the potential market for or value of the copyrighted work.
+
+#### 3. Conclusion/Holding
+The Supreme Court held that Google's copying of the Java SE API was a fair use as a matter of law. The Court assumed, without deciding, that the API was copyrightable and focused on the fair use analysis. The Court concluded that Google's use was transformative because it allowed programmers to work in a new computing environment (smartphones) without having to learn a new programming system. The Court also found that the nature of the copyrighted work (the API) favored fair use because it was inherently bound with uncopyrightable ideas and was designed to be used by programmers. The amount copied was considered substantial in absolute terms but small relative to the entire Java SE program. The Court determined that the fourth factor (market effects) also favored fair use because Google's Android platform was not a market substitute for Java SE, and enforcing Oracle's copyright could harm the public by limiting future creativity.
+
+The Court's reasoning emphasized the importance of fair use in promoting creativity and innovation, particularly in the context of computer programs. The decision reversed the Federal Circuit's judgment and remanded the case for further proceedings. Justice Thomas dissented, arguing that the declaring code was copyrightable and that Google's use was not fair.

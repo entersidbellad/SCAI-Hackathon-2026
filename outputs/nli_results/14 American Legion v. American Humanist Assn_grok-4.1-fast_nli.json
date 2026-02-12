@@ -1,0 +1,242 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nIn Bladensburg, Maryland, as part of a memorial park honoring veterans is a 40-foot tall cross, which is the subject of this litigation.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Construction on the cross began in 1918, and it was widely described using Christian terms and celebrated in Christian services.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In 1961, Maryland-National Capital Park and Planning Commission acquired the cross and the land, as well as the responsibility to maintain, repair, and otherwise care for the cross.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.57275390625,
+        "neutral": 0.37158203125,
+        "entailment": 0.0555419921875
+      }
+    },
+    {
+      "sentence": "The Commission has spent approximately $117,000 to maintain and repair the cross, and in 2008, it set aside an additional $100,000 for renovations.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Several non-Christian residents of Prince George's County, Maryland, expressed offense at the cross, which allegedly amounts to governmental affiliation with Christianity.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "American Humanist Association is a nonprofit organization advocating for separation of church and state.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Together, AHA and the individual residents sued the Commission under 42 U.S.C.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "\u00a7 1983, alleging that the Commission's display and maintenance of the cross violates the Establishment Clause.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.70703125,
+        "neutral": 0.218505859375,
+        "entailment": 0.07415771484375
+      }
+    },
+    {
+      "sentence": "Applying the test established in Lemon v. Kurtzman, 403 U.S. 602 (1971), the district court found that the Commission did not violate the Establishment Clause because (1) the cross has a secular purpose, (2) it neither advances nor inhibits religion, and (3) it does not have a primary effect of endorsing religion.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.64794921875,
+        "neutral": 0.3505859375,
+        "entailment": 0.001232147216796875
+      }
+    },
+    {
+      "sentence": "The Fourth Circuit reversed and remanded.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Question\n1.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.75146484375,
+        "neutral": 0.174560546875,
+        "entailment": 0.07421875
+      }
+    },
+    {
+      "sentence": "Is the display and maintenance of the cross unconstitutional?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.8232421875,
+        "neutral": 0.168701171875,
+        "entailment": 0.0079345703125
+      }
+    },
+    {
+      "sentence": "Under what test should the constitutionality of a passive display incorporating religious symbolism be assessed?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.5703125,
+        "neutral": 0.41064453125,
+        "entailment": 0.019256591796875
+      }
+    },
+    {
+      "sentence": "Does the expenditure of funds to maintain the cross amount to the government's excessive entanglement with religion?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.55615234375,
+        "neutral": 0.43896484375,
+        "entailment": 0.004840850830078125
+      }
+    },
+    {
+      "sentence": "Conclusion\nThe Bladensburg Cross does not violate the Establishment Clause.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.89892578125,
+        "neutral": 0.09674072265625,
+        "entailment": 0.004428863525390625
+      }
+    },
+    {
+      "sentence": "Justice Samuel Alito authored the opinion of the Court, joined by Chief Justice John Roberts and Justices Stephen Breyer and Brett Kavanaugh.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.91943359375,
+        "neutral": 0.0496826171875,
+        "entailment": 0.03076171875
+      }
+    },
+    {
+      "sentence": "Justice Elena Kagan joined the majority opinion in part.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.90966796875,
+        "neutral": 0.07403564453125,
+        "entailment": 0.0160980224609375
+      }
+    },
+    {
+      "sentence": "The Court explained that although the cross originated as a Christian symbol, it has also taken on a secular meaning.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.74560546875,
+        "neutral": 0.2509765625,
+        "entailment": 0.0033473968505859375
+      }
+    },
+    {
+      "sentence": "In particular, the cross became a symbol of World War I as evidenced by its use in the present controversy.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Lemon test, which the Court first articulated in 1971 as a way to discern Establishment Clause violations, does not serve its intended purpose, particularly as applied to religious symbols or monuments.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Thus, when the question arises whether to keep a religious monument in place (as opposed to a question whether to put up a new one), there should be a presumption that the monument is constitutional.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.99267578125,
+        "neutral": 0.00612640380859375,
+        "entailment": 0.0010280609130859375
+      }
+    },
+    {
+      "sentence": "Applying this presumption rather than the Lemon test, the Court found the Bladensburg Cross does not violate the Establishment Clause because it has historical importance beyond its admittedly Christian symbolism.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Breyer joined Justice Alito's opinion in full but wrote a separate concurrence joined by Justice Kagan to highlight his belief that there is no single test for Establishment Clause violations.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Rather, a court asked to resolve such questions must consider \"the basic purposes that the Religion Clauses were meant to serve: assuring religious liberty and tolerance for all, avoiding religiously based social conflict, and maintaining that separation of church and state that allows each to flourish in its separate sphere.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kavanaugh also joined Justice Alito's opinion in full and also wrote his own concurring opinion.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "He even more harshly criticized the Lemon test, arguing that \"the Court's decisions over the span of several decades demonstrate that the Lemon test is not good law and does not apply to Establishment Clause cases in any of\" five categories, which he enumerated.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kagan joined most of Justice Alito's opinion but wrote a separate concurrence to note that, although \"rigid application of the Lemon test does not solve every Establishment Clause problem,\" courts should still focus on the purpose and effect of government action in deciding whether it violates the Constitution.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas wrote a separate opinion concurring in the judgment, but based on entirely different reasoning.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Thomas does not believe the Establishment Clause applies to state and local governments, and even if it did, it applies only to prevent coercive action by the government.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Thomas would overrule the Lemon test in all contexts.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Neil Gorsuch wrote a separate opinion concurring in the judgment, in which Justice Thomas joined.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Gorsuch would dismiss the lawsuit for lack of standing, arguing that simply being offended by the cross's presence is insufficient to meet the injury requirement of Article III standing.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justice Sonia Sotomayor joined.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98681640625,
+        "neutral": 0.01275634765625,
+        "entailment": 0.00035452842712402344
+      }
+    },
+    {
+      "sentence": "Justice Ginsburg argued that the cross \"is the foremost symbol of the Christian faith,\" and using it as a war memorial doesn't change that.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Maryland's decision to maintain that Christian symbol on public land \"elevates Christianity over other faiths, and religion over nonreligion.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Ginsburg additionally pointed out that an appropriate remedy for an Establishment Clause violation is not necessarily to destroy the memorial, as the majority suggests, but to transfer title to the land on which it sits to a private entity\u2014in fact, a private entity owned the land when the cross was first erected.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 13
+  },
+  "total_sentences": 36,
+  "contradiction_rate": 0.3611111111111111,
+  "nli_score": 0.6388888888888888
+}

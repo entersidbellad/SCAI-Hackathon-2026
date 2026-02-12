@@ -1,0 +1,30 @@
+Here is a summary of the Supreme Court's opinion in *American Legion et al. v. American Humanist Assn. et al.*:
+
+### 1. Facts of the Case
+
+In 1918, a committee formed in Prince George's County, Maryland, to erect a memorial for soldiers who died in World War I. They decided on a Latin cross, a symbol that had become prominent due to its use in marking soldiers' graves overseas. When the committee ran out of funds, the local American Legion took over and completed the 32-foot tall cross monument in 1925. The monument, known as the Bladensburg Cross, features the American Legion's emblem and a plaque listing the names of 49 fallen county soldiers. It has since been the site of patriotic ceremonies. In 1961, the Maryland-National Capital Park and Planning Commission (Commission) acquired the Cross and the land it stands on, using public funds for its maintenance, while the American Legion retained the right to use the site for ceremonies.
+
+In 2014, the American Humanist Association (AHA) and others filed a lawsuit, arguing that the Cross's presence on public land and the Commission's maintenance of it violated the Establishment Clause of the First Amendment. The American Legion intervened to defend the monument. The District Court ruled in favor of the Commission and the American Legion, finding the Cross constitutional under both the *Lemon v. Kurtzman* test and the approach used in *Van Orden v. Perry*. However, the Fourth Circuit Court of Appeals reversed this decision.
+
+### 2. Legal Question(s)
+
+The central legal question before the Supreme Court was:
+
+*   Does the Bladensburg Peace Cross, a 32-foot tall Latin cross monument on public land maintained by a government commission, violate the Establishment Clause of the First Amendment, which prohibits government establishment of religion?
+
+### 3. Conclusion/Holding
+
+The Supreme Court reversed the judgment of the Fourth Circuit, holding that the Bladensburg Cross does not violate the Establishment Clause.
+
+The Court, in an opinion authored by Justice Alito, reasoned that retaining established, religiously expressive monuments, symbols, or practices differs from erecting new ones. The Court identified four key considerations:
+
+1.  **Difficulty in Ascertaining Original Purpose:** For long-standing monuments, identifying the precise original intent of the creators can be difficult due to the passage of time and unavailability of testimony.
+2.  **Multiplication of Purposes:** Over time, the purposes associated with a monument can multiply. Even if originally religiously motivated, a monument may be retained for its historical significance or its place in common cultural heritage.
+3.  **Evolution of Message:** The message conveyed by a symbol can evolve. The cross, while inherently Christian, had taken on a secular meaning as a symbol of sacrifice in World War I, a meaning reinforced by its use in military honors and its presence in war cemeteries.
+4.  **Loss of Neutrality Upon Removal:** When a religiously expressive monument gains historical significance and familiarity through time, its removal may be perceived not as a neutral act but as hostility toward religion.
+
+Applying these principles to the Bladensburg Cross, the Court found that its design should be understood in the historical context of World War I, where the plain Latin cross became a symbol of soldiers' sacrifice. The Court noted that the monument had acquired historical importance, serving as a reminder of the community's predecessors and their sacrifices. It also highlighted that the monument had become part of the community's landscape and was used for patriotic events. The Court found no evidence of discriminatory intent in its creation or maintenance. Furthermore, the Court emphasized that removing or altering the monument after nearly a century would not be viewed as a neutral act by many in the community.
+
+The Court also addressed the *Lemon* test, noting that it has been inconsistently applied and has not provided a clear framework for Establishment Clause cases, particularly those involving historical monuments and symbols. Instead, the Court favored a more modest approach guided by history and tradition, referencing precedents like *Marsh v. Chambers* and *Town of Greece v. Galloway*.
+
+In essence, the Court concluded that the Bladensburg Cross, due to its historical context, its evolution into a symbol of sacrifice, its integration into the community, and the passage of time, had acquired a presumption of constitutionality and did not violate the Establishment Clause. The Court reversed the Fourth Circuit's judgment and remanded the case for further proceedings.

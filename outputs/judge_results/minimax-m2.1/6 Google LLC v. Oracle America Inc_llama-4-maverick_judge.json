@@ -1,0 +1,43 @@
+{
+  "factual_accuracy": 2,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "Justice Thomas dissented, arguing that the declaring code was copyrightable and that Google's use was not fair.",
+      "issue": "The generated summary incorrectly states that Justice Thomas dissented alone, when in fact Justice Thomas authored the dissent and was joined by Justice Samuel Alito.",
+      "correct_info": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Samuel Alito joined"
+    },
+    {
+      "error_quote": "The Supreme Court held that Google's copying of the Java SE API was a fair use as a matter of law.",
+      "issue": "The generated summary incorrectly states the vote count as 6-2, when the reference summary indicates Justice Breyer authored the majority opinion and Justice Thomas dissented with Justice Alito, but also notes that Justice Amy Coney Barrett took no part. The summary fails to mention that Justice Barrett did not participate, which affects the actual vote composition.",
+      "correct_info": "Justice Stephen Breyer authored the 6-2 majority opinion. Justice Amy Coney Barrett took no part in the consideration and decision of the case."
+    },
+    {
+      "error_quote": "The amount copied was considered substantial in absolute terms but small relative to the entire Java SE program.",
+      "issue": "The generated summary is vague about the amount copied, while the reference summary specifically states Google copied only .4% of the entire API.",
+      "correct_info": "Google copied only .4% of the entire API, weighing in favor of fair use."
+    },
+    {
+      "error_quote": "The Court assumed, without deciding, that the API was copyrightable",
+      "issue": "The generated summary is incomplete in its description of the Court's approach. The reference summary shows the Court addressed two questions: (1) whether copyright protection extends to a software interface, and (2) whether the use constitutes fair use. The Court assumed software interfaces may be subject to copyright protection to decide no more than necessary.",
+      "correct_info": "The Court assumed that software code is subject to copyright protection to decide no more than necessary to resolve the case."
+    }
+  ],
+  "hedging_detected": true,
+  "hedging_examples": [
+    {
+      "summary_says": "The Court assumed, without deciding, that the API was copyrightable and focused on the fair use analysis.",
+      "reference_says": "Assuming a software interface may be subject to copyright protection, Google's limited copying of the Java SE Application Programming Interface constituted a fair use of that material under copyright law.",
+      "issue": "The generated summary uses hedging language ('assumed, without deciding') which is accurate, but it doesn't capture the definitive nature of the holding that Google's copying constituted fair use. The reference is more definitive in stating the conclusion."
+    }
+  ],
+  "key_omissions": [
+    "Justice Amy Coney Barrett took no part in the consideration and decision of the case",
+    "The specific quote from Justice Thomas's dissent about Google erasing 97.5% of the value of Oracle's partnership with Amazon and making tens of billions of dollars",
+    "The detail that the copied lines are 'inherently bound together with uncopyrightable ideas'",
+    "The context that the Federal Circuit had previously held APIs are copyrightable but left open fair use defense, and that the Supreme Court initially denied certiorari",
+    "The specific vote count of 6-2 (though this is complicated by Justice Barrett's non-participation)"
+  ],
+  "overall_assessment": "The generated summary captures the basic facts and fair use analysis but contains significant errors including misattributing the dissent (failing to mention Justice Alito joined) and not mentioning Justice Barrett's non-participation. It also omits important details like the specific .4% figure and the colorful language from Justice Thomas's dissent about market impact.",
+  "judge_score": 0.5
+}

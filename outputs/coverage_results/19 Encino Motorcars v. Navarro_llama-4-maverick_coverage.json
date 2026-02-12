@@ -1,0 +1,135 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nEncino Motorcars, LLC, which sells and services Mercedes-Benz cars, employed Hector Navarro and others as \"service advisors.\"",
+      "best_match": "### Summary of Encino Motorcars, LLC v. Navarro\n\n#### 1.",
+      "similarity": 0.6776573657989502,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Their role was to greet car owners upon arrival in the service area of the dealership, listen to customers' concerns about their cars, evaluate the repair and maintenance needs of the cars, suggest services, write up estimates, and follow up with the customer while repair work was being done.",
+      "best_match": "The service advisors' primary duties include meeting customers, listening to their concerns, suggesting repair and maintenance services, selling new accessories or replacement parts, recording service orders, following up with customers, and explaining the repair work.",
+      "similarity": 0.52329421043396,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Navarro and the other plaintiffs alleged in federal district court that Encino Motorcars violated the Fair Labor Standards Act (FLSA) by failing to pay them overtime wages.",
+      "best_match": "Facts of the Case\nThe case involves Encino Motorcars, LLC, a Mercedes-Benz dealership in California, and its current and former service advisors, who sued the company for backpay, alleging a violation of the Fair Labor Standards Act (FLSA) due to the failure to pay overtime.",
+      "similarity": 0.6774844527244568,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court dismissed the claim, finding that the FLSA exempts service advisors from its overtime compensation provisions.",
+      "best_match": "The District Court initially dismissed the suit, ruling that service advisors are exempt from the FLSA's overtime-pay requirement under 29 U.S.C.",
+      "similarity": 0.8831402063369751,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A panel of the Ninth Circuit reversed, using the principle of Chevron deference to rely on a regulation promulgated by the Department of Labor in 2011 interpreting the statutory exemption as not encompassing service providers.",
+      "best_match": "On remand, the Ninth Circuit again ruled that service advisors are not exempt.",
+      "similarity": 0.6185304522514343,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The US Supreme Court vacated the panel's decision, holding that the regulation lacked sufficient explanation and thus was not entitled to deference.",
+      "best_match": "The Supreme Court vacated the Ninth Circuit's judgment in Encino Motorcars, LLC v. Navarro (Encino I), holding that the 2011 rule was procedurally defective and thus not entitled to deference.",
+      "similarity": 0.5854477882385254,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "On remand, the Ninth Circuit formulated its own interpretation of the applicable FLSA provision and concluded that the exemption does not encompass service advisors.",
+      "best_match": "On remand, the Ninth Circuit again ruled that service advisors are not exempt.",
+      "similarity": 0.7787671089172363,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nAre service advisors at car dealerships exempt under 29 U.S.C.",
+      "best_match": "Legal Question(s)\nThe specific legal question addressed by the Court was whether service advisors at car dealerships are exempt from the FLSA's overtime-pay requirement under 29 U.S.C.",
+      "similarity": 0.7276347875595093,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 213(b)(10)(A) from the Fair Labor Standards Act's overtime-pay requirements?",
+      "best_match": "Legal Question(s)\nThe specific legal question addressed by the Court was whether service advisors at car dealerships are exempt from the FLSA's overtime-pay requirement under 29 U.S.C.",
+      "similarity": 0.5594660043716431,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nIn a 5-4 decision, the Court reversed and remanded the case back to the Ninth Circuit, holding that because service advisors at car dealerships are \"salesm[e]n .",
+      "best_match": "The Ninth Circuit Court of Appeals reversed this decision, deferring to a 2011 Department of Labor rule that interpreted \"salesman\" to exclude service advisors.",
+      "similarity": 0.7193202376365662,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "primarily engaged in .",
+      "best_match": "Furthermore, service advisors are \"primarily engaged in servicing automobiles\" as they are integral to the servicing process, even though they do not physically repair automobiles.",
+      "similarity": 0.28942251205444336,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "servicing automobiles,\" 29 U.S.C.",
+      "best_match": "Furthermore, service advisors are \"primarily engaged in servicing automobiles\" as they are integral to the servicing process, even though they do not physically repair automobiles.",
+      "similarity": 0.5245541930198669,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 213(b)(10)(A), they are exempt from the FLSA's overtime-pay requirements.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that service advisors are indeed exempt from the FLSA's overtime-pay requirement because they are \"salesmen primarily engaged in servicing automobiles.\"",
+      "similarity": 0.763599157333374,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Construing the relevant portions of the statute, the Court explained that a service advisor is clearly a \"salesman\" who sells services to customers for their vehicles.",
+      "best_match": "The Court reasoned that the term \"salesman\" includes service advisors as they sell services to customers.",
+      "similarity": 0.8438931107521057,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court also concluded that service advisors are \"primarily engaged in .",
+      "best_match": "The Court reasoned that the term \"salesman\" includes service advisors as they sell services to customers.",
+      "similarity": 0.6512145400047302,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "servicing automobiles\" since they are integral in the process of providing maintenance and repair services to customers, even if they do not spend most of their time physically repairing vehicles.",
+      "best_match": "Furthermore, service advisors are \"primarily engaged in servicing automobiles\" as they are integral to the servicing process, even though they do not physically repair automobiles.",
+      "similarity": 0.75771564245224,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court rejected the Ninth Circuit's use of the distributive canon, as well as its conclusion that FLSA exemptions should be construed narrowly in holding that service advisors were not exempt.",
+      "best_match": "The Court rejected the Ninth Circuit's application of the distributive canon, which would have limited the exemption to salesmen engaged in selling automobiles.",
+      "similarity": 0.7686998844146729,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "It also rejected the appellate court's reliance on a 1966-67 DOL Occupational Outlook Handbook and the FLSA legislative history, both of which the Court found unpersuasive.",
+      "best_match": "The Court also rejected the principle that FLSA exemptions should be construed narrowly, stating that exemptions should be given a fair reading.",
+      "similarity": 0.5508785247802734,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ginsburg filed a dissenting opinion, in which Justices Breyer, Sotomayor, and Kagan joined.",
+      "best_match": "The decision reversed the Ninth Circuit's judgment and remanded the case.",
+      "similarity": 0.40889304876327515,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "primarily engaged in .",
+      "best_similarity": 0.28942251205444336,
+      "best_match": "Furthermore, service advisors are \"primarily engaged in servicing automobiles\" as they are integral to the servicing process, even though they do not physically repair automobiles."
+    },
+    {
+      "sentence": "Justice Ginsburg filed a dissenting opinion, in which Justices Breyer, Sotomayor, and Kagan joined.",
+      "best_similarity": 0.40889304876327515,
+      "best_match": "The decision reversed the Ninth Circuit's judgment and remanded the case."
+    }
+  ],
+  "total_gt_sentences": 19,
+  "covered_sentences": 17,
+  "coverage_percentage": 89.47368421052632,
+  "coverage_score": 0.8947368421052632,
+  "threshold": 0.5
+}

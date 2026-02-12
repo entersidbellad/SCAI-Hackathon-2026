@@ -1,0 +1,128 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nIn 2014, Roxanne Torres was involved in an incident with police officers in which she was operating a vehicle under the influence of methamphetamine and in the process of trying to get away, endangered the two officers pursuing her.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In the process, one of the officers shot and injured her.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.970703125,
+        "neutral": 0.0269317626953125,
+        "entailment": 0.002506256103515625
+      }
+    },
+    {
+      "sentence": "Torres pleaded no contest to three crimes: (1) aggravated fleeing from a law enforcement officer, (2) assault on a police officer, and (3) unlawfully taking a motor vehicle.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In October 2016, she filed a civil-rights complaint in federal court against the two officers, alleging claims including excessive force and conspiracy to engage in excessive force.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Construing Torres's complaint as asserting the excessive-force claims under the Fourth Amendment, the court concluded that the officers were entitled to qualified immunity.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In the court's view, the officers had not seized Torres at the time of the shooting, and without a seizure, there could be no Fourth Amendment violation.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The U.S. Court of Appeals for the Tenth Circuit affirmed.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.806640625,
+        "neutral": 0.1893310546875,
+        "entailment": 0.0038852691650390625
+      }
+    },
+    {
+      "sentence": "Question\nMust physical force used to detain a suspect be successful to constitute a \"seizure\" under the Fourth Amendment?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.5556640625,
+        "neutral": 0.345703125,
+        "entailment": 0.09832763671875
+      }
+    },
+    {
+      "sentence": "Conclusion\nThe application of physical force to the body of a person with intent to restrain is a seizure, even if the force does not succeed in subduing the person.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.9833984375,
+        "neutral": 0.0154571533203125,
+        "entailment": 0.0013246536254882812
+      }
+    },
+    {
+      "sentence": "Chief Justice John Roberts authored the majority opinion.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Under the Court's precedents, common law arrests are considered seizures under the Fourth Amendment, and the application of force to the body of a person with intent to restrain constitutes an arrest even if the arrestee escapes.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The use of a device, here, a gun, to effect the arrest, makes no difference in the outcome; it is still a seizure.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "There is no reason to draw an \"artificial line\" between grasping an arrestee with a hand and using some other means of applying physical force to effect an arrest.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.986328125,
+        "neutral": 0.01317596435546875,
+        "entailment": 0.0002765655517578125
+      }
+    },
+    {
+      "sentence": "The key consideration is whether the conduct objectively manifests the intent to restrain; subjective perceptions are irrelevant.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.97607421875,
+        "neutral": 0.0233306884765625,
+        "entailment": 0.0006260871887207031
+      }
+    },
+    {
+      "sentence": "Additionally, the requirement of intent to restrain lasts only as long as the application of force.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.77490234375,
+        "neutral": 0.204345703125,
+        "entailment": 0.020599365234375
+      }
+    },
+    {
+      "sentence": "In this case, the officers' conduct clearly manifested intent to restrain Torres and was thus a seizure under the Fourth Amendment.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett took no part in the consideration or decision of the case.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined, arguing that \"neither the Constitution nor common sense\" support the majority's definition of a seizure.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 7
+  },
+  "total_sentences": 18,
+  "contradiction_rate": 0.3888888888888889,
+  "nli_score": 0.6111111111111112
+}

@@ -1,0 +1,214 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn 2010, for the first time in over forty years, Wisconsin voters elected a Republican majority in the state assembly and the senate, and a Republican governor.",
+      "best_match": "Facts of the Case\nThe case involves a challenge to Wisconsin's 2011 state legislative redistricting plan, known as Act 43, which was enacted by a Republican-controlled legislature and signed into law by a Republican governor.",
+      "similarity": 0.6273794174194336,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "As a result, the Republican leadership developed a voting district map that its drafters calculated would allow Republicans to maintain a majority under any likely voting scenario.",
+      "best_match": "Twelve Democratic voters alleged that Act 43 was a partisan gerrymander designed to disadvantage Democratic voters by \"cracking\" and \"packing\" them into districts.",
+      "similarity": 0.4999123215675354,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The redistricting plan was introduced in July 2011, and both the senate and the assembly passed the bill shortly thereafter.",
+      "best_match": "Facts of the Case\nThe case involves a challenge to Wisconsin's 2011 state legislative redistricting plan, known as Act 43, which was enacted by a Republican-controlled legislature and signed into law by a Republican governor.",
+      "similarity": 0.5695551633834839,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The governor signed the bill into law in August 2011.",
+      "best_match": "Facts of the Case\nThe case involves a challenge to Wisconsin's 2011 state legislative redistricting plan, known as Act 43, which was enacted by a Republican-controlled legislature and signed into law by a Republican governor.",
+      "similarity": 0.3629308342933655,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Even before it was enacted, the plan faced two legal challenges, on constitutional and statutory grounds.",
+      "best_match": "Legal Question(s)\nThe Supreme Court addressed the question of whether the plaintiffs had standing to challenge Act 43.",
+      "similarity": 0.4665505886077881,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "A federal court upheld the plan as not violating the \"one person one vote\" principle nor violating the Equal Protection Clause.",
+      "best_match": "The Court ruled that to establish standing in a partisan gerrymandering case based on vote dilution, a plaintiff must show that their individual vote was diluted due to being \"cracked\" or \"packed\" in their specific district.",
+      "similarity": 0.49146297574043274,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Plaintiffs in this case challenge the plan as an unconstitutional partisan gerrymander.",
+      "best_match": "The plaintiffs claimed that this gerrymandering violated their First Amendment right of association and their Fourteenth Amendment right to equal protection.",
+      "similarity": 0.7312263250350952,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "At issue is whether the plan systematically dilutes the voting strength of Democratic voters statewide.",
+      "best_match": "The Court ruled that to establish standing in a partisan gerrymandering case based on vote dilution, a plaintiff must show that their individual vote was diluted due to being \"cracked\" or \"packed\" in their specific district.",
+      "similarity": 0.5149590373039246,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "Legal Question(s)\nThe Supreme Court addressed the question of whether the plaintiffs had standing to challenge Act 43.",
+      "similarity": 0.31927216053009033,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Did the district court err in holding that it had the authority to hear a statewide challenge to Wisconsin's redistricting plan, rather than requiring a district-by-district analysis?",
+      "best_match": "Facts of the Case\nThe case involves a challenge to Wisconsin's 2011 state legislative redistricting plan, known as Act 43, which was enacted by a Republican-controlled legislature and signed into law by a Republican governor.",
+      "similarity": 0.6178622245788574,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Did the district court err in holding that the redistricting plan was an unconstitutional gerrymander?",
+      "best_match": "The plaintiffs claimed that this gerrymandering violated their First Amendment right of association and their Fourteenth Amendment right to equal protection.",
+      "similarity": 0.7135158777236938,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Did the district court use an incorrect test for a gerrymander?",
+      "best_match": "The Court ruled that to establish standing in a partisan gerrymandering case based on vote dilution, a plaintiff must show that their individual vote was diluted due to being \"cracked\" or \"packed\" in their specific district.",
+      "similarity": 0.678138017654419,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Are defendants entitled to present evidence that they would have prevailed under the gerrymander test actually used by the district court?",
+      "best_match": "The Court ruled that to establish standing in a partisan gerrymandering case based on vote dilution, a plaintiff must show that their individual vote was diluted due to being \"cracked\" or \"packed\" in their specific district.",
+      "similarity": 0.6429531574249268,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Are partisan gerrymandering claims justiciable?",
+      "best_match": "The Court ruled that to establish standing in a partisan gerrymandering case based on vote dilution, a plaintiff must show that their individual vote was diluted due to being \"cracked\" or \"packed\" in their specific district.",
+      "similarity": 0.646070659160614,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe plaintiffs failed to demonstrate Article III standing, so there is no need to resolve any of the questions presented.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the plaintiffs failed to demonstrate Article III standing because they did not prove that they suffered a particularized injury.",
+      "similarity": 0.6090055704116821,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In a unanimous decision authored by Chief Justice John Roberts, the Court sidestepped (for now) all of the key issues regarding partisan gerrymandering, resolving the case instead on the technical issue of judicial standing.",
+      "best_match": "Specifically, the Court considered whether the plaintiffs had suffered a particularized injury due to the alleged partisan gerrymandering and whether their claimed harm was sufficiently concrete and individualized to satisfy Article III standing requirements.",
+      "similarity": 0.6793935894966125,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "For a plaintiff to bring a case in federal court, she must have Article III standing, which requires showing three elements, one of which is \"injury in fact.\"",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the plaintiffs failed to demonstrate Article III standing because they did not prove that they suffered a particularized injury.",
+      "similarity": 0.6702233552932739,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "To show injury in fact, a plaintiff must show that she has suffered \"invasion of a legally protected interest\" that is \"concrete and particularized.\"",
+      "best_match": "The Court's decision emphasizes that a plaintiff's remedy must be tailored to redress their particular injury, and it leaves open the possibility of considering other theories of harm and justiciability in future cases.",
+      "similarity": 0.5859451293945312,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In this case, the Court found that the plaintiffs alleged but did not prove individual harms, providing evidence instead only of statewide harms of alleged partisan gerrymandering.",
+      "best_match": "Specifically, the Court considered whether the plaintiffs had suffered a particularized injury due to the alleged partisan gerrymandering and whether their claimed harm was sufficiently concrete and individualized to satisfy Article III standing requirements.",
+      "similarity": 0.7002694606781006,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court thus vacated the judgment of the district court and remanded for further proceedings.",
+      "best_match": "The Court vacated the District Court's judgment and remanded the case, giving the plaintiffs an opportunity to prove concrete and particularized injuries.",
+      "similarity": 0.8380721211433411,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas filed an opinion concurring in part and concurring in the judgment, in which Justice Neil Gorsuch joined.",
+      "best_match": "The defendants, members of the state election commission, appealed directly to the Supreme Court.",
+      "similarity": 0.45743560791015625,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justices Thomas and Gorsuch did not join the majority with respect to the decision to remand the case and allow the plaintiffs a second chance to prove standing and thus wrote separately to express this disagreement with the disposition.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the plaintiffs failed to demonstrate Article III standing because they did not prove that they suffered a particularized injury.",
+      "similarity": 0.5207366943359375,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Elena Kagan filed a concurring opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor joined.",
+      "best_match": "The defendants, members of the state election commission, appealed directly to the Supreme Court.",
+      "similarity": 0.4206812381744385,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan agreed with the findings and conclusions of the Court but wrote separately, in essence, to describe how the plaintiffs might proceed upon remand.",
+      "best_match": "The Court vacated the District Court's judgment and remanded the case, giving the plaintiffs an opportunity to prove concrete and particularized injuries.",
+      "similarity": 0.5949433445930481,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan suggests that the plaintiffs might present more than simply a vote dilution theory, but also an infringement of their First Amendment right of association.",
+      "best_match": "The plaintiffs claimed that this gerrymandering violated their First Amendment right of association and their Fourteenth Amendment right to equal protection.",
+      "similarity": 0.6012755632400513,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Such a claim, according to Justice Kagan, would not require the plaintiffs to show injury-in-fact in the form of injury to her particular voting district because that claim would be statewide in nature.",
+      "best_match": "Specifically, the Court considered whether the plaintiffs had suffered a particularized injury due to the alleged partisan gerrymandering and whether their claimed harm was sufficiently concrete and individualized to satisfy Article III standing requirements.",
+      "similarity": 0.6154060363769531,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "She predicts that partisan gerrymandering \"injures enough individuals and organizations in enough concrete ways .",
+      "best_match": "Twelve Democratic voters alleged that Act 43 was a partisan gerrymander designed to disadvantage Democratic voters by \"cracking\" and \"packing\" them into districts.",
+      "similarity": 0.5183907747268677,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "that standing requirements, properly applied, will not often or long prevent courts from reaching the merits of cases like this one.\"",
+      "best_match": "Conclusion/Holding\nThe Supreme Court held that the plaintiffs failed to demonstrate Article III standing because they did not prove that they suffered a particularized injury.",
+      "similarity": 0.5050796270370483,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "As a result, the Republican leadership developed a voting district map that its drafters calculated would allow Republicans to maintain a majority under any likely voting scenario.",
+      "best_similarity": 0.4999123215675354,
+      "best_match": "Twelve Democratic voters alleged that Act 43 was a partisan gerrymander designed to disadvantage Democratic voters by \"cracking\" and \"packing\" them into districts."
+    },
+    {
+      "sentence": "The governor signed the bill into law in August 2011.",
+      "best_similarity": 0.3629308342933655,
+      "best_match": "Facts of the Case\nThe case involves a challenge to Wisconsin's 2011 state legislative redistricting plan, known as Act 43, which was enacted by a Republican-controlled legislature and signed into law by a Republican governor."
+    },
+    {
+      "sentence": "Even before it was enacted, the plan faced two legal challenges, on constitutional and statutory grounds.",
+      "best_similarity": 0.4665505886077881,
+      "best_match": "Legal Question(s)\nThe Supreme Court addressed the question of whether the plaintiffs had standing to challenge Act 43."
+    },
+    {
+      "sentence": "A federal court upheld the plan as not violating the \"one person one vote\" principle nor violating the Equal Protection Clause.",
+      "best_similarity": 0.49146297574043274,
+      "best_match": "The Court ruled that to establish standing in a partisan gerrymandering case based on vote dilution, a plaintiff must show that their individual vote was diluted due to being \"cracked\" or \"packed\" in their specific district."
+    },
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.31927216053009033,
+      "best_match": "Legal Question(s)\nThe Supreme Court addressed the question of whether the plaintiffs had standing to challenge Act 43."
+    },
+    {
+      "sentence": "Justice Clarence Thomas filed an opinion concurring in part and concurring in the judgment, in which Justice Neil Gorsuch joined.",
+      "best_similarity": 0.45743560791015625,
+      "best_match": "The defendants, members of the state election commission, appealed directly to the Supreme Court."
+    },
+    {
+      "sentence": "Justice Elena Kagan filed a concurring opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor joined.",
+      "best_similarity": 0.4206812381744385,
+      "best_match": "The defendants, members of the state election commission, appealed directly to the Supreme Court."
+    }
+  ],
+  "total_gt_sentences": 28,
+  "covered_sentences": 21,
+  "coverage_percentage": 75.0,
+  "coverage_score": 0.75,
+  "threshold": 0.5
+}

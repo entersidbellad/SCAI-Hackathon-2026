@@ -1,0 +1,21 @@
+Here is a summary of the Supreme Court's opinion in *Knick v. Township of Scott, Pennsylvania, et al.*:
+
+### 1. Facts of the Case
+
+Rose Mary Knick owns a 90-acre rural property in Scott Township, Pennsylvania, which includes a small family graveyard. In December 2012, the Township passed an ordinance requiring all cemeteries to be kept open and accessible to the public during daylight hours. A Township officer notified Knick that she was violating this ordinance due to the presence of grave markers on her property.
+
+Knick initiated legal proceedings in state court, seeking declaratory and injunctive relief, arguing that the ordinance constituted a taking of her property without just compensation. However, she did not file an inverse condemnation action under state law to seek compensation. In response, the Township withdrew the violation notice and stayed enforcement of the ordinance. The state court declined to rule on Knick's request for equitable relief, finding she could not demonstrate irreparable harm without an ongoing enforcement action.
+
+Subsequently, Knick filed an action in Federal District Court under 42 U.S.C. §1983, alleging a violation of the Takings Clause of the Fifth Amendment. The District Court dismissed her claim, relying on *Williamson County Regional Planning Comm’n v. Hamilton Bank of Johnson City*, 473 U.S. 172 (1985), which held that property owners must first seek compensation through state law remedies before bringing a federal takings claim. The United States Court of Appeals for the Third Circuit affirmed this decision.
+
+### 2. Legal Question(s)
+
+The primary legal question before the Supreme Court was whether a property owner must first seek compensation through state inverse condemnation procedures before bringing a federal takings claim under 42 U.S.C. §1983. This question directly challenged the holding of *Williamson County*.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that a government violates the Takings Clause of the Fifth Amendment when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under §1983 at that time. The Court **overruled** the state-litigation requirement established in *Williamson County*.
+
+The Court reasoned that the Fifth Amendment right to just compensation arises at the moment of the taking, regardless of any subsequent state remedies. The *Williamson County* decision, by requiring property owners to first pursue state compensation remedies, created a "Catch-22" situation where a failed state claim would be precluded in federal court due to the Full Faith and Credit Statute, thus denying a federal forum for takings claims. The Court found the reasoning in *Williamson County* to be flawed, inconsistent with other takings jurisprudence, and unworkable in practice.
+
+The precedent set by this decision is that property owners can bring a takings claim under §1983 in federal court as soon as their property is taken without just compensation by a local government. This does not preclude governments from acting without immediate payment, as long as adequate post-taking compensation remedies are available, but it ensures that federal courts are accessible for such claims from the outset of the violation.

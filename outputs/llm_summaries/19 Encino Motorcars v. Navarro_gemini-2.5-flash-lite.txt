@@ -1,0 +1,26 @@
+Here is a summary of the Supreme Court's opinion in *Encino Motorcars, LLC v. Navarro et al.*:
+
+**1. Facts of the Case**
+
+Respondents, who were current and former service advisors for petitioner Encino Motorcars, LLC, filed a lawsuit alleging that Encino Motorcars violated the Fair Labor Standards Act (FLSA) by failing to pay them overtime wages. Encino Motorcars moved to dismiss the suit, arguing that service advisors are exempt from the FLSA's overtime pay requirement under 29 U.S.C. §213(b)(10)(A). This exemption applies to "any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements." The District Court dismissed the suit, agreeing with Encino Motorcars.
+
+The Ninth Circuit Court of Appeals reversed, finding the statute ambiguous and the legislative history inconclusive. It deferred to a 2011 Department of Labor rule that interpreted "salesman" to exclude service advisors. The Supreme Court vacated the Ninth Circuit's judgment in *Encino I*, holding that courts could not defer to the procedurally defective 2011 rule, but it did not decide whether the exemption actually covered service advisors. The case was remanded to the Ninth Circuit.
+
+On remand, the Ninth Circuit again ruled that the exemption does not include service advisors. The Supreme Court granted certiorari to review this decision.
+
+**2. Legal Question(s)**
+
+The primary legal question before the Supreme Court was whether service advisors at automobile dealerships are considered "salesmen . . . primarily engaged in . . . servicing automobiles" and are therefore exempt from the overtime pay requirements of the Fair Labor Standards Act (FLSA) under 29 U.S.C. §213(b)(10)(A).
+
+**3. Conclusion/Holding**
+
+The Supreme Court held that service advisors are indeed "salesmen . . . primarily engaged in . . . servicing automobiles" and are thus exempt from the FLSA's overtime-pay requirement.
+
+The Court reasoned as follows:
+*   **"Salesman"**: The ordinary meaning of "salesman" is someone who sells goods or services. Service advisors sell services for vehicles to customers, fitting this definition.
+*   **"Primarily engaged in . . . servicing automobiles"**: The term "servicing" can mean either maintaining or repairing a vehicle, or providing a service. Service advisors are integral to the servicing process, as they meet customers, listen to concerns, suggest services, sell accessories or parts, record orders, follow up, and explain work. The Court noted that partsmen, who are agreed to be exempt, also do not spend most of their time physically repairing cars but are considered integral to servicing.
+*   **Statutory Interpretation**: The Court rejected the Ninth Circuit's reliance on the distributive canon, which would have matched "salesman" with "selling" and "partsman" or "mechanic" with "servicing." The Court emphasized that the word "or" in the statute is disjunctive, meaning the exemption covers a salesman primarily engaged in either selling *or* servicing. The Court found that the statutory context, including the use of "any" and multiple instances of "or," indicated a broad exemption, and that a "salesman . . . primarily engaged in . . . servicing automobiles" is an apt description of a service advisor.
+*   **Narrow Construction of Exemptions**: The Court rejected the principle that FLSA exemptions should be construed narrowly, stating that exemptions should be given a "fair reading" unless the statute provides a textual indication otherwise. The Court reasoned that exemptions are as much a part of the FLSA's purpose as its remedial provisions.
+*   **Extraneous Sources**: The Court found the Ninth Circuit's reliance on the Occupational Outlook Handbook and legislative history unpersuasive. The Handbook did not dictate the scope of the exemption, and silence in the legislative history cannot override a clear reading of the statutory text.
+
+The Court reversed the judgment of the Ninth Circuit and remanded the case for further proceedings.

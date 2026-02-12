@@ -1,0 +1,33 @@
+{
+  "factual_accuracy": 3,
+  "completeness": 2,
+  "factual_errors": [
+    {
+      "error_quote": "The corporation intended to make the documentary available through video-on-demand, a cable television service.",
+      "issue": "The reference summary does not mention video-on-demand or cable television service. This detail is not present in the ground truth.",
+      "correct_info": "The reference summary states that Citizens United sought an injunction against BCRA application to 'its film Hillary: The Movie' which 'expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.'"
+    },
+    {
+      "error_quote": "The generated summary does not address the four specific legal questions from the reference (questions 1-4) or provide the answers 'No. No. Yes. Yes.'",
+      "issue": "The reference summary lists four specific legal questions with definitive answers, but the generated summary only mentions two general legal questions without addressing the specific questions from the case.",
+      "correct_info": "The reference summary explicitly lists four questions: (1) Did McConnell resolve all as-applied challenges? (2) Do disclosure requirements impose unconstitutional burden? (3) Is communication without clear plea subject to regulation? (4) Should documentary be treated like advertisements? The answers are 'No. No. Yes. Yes.'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The four specific legal questions from the case with their answers ('No. No. Yes. Yes.')",
+    "The 5-4 vote breakdown along ideological lines",
+    "Justice Anthony M. Kennedy wrote the majority opinion",
+    "The specific justices in the majority: Roberts, Scalia, Alito, and Thomas",
+    "The specific justices in the dissent: Stevens, Ginsburg, Breyer, and Sotomayor",
+    "Chief Justice Roberts' concurring opinion (joined by Justice Alito)",
+    "Justice Scalia's concurring opinion (joined by Alito and Thomas in part)",
+    "Justice Stevens' dissent arguing corporations are not members of society",
+    "The specific holding that disclosure requirements are constitutional as applied to The Movie",
+    "The reasoning that disclosure is justified by governmental interest in providing electorate with information",
+    "The detail that the Court upheld the ban on direct contributions to candidates from corporations and unions"
+  ],
+  "overall_assessment": "The generated summary captures the core holding correctly (\u00a7441b is unconstitutional, disclosure requirements are constitutional) but is significantly incomplete. It omits critical details including the four specific legal questions, the 5-4 vote breakdown, the justices' alignments, the concurring and dissenting opinions, and the specific 'No. No. Yes. Yes.' answers to the legal questions. It also introduces an unsupported detail about video-on-demand that is not in the reference.",
+  "judge_score": 0.5
+}

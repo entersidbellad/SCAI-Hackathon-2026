@@ -1,0 +1,19 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "District courts generally granted the motions, but the Seventh and Ninth Circuits reversed",
+      "issue": "The reference summary states that the district court denied Epic's motion, not granted it. The generated summary incorrectly states that district courts 'generally granted the motions' when describing the initial rulings, which contradicts the reference's description of the Epic case specifically.",
+      "correct_info": "The reference summary states: 'The district court denied Epic's motion and held that the waiver was unenforceable because it violated the right of employees to engage in concerted activities under Section Seven of the National Labor Relations Act.'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The Norris-LaGuardia Act is not mentioned in the generated summary, though the reference summary notes in the dissent that Congress passed the NLRA and its forerunner, the Norris-LaGuardia Act, to remedy the imbalance between employers and employees",
+    "The reference summary specifically mentions that the Seventh Circuit 'added that the waiver was also unenforceable under the savings clause of the Federal Arbitration Act' as an alternative rationale, which is not clearly conveyed in the generated summary"
+  ],
+  "overall_assessment": "The generated summary is comprehensive and accurate in its coverage of the cases, legal issues, holding, and reasoning. It provides more detail than the reference summary in many areas, including case numbers, circuit courts, and specific legal precedents. However, it contains one notable factual error regarding the district court's ruling on Epic's motion and omits the Norris-LaGuardia Act reference from the dissent. Despite these minor issues, the summary faithfully represents the core facts, legal question, and holding of the case.",
+  "judge_score": 0.8
+}

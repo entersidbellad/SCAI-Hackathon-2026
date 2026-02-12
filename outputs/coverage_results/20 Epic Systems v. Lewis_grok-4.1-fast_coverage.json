@@ -1,0 +1,118 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nEpic Systems Corporation (Epic) is a Wisconsin-based healthcare data management software company.",
+      "best_match": "Facts of the Case\nThe cases before the Supreme Court were *Epic Systems Corp. v. Lewis* (No.",
+      "similarity": 0.542586088180542,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Epic has an arbitration agreement that requires its employees to resolve any employment-based disputes with Epic through individual arbitration and to waive their right to participate in or receive benefit from any class, collective, or representative proceedings.",
+      "best_match": "In each, an employer (Epic Systems Corporation, Ernst & Young LLP, and Murphy Oil USA, Inc.) and employee (Jacob Lewis, Stephen Morris et al., and employees involved in the NLRB proceeding) entered into an agreement providing for individualized arbitration proceedings to resolve employment disputes.",
+      "similarity": 0.6981520652770996,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In February 2015, former Epic employee Jacob Lewis sued Epic in federal court individually and on behalf of similarly-situated employees and claimed that they had been denied overtime wages in violation of the Fair Labor Standards Act of 1938.",
+      "best_match": "Facts of the Case\nThe cases before the Supreme Court were *Epic Systems Corp. v. Lewis* (No.",
+      "similarity": 0.5358143448829651,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Epic moved to dismiss the complaint and cited the waiver clause of its arbitration agreement.",
+      "best_match": "Employers moved to compel individualized arbitration under the Federal Arbitration Act (FAA), 9 U. S. C. \u00a7\u00a72, 3, 4.",
+      "similarity": 0.5100335478782654,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court denied Epic's motion and held that the waiver was unenforceable because it violated the right of employees to engage in \"concerted activities\" under Section Seven of the National Labor Relations Act (NLRA).",
+      "best_match": "District courts generally granted the motions, but the Seventh and Ninth Circuits reversed, holding the agreements violated the National Labor Relations Act (NLRA), 29 U. S. C. \u00a7157, by interfering with protected \"concerted activities\"; the Fifth Circuit affirmed enforcement against the NLRB.",
+      "similarity": 0.6691348552703857,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Seventh Circuit affirmed the lower court's decision and added that the waiver was also unenforceable under the savings clause of the Federal Arbitration Act (FAA).",
+      "best_match": "Conclusion/Holding\nThe Court ruled 5-4 that Congress instructed in the FAA that arbitration agreements providing for individualized proceedings must be enforced as written, and neither the FAA saving clause nor the NLRA suggests otherwise (Gorsuch, J., for the majority, joined by Roberts, C. J., and Kennedy, Thomas, and Alito, JJ.",
+      "similarity": 0.6962840557098389,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "That clause provides that arbitration agreements are to be enforced unless there legal or equitable grounds that would render a contract unenforceable.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether the FAA requires courts to enforce, as written, arbitration agreements mandating individualized proceedings for employment disputes, or whether the FAA's saving clause (9 U. S. C. \u00a72, allowing revocation on grounds \"at law or in equity for the revocation of any contract\") excuses enforcement where such agreements allegedly violate the NLRA by interfering with employees' \u00a77 right \"to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection,\" 29 U. S. C. \u00a7157.",
+      "similarity": 0.6839754581451416,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Finding the waiver of collective proceedings illegal under the NLRA, the appellate court held that the arbitration agreement was unenforceable under the FAA.",
+      "best_match": "Precedent set: Employer-employee arbitration agreements requiring individualized proceedings are enforceable under the FAA; NLRA \u00a77 protects workplace concerted activities akin to unionization/collective bargaining but not a right to class or collective actions in court or arbitration, harmonizing the statutes without implied repeal.",
+      "similarity": 0.7284620404243469,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "This case was consolidated with Ernst & Young v. Morris and National Labor Relations Board v. Murphy Oil USA, Inc., both cases that dealt with the relationship between the FAA and the NLRA.",
+      "best_match": "Employees argued the agreements were unlawful under the NLRA, rendering them revocable under the FAA saving clause; employers contended the FAA protects such agreements from interference, with no NLRA conflict.",
+      "similarity": 0.6202260851860046,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes the National Labor Relations Act prohibit enforcement of an agreement requiring employees to resolve disputes with the employer through individual arbitration under the Federal Arbitration Act?",
+      "best_match": "Precedent set: Employer-employee arbitration agreements requiring individualized proceedings are enforceable under the FAA; NLRA \u00a77 protects workplace concerted activities akin to unionization/collective bargaining but not a right to class or collective actions in court or arbitration, harmonizing the statutes without implied repeal.",
+      "similarity": 0.744799017906189,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe Court held that neither the Arbitration Act's saving clause nor the National Labor Relations Act (NLRA) supersede Congress's instructions in the Federal Arbitration Act that arbitration agreements providing for individualized proceedings must be enforced.",
+      "best_match": "Reasoning: (1) FAA \u00a7\u00a72, 3, 4 establish a \"liberal federal policy favoring arbitration agreements\" and require \"rigorous\" enforcement of parties' chosen procedures, including individualized arbitration (*AT&T Mobility LLC v. Concepcion*, 563 U. S. 333; *American Express Co. v. Italian Colors Restaurant*, 570 U. S. 228); (2) the saving clause applies only to \"generally applicable contract defenses, such as fraud, duress, or unconscionability,\" not those targeting arbitration's \"fundamental attributes\" like bilaterality (*Concepcion*, 563 U. S. at 339, 344), as employees' NLRA challenge does by objecting solely to individualized proceedings; (3) the NLRA does not override the FAA, as there is no \"clear and manifest\" congressional intent to displace it (*Morton v. Mancari*, 417 U. S. 535, 551; *United States v. Fausto*, 484 U. S. 439, 452\u2013453)\u2014\u00a77 focuses on union organization and collective bargaining, not class/collective procedures (unknown in 1935), per text (*ejusdem generis*), structure (no rules for class certification, opt-out, etc.",
+      "similarity": 0.8104844689369202,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Neil Gorsuch delivered the opinion for a 5-4 majority.",
+      "best_match": "Conclusion/Holding\nThe Court ruled 5-4 that Congress instructed in the FAA that arbitration agreements providing for individualized proceedings must be enforced as written, and neither the FAA saving clause nor the NLRA suggests otherwise (Gorsuch, J., for the majority, joined by Roberts, C. J., and Kennedy, Thomas, and Alito, JJ.",
+      "similarity": 0.41237276792526245,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The majority found that the Federal Arbitration Act \"instructed federal courts to enforce arbitration agreements according to their terms\" and that the NLRA \"does not mention class or collection action procedures\" and thus cannot be read to displace the Arbitration Act.",
+      "best_match": "Reasoning: (1) FAA \u00a7\u00a72, 3, 4 establish a \"liberal federal policy favoring arbitration agreements\" and require \"rigorous\" enforcement of parties' chosen procedures, including individualized arbitration (*AT&T Mobility LLC v. Concepcion*, 563 U. S. 333; *American Express Co. v. Italian Colors Restaurant*, 570 U. S. 228); (2) the saving clause applies only to \"generally applicable contract defenses, such as fraud, duress, or unconscionability,\" not those targeting arbitration's \"fundamental attributes\" like bilaterality (*Concepcion*, 563 U. S. at 339, 344), as employees' NLRA challenge does by objecting solely to individualized proceedings; (3) the NLRA does not override the FAA, as there is no \"clear and manifest\" congressional intent to displace it (*Morton v. Mancari*, 417 U. S. 535, 551; *United States v. Fausto*, 484 U. S. 439, 452\u2013453)\u2014\u00a77 focuses on union organization and collective bargaining, not class/collective procedures (unknown in 1935), per text (*ejusdem generis*), structure (no rules for class certification, opt-out, etc.",
+      "similarity": 0.7148549556732178,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas filed a concurring opinion to add that \"the employees also cannot prevail under the plain meaning of the Federal Arbitration Act.\"",
+      "best_match": "Conclusion/Holding\nThe Court ruled 5-4 that Congress instructed in the FAA that arbitration agreements providing for individualized proceedings must be enforced as written, and neither the FAA saving clause nor the NLRA suggests otherwise (Gorsuch, J., for the majority, joined by Roberts, C. J., and Kennedy, Thomas, and Alito, JJ.",
+      "similarity": 0.6067039966583252,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ruth Bader Ginsburg filed a dissenting opinion in which Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan joined.",
+      "best_match": "; Thomas, J., concurring; Ginsburg, J., dissenting, joined by Breyer, Sotomayor, and Kagan, JJ.).",
+      "similarity": 0.6742919087409973,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The dissent noted the extreme imbalance between employer and employee and Congress's attempt to remedy that imbalance in passing the NLRA and its forerunner, the Norris-LaGuardia Act.",
+      "best_match": "District courts generally granted the motions, but the Seventh and Ninth Circuits reversed, holding the agreements violated the National Labor Relations Act (NLRA), 29 U. S. C. \u00a7157, by interfering with protected \"concerted activities\"; the Fifth Circuit affirmed enforcement against the NLRB.",
+      "similarity": 0.5081422924995422,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In this context, the dissent found that the Federal Arbitration Act should not shrink the NLRA's \"protective sphere.\"",
+      "best_match": "Reasoning: (1) FAA \u00a7\u00a72, 3, 4 establish a \"liberal federal policy favoring arbitration agreements\" and require \"rigorous\" enforcement of parties' chosen procedures, including individualized arbitration (*AT&T Mobility LLC v. Concepcion*, 563 U. S. 333; *American Express Co. v. Italian Colors Restaurant*, 570 U. S. 228); (2) the saving clause applies only to \"generally applicable contract defenses, such as fraud, duress, or unconscionability,\" not those targeting arbitration's \"fundamental attributes\" like bilaterality (*Concepcion*, 563 U. S. at 339, 344), as employees' NLRA challenge does by objecting solely to individualized proceedings; (3) the NLRA does not override the FAA, as there is no \"clear and manifest\" congressional intent to displace it (*Morton v. Mancari*, 417 U. S. 535, 551; *United States v. Fausto*, 484 U. S. 439, 452\u2013453)\u2014\u00a77 focuses on union organization and collective bargaining, not class/collective procedures (unknown in 1935), per text (*ejusdem generis*), structure (no rules for class certification, opt-out, etc.",
+      "similarity": 0.7059502005577087,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Justice Neil Gorsuch delivered the opinion for a 5-4 majority.",
+      "best_similarity": 0.41237276792526245,
+      "best_match": "Conclusion/Holding\nThe Court ruled 5-4 that Congress instructed in the FAA that arbitration agreements providing for individualized proceedings must be enforced as written, and neither the FAA saving clause nor the NLRA suggests otherwise (Gorsuch, J., for the majority, joined by Roberts, C. J., and Kennedy, Thomas, and Alito, JJ."
+    }
+  ],
+  "total_gt_sentences": 17,
+  "covered_sentences": 16,
+  "coverage_percentage": 94.11764705882352,
+  "coverage_score": 0.9411764705882352,
+  "threshold": 0.5
+}

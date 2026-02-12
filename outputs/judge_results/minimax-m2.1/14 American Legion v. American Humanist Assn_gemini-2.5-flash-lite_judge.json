@@ -1,0 +1,25 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "a 32-foot tall Latin cross monument",
+      "issue": "The generated summary states the cross is 32 feet tall, but the reference summary clearly states it is a 40-foot tall cross.",
+      "correct_info": "The reference summary states: 'a 40-foot tall cross, which is the subject of this litigation.'"
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The three specific questions presented to the Court (1. Is the display unconstitutional? 2. What test should be used? 3. Does expenditure amount to excessive entanglement?)",
+    "The specific monetary amounts: Commission spent approximately $117,000 to maintain and repair the cross, and set aside $100,000 for renovations in 2008",
+    "The detail that the cross was 'widely described using Christian terms and celebrated in Christian services'",
+    "The detailed breakdown of which justices joined which opinions (Breyer and Kagan joined Alito's opinion; Breyer wrote concurrence joined by Kagan; Kavanaugh wrote concurrence; Kagan wrote separate concurrence; Thomas wrote concurrence on different reasoning; Gorsuch wrote concurrence on standing joined by Thomas; Ginsburg dissented joined by Sotomayor)",
+    "Justice Ginsburg's specific dissent arguments that the cross 'is the foremost symbol of the Christian faith' and that maintaining it 'elevates Christianity over other faiths'",
+    "Justice Ginsburg's point about remedy being transfer to private entity rather than destruction",
+    "Justice Gorsuch's argument about lack of standing (offense insufficient for Article III injury)",
+    "Justice Thomas's argument that Establishment Clause doesn't apply to state and local governments"
+  ],
+  "overall_assessment": "The generated summary is generally accurate and captures the core holding and reasoning well, but contains one factual error regarding the cross's height (32 feet vs. 40 feet). It is missing significant details about the various concurring and dissenting opinions, the specific dollar amounts spent on maintenance, and the three questions presented to the Court. The summary effectively conveys the main reasoning about historical significance and the critique of the Lemon test, but lacks the nuanced breakdown of individual justices' positions that would provide a complete picture of the case.",
+  "judge_score": 0.7
+}

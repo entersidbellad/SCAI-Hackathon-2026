@@ -1,0 +1,9 @@
+,,Composite_Score,Composite_Score,NLI_Score,Judge_Score,Coverage_Score
+,,mean,std,mean,mean,mean
+Judge_Short,Summarizer_Short,,,,,
+claude-opus-4.5,gemini-2.5-flash-lite,0.731,0.051,0.752,0.653,0.828
+claude-opus-4.5,grok-4.1-fast,0.796,0.04,0.664,0.853,0.892
+claude-opus-4.5,llama-4-maverick,0.721,0.139,0.796,0.663,0.706
+gemini-3-flash-preview,gemini-2.5-flash-lite,0.773,0.068,0.752,0.758,0.828
+gemini-3-flash-preview,grok-4.1-fast,0.836,0.039,0.664,0.953,0.892
+gemini-3-flash-preview,llama-4-maverick,0.74,0.153,0.796,0.711,0.706

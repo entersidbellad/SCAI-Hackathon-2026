@@ -1,0 +1,12 @@
+{
+  "factual_accuracy": 5,
+  "completeness": 4,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The specific legal question: 'Must physical force used to detain a suspect be successful to constitute a \"seizure\" under the Fourth Amendment?'"
+  ],
+  "overall_assessment": "The generated summary is highly accurate and comprehensive, providing excellent detail about the facts, procedural history, legal reasoning, and holding. It correctly captures all key elements including the majority opinion by Chief Justice Roberts, the dissent by Justice Gorsuch with Thomas and Alito, and Justice Barrett taking no part. The summary adds valuable contextual details about the officers' names, the specific warrant being executed, and the precise legal test rejected by the Court. The only notable omission is that it doesn't explicitly state the legal question in the format presented in the reference summary.",
+  "judge_score": 0.9
+}

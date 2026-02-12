@@ -1,0 +1,144 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nWhile on patrol, a Kansas police officer ran a registration check on a pickup truck with a Kansas license plate.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Upon running the check, the officer learned that the truck was registered to Charles Glover, Jr., and that his license had been revoked.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.99365234375,
+        "neutral": 0.00582122802734375,
+        "entailment": 0.0005850791931152344
+      }
+    },
+    {
+      "sentence": "Acting on suspicion that the owner was unlawfully operating the vehicle (based on the assumption that the registered owner of the truck was also the driver), the officer stopped the truck.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.93701171875,
+        "neutral": 0.050140380859375,
+        "entailment": 0.01273345947265625
+      }
+    },
+    {
+      "sentence": "The officer confirmed that Glover was the driver and issued him a citation for being a habitual violator of Kansas traffic laws.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Glover moved to suppress all evidence from the stop, arguing that the stop violated his Fourth Amendment right against unreasonable searches and seizures.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "According to Glover, the police officer lacked reasonable suspicion to pull him over.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The state argued that a law enforcement officer may infer that the owner of a vehicle is the one driving the vehicle, absent information to the contrary, and the knowledge that the owner has a revoked license combined with that inference gives rise to reasonable suspicion to conduct an investigative stop.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The state trial court concluded that it is not reasonable for an officer to infer that the registered owner of a vehicle is also its driver and granted Glover's motion to suppress.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The appellate court reversed, and the Kansas Supreme Court granted review.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The supreme court reversed the lower court, holding that the inference impermissibly \"stacked\" assumptions and would relieve the state of its burden of showing reasonable suspicion for a stop.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Question\nFor purposes of an investigative stop under the Fourth Amendment, is it reasonable for an officer to suspect that the registered owner of a vehicle is the one driving the vehicle absent any information to the contrary?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.9736328125,
+        "neutral": 0.0185394287109375,
+        "entailment": 0.0080413818359375
+      }
+    },
+    {
+      "sentence": "Conclusion\nWhen a police officer lacks information to the contrary, it is reasonable under the Fourth Amendment for the officer to assume that the driver of a vehicle is its owner, and if the owner's license is revoked, to conduct an investigative stop of the vehicle.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98828125,
+        "neutral": 0.0092010498046875,
+        "entailment": 0.0022830963134765625
+      }
+    },
+    {
+      "sentence": "Justice Clarence Thomas wrote the opinion for the 8-1 majority.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Under the Fourth Amendment, a police officer may make a \"brief investigative traffic stop\" when he has \"a particularized and objective basis\" to suspect legal wrongdoing.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Courts must permit officers to use common sense to make judgments and inferences about human behavior.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In this case, the police officer's common-sense inference was that the vehicle's owner was most likely the driver, which provided sufficient suspicion to stop the vehicle.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.79296875,
+        "neutral": 0.1790771484375,
+        "entailment": 0.0281829833984375
+      }
+    },
+    {
+      "sentence": "It does not matter that a vehicle's driver is not always its registered owner; the officer's judgment was based on common-sense judgment and experience.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Thus he had reasonable suspicion, and the traffic stop did not violate the Fourth Amendment.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.97216796875,
+        "neutral": 0.026519775390625,
+        "entailment": 0.0014104843139648438
+      }
+    },
+    {
+      "sentence": "Justice Elena Kagan authored a concurring opinion, in which Justice Ruth Bader Ginsburg joined, to point out that the license-revocation alert does not end the inquiry because, in a similar setting with slightly different facts, there might not be reasonable suspicion.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kagan specifically described that most license suspensions (as opposed to revocations) do not relate to driving at all but are highly correlated with poverty.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Sonia Sotomayor authored a dissenting opinion, arguing that the Court's decision ignores \"key foundations of our reasonable-suspicion jurisprudence and impermissibly and unnecessarily reduces the State's burden of proof.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Sotomayor disagreed with the majority's conclusion that seizing the vehicle was constitutional because drivers with revoked licenses in Kansas have demonstrated a disregard for the law, arguing that that conclusion \"flips the burden of proof.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 6
+  },
+  "total_sentences": 22,
+  "contradiction_rate": 0.2727272727272727,
+  "nli_score": 0.7272727272727273
+}

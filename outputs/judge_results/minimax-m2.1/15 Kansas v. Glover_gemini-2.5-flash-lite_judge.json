@@ -1,0 +1,14 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The 8-1 vote breakdown (majority by Justice Thomas)",
+    "Justice Elena Kagan's concurring opinion (joined by Justice Ginsburg) discussing how license-revocation alerts don't end the inquiry and that most suspensions correlate with poverty rather than driving",
+    "Justice Sonia Sotomayor's dissenting opinion arguing the decision ignores foundations of reasonable-suspicion jurisprudence and impermissibly reduces the state's burden of proof"
+  ],
+  "overall_assessment": "The generated summary is factually accurate and covers the core case facts, legal question, and holding well. However, it is incomplete as it omits the 8-1 vote breakdown, Justice Kagan's concurrence about poverty correlations with license suspensions, and Justice Sotomayor's dissent about burden of proof concerns. These omissions significantly reduce the summary's comprehensiveness.",
+  "judge_score": 0.7
+}

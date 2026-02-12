@@ -1,0 +1,153 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nWhile on patrol, a Kansas police officer ran a registration check on a pickup truck with a Kansas license plate.",
+      "best_match": "Deputy Mehrer ran the plate through the Kansas Department of Revenue\u2019s file service, confirming the truck was registered to Charles Glover Jr. and that Glover\u2019s driver\u2019s license had been revoked in Kansas.",
+      "similarity": 0.6715646386146545,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Upon running the check, the officer learned that the truck was registered to Charles Glover, Jr., and that his license had been revoked.",
+      "best_match": "Deputy Mehrer ran the plate through the Kansas Department of Revenue\u2019s file service, confirming the truck was registered to Charles Glover Jr. and that Glover\u2019s driver\u2019s license had been revoked in Kansas.",
+      "similarity": 0.682135820388794,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Acting on suspicion that the owner was unlawfully operating the vehicle (based on the assumption that the registered owner of the truck was also the driver), the officer stopped the truck.",
+      "best_match": "Deputy Mehrer assumed the registered owner was driving, observed no traffic infractions, did not attempt to identify the driver, and initiated the stop solely based on the revoked license information.",
+      "similarity": 0.6510440111160278,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The officer confirmed that Glover was the driver and issued him a citation for being a habitual violator of Kansas traffic laws.",
+      "best_match": "Facts of the Case\nKansas charged respondent Charles Glover, Jr., with driving as a habitual violator under Kan. Stat.",
+      "similarity": 0.7689908146858215,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Glover moved to suppress all evidence from the stop, arguing that the stop violated his Fourth Amendment right against unreasonable searches and seizures.",
+      "best_match": "Glover moved to suppress all evidence from the stop, claiming lack of reasonable suspicion.",
+      "similarity": 0.775964617729187,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "According to Glover, the police officer lacked reasonable suspicion to pull him over.",
+      "best_match": "Glover moved to suppress all evidence from the stop, claiming lack of reasonable suspicion.",
+      "similarity": 0.714647650718689,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The state argued that a law enforcement officer may infer that the owner of a vehicle is the one driving the vehicle, absent information to the contrary, and the knowledge that the owner has a revoked license combined with that inference gives rise to reasonable suspicion to conduct an investigative stop.",
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving.",
+      "similarity": 0.7593553066253662,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The state trial court concluded that it is not reasonable for an officer to infer that the registered owner of a vehicle is also its driver and granted Glover's motion to suppress.",
+      "best_match": "Reasoning: The deputy\u2019s commonsense inference from three facts\u2014observation of the truck matching the registered vehicle, plate linked to Glover, and Glover\u2019s revoked license\u2014provided reasonable suspicion, as the standard accounts for factual and practical considerations of everyday life and permits probabilities (Navarette, 572 U. S. at 402; United States v. Sokolow, 490 U. S. 1, 8\u20139 (1989)).",
+      "similarity": 0.6516242623329163,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The appellate court reversed, and the Kansas Supreme Court granted review.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Kansas Supreme Court (589 U. S. ____ (2020)) in a 8-1 decision delivered by Justice Thomas, joined by Chief Justice Roberts and Justices Ginsburg, Breyer, Alito, Kagan, Gorsuch, and Kavanaugh.",
+      "similarity": 0.7732053995132446,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The supreme court reversed the lower court, holding that the inference impermissibly \"stacked\" assumptions and would relieve the state of its burden of showing reasonable suspicion for a stop.",
+      "best_match": "The Kansas Court of Appeals reversed, holding the inference reasonable (54 Kan. App.",
+      "similarity": 0.6420981287956238,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nFor purposes of an investigative stop under the Fourth Amendment, is it reasonable for an officer to suspect that the registered owner of a vehicle is the one driving the vehicle absent any information to the contrary?",
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving.",
+      "similarity": 0.7220891118049622,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nWhen a police officer lacks information to the contrary, it is reasonable under the Fourth Amendment for the officer to assume that the driver of a vehicle is its owner, and if the owner's license is revoked, to conduct an investigative stop of the vehicle.",
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving.",
+      "similarity": 0.8368695974349976,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas wrote the opinion for the 8-1 majority.",
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Kansas Supreme Court (589 U. S. ____ (2020)) in a 8-1 decision delivered by Justice Thomas, joined by Chief Justice Roberts and Justices Ginsburg, Breyer, Alito, Kagan, Gorsuch, and Kavanaugh.",
+      "similarity": 0.476520836353302,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Under the Fourth Amendment, a police officer may make a \"brief investigative traffic stop\" when he has \"a particularized and objective basis\" to suspect legal wrongdoing.",
+      "best_match": "Legal Question(s)\nWhether a police officer violates the Fourth Amendment by initiating a brief investigative traffic stop after running a vehicle\u2019s license plate, learning that the registered owner\u2019s driver\u2019s license has been revoked, and lacking information negating an inference that the owner is driving the vehicle.",
+      "similarity": 0.8450279235839844,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Courts must permit officers to use common sense to make judgments and inferences about human behavior.",
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving.",
+      "similarity": 0.4256935119628906,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "In this case, the police officer's common-sense inference was that the vehicle's owner was most likely the driver, which provided sufficient suspicion to stop the vehicle.",
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving.",
+      "similarity": 0.5845341086387634,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "It does not matter that a vehicle's driver is not always its registered owner; the officer's judgment was based on common-sense judgment and experience.",
+      "best_match": "Reasoning: The deputy\u2019s commonsense inference from three facts\u2014observation of the truck matching the registered vehicle, plate linked to Glover, and Glover\u2019s revoked license\u2014provided reasonable suspicion, as the standard accounts for factual and practical considerations of everyday life and permits probabilities (Navarette, 572 U. S. at 402; United States v. Sokolow, 490 U. S. 1, 8\u20139 (1989)).",
+      "similarity": 0.5696003437042236,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Thus he had reasonable suspicion, and the traffic stop did not violate the Fourth Amendment.",
+      "best_match": "The Court addressed whether this scenario provides reasonable suspicion under the Fourth Amendment, which permits stops based on a \u201cparticularized and objective basis\u201d for suspecting criminal activity (United States v. Cortez, 449 U. S. 411, 417 (1981); Terry v. Ohio, 392 U. S. 1, 21\u201322 (1968)), a standard less demanding than probable cause and allowing commonsense judgments and inferences about human behavior (Prado Navarette v. California, 572 U. S. 393, 397, 402 (2014); Illinois v. Wardlow, 528 U. S. 119, 125 (2000)).",
+      "similarity": 0.7026925086975098,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Elena Kagan authored a concurring opinion, in which Justice Ruth Bader Ginsburg joined, to point out that the license-revocation alert does not end the inquiry because, in a similar setting with slightly different facts, there might not be reasonable suspicion.",
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving.",
+      "similarity": 0.5132684707641602,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan specifically described that most license suspensions (as opposed to revocations) do not relate to driving at all but are highly correlated with poverty.",
+      "best_match": "The inference is not unreasonable merely because drivers are not always owners or because revoked drivers sometimes continue driving, as supported by empirical studies (e.g., 75% of suspended/revoked drivers continue driving; 19% of 2008\u20132012 fatal crash drivers had invalid licenses) and Kansas\u2019s revocation scheme targeting those disregarding law or unfit to drive (Kan. Stat.",
+      "similarity": 0.6525918841362,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Sonia Sotomayor authored a dissenting opinion, arguing that the Court's decision ignores \"key foundations of our reasonable-suspicion jurisprudence and impermissibly and unnecessarily reduces the State's burden of proof.\"",
+      "best_match": "Justice Kagan filed a concurring opinion joined by Justice Ginsburg; Justice Sotomayor dissented.",
+      "similarity": 0.6297959089279175,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Sotomayor disagreed with the majority's conclusion that seizing the vehicle was constitutional because drivers with revoked licenses in Kansas have demonstrated a disregard for the law, arguing that that conclusion \"flips the burden of proof.\"",
+      "best_match": "The inference is not unreasonable merely because drivers are not always owners or because revoked drivers sometimes continue driving, as supported by empirical studies (e.g., 75% of suspended/revoked drivers continue driving; 19% of 2008\u20132012 fatal crash drivers had invalid licenses) and Kansas\u2019s revocation scheme targeting those disregarding law or unfit to drive (Kan. Stat.",
+      "similarity": 0.6422797441482544,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Justice Clarence Thomas wrote the opinion for the 8-1 majority.",
+      "best_similarity": 0.476520836353302,
+      "best_match": "Conclusion/Holding\nThe Supreme Court reversed the Kansas Supreme Court (589 U. S. ____ (2020)) in a 8-1 decision delivered by Justice Thomas, joined by Chief Justice Roberts and Justices Ginsburg, Breyer, Alito, Kagan, Gorsuch, and Kavanaugh."
+    },
+    {
+      "sentence": "Courts must permit officers to use common sense to make judgments and inferences about human behavior.",
+      "best_similarity": 0.4256935119628906,
+      "best_match": "The Court held that, absent information negating the inference, an investigative traffic stop is reasonable under the Fourth Amendment when an officer runs a license plate, learns the registered owner\u2019s driver\u2019s license is revoked, and infers the owner is driving."
+    }
+  ],
+  "total_gt_sentences": 22,
+  "covered_sentences": 20,
+  "coverage_percentage": 90.9090909090909,
+  "coverage_score": 0.9090909090909091,
+  "threshold": 0.5
+}

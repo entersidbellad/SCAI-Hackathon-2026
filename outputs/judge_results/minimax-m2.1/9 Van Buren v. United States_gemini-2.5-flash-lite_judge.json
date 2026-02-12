@@ -1,0 +1,28 @@
+{
+  "factual_accuracy": 2,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "Nathan Van Buren, a former police sergeant for the Georgia Bureau of Investigation",
+      "issue": "Van Buren was a sergeant with the Cumming, Georgia Police Department, not the Georgia Bureau of Investigation",
+      "correct_info": "Nathan Van Buren was a sergeant with the Cumming, Georgia, Police Department"
+    },
+    {
+      "error_quote": "The Eleventh Circuit, adhering to its precedent, affirmed the conviction.",
+      "issue": "The reference summary states that the U.S. Court of Appeals for the Sixth Circuit found the jury instructions flawed for the honest-services count and affirmed the computer fraud conviction, citing Eleventh Circuit precedent. The generated summary incorrectly attributes the appellate decision to the Eleventh Circuit.",
+      "correct_info": "The U.S. Court of Appeals for the Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial. It found no deficiencies in the conviction for computer fraud and affirmed that conviction, citing Eleventh Circuit precedent."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The Sixth Circuit found the jury instructions for the honest-services count fatally flawed and remanded that charge for a new trial",
+    "The composition of the dissent: Justice Clarence Thomas authored the dissent, which Chief Justice John Roberts and Justice Samuel Alito joined",
+    "The statutory history point about Congress's choice to remove the statute's reference to purpose",
+    "The reference to the government's interpretation would 'attach criminal penalties to a breathtaking amount of commonplace computer activity'",
+    "The mention of the Eleventh Circuit precedent that was cited",
+    "The detail about Albo allegedly paying young prostitutes and accusing them of stealing money"
+  ],
+  "overall_assessment": "The generated summary captures the core holding and main legal reasoning but contains two significant factual errors regarding Van Buren's employer and which circuit court decided the case. It also omits several important details including the partial remand for the honest-services count, the dissent composition, and key statutory history points. The summary would benefit from greater precision in factual details and more complete coverage of the case's procedural history and the Court's full reasoning.",
+  "judge_score": 0.5
+}

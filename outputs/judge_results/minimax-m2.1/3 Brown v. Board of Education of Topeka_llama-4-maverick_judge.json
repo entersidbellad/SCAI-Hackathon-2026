@@ -1,0 +1,20 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "The case of Brown v. Board of Education consolidated four separate cases from Kansas, South Carolina, Virginia, and Delaware",
+      "issue": "The generated summary omits Washington D.C. as one of the jurisdictions involved and states there were four cases when the reference indicates five jurisdictions: Kansas, South Carolina, Virginia, Delaware, and Washington D.C.",
+      "correct_info": "The reference states: \"This case was the consolidation of cases arising in Kansas, South Carolina, Virginia, Delaware, and Washington D.C.\""
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Washington D.C. as one of the five jurisdictions involved in the consolidated cases",
+    "The reference to Chief Justice Warren writing the opinion in language accessible to non-lawyers because he felt it was necessary for all Americans to understand its logic",
+    "The detail that the cases were restored to the docket for further argument on the appropriate relief"
+  ],
+  "overall_assessment": "The generated summary is generally accurate and covers most key points including the core legal question, holding, and reasoning about segregation's detrimental effects. However, it contains a notable omission of Washington D.C. as one of the consolidated jurisdictions and misses some contextual details present in the reference, such as Warren's deliberate choice to write accessibly for non-lawyers and the procedural detail about restoration for relief arguments.",
+  "judge_score": 0.8
+}

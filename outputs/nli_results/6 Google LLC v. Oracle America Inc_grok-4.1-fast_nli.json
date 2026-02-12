@@ -1,0 +1,172 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nWhen Google implemented its Android Operating System (Android OS), it wrote its own programming language based on Java, which is owned by Oracle.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "To facilitate developers writing their own programs for Android OS, Google's version used the same names, organization, and functionality as Java's Application Programming Interfaces (APIs).",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Oracle sued Google for copyright infringement, but the federal district judge held that APIs are not subject to copyright because permitting a private entity to own the copyright to a programming language would stifle innovation and collaboration, contrary to the goals of copyright.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The U.S. Court of Appeals for the Federal Circuit reversed the lower court, finding that the Java APIs are copyrightable but leaving open the possibility of a fair use defense.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The U.S. Supreme Court denied Google's petition for certiorari.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98828125,
+        "neutral": 0.01055145263671875,
+        "entailment": 0.0012559890747070312
+      }
+    },
+    {
+      "sentence": "Upon remand to the district court, a jury found that Google's use of the Java API was fair use.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Oracle appealed, and the Federal Circuit again reversed the lower court.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Federal Circuit held that Google's use was not fair as a matter of law.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.98974609375,
+        "neutral": 0.006130218505859375,
+        "entailment": 0.004199981689453125
+      }
+    },
+    {
+      "sentence": "Question\n1.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.96875,
+        "neutral": 0.020294189453125,
+        "entailment": 0.01103973388671875
+      }
+    },
+    {
+      "sentence": "Does copyright protection extend to a software interface?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "If so, does the petitioner's use of a software interface in the context of creating a new computer program constitute fair use?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Conclusion\nAssuming a software interface may be subject to copyright protection, Google's limited copying of the Java SE Application Programming Interface constituted a fair use of that material under copyright law.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.7333984375,
+        "neutral": 0.264892578125,
+        "entailment": 0.001850128173828125
+      }
+    },
+    {
+      "sentence": "Justice Stephen Breyer authored the 6-2 majority opinion.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.9306640625,
+        "neutral": 0.0232391357421875,
+        "entailment": 0.04595947265625
+      }
+    },
+    {
+      "sentence": "Copyright law aims to promote the progress of science and useful arts, by simultaneously granting creators exclusive copyrights and limiting the scope of such rights through the fair use doctrine.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "To decide no more than necessary to resolve the case, the Court assumed that software code is subject to copyright protection.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.94921875,
+        "neutral": 0.046966552734375,
+        "entailment": 0.004047393798828125
+      }
+    },
+    {
+      "sentence": "Courts consider four statutory factors in evaluating whether a secondary use is fair.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.51123046875,
+        "neutral": 0.42919921875,
+        "entailment": 0.05987548828125
+      }
+    },
+    {
+      "sentence": "First, Google's use of the Java APIs is transformative.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Google copied only what was necessary to allow programmers to work in a different computing environment but with a familiar programming language.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Second, the copied lines are \"inherently bound together with uncopyrightable ideas,\" suggesting that the application of fair use to this context is unlikely to undermine the general copyright protection that Congress provided for computer programs.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Third, Google copied only .4% of the entire API, weighing in favor of fair use.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Finally, the record shows that Google's new smartphone platform is not a market substitute for Java SE.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Because all four factors support a finding of fair use, Google's limited copying constituted fair use.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Samuel Alito joined, arguing that the Court should have addressed the question whether Oracle's code is copyrightable.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Thomas would have concluded that it is, and then he would have found that Google's use of that copyrighted code was not fair.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "By copying Oracle's code, Google \"erased 97.5% of the value of Oracle's partnership with Amazon, made tens of billions of dollars, and established its position as the owner of the largest mobile operating system in the world.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett took no part in the consideration or decision of the case.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.9619140625,
+        "neutral": 0.0361328125,
+        "entailment": 0.0018243789672851562
+      }
+    }
+  ],
+  "counts": {
+    "contradiction": 8
+  },
+  "total_sentences": 26,
+  "contradiction_rate": 0.3076923076923077,
+  "nli_score": 0.6923076923076923
+}

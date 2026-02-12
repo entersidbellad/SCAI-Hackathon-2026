@@ -1,0 +1,177 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nWhen Google implemented its Android Operating System (Android OS), it wrote its own programming language based on Java, which is owned by Oracle.",
+      "best_match": "Facts of the Case\nOracle America, Inc., the owner of a copyright in Java SE\u2014a computer platform using the Java programming language\u2014sued Google LLC in the United States District Court for the Northern District of California in 2010, alleging copyright infringement.",
+      "similarity": 0.7140460014343262,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "To facilitate developers writing their own programs for Android OS, Google's version used the same names, organization, and functionality as Java's Application Programming Interfaces (APIs).",
+      "best_match": "- **Purpose/character (\u00a7107(1))**: Favors fair use; transformative as Google reimplemented the interface only as needed for a new smartphone platform/environment, enabling programmers' skills in Android (a distinct, open system), furthering innovation (e.g., industry reimplementations like Sun's own); commerciality not dispositive.",
+      "similarity": 0.6496294140815735,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Oracle sued Google for copyright infringement, but the federal district judge held that APIs are not subject to copyright because permitting a private entity to own the copyright to a programming language would stifle innovation and collaboration, contrary to the goals of copyright.",
+      "best_match": "Facts of the Case\nOracle America, Inc., the owner of a copyright in Java SE\u2014a computer platform using the Java programming language\u2014sued Google LLC in the United States District Court for the Northern District of California in 2010, alleging copyright infringement.",
+      "similarity": 0.760075032711029,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Federal Circuit reversed the lower court, finding that the Java APIs are copyrightable but leaving open the possibility of a fair use defense.",
+      "best_match": "Conclusion/Holding\nThe Court held, 6-2, that Google's copying of the Java SE API declaring code was a fair use as a matter of law, reversing the Federal Circuit (886 F. 3d 1179) and remanding.",
+      "similarity": 0.7323140501976013,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Supreme Court denied Google's petition for certiorari.",
+      "best_match": "The Supreme Court denied certiorari (Google, Inc. v. Oracle America, Inc., 576 U. S. 1071 (2015)).",
+      "similarity": 0.8476220369338989,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Upon remand to the district court, a jury found that Google's use of the Java API was fair use.",
+      "best_match": "Conclusion/Holding\nThe Court held, 6-2, that Google's copying of the Java SE API declaring code was a fair use as a matter of law, reversing the Federal Circuit (886 F. 3d 1179) and remanding.",
+      "similarity": 0.7730708122253418,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Oracle appealed, and the Federal Circuit again reversed the lower court.",
+      "best_match": "The Federal Circuit reversed, holding the declaring code and SSO copyrightable (Oracle America, Inc. v. Google, Inc., 750 F. 3d 1339 (CA Fed.",
+      "similarity": 0.6596152782440186,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Federal Circuit held that Google's use was not fair as a matter of law.",
+      "best_match": "Conclusion/Holding\nThe Court held, 6-2, that Google's copying of the Java SE API declaring code was a fair use as a matter of law, reversing the Federal Circuit (886 F. 3d 1179) and remanding.",
+      "similarity": 0.6498327255249023,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "The Court also held that fair use is a mixed question of law and fact, with underlying facts reviewed for substantial evidence but the ultimate legal question reviewed de novo, consistent with the Seventh Amendment.",
+      "similarity": 0.23750759661197662,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Does copyright protection extend to a software interface?",
+      "best_match": "The holding applies fair use precedents (e.g., Campbell v. Acuff-Rose Music, Inc., 510 U. S. 569 (1994); Harper & Row, Publishers, Inc. v. Nation Enterprises, 471 U. S. 539 (1985); Sony Corp. of America v. Universal City Studios, Inc., 464 U. S. 417 (1984)) to functional computer interfaces without overruling them, recognizing Congress's 1980 extension of copyright to programs (\u00a7101) and intent for case-by-case fair use application.",
+      "similarity": 0.5383174419403076,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "If so, does the petitioner's use of a software interface in the context of creating a new computer program constitute fair use?",
+      "best_match": "**Reasoning**: Fair use under \u00a7107 is a flexible, equitable doctrine accounting for technological changes and the functional nature of computer programs, serving as a context-based check on copyright monopolies to promote progress under Art.",
+      "similarity": 0.5809758305549622,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nAssuming a software interface may be subject to copyright protection, Google's limited copying of the Java SE Application Programming Interface constituted a fair use of that material under copyright law.",
+      "best_match": "\u00a7102(b) excluding \"any idea, procedure, process, system, method of operation, concept, principle, or discovery\"; and (2) if copyrightable, whether Google's copying constituted \"fair use\" under 17 U.S.C.",
+      "similarity": 0.6961689591407776,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Stephen Breyer authored the 6-2 majority opinion.",
+      "best_match": "Justice Breyer delivered the opinion, joined by Chief Justice Roberts and Justices Sotomayor, Kagan, Gorsuch, and Kavanaugh; Justice Barrett took no part; Justice Thomas dissented, joined by Justice Alito.",
+      "similarity": 0.6676657199859619,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Copyright law aims to promote the progress of science and useful arts, by simultaneously granting creators exclusive copyrights and limiting the scope of such rights through the fair use doctrine.",
+      "best_match": "The Supreme Court granted certiorari on both copyrightability and fair use.",
+      "similarity": 0.646483302116394,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "To decide no more than necessary to resolve the case, the Court assumed that software code is subject to copyright protection.",
+      "best_match": "To decide no more than necessary, the Court assumed arguendo that the API was copyrightable and focused solely on fair use.",
+      "similarity": 0.6469130516052246,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Courts consider four statutory factors in evaluating whether a secondary use is fair.",
+      "best_match": "The Court also held that fair use is a mixed question of law and fact, with underlying facts reviewed for substantial evidence but the ultimate legal question reviewed de novo, consistent with the Seventh Amendment.",
+      "similarity": 0.5454123020172119,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "First, Google's use of the Java APIs is transformative.",
+      "best_match": "- **Purpose/character (\u00a7107(1))**: Favors fair use; transformative as Google reimplemented the interface only as needed for a new smartphone platform/environment, enabling programmers' skills in Android (a distinct, open system), furthering innovation (e.g., industry reimplementations like Sun's own); commerciality not dispositive.",
+      "similarity": 0.559259831905365,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Google copied only what was necessary to allow programmers to work in a different computing environment but with a familiar programming language.",
+      "best_match": "\u00a7102(b) excluding \"any idea, procedure, process, system, method of operation, concept, principle, or discovery\"; and (2) if copyrightable, whether Google's copying constituted \"fair use\" under 17 U.S.C.",
+      "similarity": 0.5576186180114746,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Second, the copied lines are \"inherently bound together with uncopyrightable ideas,\" suggesting that the application of fair use to this context is unlikely to undermine the general copyright protection that Congress provided for computer programs.",
+      "best_match": "**Reasoning**: Fair use under \u00a7107 is a flexible, equitable doctrine accounting for technological changes and the functional nature of computer programs, serving as a context-based check on copyright monopolies to promote progress under Art.",
+      "similarity": 0.6329455375671387,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Third, Google copied only .4% of the entire API, weighing in favor of fair use.",
+      "best_match": "\u00a7102(b) excluding \"any idea, procedure, process, system, method of operation, concept, principle, or discovery\"; and (2) if copyrightable, whether Google's copying constituted \"fair use\" under 17 U.S.C.",
+      "similarity": 0.584047794342041,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Finally, the record shows that Google's new smartphone platform is not a market substitute for Java SE.",
+      "best_match": "- **Market effects (\u00a7107(4))**: Favors fair use; Android not a substitute for Java SE (desktop/laptop focus; Sun/Oracle failed in smartphones); Oracle benefited from Java ecosystem expansion; enforcement risks public harm by locking innovation (programmer lock-in).",
+      "similarity": 0.6774626970291138,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Because all four factors support a finding of fair use, Google's limited copying constituted fair use.",
+      "best_match": "\u00a7102(b) excluding \"any idea, procedure, process, system, method of operation, concept, principle, or discovery\"; and (2) if copyrightable, whether Google's copying constituted \"fair use\" under 17 U.S.C.",
+      "similarity": 0.7009280323982239,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas authored a dissenting opinion, in which Justice Samuel Alito joined, arguing that the Court should have addressed the question whether Oracle's code is copyrightable.",
+      "best_match": "Litigation proceeded in phases: A jury rejected Oracle's patent claims, found limited copyright infringement, but deadlocked on fair use; the District Court ruled the API declaring code not copyrightable under 17 U.S.C.",
+      "similarity": 0.5656300187110901,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas would have concluded that it is, and then he would have found that Google's use of that copyrighted code was not fair.",
+      "best_match": "Conclusion/Holding\nThe Court held, 6-2, that Google's copying of the Java SE API declaring code was a fair use as a matter of law, reversing the Federal Circuit (886 F. 3d 1179) and remanding.",
+      "similarity": 0.7074732184410095,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "By copying Oracle's code, Google \"erased 97.5% of the value of Oracle's partnership with Amazon, made tens of billions of dollars, and established its position as the owner of the largest mobile operating system in the world.\"",
+      "best_match": "Facts of the Case\nOracle America, Inc., the owner of a copyright in Java SE\u2014a computer platform using the Java programming language\u2014sued Google LLC in the United States District Court for the Northern District of California in 2010, alleging copyright infringement.",
+      "similarity": 0.633608341217041,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Amy Coney Barrett took no part in the consideration or decision of the case.",
+      "best_match": "Justice Breyer delivered the opinion, joined by Chief Justice Roberts and Justices Sotomayor, Kagan, Gorsuch, and Kavanaugh; Justice Barrett took no part; Justice Thomas dissented, joined by Justice Alito.",
+      "similarity": 0.4934173822402954,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.23750759661197662,
+      "best_match": "The Court also held that fair use is a mixed question of law and fact, with underlying facts reviewed for substantial evidence but the ultimate legal question reviewed de novo, consistent with the Seventh Amendment."
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett took no part in the consideration or decision of the case.",
+      "best_similarity": 0.4934173822402954,
+      "best_match": "Justice Breyer delivered the opinion, joined by Chief Justice Roberts and Justices Sotomayor, Kagan, Gorsuch, and Kavanaugh; Justice Barrett took no part; Justice Thomas dissented, joined by Justice Alito."
+    }
+  ],
+  "total_gt_sentences": 26,
+  "covered_sentences": 24,
+  "coverage_percentage": 92.3076923076923,
+  "coverage_score": 0.923076923076923,
+  "threshold": 0.5
+}

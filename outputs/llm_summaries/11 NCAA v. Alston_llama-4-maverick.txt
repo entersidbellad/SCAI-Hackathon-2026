@@ -1,0 +1,10 @@
+### Summary of NCAA v. Alston
+
+#### 1. Facts of the Case
+The National Collegiate Athletic Association (NCAA) and its member institutions have rules limiting the compensation that student-athletes can receive. Current and former student-athletes brought an antitrust lawsuit challenging these restrictions under §1 of the Sherman Act. The district court, after a bench trial, found that the NCAA enjoys monopsony power in the market for student-athletes' labor and that its compensation limits produce significant anticompetitive effects. The court enjoined certain NCAA rules limiting education-related benefits but upheld rules limiting undergraduate athletic scholarships and other compensation related to athletic performance. The Ninth Circuit affirmed, and the NCAA appealed to the Supreme Court.
+
+#### 2. Legal Question(s)
+The Supreme Court addressed whether the NCAA's compensation restrictions should be subjected to antitrust scrutiny under the "rule of reason" analysis and whether the district court's injunction was consistent with established antitrust principles.
+
+#### 3. Conclusion/Holding
+The Supreme Court held that the district court's injunction is consistent with established antitrust principles. The Court applied the rule of reason analysis, which requires a fact-specific assessment of market power and market structure to assess the challenged restraint's actual effect on competition. The NCAA's compensation restrictions were found to have significant anticompetitive effects, and the district court properly considered the NCAA's procompetitive justifications and the availability of substantially less restrictive alternatives. The Court affirmed the Ninth Circuit's decision, upholding the district court's injunction against the NCAA's rules limiting education-related benefits. The Court's ruling establishes that the NCAA's remaining compensation rules will be subject to ordinary rule of reason scrutiny under the antitrust laws going forward.

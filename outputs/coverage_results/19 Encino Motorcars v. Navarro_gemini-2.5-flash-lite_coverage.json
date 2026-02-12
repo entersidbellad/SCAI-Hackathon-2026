@@ -1,0 +1,130 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nEncino Motorcars, LLC, which sells and services Mercedes-Benz cars, employed Hector Navarro and others as \"service advisors.\"",
+      "best_match": "Here is a summary of the Supreme Court's opinion in *Encino Motorcars, LLC v. Navarro et al.",
+      "similarity": 0.5401978492736816,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Their role was to greet car owners upon arrival in the service area of the dealership, listen to customers' concerns about their cars, evaluate the repair and maintenance needs of the cars, suggest services, write up estimates, and follow up with the customer while repair work was being done.",
+      "best_match": "servicing automobiles\" is an apt description of a service advisor.",
+      "similarity": 0.5924598574638367,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Navarro and the other plaintiffs alleged in federal district court that Encino Motorcars violated the Fair Labor Standards Act (FLSA) by failing to pay them overtime wages.",
+      "best_match": "Facts of the Case**\n\nRespondents, who were current and former service advisors for petitioner Encino Motorcars, LLC, filed a lawsuit alleging that Encino Motorcars violated the Fair Labor Standards Act (FLSA) by failing to pay them overtime wages.",
+      "similarity": 0.8097144365310669,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court dismissed the claim, finding that the FLSA exempts service advisors from its overtime compensation provisions.",
+      "best_match": "Encino Motorcars moved to dismiss the suit, arguing that service advisors are exempt from the FLSA's overtime pay requirement under 29 U.S.C.",
+      "similarity": 0.6513442993164062,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A panel of the Ninth Circuit reversed, using the principle of Chevron deference to rely on a regulation promulgated by the Department of Labor in 2011 interpreting the statutory exemption as not encompassing service providers.",
+      "best_match": "On remand, the Ninth Circuit again ruled that the exemption does not include service advisors.",
+      "similarity": 0.6272019147872925,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The US Supreme Court vacated the panel's decision, holding that the regulation lacked sufficient explanation and thus was not entitled to deference.",
+      "best_match": "The Supreme Court vacated the Ninth Circuit's judgment in *Encino I*, holding that courts could not defer to the procedurally defective 2011 rule, but it did not decide whether the exemption actually covered service advisors.",
+      "similarity": 0.5827562212944031,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "On remand, the Ninth Circuit formulated its own interpretation of the applicable FLSA provision and concluded that the exemption does not encompass service advisors.",
+      "best_match": "On remand, the Ninth Circuit again ruled that the exemption does not include service advisors.",
+      "similarity": 0.8197166919708252,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nAre service advisors at car dealerships exempt under 29 U.S.C.",
+      "best_match": "servicing automobiles\" and are therefore exempt from the overtime pay requirements of the Fair Labor Standards Act (FLSA) under 29 U.S.C.",
+      "similarity": 0.6059316396713257,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 213(b)(10)(A) from the Fair Labor Standards Act's overtime-pay requirements?",
+      "best_match": "servicing automobiles\" and are therefore exempt from the overtime pay requirements of the Fair Labor Standards Act (FLSA) under 29 U.S.C.",
+      "similarity": 0.6420359015464783,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nIn a 5-4 decision, the Court reversed and remanded the case back to the Ninth Circuit, holding that because service advisors at car dealerships are \"salesm[e]n .",
+      "best_match": "The Court reversed the judgment of the Ninth Circuit and remanded the case for further proceedings.",
+      "similarity": 0.7075377702713013,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "primarily engaged in .",
+      "best_match": "primarily engaged in .",
+      "similarity": 1.0000001192092896,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "servicing automobiles,\" 29 U.S.C.",
+      "best_match": "servicing automobiles\" is an apt description of a service advisor.",
+      "similarity": 0.7197426557540894,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 213(b)(10)(A), they are exempt from the FLSA's overtime-pay requirements.",
+      "best_match": "servicing automobiles\" and are thus exempt from the FLSA's overtime-pay requirement.",
+      "similarity": 0.8107646703720093,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Construing the relevant portions of the statute, the Court explained that a service advisor is clearly a \"salesman\" who sells services to customers for their vehicles.",
+      "best_match": "Service advisors sell services for vehicles to customers, fitting this definition.",
+      "similarity": 0.7563527822494507,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court also concluded that service advisors are \"primarily engaged in .",
+      "best_match": "Conclusion/Holding**\n\nThe Supreme Court held that service advisors are indeed \"salesmen .",
+      "similarity": 0.6918776035308838,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "servicing automobiles\" since they are integral in the process of providing maintenance and repair services to customers, even if they do not spend most of their time physically repairing vehicles.",
+      "best_match": "servicing automobiles\"**: The term \"servicing\" can mean either maintaining or repairing a vehicle, or providing a service.",
+      "similarity": 0.8853132128715515,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court rejected the Ninth Circuit's use of the distributive canon, as well as its conclusion that FLSA exemptions should be construed narrowly in holding that service advisors were not exempt.",
+      "best_match": "*   **Narrow Construction of Exemptions**: The Court rejected the principle that FLSA exemptions should be construed narrowly, stating that exemptions should be given a \"fair reading\" unless the statute provides a textual indication otherwise.",
+      "similarity": 0.7140636444091797,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "It also rejected the appellate court's reliance on a 1966-67 DOL Occupational Outlook Handbook and the FLSA legislative history, both of which the Court found unpersuasive.",
+      "best_match": "*   **Extraneous Sources**: The Court found the Ninth Circuit's reliance on the Occupational Outlook Handbook and legislative history unpersuasive.",
+      "similarity": 0.6238514184951782,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ginsburg filed a dissenting opinion, in which Justices Breyer, Sotomayor, and Kagan joined.",
+      "best_match": "The Court reversed the judgment of the Ninth Circuit and remanded the case for further proceedings.",
+      "similarity": 0.39203521609306335,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Justice Ginsburg filed a dissenting opinion, in which Justices Breyer, Sotomayor, and Kagan joined.",
+      "best_similarity": 0.39203521609306335,
+      "best_match": "The Court reversed the judgment of the Ninth Circuit and remanded the case for further proceedings."
+    }
+  ],
+  "total_gt_sentences": 19,
+  "covered_sentences": 18,
+  "coverage_percentage": 94.73684210526315,
+  "coverage_score": 0.9473684210526315,
+  "threshold": 0.5
+}

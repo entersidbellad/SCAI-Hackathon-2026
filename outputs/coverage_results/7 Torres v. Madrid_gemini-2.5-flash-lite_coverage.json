@@ -1,0 +1,134 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn 2014, Roxanne Torres was involved in an incident with police officers in which she was operating a vehicle under the influence of methamphetamine and in the process of trying to get away, endangered the two officers pursuing her.",
+      "best_match": "Believing the officers to be carjackers, Torres accelerated her vehicle to escape.",
+      "similarity": 0.645867645740509,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In the process, one of the officers shot and injured her.",
+      "best_match": "Applying this principle, the Court concluded that the officers seized Torres at the instant the bullets struck her, as the application of physical force objectively manifested an intent to restrain her movement.",
+      "similarity": 0.5228029489517212,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Torres pleaded no contest to three crimes: (1) aggravated fleeing from a law enforcement officer, (2) assault on a police officer, and (3) unlawfully taking a motor vehicle.",
+      "best_match": "Believing the officers to be carjackers, Torres accelerated her vehicle to escape.",
+      "similarity": 0.5863427519798279,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In October 2016, she filed a civil-rights complaint in federal court against the two officers, alleging claims including excessive force and conspiracy to engage in excessive force.",
+      "best_match": "\u00a7 1983, alleging that they used excessive force and that the shooting constituted an unreasonable seizure under the Fourth Amendment.",
+      "similarity": 0.5044931769371033,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Construing Torres's complaint as asserting the excessive-force claims under the Fourth Amendment, the court concluded that the officers were entitled to qualified immunity.",
+      "best_match": "The Tenth Circuit Court of Appeals affirmed the District Court's grant of summary judgment to the officers, holding that a suspect's continued flight after being shot negates a Fourth Amendment excessive force claim.",
+      "similarity": 0.5956805348396301,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In the court's view, the officers had not seized Torres at the time of the shooting, and without a seizure, there could be no Fourth Amendment violation.",
+      "best_match": "\u00a7 1983, alleging that they used excessive force and that the shooting constituted an unreasonable seizure under the Fourth Amendment.",
+      "similarity": 0.6067686080932617,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Tenth Circuit affirmed.",
+      "best_match": "The Court vacated the Tenth Circuit's judgment and remanded the case for further proceedings, leaving open questions regarding the reasonableness of the seizure, the damages caused, and the officers' entitlement to qualified immunity.",
+      "similarity": 0.5645649433135986,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nMust physical force used to detain a suspect be successful to constitute a \"seizure\" under the Fourth Amendment?",
+      "best_match": "Legal Question(s)\n\nThe primary legal question before the Supreme Court was: Does the application of physical force to a person's body with the intent to restrain constitute a seizure under the Fourth Amendment, even if the person does not submit to the force and is not subdued?",
+      "similarity": 0.8288611769676208,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe application of physical force to the body of a person with intent to restrain is a seizure, even if the force does not succeed in subduing the person.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the application of physical force to the body of a person with the intent to restrain is a seizure under the Fourth Amendment, even if the person does not submit and is not subdued.",
+      "similarity": 0.8031339645385742,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts authored the majority opinion.",
+      "best_match": "Here is a summary of the Supreme Court opinion in *Torres v. Madrid et al.",
+      "similarity": 0.4206126928329468,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Under the Court's precedents, common law arrests are considered seizures under the Fourth Amendment, and the application of force to the body of a person with intent to restrain constitutes an arrest even if the arrestee escapes.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the application of physical force to the body of a person with the intent to restrain is a seizure under the Fourth Amendment, even if the person does not submit and is not subdued.",
+      "similarity": 0.7771691083908081,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The use of a device, here, a gun, to effect the arrest, makes no difference in the outcome; it is still a seizure.",
+      "best_match": "Furthermore, a seizure by force lasts only as long as the application of force, unless the suspect submits.",
+      "similarity": 0.6386949419975281,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "There is no reason to draw an \"artificial line\" between grasping an arrestee with a hand and using some other means of applying physical force to effect an arrest.",
+      "best_match": "The Court found no basis to distinguish between a \"laying on of hands\" and other means of applying physical force, such as a bullet, to effect an arrest.",
+      "similarity": 0.6023275852203369,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The key consideration is whether the conduct objectively manifests the intent to restrain; subjective perceptions are irrelevant.",
+      "best_match": "The objective manifestation of intent to restrain is the relevant inquiry, not the subjective motivation of the officer or the perception of the suspect.",
+      "similarity": 0.6195896863937378,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, the requirement of intent to restrain lasts only as long as the application of force.",
+      "best_match": "Furthermore, a seizure by force lasts only as long as the application of force, unless the suspect submits.",
+      "similarity": 0.6294971704483032,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In this case, the officers' conduct clearly manifested intent to restrain Torres and was thus a seizure under the Fourth Amendment.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the application of physical force to the body of a person with the intent to restrain is a seizure under the Fourth Amendment, even if the person does not submit and is not subdued.",
+      "similarity": 0.6389353275299072,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Amy Coney Barrett took no part in the consideration or decision of the case.",
+      "best_match": "The Court found no basis to distinguish between a \"laying on of hands\" and other means of applying physical force, such as a bullet, to effect an arrest.",
+      "similarity": 0.39668920636177063,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined, arguing that \"neither the Constitution nor common sense\" support the majority's definition of a seizure.",
+      "best_match": "The Court reasoned that its precedents have interpreted the term \"seizure\" by consulting the common law of arrest.",
+      "similarity": 0.47998350858688354,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Chief Justice John Roberts authored the majority opinion.",
+      "best_similarity": 0.4206126928329468,
+      "best_match": "Here is a summary of the Supreme Court opinion in *Torres v. Madrid et al."
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett took no part in the consideration or decision of the case.",
+      "best_similarity": 0.39668920636177063,
+      "best_match": "The Court found no basis to distinguish between a \"laying on of hands\" and other means of applying physical force, such as a bullet, to effect an arrest."
+    },
+    {
+      "sentence": "Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined, arguing that \"neither the Constitution nor common sense\" support the majority's definition of a seizure.",
+      "best_similarity": 0.47998350858688354,
+      "best_match": "The Court reasoned that its precedents have interpreted the term \"seizure\" by consulting the common law of arrest."
+    }
+  ],
+  "total_gt_sentences": 18,
+  "covered_sentences": 15,
+  "coverage_percentage": 83.33333333333334,
+  "coverage_score": 0.8333333333333335,
+  "threshold": 0.5
+}

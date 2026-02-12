@@ -1,0 +1,152 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn March 2018, the City of Philadelphia barred Catholic Social Services (CSS) from placing children in foster homes because of its policy of not licensing same-sex couples to be foster parents.",
+      "best_match": "Facts of the Case\nPetitioners Sharonell Fulton et al., including Catholic Social Services (CSS) and three affiliated foster parents, challenged the City of Philadelphia's refusal to refer children to CSS or renew its foster care contract unless CSS agreed to certify same-sex married couples as foster parents.",
+      "similarity": 0.8018897771835327,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "CSS sued the City of Philadelphia, asking the court to order the city to renew their contract.",
+      "best_match": "Facts of the Case\nPetitioners Sharonell Fulton et al., including Catholic Social Services (CSS) and three affiliated foster parents, challenged the City of Philadelphia's refusal to refer children to CSS or renew its foster care contract unless CSS agreed to certify same-sex married couples as foster parents.",
+      "similarity": 0.5296558141708374,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "CSS argued that its right to free exercise of religion and free speech entitled it to reject qualified same-sex couples because they were same-sex couples, rather than for any reason related to their qualifications to care for children.",
+      "best_match": "CSS holds the religious belief that marriage is a sacred bond between one man and one woman and thus will not certify unmarried couples (regardless of sexual orientation) or same-sex married couples, viewing certification as an endorsement of relationships; it certifies gay or lesbian individuals as single foster parents and refers same-sex couples to over 20 other agencies that certify them.",
+      "similarity": 0.7172425389289856,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court denied CSS's motion for a preliminary injunction, and the Third Circuit affirmed, finding that the City's non-discrimination policy was a neutral, generally applicable law and that CSS had not demonstrated that the City targeted CSS for its religious beliefs or was motivated by ill will against its religion.",
+      "best_match": "The contractual non-discrimination requirement burdens CSS's religious exercise (forcing curtailment of mission or violation of beliefs) and is not generally applicable due to \u00a73.21's discretionary exceptions at the Commissioner's \"sole discretion,\" inviting individualized assessments and prohibiting refusal of religious hardship exemptions without compelling reason (Smith, 494 U. S. at 884; Sherbert v. Verner, 374 U. S. 398 (1963)); state law prevents interpreting \u00a715.1 to nullify \u00a73.21's exceptions (Shehadi v. Northeastern Nat.",
+      "similarity": 0.6618306040763855,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "), criticizing avoidance of Smith.",
+      "similarity": 0.2884887456893921,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "To succeed on their free exercise claim, must plaintiffs prove that the government would allow the same conduct by someone who held different religious views, or only provide sufficient evidence that a law is not neutral and generally applicable?",
+      "best_match": "The contractual non-discrimination requirement burdens CSS's religious exercise (forcing curtailment of mission or violation of beliefs) and is not generally applicable due to \u00a73.21's discretionary exceptions at the Commissioner's \"sole discretion,\" inviting individualized assessments and prohibiting refusal of religious hardship exemptions without compelling reason (Smith, 494 U. S. at 884; Sherbert v. Verner, 374 U. S. 398 (1963)); state law prevents interpreting \u00a715.1 to nullify \u00a73.21's exceptions (Shehadi v. Northeastern Nat.",
+      "similarity": 0.46849435567855835,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Should the Court revisit its decision in Employment Division v. Smith?",
+      "best_match": "Petitioners also challenged Smith's validity.",
+      "similarity": 0.5859654545783997,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Does the government violate the First Amendment by conditioning a religious agency's ability to participate in the foster care system on taking actions and making statements that directly contradict the agency's religious beliefs?",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Philadelphia's refusal to contract with CSS for foster care services unless CSS certifies same-sex couples violates the Free Exercise Clause of the First Amendment, specifically whether the City's contractual non-discrimination requirement (\u00a73.21 and \u00a715.1) and Fair Practices Ordinance are neutral and generally applicable under Smith, 494 U. S. 872 (neutral laws incidentally burdening religion not subject to strict scrutiny), or trigger strict scrutiny per Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508 U. S. 520 (1993) (laws not generally applicable if allowing individualized exemptions, Smith, 494 U. S. at 884).",
+      "similarity": 0.5380364060401917,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe refusal of Philadelphia to contract with CSS for the provision of foster care services unless CSS agrees to certify same-sex couples as foster parents violates the Free Exercise Clause of the First Amendment.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Philadelphia's refusal to contract with CSS for foster care services unless CSS certifies same-sex couples violates the Free Exercise Clause of the First Amendment, specifically whether the City's contractual non-discrimination requirement (\u00a73.21 and \u00a715.1) and Fair Practices Ordinance are neutral and generally applicable under Smith, 494 U. S. 872 (neutral laws incidentally burdening religion not subject to strict scrutiny), or trigger strict scrutiny per Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508 U. S. 520 (1993) (laws not generally applicable if allowing individualized exemptions, Smith, 494 U. S. at 884).",
+      "similarity": 0.8599287867546082,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice John Roberts authored the majority opinion of the Court.",
+      "best_match": "Alito, J., concurred in judgment (joined by Thomas, Gorsuch, JJ.",
+      "similarity": 0.5295642614364624,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Philadelphia's actions burdened CSS's religious exercise by forcing it either to curtail its mission or to certify same-sex couples as foster parents, in violation of its stated religious beliefs.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Philadelphia's refusal to contract with CSS for foster care services unless CSS certifies same-sex couples violates the Free Exercise Clause of the First Amendment, specifically whether the City's contractual non-discrimination requirement (\u00a73.21 and \u00a715.1) and Fair Practices Ordinance are neutral and generally applicable under Smith, 494 U. S. 872 (neutral laws incidentally burdening religion not subject to strict scrutiny), or trigger strict scrutiny per Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508 U. S. 520 (1993) (laws not generally applicable if allowing individualized exemptions, Smith, 494 U. S. at 884).",
+      "similarity": 0.752102255821228,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Although the Court held in Employment Division v. Smith that neutral, generally applicable laws may incidentally burden religion, the Philadelphia law was not neutral and generally applicable because it allowed for exceptions to the anti-discrimination requirement at the sole discretion of the Commissioner.",
+      "best_match": "Legal Question(s)\nThe Court addressed whether Philadelphia's refusal to contract with CSS for foster care services unless CSS certifies same-sex couples violates the Free Exercise Clause of the First Amendment, specifically whether the City's contractual non-discrimination requirement (\u00a73.21 and \u00a715.1) and Fair Practices Ordinance are neutral and generally applicable under Smith, 494 U. S. 872 (neutral laws incidentally burdening religion not subject to strict scrutiny), or trigger strict scrutiny per Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508 U. S. 520 (1993) (laws not generally applicable if allowing individualized exemptions, Smith, 494 U. S. at 884).",
+      "similarity": 0.634932279586792,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Additionally, CSS's actions do not fall within public accommodations laws because certification as a foster parent is not \"made available to the public\" in the usual sense of the phrase.",
+      "best_match": "Strict scrutiny applies (Lukumi, 508 U. S. at 546): City lacks compelling interest in denying CSS an exception, as CSS seeks only accommodation to serve children consistent with beliefs without imposing them on others, increasing (not reducing) foster parents, posing no liability risk (certification authority state-delegated, 55 Pa. Code \u00a73700.61), and undermining equal treatment claims via exceptions.",
+      "similarity": 0.7416889667510986,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Thus, the non-discrimination requirement is subject to strict scrutiny, which requires that the government show the law is necessary to achieve a compelling government interest.",
+      "best_match": "The contractual non-discrimination requirement burdens CSS's religious exercise (forcing curtailment of mission or violation of beliefs) and is not generally applicable due to \u00a73.21's discretionary exceptions at the Commissioner's \"sole discretion,\" inviting individualized assessments and prohibiting refusal of religious hardship exemptions without compelling reason (Smith, 494 U. S. at 884; Sherbert v. Verner, 374 U. S. 398 (1963)); state law prevents interpreting \u00a715.1 to nullify \u00a73.21's exceptions (Shehadi v. Northeastern Nat.",
+      "similarity": 0.5663856863975525,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court pointed out that the question is not whether the City has a compelling interest in enforcing its non-discrimination policies generally, but whether it has such an interest in denying an exception to CSS.",
+      "best_match": "Strict scrutiny applies (Lukumi, 508 U. S. at 546): City lacks compelling interest in denying CSS an exception, as CSS seeks only accommodation to serve children consistent with beliefs without imposing them on others, increasing (not reducing) foster parents, posing no liability risk (certification authority state-delegated, 55 Pa. Code \u00a73700.61), and undermining equal treatment claims via exceptions.",
+      "similarity": 0.7221450805664062,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court concluded that it did not.",
+      "best_match": "The District Court denied preliminary relief, holding the contract and Ordinance neutral and generally applicable under Employment Div., Dept.",
+      "similarity": 0.4520339369773865,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Amy Coney Barrett wrote a separate concurring opinion in which Justice Brett Kavanaugh joined and in which Justice Stephen Breyer joined as to all but the first paragraph.",
+      "best_match": "Barrett, J., concurred (joined by Kavanaugh, J.; Breyer, J., except first paragraph), noting strict scrutiny applies regardless of Smith due to discretionary exceptions.",
+      "similarity": 0.5234838724136353,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Barrett acknowledged strong arguments for overruling Smith but agreed with the majority that the facts of the case did not trigger Smith.",
+      "best_match": "Barrett, J., concurred (joined by Kavanaugh, J.; Breyer, J., except first paragraph), noting strict scrutiny applies regardless of Smith due to discretionary exceptions.",
+      "similarity": 0.6614488363265991,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Samuel Alito authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Neil Gorsuch joined.",
+      "best_match": "Alito, J., concurred in judgment (joined by Thomas, Gorsuch, JJ.",
+      "similarity": 0.7763263583183289,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Alito would overrule Smith, replacing it with a rule that any law that burdens religious exercise must be subject to strict scrutiny.",
+      "best_match": "Barrett, J., concurred (joined by Kavanaugh, J.; Breyer, J., except first paragraph), noting strict scrutiny applies regardless of Smith due to discretionary exceptions.",
+      "similarity": 0.5428017377853394,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Gorsuch authored an opinion concurring in the judgment, in which Justices Thomas and Alito joined, criticizing the majority's circumvention of Smith.",
+      "best_match": "Gorsuch, J., concurred in judgment (joined by Thomas, Alito, JJ.",
+      "similarity": 0.8051402568817139,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.2884887456893921,
+      "best_match": "), criticizing avoidance of Smith."
+    },
+    {
+      "sentence": "To succeed on their free exercise claim, must plaintiffs prove that the government would allow the same conduct by someone who held different religious views, or only provide sufficient evidence that a law is not neutral and generally applicable?",
+      "best_similarity": 0.46849435567855835,
+      "best_match": "The contractual non-discrimination requirement burdens CSS's religious exercise (forcing curtailment of mission or violation of beliefs) and is not generally applicable due to \u00a73.21's discretionary exceptions at the Commissioner's \"sole discretion,\" inviting individualized assessments and prohibiting refusal of religious hardship exemptions without compelling reason (Smith, 494 U. S. at 884; Sherbert v. Verner, 374 U. S. 398 (1963)); state law prevents interpreting \u00a715.1 to nullify \u00a73.21's exceptions (Shehadi v. Northeastern Nat."
+    },
+    {
+      "sentence": "The Court concluded that it did not.",
+      "best_similarity": 0.4520339369773865,
+      "best_match": "The District Court denied preliminary relief, holding the contract and Ordinance neutral and generally applicable under Employment Div., Dept."
+    }
+  ],
+  "total_gt_sentences": 21,
+  "covered_sentences": 18,
+  "coverage_percentage": 85.71428571428571,
+  "coverage_score": 0.8571428571428571,
+  "threshold": 0.5
+}

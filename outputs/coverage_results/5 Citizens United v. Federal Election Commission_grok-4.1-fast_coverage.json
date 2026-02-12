@@ -1,0 +1,204 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nCitizens United sought an injunction against the Federal Election Commission in the United States District Court for the District of Columbia to prevent the application of the Bipartisan Campaign Reform Act (BCRA) to its film Hillary: The Movie.",
+      "best_match": "\u00a7 441b (as amended by \u00a7 203 of the Bipartisan Campaign Reform Act of 2002 (BCRA)), which prohibits corporations and unions from using general treasury funds for \"electioneering communications\" or speech expressly advocating the election or defeat of a candidate, Citizens United filed suit in the U.S. District Court for the District of Columbia seeking declaratory and injunctive relief.",
+      "similarity": 0.6594996452331543,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Movie expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.",
+      "best_match": "Facts of the Case\nCitizens United, a nonprofit corporation with an annual budget of about $12 million funded mostly by individual donations and a small portion from for-profit corporations, produced a 90-minute documentary film entitled *Hillary: The Movie* (referred to as *Hillary*), which was critical of then-Senator Hillary Clinton, a candidate for her party's 2008 presidential nomination.",
+      "similarity": 0.39223018288612366,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "In an attempt to regulate \"big money\" campaign contributions, the BCRA applies a variety of restrictions to \"electioneering communications.\"",
+      "best_match": "\u00a7 441b (as amended by \u00a7 203 of the Bipartisan Campaign Reform Act of 2002 (BCRA)), which prohibits corporations and unions from using general treasury funds for \"electioneering communications\" or speech expressly advocating the election or defeat of a candidate, Citizens United filed suit in the U.S. District Court for the District of Columbia seeking declaratory and injunctive relief.",
+      "similarity": 0.64166259765625,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Section 203 of the BCRA prevents corporations or labor unions from funding such communication from their general treasuries.",
+      "best_match": "\u00a7 441b (as amended by \u00a7 203 of the Bipartisan Campaign Reform Act of 2002 (BCRA)), which prohibits corporations and unions from using general treasury funds for \"electioneering communications\" or speech expressly advocating the election or defeat of a candidate, Citizens United filed suit in the U.S. District Court for the District of Columbia seeking declaratory and injunctive relief.",
+      "similarity": 0.5351647734642029,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Sections 201 and 311 require the disclosure of donors to such communication and a disclaimer when the communication is not authorized by the candidate it intends to support.",
+      "best_match": "\u00a7 441b (as amended by \u00a7 203 of the Bipartisan Campaign Reform Act of 2002 (BCRA)), which prohibits corporations and unions from using general treasury funds for \"electioneering communications\" or speech expressly advocating the election or defeat of a candidate, Citizens United filed suit in the U.S. District Court for the District of Columbia seeking declaratory and injunctive relief.",
+      "similarity": 0.4762714207172394,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Citizens United argued that: 1) Section 203 violates the First Amendment on its face and when applied to The Movie and its related advertisements, and that 2) Sections 201 and 203 are also unconstitutional as applied to the circumstances.",
+      "best_match": "It argued that \u00a7 441b was unconstitutional as applied to *Hillary* and the ads, and that BCRA \u00a7\u00a7 201 and 311 (disclosure and disclaimer requirements) were unconstitutional as applied to *Hillary* and the ads.",
+      "similarity": 0.5528522729873657,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The United States District Court denied the injunction.",
+      "best_match": "A three-judge district court denied Citizens United's motion for a preliminary injunction, 530 F. Supp.",
+      "similarity": 0.6738228797912598,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Section 203 on its face was not unconstitutional because the Supreme Court in McConnell v. FEC had already reached that determination.",
+      "best_match": "It argued that \u00a7 441b was unconstitutional as applied to *Hillary* and the ads, and that BCRA \u00a7\u00a7 201 and 311 (disclosure and disclaimer requirements) were unconstitutional as applied to *Hillary* and the ads.",
+      "similarity": 0.509788453578949,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The District Court also held that The Movie was the functional equivalent of express advocacy, as it attempted to inform voters that Senator Clinton was unfit for office, and thus Section 203 was not unconstitutionally applied.",
+      "best_match": "It argued that \u00a7 441b was unconstitutional as applied to *Hillary* and the ads, and that BCRA \u00a7\u00a7 201 and 311 (disclosure and disclaimer requirements) were unconstitutional as applied to *Hillary* and the ads.",
+      "similarity": 0.5743004083633423,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Lastly, it held that Sections 201 and 203 were not unconstitutional as applied to the The Movie or its advertisements.",
+      "best_match": "It argued that \u00a7 441b was unconstitutional as applied to *Hillary* and the ads, and that BCRA \u00a7\u00a7 201 and 311 (disclosure and disclaimer requirements) were unconstitutional as applied to *Hillary* and the ads.",
+      "similarity": 0.6585025787353516,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The court reasoned that the McConnell decision recognized that disclosure of donors \"might be unconstitutional if it imposed an unconstitutional burden on the freedom to associate in support of a particular cause,\" but those circumstances did not exist in Citizen United's claim.",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.5433468222618103,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1) Did the Supreme Court's decision in McConnell resolve all constitutional as-applied challenges to the BCRA when it upheld the disclosure requirements of the statute as constitutional?",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.5135158896446228,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "2) Do the BCRA's disclosure requirements impose an unconstitutional burden when applied to electioneering requirements because they are protected \"political speech\" and not subject to regulation as \"campaign speech\"?",
+      "best_match": "It argued that \u00a7 441b was unconstitutional as applied to *Hillary* and the ads, and that BCRA \u00a7\u00a7 201 and 311 (disclosure and disclaimer requirements) were unconstitutional as applied to *Hillary* and the ads.",
+      "similarity": 0.6499848961830139,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "3) If a communication lacks a clear plea to vote for or against a particular candidate, is it subject to regulation under the BCRA?",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.5137532949447632,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "4) Should a feature length documentary about a candidate for political office be treated like the advertisements at issue in McConnell and therefore be subject to regulation under the BCRA?",
+      "best_match": "\u00a7 441b (as amended by BCRA \u00a7 203) is facially valid under the First Amendment or unconstitutional as applied to *Hillary* and the ads promoting it, including whether the Court should overrule *Austin v. Michigan Chamber of Commerce*, 494 U.S. 652 (1990) (upholding restrictions on corporate independent expenditures based on corporate identity), and the part of *McConnell v. Federal Election Comm'n*, 540 U.S. 93, 203\u2013209 (2003), upholding BCRA \u00a7 203's extension of \u00a7 441b; (2) whether narrower grounds resolved the case without overruling *Austin*, such as whether *Hillary* qualifies as an \"electioneering communication\" under \u00a7 441b(b)(2) and 11 C.F.R.",
+      "similarity": 0.5187023878097534,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nNo.",
+      "best_match": "Judgment reversed in part, affirmed in part, and remanded.",
+      "similarity": 0.38201776146888733,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court overruled Austin v. Michigan Chamber of Commerce and portions of McConnell v. FEC.",
+      "best_match": "\u00a7 441b (as amended by BCRA \u00a7 203) is facially valid under the First Amendment or unconstitutional as applied to *Hillary* and the ads promoting it, including whether the Court should overrule *Austin v. Michigan Chamber of Commerce*, 494 U.S. 652 (1990) (upholding restrictions on corporate independent expenditures based on corporate identity), and the part of *McConnell v. Federal Election Comm'n*, 540 U.S. 93, 203\u2013209 (2003), upholding BCRA \u00a7 203's extension of \u00a7 441b; (2) whether narrower grounds resolved the case without overruling *Austin*, such as whether *Hillary* qualifies as an \"electioneering communication\" under \u00a7 441b(b)(2) and 11 C.F.R.",
+      "similarity": 0.5601938366889954,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "(In the prior cases, the Court had held that political speech may be banned based on the speaker's corporate identity.)",
+      "best_match": "Political speech is central to the First Amendment and subject to strict scrutiny, requiring the Government to prove a restriction furthers a compelling interest and is narrowly tailored; no such interest justifies suppressing corporate political speech based on speaker identity.",
+      "similarity": 0.6912581920623779,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "By a 5-to-4 vote along ideological lines, the majority held that under the First Amendment corporate funding of independent political broadcasts in candidate elections cannot be limited.",
+      "best_match": "Political speech is central to the First Amendment and subject to strict scrutiny, requiring the Government to prove a restriction furthers a compelling interest and is narrowly tailored; no such interest justifies suppressing corporate political speech based on speaker identity.",
+      "similarity": 0.5666021704673767,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas.",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.5267324447631836,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.439232736825943,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The majority maintained that political speech is indispensable to a democracy, which is no less true because the speech comes from a corporation.",
+      "best_match": "Political speech is central to the First Amendment and subject to strict scrutiny, requiring the Government to prove a restriction furthers a compelling interest and is narrowly tailored; no such interest justifies suppressing corporate political speech based on speaker identity.",
+      "similarity": 0.6405024528503418,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The majority also held that the BCRA's disclosure requirements as applied to The Movie were constitutional, reasoning that disclosure is justified by a \"governmental interest\" in providing the \"electorate with information\" about election-related spending resources.",
+      "best_match": "The Court upheld BCRA \u00a7\u00a7 201 and 311 as applied to the ads and *Hillary* under exacting scrutiny, as they impose no ceiling on speech and advance a sufficiently important informational interest without evidence of threats or harassment to Citizens United's donors (*Buckley*, 424 U.S. at 66, 76; *McConnell*, 540 U.S. at 196).",
+      "similarity": 0.5337485074996948,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court also upheld the disclosure requirements for political advertising sponsors and it upheld the ban on direct contributions to candidates from corporations and unions.",
+      "best_match": "The Court upheld BCRA \u00a7\u00a7 201 and 311 as applied to the ads and *Hillary* under exacting scrutiny, as they impose no ceiling on speech and advance a sufficiently important informational interest without evidence of threats or harassment to Citizens United's donors (*Buckley*, 424 U.S. at 66, 76; *McConnell*, 540 U.S. at 196).",
+      "similarity": 0.6105970144271851,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.48217448592185974,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Here, the Court had no narrower grounds upon which to rule, except to handle the First Amendment issues embodied within the case.",
+      "best_match": "The Court rejected narrower grounds as unsustainable and found resolving the case without facial review would chill speech due to \u00a7 441b's complexity and the need for prior FEC permission.",
+      "similarity": 0.5745425224304199,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations.",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.6010159850120544,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Stevens argued that corporations are not members of society and that there are compelling governmental interests to curb corporations' ability to spend money during local and national elections.",
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203.",
+      "similarity": 0.5305166244506836,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "The Movie expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.",
+      "best_similarity": 0.39223018288612366,
+      "best_match": "Facts of the Case\nCitizens United, a nonprofit corporation with an annual budget of about $12 million funded mostly by individual donations and a small portion from for-profit corporations, produced a 90-minute documentary film entitled *Hillary: The Movie* (referred to as *Hillary*), which was critical of then-Senator Hillary Clinton, a candidate for her party's 2008 presidential nomination."
+    },
+    {
+      "sentence": "Sections 201 and 311 require the disclosure of donors to such communication and a disclaimer when the communication is not authorized by the candidate it intends to support.",
+      "best_similarity": 0.4762714207172394,
+      "best_match": "\u00a7 441b (as amended by \u00a7 203 of the Bipartisan Campaign Reform Act of 2002 (BCRA)), which prohibits corporations and unions from using general treasury funds for \"electioneering communications\" or speech expressly advocating the election or defeat of a candidate, Citizens United filed suit in the U.S. District Court for the District of Columbia seeking declaratory and injunctive relief."
+    },
+    {
+      "sentence": "Conclusion\nNo.",
+      "best_similarity": 0.38201776146888733,
+      "best_match": "Judgment reversed in part, affirmed in part, and remanded."
+    },
+    {
+      "sentence": "Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor.",
+      "best_similarity": 0.439232736825943,
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203."
+    },
+    {
+      "sentence": "In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible.",
+      "best_similarity": 0.48217448592185974,
+      "best_match": "Conclusion/Holding\nThe Court (in a 5-4 opinion by Justice Kennedy, joined by Chief Justice Roberts and Justices Scalia and Alito; Justice Thomas joined all but Part IV) held that \u00a7 441b's prohibitions on corporate and union independent expenditures for electioneering communications or express advocacy are facially invalid under the First Amendment and overruled *Austin* and the relevant part of *McConnell* upholding BCRA \u00a7 203."
+    }
+  ],
+  "total_gt_sentences": 28,
+  "covered_sentences": 23,
+  "coverage_percentage": 82.14285714285714,
+  "coverage_score": 0.8214285714285714,
+  "threshold": 0.5
+}

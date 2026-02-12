@@ -1,0 +1,34 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 4,
+  "factual_errors": [
+    {
+      "error_quote": "Knick initiated legal proceedings in state court, seeking declaratory and injunctive relief, arguing that the ordinance constituted a taking of her property without just compensation.",
+      "issue": "The generated summary implies Knick filed the state court action herself, but the reference indicates she filed a federal lawsuit after the district court dismissed her claims, and the Third Circuit affirmed. The reference doesn't mention Knick initiating state court proceedings - it shows she filed in federal court after the district court action.",
+      "correct_info": "The reference shows Knick filed a lawsuit to challenge the ordinance, and the district court dismissed her claims (some with prejudice, some without). She then appealed to the Third Circuit, which affirmed the dismissal. The reference does not indicate she initiated separate state court proceedings."
+    },
+    {
+      "error_quote": "In response, the Township withdrew the violation notice and stayed enforcement of the ordinance.",
+      "issue": "This detail is not present in the reference summary. The reference only mentions that Knick was cited for violating the ordinance and that she filed a lawsuit to challenge it, but does not mention the Township withdrawing the notice or staying enforcement.",
+      "correct_info": "The reference does not mention the Township withdrawing the violation notice or staying enforcement of the ordinance."
+    },
+    {
+      "error_quote": "The state court declined to rule on Knick's request for equitable relief, finding she could not demonstrate irreparable harm without an ongoing enforcement action.",
+      "issue": "This suggests a state court proceeding, but the reference indicates Knick filed in federal district court, not state court. The reference mentions the district court dismissed claims, not a state court declining to rule.",
+      "correct_info": "The reference indicates Knick filed in federal District Court, not state court. The District Court dismissed her claims, with two dismissed without prejudice pending exhaustion of state-law remedies."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The Fourth Amendment claim (unrestrained searches of private property)",
+    "The two-part Questions Presented, including whether the ripeness doctrine applies to facial takings claims",
+    "Justice Thomas's separate concurrence",
+    "Justice Kagan's dissent arguments about the Takings Clause's text and the 'without just compensation' language",
+    "The dissent's stare decisis argument",
+    "The specific breakdown of claims (some dismissed with prejudice, two without prejudice pending exhaustion)",
+    "The Third Circuit's finding regarding Article III standing for the Fourth Amendment claim"
+  ],
+  "overall_assessment": "The generated summary accurately captures the core holding and main legal reasoning, correctly stating that Williamson County was overruled and that property owners can bring \u00a71983 takings claims without first exhausting state remedies. However, it contains several factual errors regarding the procedural history (suggesting state court proceedings that aren't in the reference) and omits significant details including the Fourth Amendment claim, the specific questions presented, Justice Thomas's concurrence, and Justice Kagan's dissent with its textual and stare decisis arguments.",
+  "judge_score": 0.8
+}

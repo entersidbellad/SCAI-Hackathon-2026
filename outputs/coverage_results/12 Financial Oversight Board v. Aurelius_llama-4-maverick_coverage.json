@@ -1,0 +1,175 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nSince it was ceded to the United States in 1898, Puerto Rico has accumulated substantial debt, in large part due to its ambiguous legal status as a protectorate of the United States and the economically detrimental policies the United States has enacted over the decades.",
+      "best_match": "The Board was established to oversee Puerto Rico's finances and restructure its debts due to a severe fiscal crisis.",
+      "similarity": 0.6632539629936218,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Exacerbated by a series of governmental financial deficits and a recession, Puerto Rico's debt crisis came to a head in 2015, when its governor announced that the Commonwealth was in a \"death spiral\" and was unable to pay its debt.",
+      "best_match": "The Board was established to oversee Puerto Rico's finances and restructure its debts due to a severe fiscal crisis.",
+      "similarity": 0.6516237854957581,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In June 2016, President Barack Obama signed into law the Puerto Rico Oversight, Management and Economic Stability Act of 2016 (PROMESA), which gave him authority to appoint a seven-member Financial Oversight and Management Board that would have control over Puerto Rico's budget and would negotiate the restructuring of its $125 billion indebtedness.",
+      "best_match": "Facts of the Case\n\nThe case involves a challenge to the appointment process of the Financial Oversight and Management Board for Puerto Rico (the Board), created by Congress under the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) in 2016.",
+      "similarity": 0.776538610458374,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "President Obama appointed the seven-member board in August 2016 based on lists supplied by Republic and Democratic lawmakers.",
+      "best_match": "The seven voting members of the Board were appointed by President Obama without Senate confirmation.",
+      "similarity": 0.7070943117141724,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A number of creditors and elected officials of Puerto Rico have been dissatisfied with the board and its decisions and brought a lawsuit challenging President Obama's authority to appoint the board members.",
+      "best_match": "The Board was established to oversee Puerto Rico's finances and restructure its debts due to a severe fiscal crisis.",
+      "similarity": 0.657333493232727,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The challengers alleged that the Appointments Clause of the U.S. Constitution requires that the Senate confirm high-level federal officers and that the board members were within the scope of this Clause.",
+      "best_match": "Specifically, the Court must determine if the Board members are \"Officers of the United States\" subject to the Appointments Clause.",
+      "similarity": 0.7492309808731079,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The federal district court in Puerto Rico ruled against the creditors, finding the board is an instrumentality of the Commonwealth government established pursuant to Congress's plenary powers under the Territorial Clause and that the board members are not \"Officers of the United States.\"",
+      "best_match": "The Board's responsibilities, such as representing Puerto Rico in bankruptcy proceedings and overseeing Puerto Rico's fiscal and budgetary policies, are primarily local in nature.",
+      "similarity": 0.7111915349960327,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the First Circuit reversed, concluding that the Territorial Clause does not supersede the application of the Appointments Clause in an unincorporated territory and that the board members are \"Officers of the United States\" because: (1) they occupy \"continuing positions,\" (2) exercise \"significant authority\" that is the same or more than that exercised by other officers the U.S. Supreme Court has found to be \"Officers of the United States,\" and (3) exercise their authority \"pursuant to the laws of the United States.\"",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties.",
+      "similarity": 0.7906762361526489,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Moreover, these officers are \"principal\" officers subject to the Appointments Clause because they are answerable to and removable only by the President and are not directed or supervised by others who were appointed by the President with Senate confirmation.",
+      "best_match": "Specifically, the Court must determine if the Board members are \"Officers of the United States\" subject to the Appointments Clause.",
+      "similarity": 0.7584647536277771,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "Legal Question(s)\n\nThe primary legal question addressed by the Supreme Court is whether the appointment of the Financial Oversight and Management Board members without Senate confirmation violates the Appointments Clause (Article II, Section 2, Clause 2 of the U.S. Constitution).",
+      "similarity": 0.3227502107620239,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Does the Appointments Clause govern the appointment of members of the Financial Oversight and Management Board for Puerto Rico?",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties.",
+      "similarity": 0.8202656507492065,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Does the de facto officer doctrine allow courts to deny meaningful relief to successful separation-of-powers challengers who are suffering ongoing injury at the hands of unconstitutionally appointed principal officers?",
+      "best_match": "The First Circuit also applied the \"de facto officer\" doctrine to validate actions taken by the Board prior to its decision.",
+      "similarity": 0.5189061164855957,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe Appointments Clause constrains the appointments power as to all officers of the United States, including those who exercise power in or in relation to Puerto Rico, but the Clause does not restrict the appointment or selection of the members of the Financial Oversight and Management Board.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties.",
+      "similarity": 0.8686909675598145,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Based on this conclusion, the Court had no reason to address the second question presented.",
+      "best_match": "The Court reversed the First Circuit's judgment and remanded the cases for further proceedings.",
+      "similarity": 0.4222772717475891,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Stephen Breyer authored the opinion of the Court that was unanimous in the judgment.",
+      "best_match": "The Court reversed the First Circuit's judgment and remanded the cases for further proceedings.",
+      "similarity": 0.4977225363254547,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Appointments Clause of the federal Constitution is intended to allocate between the President and the Senate responsibility for selecting officers to hold high federal positions.",
+      "best_match": "Specifically, the Court must determine if the Board members are \"Officers of the United States\" subject to the Appointments Clause.",
+      "similarity": 0.7070790529251099,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Because of this purpose, the Appointments Clause should apply to all officers of the United States, even those with powers and duties related to Puerto Rico.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties.",
+      "similarity": 0.8769998550415039,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "However, the Appointments Clause does not restrict the appointment of local officers that Congress vests with primarily local duties.",
+      "best_match": "Therefore, the Appointments Clause does not dictate how the Board's members must be selected, and their appointment without Senate confirmation is constitutional.",
+      "similarity": 0.7043927907943726,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "When an officer has primarily local duties, he is not an officer of the United States within the meaning of the Appointments Clause.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties.",
+      "similarity": 0.7504879236221313,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Board members have primarily local powers and duties, exemplified by the fact that the power of the Board is backed by Puerto Rico law rather than federal law.",
+      "best_match": "The Board's responsibilities, such as representing Puerto Rico in bankruptcy proceedings and overseeing Puerto Rico's fiscal and budgetary policies, are primarily local in nature.",
+      "similarity": 0.7830958962440491,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Indeed, the Board's duty is to oversee the fiscal and budgetary development of Puerto Rico and to initiate bankruptcy proceedings in the interests of Puerto Rico.",
+      "best_match": "The Board's responsibilities, such as representing Puerto Rico in bankruptcy proceedings and overseeing Puerto Rico's fiscal and budgetary policies, are primarily local in nature.",
+      "similarity": 0.835383951663971,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Consequently, the Appointments Clause does not constrain the appointments power as to the Board members.",
+      "best_match": "Therefore, the Appointments Clause does not dictate how the Board's members must be selected, and their appointment without Senate confirmation is constitutional.",
+      "similarity": 0.8461520671844482,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas filed an opinion concurring in the judgment but based on interpretation of the \"original public meaning\" of the phrase \"Officers of the United States\" within the Appointments Clause.",
+      "best_match": "Specifically, the Court must determine if the Board members are \"Officers of the United States\" subject to the Appointments Clause.",
+      "similarity": 0.6299036741256714,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Sonia Sotomayor filed an opinion concurring in the judgment to explore issues the Court did not (and did not need) to address regarding the relationship between Puerto Rico and the United States.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties.",
+      "similarity": 0.47647929191589355,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.3227502107620239,
+      "best_match": "Legal Question(s)\n\nThe primary legal question addressed by the Supreme Court is whether the appointment of the Financial Oversight and Management Board members without Senate confirmation violates the Appointments Clause (Article II, Section 2, Clause 2 of the U.S. Constitution)."
+    },
+    {
+      "sentence": "Based on this conclusion, the Court had no reason to address the second question presented.",
+      "best_similarity": 0.4222772717475891,
+      "best_match": "The Court reversed the First Circuit's judgment and remanded the cases for further proceedings."
+    },
+    {
+      "sentence": "Justice Stephen Breyer authored the opinion of the Court that was unanimous in the judgment.",
+      "best_similarity": 0.4977225363254547,
+      "best_match": "The Court reversed the First Circuit's judgment and remanded the cases for further proceedings."
+    },
+    {
+      "sentence": "Justice Sonia Sotomayor filed an opinion concurring in the judgment to explore issues the Court did not (and did not need) to address regarding the relationship between Puerto Rico and the United States.",
+      "best_similarity": 0.47647929191589355,
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that while the Appointments Clause applies to all \"Officers of the United States,\" including those with powers and duties related to Puerto Rico, the Board members are not \"Officers of the United States\" because they have primarily local powers and duties."
+    }
+  ],
+  "total_gt_sentences": 24,
+  "covered_sentences": 20,
+  "coverage_percentage": 83.33333333333334,
+  "coverage_score": 0.8333333333333335,
+  "threshold": 0.5
+}

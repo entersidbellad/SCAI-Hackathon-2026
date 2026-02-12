@@ -1,0 +1,10 @@
+{
+  "factual_accuracy": 5,
+  "completeness": 5,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [],
+  "overall_assessment": "The generated summary is highly accurate and complete. It correctly identifies the petitioners as low-income mothers, accurately describes the scholarship program and Rule 1, properly characterizes the legal question as involving the Free Exercise Clause discrimination analysis, and correctly explains the strict scrutiny standard and the distinction from Locke v. Davey. The summary captures all key elements including the 5-4 decision, the author's identity, the concurrences and dissents, and the remand. No factual errors, hedging, or significant omissions were identified.",
+  "judge_score": 1.0
+}

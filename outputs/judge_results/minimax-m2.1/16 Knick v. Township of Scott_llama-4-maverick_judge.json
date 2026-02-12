@@ -1,0 +1,28 @@
+{
+  "factual_accuracy": 1,
+  "completeness": 1,
+  "factual_errors": [
+    {
+      "error_quote": "The entire generated summary consists of garbled text including random numbers, case citations, and nonsensical phrases like '862 F 862 F 862 F', '8623d8623d8623d8623d8623', '1 1 1 1 1 1 1 1 1 1 8623d1', etc.",
+      "issue": "The generated summary contains no coherent text whatsoever. It appears to be corrupted or improperly generated output that does not represent any meaningful information about the case.",
+      "correct_info": "The case is Knick v. Township of Scott, 139 S. Ct. 2162 (2019), where the Supreme Court overruled Williamson County Regional Planning Commission v. Hamilton Bank, holding that property owners need not exhaust state court remedies before bringing federal Takings Clause claims under 42 U.S.C. \u00a7 1983."
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Complete absence of case name (Knick v. Township of Scott)",
+    "No information about the parties (Rose Mary Knick, Township of Scott, Pennsylvania)",
+    "No facts about the cemetery ordinance and property dispute",
+    "No mention of the Fourth Amendment search issue",
+    "No explanation of the Fifth Amendment Takings Clause claim",
+    "No description of the Williamson County state-litigation requirement being overruled",
+    "No information about the 5-4 majority decision by Chief Justice Roberts",
+    "No details about Justice Thomas's concurrence",
+    "No information about Justice Kagan's dissent joined by Ginsburg, Breyer, and Sotomayor",
+    "No explanation of the ripeness doctrine issue",
+    "No mention of the 2012 township ordinance requiring public access to cemeteries"
+  ],
+  "overall_assessment": "The generated summary is completely incoherent and contains no meaningful information about the case. It consists entirely of garbled text, random numbers, and nonsensical phrases. This summary fails to convey any facts, legal issues, holdings, or reasoning from the reference summary. It is entirely unusable as a case summary and represents a complete failure of the summarization task.",
+  "judge_score": 0.2
+}

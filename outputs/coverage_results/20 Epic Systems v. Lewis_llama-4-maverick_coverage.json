@@ -1,0 +1,123 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nEpic Systems Corporation (Epic) is a Wisconsin-based healthcare data management software company.",
+      "best_match": "Facts of the Case\n\nThe cases before the Supreme Court involve employees who entered into arbitration agreements with their employers, requiring individualized arbitration proceedings to resolve employment disputes.",
+      "similarity": 0.2661565840244293,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Epic has an arbitration agreement that requires its employees to resolve any employment-based disputes with Epic through individual arbitration and to waive their right to participate in or receive benefit from any class, collective, or representative proceedings.",
+      "best_match": "The decision effectively means that employers can enforce arbitration agreements that bar class or collective actions, limiting employees to individualized arbitration for resolving certain employment disputes.",
+      "similarity": 0.5558903813362122,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In February 2015, former Epic employee Jacob Lewis sued Epic in federal court individually and on behalf of similarly-situated employees and claimed that they had been denied overtime wages in violation of the Fair Labor Standards Act of 1938.",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.4809816777706146,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Epic moved to dismiss the complaint and cited the waiver clause of its arbitration agreement.",
+      "best_match": "The employers countered with motions to compel arbitration based on the agreements.",
+      "similarity": 0.5129928588867188,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The district court denied Epic's motion and held that the waiver was unenforceable because it violated the right of employees to engage in \"concerted activities\" under Section Seven of the National Labor Relations Act (NLRA).",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.69403076171875,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Seventh Circuit affirmed the lower court's decision and added that the waiver was also unenforceable under the savings clause of the Federal Arbitration Act (FAA).",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the FAA requires enforcement of arbitration agreements according to their terms, including those that specify individualized proceedings.",
+      "similarity": 0.660822331905365,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "That clause provides that arbitration agreements are to be enforced unless there legal or equitable grounds that would render a contract unenforceable.",
+      "best_match": "Conclusion/Holding\n\nThe Supreme Court held that the FAA requires enforcement of arbitration agreements according to their terms, including those that specify individualized proceedings.",
+      "similarity": 0.7225395441055298,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Finding the waiver of collective proceedings illegal under the NLRA, the appellate court held that the arbitration agreement was unenforceable under the FAA.",
+      "best_match": "The courts of appeals were divided on whether the NLRA rendered such arbitration agreements unenforceable, leading to the Supreme Court granting certiorari to resolve the conflict.",
+      "similarity": 0.7179136872291565,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "This case was consolidated with Ernst & Young v. Morris and National Labor Relations Board v. Murphy Oil USA, Inc., both cases that dealt with the relationship between the FAA and the NLRA.",
+      "best_match": "Whether the NLRA overrides the FAA by protecting employees' rights to engage in class or collective actions.",
+      "similarity": 0.5893365740776062,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes the National Labor Relations Act prohibit enforcement of an agreement requiring employees to resolve disputes with the employer through individual arbitration under the Federal Arbitration Act?",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.7206293940544128,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe Court held that neither the Arbitration Act's saving clause nor the National Labor Relations Act (NLRA) supersede Congress's instructions in the Federal Arbitration Act that arbitration agreements providing for individualized proceedings must be enforced.",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.7536273002624512,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Neil Gorsuch delivered the opinion for a 5-4 majority.",
+      "best_match": "The Court's ruling was 5-4, with Justice Gorsuch delivering the majority opinion joined by Chief Justice Roberts and Justices Kennedy, Thomas, and Alito.",
+      "similarity": 0.766793966293335,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The majority found that the Federal Arbitration Act \"instructed federal courts to enforce arbitration agreements according to their terms\" and that the NLRA \"does not mention class or collection action procedures\" and thus cannot be read to displace the Arbitration Act.",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.7180784940719604,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas filed a concurring opinion to add that \"the employees also cannot prevail under the plain meaning of the Federal Arbitration Act.\"",
+      "best_match": "Facts of the Case\n\nThe cases before the Supreme Court involve employees who entered into arbitration agreements with their employers, requiring individualized arbitration proceedings to resolve employment disputes.",
+      "similarity": 0.6535987854003906,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ruth Bader Ginsburg filed a dissenting opinion in which Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan joined.",
+      "best_match": "Justice Thomas also filed a concurring opinion, and Justice Ginsburg filed a dissenting opinion joined by Justices Breyer, Sotomayor, and Kagan.",
+      "similarity": 0.834479808807373,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The dissent noted the extreme imbalance between employer and employee and Congress's attempt to remedy that imbalance in passing the NLRA and its forerunner, the Norris-LaGuardia Act.",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.5633560419082642,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In this context, the dissent found that the Federal Arbitration Act should not shrink the NLRA's \"protective sphere.\"",
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA.",
+      "similarity": 0.6722580790519714,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Facts of the case\n\nEpic Systems Corporation (Epic) is a Wisconsin-based healthcare data management software company.",
+      "best_similarity": 0.2661565840244293,
+      "best_match": "Facts of the Case\n\nThe cases before the Supreme Court involve employees who entered into arbitration agreements with their employers, requiring individualized arbitration proceedings to resolve employment disputes."
+    },
+    {
+      "sentence": "In February 2015, former Epic employee Jacob Lewis sued Epic in federal court individually and on behalf of similarly-situated employees and claimed that they had been denied overtime wages in violation of the Fair Labor Standards Act of 1938.",
+      "best_similarity": 0.4809816777706146,
+      "best_match": "The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were \"concerted activities\" protected under \u00a77 of the NLRA."
+    }
+  ],
+  "total_gt_sentences": 17,
+  "covered_sentences": 15,
+  "coverage_percentage": 88.23529411764706,
+  "coverage_score": 0.8823529411764706,
+  "threshold": 0.5
+}

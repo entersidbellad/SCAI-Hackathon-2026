@@ -1,0 +1,14 @@
+{
+  "factual_accuracy": 5,
+  "completeness": 3,
+  "factual_errors": [],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "The Fourth Amendment claim alleging the ordinance authorizes unrestrained searches of private property",
+    "The specific second legal question about whether the ripeness doctrine applies to takings claims that assert a law is unconstitutional on its face",
+    "The Third Circuit's finding that Knick lacked Article III standing for her Fourth Amendment claim due to failure to demonstrate injury-in-fact and redressability"
+  ],
+  "overall_assessment": "The generated summary is factually accurate with additional verified details (dates, case numbers, property specifics) that complement the reference. However, it omits significant information including Knick's Fourth Amendment claim entirely and the specific second question about facial takings challenges. The summary correctly uses strong language ('overruled') without hedging, but the completeness score suffers due to these notable omissions.",
+  "judge_score": 0.8
+}

@@ -1,0 +1,12 @@
+### Summary of Fulton v. City of Philadelphia
+
+#### Facts of the Case
+The case involves Catholic Social Services (CSS), a foster care agency in Philadelphia that has been contracted by the City to provide foster care services for over 50 years. CSS holds the religious belief that marriage is between a man and a woman and therefore will not certify same-sex couples as foster parents. In 2018, the City discovered CSS's policy and informed the agency that it would no longer refer children to CSS or enter into a new contract unless CSS agreed to certify same-sex couples. CSS and several affiliated foster parents filed suit, alleging that the City's actions violated the Free Exercise and Free Speech Clauses of the First Amendment.
+
+#### Legal Question(s)
+The Court addressed whether the City's actions in conditioning its contract with CSS on the agency's agreement to certify same-sex couples violated the Free Exercise Clause of the First Amendment. Specifically, the Court examined whether the City's non-discrimination policies were neutral and generally applicable, as required by Employment Division v. Smith (1990).
+
+#### Conclusion/Holding
+The Court held that the City's refusal to contract with CSS unless it agreed to certify same-sex couples violated the Free Exercise Clause. The Court found that the City's non-discrimination requirement in its contract with CSS was not generally applicable because it included a system of individualized exemptions at the discretion of the Commissioner. The Court also concluded that the City's Fair Practices Ordinance did not apply to CSS's certification practices, as foster care agencies are not considered "public accommodations" under the ordinance. The Court applied strict scrutiny to the City's actions and found that they were not narrowly tailored to serve a compelling government interest. The judgment of the Third Circuit was reversed, and the case was remanded for further proceedings.
+
+The concurring opinions by Justices Barrett, Alito, and Gorsuch addressed the issue of whether to overrule Employment Division v. Smith, with Justices Alito and Gorsuch arguing that it should be overruled due to its flawed reasoning and inconsistency with the original meaning of the Free Exercise Clause.

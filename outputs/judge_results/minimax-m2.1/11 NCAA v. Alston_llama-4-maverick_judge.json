@@ -1,0 +1,39 @@
+{
+  "factual_accuracy": 3,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "The district court, after a bench trial, found that the NCAA enjoys monopsony power in the market for student-athletes' labor and that its compensation limits produce significant anticompetitive effects.",
+      "issue": "The generated summary implies the district court made findings about monopsony power, but the reference summary does not mention this specific finding. The reference focuses on the antitrust violation without detailing market power analysis.",
+      "correct_info": "The reference summary states the district court found for the athletes regarding education-related benefits but does not mention findings about monopsony power in the labor market."
+    },
+    {
+      "error_quote": "The Court affirmed the Ninth Circuit's decision, upholding the district court's injunction against the NCAA's rules limiting education-related benefits.",
+      "issue": "This is partially correct but oversimplifies. The reference makes clear that the Court did NOT rule on all compensation restrictions - specifically, it did not pass judgment on rules 'untethered to education' because the athletes didn't appeal that aspect.",
+      "correct_info": "The reference states: 'Because the student-athletes who brought the lawsuit did not appeal the Ninth Circuit's ruling upholding the NCAA's rules 'untethered to education,' the Court did not pass judgment on that aspect of the case.'"
+    }
+  ],
+  "hedging_detected": true,
+  "hedging_examples": [
+    {
+      "summary_says": "The Supreme Court held that the district court's injunction is consistent with established antitrust principles.",
+      "reference_says": "The NCAA's rules restricting certain education-related benefits for student-athletes violate federal antitrust laws.",
+      "issue": "The generated summary uses more hedged language ('consistent with established antitrust principles') rather than stating the clear holding that the rules violate antitrust laws."
+    },
+    {
+      "summary_says": "The NCAA's compensation restrictions were found to have significant anticompetitive effects, and the district court properly considered the NCAA's procompetitive justifications and the availability of substantially less restrictive alternatives.",
+      "reference_says": "Writing for a unanimous Court, Justice Neil Gorsuch upheld the trial court's ruling. The Court affirmed that the traditional 'rule of reason' standard was appropriate in this case and rejected the NCAA's call for a more deferential standard.",
+      "issue": "The generated summary focuses on the district court's analysis rather than clearly stating the Supreme Court's definitive holding and the rejection of the NCAA's argument for a deferential standard."
+    }
+  ],
+  "key_omissions": [
+    "Justice Neil Gorsuch wrote for a unanimous Court",
+    "The specific examples of education-related benefits (computers, science equipment, musical instruments)",
+    "The district court's ruling that the NCAA may still limit cash or cash-equivalent awards for academic purposes",
+    "The Court's interpretation of the 1984 NCAA v. Board of Regents case and clarification that amateurism is not a shield against all compensation restriction challenges",
+    "The fact that the athletes did not appeal the Ninth Circuit's ruling on rules 'untethered to education'",
+    "Justice Kavanaugh's concurrence stating there are 'serious questions whether the NCAA's remaining compensation rules can pass muster under ordinary rule of reason scrutiny'"
+  ],
+  "overall_assessment": "The generated summary captures the basic antitrust framework and rule of reason analysis but significantly oversimplifies the holding and omits critical details including Justice Gorsuch's authorship of the unanimous opinion, the specific interpretation of the 1984 precedent, and Justice Kavanaugh's concurrence about remaining compensation rules. The summary also incorrectly implies the Court ruled on all compensation restrictions rather than just education-related benefits.",
+  "judge_score": 0.6
+}

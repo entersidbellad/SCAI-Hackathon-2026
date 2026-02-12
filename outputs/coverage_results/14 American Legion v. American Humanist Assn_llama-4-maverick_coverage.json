@@ -1,0 +1,327 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nIn Bladensburg, Maryland, as part of a memorial park honoring veterans is a 40-foot tall cross, which is the subject of this litigation.",
+      "best_match": "**Facts of the Case**\nThe case involves a challenge to the constitutionality of a 32-foot tall Latin cross, known as the Bladensburg Peace Cross, erected in 1925 in Prince George's County, Maryland, to honor local soldiers who died in World War I.",
+      "similarity": 0.7680027484893799,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Construction on the cross began in 1918, and it was widely described using Christian terms and celebrated in Christian services.",
+      "best_match": "The Court considered whether the cross's historical significance and its role in commemorating World War I veterans rendered it constitutional despite its religious symbolism.",
+      "similarity": 0.5661258697509766,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In 1961, Maryland-National Capital Park and Planning Commission acquired the cross and the land, as well as the responsibility to maintain, repair, and otherwise care for the cross.",
+      "best_match": "The cross is owned and maintained by the Maryland-National Capital Park and Planning Commission, a state agency.",
+      "similarity": 0.8378040790557861,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Commission has spent approximately $117,000 to maintain and repair the cross, and in 2008, it set aside an additional $100,000 for renovations.",
+      "best_match": "The cross is owned and maintained by the Maryland-National Capital Park and Planning Commission, a state agency.",
+      "similarity": 0.5548515319824219,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Several non-Christian residents of Prince George's County, Maryland, expressed offense at the cross, which allegedly amounts to governmental affiliation with Christianity.",
+      "best_match": "**Facts of the Case**\nThe case involves a challenge to the constitutionality of a 32-foot tall Latin cross, known as the Bladensburg Peace Cross, erected in 1925 in Prince George's County, Maryland, to honor local soldiers who died in World War I.",
+      "similarity": 0.4395349323749542,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "American Humanist Association is a nonprofit organization advocating for separation of church and state.",
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1.",
+      "similarity": 0.4257301092147827,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Together, AHA and the individual residents sued the Commission under 42 U.S.C.",
+      "best_match": "The American Humanist Association (AHA) and others filed a lawsuit alleging that the cross's presence on public land and the Commission's maintenance of it violate the Establishment Clause of the First Amendment.",
+      "similarity": 0.5521173477172852,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7 1983, alleging that the Commission's display and maintenance of the cross violates the Establishment Clause.",
+      "best_match": "The American Humanist Association (AHA) and others filed a lawsuit alleging that the cross's presence on public land and the Commission's maintenance of it violate the Establishment Clause of the First Amendment.",
+      "similarity": 0.6168959140777588,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Applying the test established in Lemon v. Kurtzman, 403 U.S. 602 (1971), the district court found that the Commission did not violate the Establishment Clause because (1) the cross has a secular purpose, (2) it neither advances nor inhibits religion, and (3) it does not have a primary effect of endorsing religion.",
+      "best_match": "The District Court ruled in favor of the Commission and the American Legion, which intervened to defend the cross, but the Fourth Circuit Court of Appeals reversed, finding the cross unconstitutional.",
+      "similarity": 0.5283891558647156,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Fourth Circuit reversed and remanded.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.465160071849823,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Question\n1.",
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1.",
+      "similarity": 0.20344410836696625,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Is the display and maintenance of the cross unconstitutional?",
+      "best_match": "The Court considered whether the cross's historical significance and its role in commemorating World War I veterans rendered it constitutional despite its religious symbolism.",
+      "similarity": 0.6239185929298401,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Under what test should the constitutionality of a passive display incorporating religious symbolism be assessed?",
+      "best_match": "The Court considered whether the cross's historical significance and its role in commemorating World War I veterans rendered it constitutional despite its religious symbolism.",
+      "similarity": 0.4899386763572693,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Does the expenditure of funds to maintain the cross amount to the government's excessive entanglement with religion?",
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity.",
+      "similarity": 0.30940723419189453,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nThe Bladensburg Cross does not violate the Establishment Clause.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.7335220575332642,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Samuel Alito authored the opinion of the Court, joined by Chief Justice John Roberts and Justices Stephen Breyer and Brett Kavanaugh.",
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity.",
+      "similarity": 0.38185375928878784,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Elena Kagan joined the majority opinion in part.",
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1.",
+      "similarity": 0.3166736364364624,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Court explained that although the cross originated as a Christian symbol, it has also taken on a secular meaning.",
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity.",
+      "similarity": 0.7375181913375854,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In particular, the cross became a symbol of World War I as evidenced by its use in the present controversy.",
+      "best_match": "The Court considered whether the cross's historical significance and its role in commemorating World War I veterans rendered it constitutional despite its religious symbolism.",
+      "similarity": 0.6943384408950806,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Lemon test, which the Court first articulated in 1971 as a way to discern Establishment Clause violations, does not serve its intended purpose, particularly as applied to religious symbols or monuments.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.38417837023735046,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Thus, when the question arises whether to keep a religious monument in place (as opposed to a question whether to put up a new one), there should be a presumption that the monument is constitutional.",
+      "best_match": "The Court's ruling allows the State to maintain the cross on public land but does not require it to do so, leaving open the possibility for alternative solutions, such as legislative or executive action to relocate or transfer ownership of the monument.",
+      "similarity": 0.5860912799835205,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Applying this presumption rather than the Lemon test, the Court found the Bladensburg Cross does not violate the Establishment Clause because it has historical importance beyond its admittedly Christian symbolism.",
+      "best_match": "**Legal Question(s)**\nThe Supreme Court addressed whether the Bladensburg Peace Cross's presence on public land and the Commission's maintenance of it violate the Establishment Clause of the First Amendment.",
+      "similarity": 0.6928635239601135,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Breyer joined Justice Alito's opinion in full but wrote a separate concurrence joined by Justice Kagan to highlight his belief that there is no single test for Establishment Clause violations.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.48281529545783997,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Rather, a court asked to resolve such questions must consider \"the basic purposes that the Religion Clauses were meant to serve: assuring religious liberty and tolerance for all, avoiding religiously based social conflict, and maintaining that separation of church and state that allows each to flourish in its separate sphere.\"",
+      "best_match": "**Legal Question(s)**\nThe Supreme Court addressed whether the Bladensburg Peace Cross's presence on public land and the Commission's maintenance of it violate the Establishment Clause of the First Amendment.",
+      "similarity": 0.41290780901908875,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Kavanaugh also joined Justice Alito's opinion in full and also wrote his own concurring opinion.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.35413673520088196,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "He even more harshly criticized the Lemon test, arguing that \"the Court's decisions over the span of several decades demonstrate that the Lemon test is not good law and does not apply to Establishment Clause cases in any of\" five categories, which he enumerated.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.4441666007041931,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Kagan joined most of Justice Alito's opinion but wrote a separate concurrence to note that, although \"rigid application of the Lemon test does not solve every Establishment Clause problem,\" courts should still focus on the purpose and effect of government action in deciding whether it violates the Constitution.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.48181676864624023,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas wrote a separate opinion concurring in the judgment, but based on entirely different reasoning.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.41667771339416504,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas does not believe the Establishment Clause applies to state and local governments, and even if it did, it applies only to prevent coercive action by the government.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.4952072501182556,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Thomas would overrule the Lemon test in all contexts.",
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause.",
+      "similarity": 0.3304031789302826,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Neil Gorsuch wrote a separate opinion concurring in the judgment, in which Justice Thomas joined.",
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1.",
+      "similarity": 0.3669586777687073,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Gorsuch would dismiss the lawsuit for lack of standing, arguing that simply being offended by the cross's presence is insufficient to meet the injury requirement of Article III standing.",
+      "best_match": "The American Humanist Association (AHA) and others filed a lawsuit alleging that the cross's presence on public land and the Commission's maintenance of it violate the Establishment Clause of the First Amendment.",
+      "similarity": 0.5060673952102661,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justice Sonia Sotomayor joined.",
+      "best_match": "The District Court ruled in favor of the Commission and the American Legion, which intervened to defend the cross, but the Fourth Circuit Court of Appeals reversed, finding the cross unconstitutional.",
+      "similarity": 0.3634105324745178,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Ginsburg argued that the cross \"is the foremost symbol of the Christian faith,\" and using it as a war memorial doesn't change that.",
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity.",
+      "similarity": 0.745349109172821,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Maryland's decision to maintain that Christian symbol on public land \"elevates Christianity over other faiths, and religion over nonreligion.\"",
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity.",
+      "similarity": 0.3984888792037964,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Justice Ginsburg additionally pointed out that an appropriate remedy for an Establishment Clause violation is not necessarily to destroy the memorial, as the majority suggests, but to transfer title to the land on which it sits to a private entity\u2014in fact, a private entity owned the land when the cross was first erected.",
+      "best_match": "The Court's ruling allows the State to maintain the cross on public land but does not require it to do so, leaving open the possibility for alternative solutions, such as legislative or executive action to relocate or transfer ownership of the monument.",
+      "similarity": 0.7108553647994995,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Several non-Christian residents of Prince George's County, Maryland, expressed offense at the cross, which allegedly amounts to governmental affiliation with Christianity.",
+      "best_similarity": 0.4395349323749542,
+      "best_match": "**Facts of the Case**\nThe case involves a challenge to the constitutionality of a 32-foot tall Latin cross, known as the Bladensburg Peace Cross, erected in 1925 in Prince George's County, Maryland, to honor local soldiers who died in World War I."
+    },
+    {
+      "sentence": "American Humanist Association is a nonprofit organization advocating for separation of church and state.",
+      "best_similarity": 0.4257301092147827,
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1."
+    },
+    {
+      "sentence": "The Fourth Circuit reversed and remanded.",
+      "best_similarity": 0.465160071849823,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Question\n1.",
+      "best_similarity": 0.20344410836696625,
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1."
+    },
+    {
+      "sentence": "Under what test should the constitutionality of a passive display incorporating religious symbolism be assessed?",
+      "best_similarity": 0.4899386763572693,
+      "best_match": "The Court considered whether the cross's historical significance and its role in commemorating World War I veterans rendered it constitutional despite its religious symbolism."
+    },
+    {
+      "sentence": "Does the expenditure of funds to maintain the cross amount to the government's excessive entanglement with religion?",
+      "best_similarity": 0.30940723419189453,
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity."
+    },
+    {
+      "sentence": "Justice Samuel Alito authored the opinion of the Court, joined by Chief Justice John Roberts and Justices Stephen Breyer and Brett Kavanaugh.",
+      "best_similarity": 0.38185375928878784,
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity."
+    },
+    {
+      "sentence": "Justice Elena Kagan joined the majority opinion in part.",
+      "best_similarity": 0.3166736364364624,
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1."
+    },
+    {
+      "sentence": "The Lemon test, which the Court first articulated in 1971 as a way to discern Establishment Clause violations, does not serve its intended purpose, particularly as applied to religious symbols or monuments.",
+      "best_similarity": 0.38417837023735046,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Justice Breyer joined Justice Alito's opinion in full but wrote a separate concurrence joined by Justice Kagan to highlight his belief that there is no single test for Establishment Clause violations.",
+      "best_similarity": 0.48281529545783997,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Rather, a court asked to resolve such questions must consider \"the basic purposes that the Religion Clauses were meant to serve: assuring religious liberty and tolerance for all, avoiding religiously based social conflict, and maintaining that separation of church and state that allows each to flourish in its separate sphere.\"",
+      "best_similarity": 0.41290780901908875,
+      "best_match": "**Legal Question(s)**\nThe Supreme Court addressed whether the Bladensburg Peace Cross's presence on public land and the Commission's maintenance of it violate the Establishment Clause of the First Amendment."
+    },
+    {
+      "sentence": "Justice Kavanaugh also joined Justice Alito's opinion in full and also wrote his own concurring opinion.",
+      "best_similarity": 0.35413673520088196,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "He even more harshly criticized the Lemon test, arguing that \"the Court's decisions over the span of several decades demonstrate that the Lemon test is not good law and does not apply to Establishment Clause cases in any of\" five categories, which he enumerated.",
+      "best_similarity": 0.4441666007041931,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Justice Kagan joined most of Justice Alito's opinion but wrote a separate concurrence to note that, although \"rigid application of the Lemon test does not solve every Establishment Clause problem,\" courts should still focus on the purpose and effect of government action in deciding whether it violates the Constitution.",
+      "best_similarity": 0.48181676864624023,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Justice Clarence Thomas wrote a separate opinion concurring in the judgment, but based on entirely different reasoning.",
+      "best_similarity": 0.41667771339416504,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Justice Thomas does not believe the Establishment Clause applies to state and local governments, and even if it did, it applies only to prevent coercive action by the government.",
+      "best_similarity": 0.4952072501182556,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Justice Thomas would overrule the Lemon test in all contexts.",
+      "best_similarity": 0.3304031789302826,
+      "best_match": "**Conclusion/Holding**\nThe Supreme Court reversed the Fourth Circuit's decision, holding that the Bladensburg Peace Cross does not violate the Establishment Clause."
+    },
+    {
+      "sentence": "Justice Neil Gorsuch wrote a separate opinion concurring in the judgment, in which Justice Thomas joined.",
+      "best_similarity": 0.3669586777687073,
+      "best_match": "### Summary of the Supreme Court Opinion in American Legion v. American Humanist Association\n\n#### 1."
+    },
+    {
+      "sentence": "Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justice Sonia Sotomayor joined.",
+      "best_similarity": 0.3634105324745178,
+      "best_match": "The District Court ruled in favor of the Commission and the American Legion, which intervened to defend the cross, but the Fourth Circuit Court of Appeals reversed, finding the cross unconstitutional."
+    },
+    {
+      "sentence": "Maryland's decision to maintain that Christian symbol on public land \"elevates Christianity over other faiths, and religion over nonreligion.\"",
+      "best_similarity": 0.3984888792037964,
+      "best_match": "The Court's reasoning, led by Justice Alito, emphasized that the cross has taken on a secular meaning in the context of World War I memorials and has become a part of the community's landscape and identity."
+    }
+  ],
+  "total_gt_sentences": 36,
+  "covered_sentences": 16,
+  "coverage_percentage": 44.44444444444444,
+  "coverage_score": 0.4444444444444444,
+  "threshold": 0.5
+}

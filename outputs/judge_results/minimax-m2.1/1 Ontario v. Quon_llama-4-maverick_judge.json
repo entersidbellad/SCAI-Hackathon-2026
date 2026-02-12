@@ -1,0 +1,44 @@
+{
+  "factual_accuracy": 3,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "The audit revealed that many of Quon's messages were not work-related, and some were sexually explicit. Quon was subsequently disciplined.",
+      "issue": "The generated summary adds specific details about the content of the messages (sexually explicit) and that Quon was disciplined, which are not mentioned in the reference summary. While these details may be factually true about the case, they are not part of the reference summary's scope and represent unauthorized additions.",
+      "correct_info": "The reference summary does not mention the specific content of the messages or the disciplinary outcome, focusing instead on the legal framework and holding."
+    },
+    {
+      "error_quote": "The search was not excessively intrusive in scope (as it was limited to reviewing transcripts for two months and redacting messages sent while Quon was off-duty).",
+      "issue": "The generated summary adds specific details about the search scope (two months, redacting off-duty messages) that are not present in the reference summary. These details may be accurate case facts but are not part of the reference summary's content.",
+      "correct_info": "The reference summary states the search was 'not excessive in scope' but does not provide these specific details about the two-month timeframe or redaction of off-duty messages."
+    }
+  ],
+  "hedging_detected": true,
+  "hedging_examples": [
+    {
+      "summary_says": "The Supreme Court held that, even assuming Quon had a reasonable expectation of privacy in his text messages, the City's search was reasonable under the Fourth Amendment.",
+      "reference_says": "The Supreme Court held that the City of Ontario did not violate its employees' Fourth Amendment rights because the city's search of Mr. Quon's text messages was reasonable.",
+      "issue": "The generated summary hedges by focusing only on the search being reasonable, while the reference summary explicitly states the holding that the City did NOT violate Fourth Amendment rights. This softens the definitive holding."
+    },
+    {
+      "summary_says": "The Court's decision was based on the assumption that Quon had a reasonable expectation of privacy, but it did not definitively resolve the issue.",
+      "reference_says": "Not answered. Yes.",
+      "issue": "The generated summary hedges the Court's treatment of the first question by explaining the assumption, while the reference summary provides the clear answers: the first question was 'Not answered' and the second was 'Yes.' The hedging obscures the direct answers."
+    },
+    {
+      "summary_says": "The Court rejected the Ninth Circuit's 'least intrusive' means approach to the issue.",
+      "reference_says": "In reaching its conclusion, the Court rejected the Ninth Circuit's 'least intrusive' means approach to the issue.",
+      "issue": "While similar, the generated summary presents this as a general statement while the reference connects it directly to the reasoning process ('In reaching its conclusion'). The generated version is slightly less precise about the context."
+    }
+  ],
+  "key_omissions": [
+    "The specific legal questions presented: 1) Does a city employee have a reasonable expectation of privacy in text messages on city-issued pager with no official privacy policy? 2) Did the Ninth Circuit contravene Supreme Court precedent by analyzing 'less intrusive methods'?",
+    "The answers to the legal questions: First question was 'Not answered,' second question was 'Yes' (Ninth Circuit did contravene precedent)",
+    "Justice Stevens' concurrence noting the Court didn't settle on one of three approaches from O'Connor v. Ortega",
+    "Justice Scalia's concurrence disagreeing that the Court reaffirmed O'Connor framework and calling it 'standardless' and 'unsupported'",
+    "The explicit holding that the City did NOT violate employees' Fourth Amendment rights",
+    "The specific context that the case was appealed from the Ninth Circuit"
+  ],
+  "overall_assessment": "The generated summary captures the core facts and general legal reasoning but contains significant omissions including the specific legal questions, their answers, and the concurrences by Justices Stevens and Scalia. It also includes unauthorized details not in the reference and softens the definitive holding that no Fourth Amendment violation occurred. The summary is adequate for basic understanding but lacks the precision and completeness required for legal evaluation.",
+  "judge_score": 0.6
+}

@@ -1,0 +1,201 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\n\nNathan Van Buren was a sergeant with the Cumming, Georgia, Police Department.",
+      "best_match": "Facts of the Case\nNathan Van Buren, a former Georgia police sergeant, used his patrol-car computer to access a law enforcement database to retrieve information about a particular license plate number in exchange for money.",
+      "similarity": 0.7117760181427002,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In that capacity, he came to know a man named Andrew Albo, who allegedly paid young prostitutes to spend time with him and then accused the women of stealing the money he gave them.",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.32302325963974,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Van Buren asked Albo for a loan, falsely claiming that he needed over $15,000 to settle his son's medical bills.",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.4510037302970886,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Unbeknownst to Van Buren, Albo recorded the conversation in which Van Buren requested the loan.",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.42781782150268555,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Albo presented the recording to a detective in the Forsyth County Sheriff's Office, alleging that Van Buren was \"shaking him down for his money.\"",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.4844236671924591,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "As a result, the FBI conducted a sting operation to test how far Van Buren was willing to go for money.",
+      "best_match": "The access was part of an FBI sting operation.",
+      "similarity": 0.6251538395881653,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "As part of the sting operation, Albo asked Van Buren to look into a woman Albo named, to see whether she was an undercover officer before he would provide Van Buren with the full amount of money Van Buren requested.",
+      "best_match": "The access was part of an FBI sting operation.",
+      "similarity": 0.485448956489563,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Van Buren searched the woman's information in a government database maintained by the Georgia Bureau of Investigation (GBI) and the FBI.",
+      "best_match": "Facts of the Case\nNathan Van Buren, a former Georgia police sergeant, used his patrol-car computer to access a law enforcement database to retrieve information about a particular license plate number in exchange for money.",
+      "similarity": 0.6243377923965454,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The next day, FBI and GBI agents confronted Van Buren, and Van Buren admitted to the fake story about his son to get the loan from Albo, his use of the government database to search for the woman Albo mentioned might be an undercover officer, and that he understood the purpose of searching the database was to discover and reveal to Albo whether the woman was an undercover officer.",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.5444543957710266,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A federal grand jury charged Van Buren with one count of honest-services wire fraud, in violation of 18 U.S.C.",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.6059794425964355,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "\u00a7\u00a7 1343 and 1346, and one count of felony computer fraud, in violation of 18 U.S.C.",
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose.",
+      "similarity": 0.5312657356262207,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "A jury convicted Van Buren on both counts, and Van Buren appealed his convictions.",
+      "best_match": "### Summary of Supreme Court Opinion in Van Buren v. United States\n\n#### 1.",
+      "similarity": 0.5327040553092957,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The U.S. Court of Appeals for the Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial.",
+      "best_match": "The Court reversed the Eleventh Circuit's judgment and remanded the case.",
+      "similarity": 0.4970344603061676,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "It found no deficiencies in the conviction for computer fraud and affirmed that conviction, citing Eleventh Circuit precedent holding that a person with authority to access a computer can be guilty of computer fraud if that person subsequently misuses the computer.",
+      "best_match": "The majority rejected the Government's broader interpretation that would have criminalized a wide range of commonplace computer activities, emphasizing that their interpretation aligns with the specialized meaning of \"access\" in the computing context and the statutory structure.",
+      "similarity": 0.49096038937568665,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes a person who is authorized to access information on a computer for certain purposes violate Section 1030(a)(2) of the Computer Fraud and Abuse Act if he accesses that information for an improper purpose?",
+      "best_match": "The CFAA defines \"exceeds authorized access\" as accessing a computer \"with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter.\"",
+      "similarity": 0.6648763418197632,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nAn individual \"exceeds authorized access\" under Section 1030(a)(2) of the Computer Fraud and Abuse Act of 1986 when he accesses a computer with authorization and obtains information located in particular areas of the computer that are off-limits to him, not simply when he obtains information available to him with improper motives.",
+      "best_match": "The Court interpreted \"exceeds authorized access\" to mean accessing a computer with authorization but then obtaining information located in particular areas of the computer to which the accesser lacks access privileges.",
+      "similarity": 0.7266799807548523,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Amy Coney Barrett authored the 6-3 majority opinion of the Court.",
+      "best_match": "The Court reversed the Eleventh Circuit's judgment and remanded the case.",
+      "similarity": 0.39885783195495605,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "Under Section 1030(e)(6), an individual \"exceeds authorized access\" when he \"access[es] a computer with authorization\" and \"use[s] such access to obtain .",
+      "best_match": "The Court interpreted \"exceeds authorized access\" to mean accessing a computer with authorization but then obtaining information located in particular areas of the computer to which the accesser lacks access privileges.",
+      "similarity": 0.7860376834869385,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "information in the computer that the accesser is not entitled so to obtain.\"",
+      "best_match": "The Court ruled that the phrase \"is not entitled so to obtain\" refers to information that a person is not allowed to obtain by using a computer they are authorized to access.",
+      "similarity": 0.7108608484268188,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The parties in this case agreed that Van Buren was entitled to obtain the license-plate information, but they disagreed that he was \"entitled so to obtain\" it.\"",
+      "best_match": "Facts of the Case\nNathan Van Buren, a former Georgia police sergeant, used his patrol-car computer to access a law enforcement database to retrieve information about a particular license plate number in exchange for money.",
+      "similarity": 0.5940765738487244,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Van Buren argued that the phrase means information one is not allowed to obtain \"by using a computer that he is authorized to access,\" while the government argued that it meant information one was not allowed to obtain \"in the particular manner or circumstances in which he obtained it.\"",
+      "best_match": "Legal Question(s)\nThe Supreme Court addressed the specific legal question of whether Van Buren \"exceeded authorized access\" under the CFAA by accessing a computer with authorization but using that access to obtain information for an improper purpose.",
+      "similarity": 0.6466547250747681,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court found Van Buren's interpretation more plausible and natural than the government's, and the statute's structure further supports that interpretation.",
+      "best_match": "### Summary of Supreme Court Opinion in Van Buren v. United States\n\n#### 1.",
+      "similarity": 0.5975092649459839,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Moreover, the statutory history\u2014Congress's choice to remove the statute's reference to purpose\u2014lends still further support to Van Buren's reading.",
+      "best_match": "### Summary of Supreme Court Opinion in Van Buren v. United States\n\n#### 1.",
+      "similarity": 0.5583966970443726,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Finally, to adopt the government's interpretation \"would attach criminal penalties to a breathtaking amount of commonplace computer activity\" and would inject arbitrariness into the assessment of criminal liability.",
+      "best_match": "The majority rejected the Government's broader interpretation that would have criminalized a wide range of commonplace computer activities, emphasizing that their interpretation aligns with the specialized meaning of \"access\" in the computing context and the statutory structure.",
+      "similarity": 0.6510111093521118,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Justice Clarence Thomas authored a dissenting opinion, which Chief Justice John Roberts and Justice Samuel Alito joined, arguing that \"the text, ordinary principles of property law, and statutory history\" support the government's proposed interpretation of the provision.",
+      "best_match": "The dissent, however, argued that the majority's interpretation contradicts basic principles of property law and the ordinary meaning of \"exceeds authorized access.\"",
+      "similarity": 0.539535641670227,
+      "is_covered": true
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "In that capacity, he came to know a man named Andrew Albo, who allegedly paid young prostitutes to spend time with him and then accused the women of stealing the money he gave them.",
+      "best_similarity": 0.32302325963974,
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose."
+    },
+    {
+      "sentence": "Van Buren asked Albo for a loan, falsely claiming that he needed over $15,000 to settle his son's medical bills.",
+      "best_similarity": 0.4510037302970886,
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose."
+    },
+    {
+      "sentence": "Unbeknownst to Van Buren, Albo recorded the conversation in which Van Buren requested the loan.",
+      "best_similarity": 0.42781782150268555,
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose."
+    },
+    {
+      "sentence": "Albo presented the recording to a detective in the Forsyth County Sheriff's Office, alleging that Van Buren was \"shaking him down for his money.\"",
+      "best_similarity": 0.4844236671924591,
+      "best_match": "Van Buren was charged and convicted under the Computer Fraud and Abuse Act (CFAA) for \"exceeding authorized access\" by accessing the database for an improper purpose."
+    },
+    {
+      "sentence": "As part of the sting operation, Albo asked Van Buren to look into a woman Albo named, to see whether she was an undercover officer before he would provide Van Buren with the full amount of money Van Buren requested.",
+      "best_similarity": 0.485448956489563,
+      "best_match": "The access was part of an FBI sting operation."
+    },
+    {
+      "sentence": "The U.S. Court of Appeals for the Sixth Circuit found the jury instructions as to the honest-services count were fatally flawed and remanded that charge for a new trial.",
+      "best_similarity": 0.4970344603061676,
+      "best_match": "The Court reversed the Eleventh Circuit's judgment and remanded the case."
+    },
+    {
+      "sentence": "It found no deficiencies in the conviction for computer fraud and affirmed that conviction, citing Eleventh Circuit precedent holding that a person with authority to access a computer can be guilty of computer fraud if that person subsequently misuses the computer.",
+      "best_similarity": 0.49096038937568665,
+      "best_match": "The majority rejected the Government's broader interpretation that would have criminalized a wide range of commonplace computer activities, emphasizing that their interpretation aligns with the specialized meaning of \"access\" in the computing context and the statutory structure."
+    },
+    {
+      "sentence": "Justice Amy Coney Barrett authored the 6-3 majority opinion of the Court.",
+      "best_similarity": 0.39885783195495605,
+      "best_match": "The Court reversed the Eleventh Circuit's judgment and remanded the case."
+    }
+  ],
+  "total_gt_sentences": 25,
+  "covered_sentences": 17,
+  "coverage_percentage": 68.0,
+  "coverage_score": 0.68,
+  "threshold": 0.5
+}

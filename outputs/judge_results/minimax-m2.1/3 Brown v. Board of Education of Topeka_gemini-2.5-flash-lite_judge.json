@@ -1,0 +1,20 @@
+{
+  "factual_accuracy": 4,
+  "completeness": 3,
+  "factual_errors": [
+    {
+      "error_quote": "This case consolidated four separate lawsuits from Kansas, South Carolina, Virginia, and Delaware.",
+      "issue": "The generated summary states there were four cases, but the reference indicates five cases including Washington D.C.",
+      "correct_info": "The reference states: \"This case was the consolidation of cases arising in Kansas, South Carolina, Virginia, Delaware, and Washington D.C.\""
+    }
+  ],
+  "hedging_detected": false,
+  "hedging_examples": [],
+  "key_omissions": [
+    "Chief Justice Earl Warren delivered the opinion of the unanimous Court",
+    "Warren based much of his opinion on information from social science studies rather than court precedent",
+    "Warren used language that was relatively accessible to non-lawyers because he felt it was necessary for all Americans to understand its logic"
+  ],
+  "overall_assessment": "The generated summary is largely accurate and captures the core holding and reasoning well, but it omits several notable details from the reference including the number of consolidated cases (stating 4 instead of 5), the authorship by Chief Justice Warren, his reliance on social science studies, and his deliberate use of accessible language for non-lawyers.",
+  "judge_score": 0.7
+}

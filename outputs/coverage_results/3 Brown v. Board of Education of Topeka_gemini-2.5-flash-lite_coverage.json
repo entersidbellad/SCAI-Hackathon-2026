@@ -1,0 +1,98 @@
+{
+  "sentence_results": [
+    {
+      "ground_truth_sentence": "Facts of the case\nThis case was the consolidation of cases arising in Kansas, South Carolina, Virginia, Delaware, and Washington D.C. relating to the segregation of public schools on the basis of race.",
+      "best_match": "The cases reached the Supreme Court due to the significant constitutional question presented regarding the legality of state-mandated segregation in public education.",
+      "similarity": 0.7025958299636841,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "In each of the cases, African American students had been denied admittance to certain public schools based on laws allowing public education to be segregated by race.",
+      "best_match": "They alleged that state laws requiring or permitting racial segregation in public schools denied them the equal protection of the laws guaranteed by the Fourteenth Amendment.",
+      "similarity": 0.727327823638916,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "They argued that such segregation violated the Equal Protection Clause of the Fourteenth Amendment.",
+      "best_match": "They alleged that state laws requiring or permitting racial segregation in public schools denied them the equal protection of the laws guaranteed by the Fourteenth Amendment.",
+      "similarity": 0.8302714824676514,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The plaintiffs were denied relief in the lower courts based on Plessy v. Ferguson, which held that racially segregated public facilities were legal so long as the facilities for blacks and whites were equal.",
+      "best_match": "In three of the cases (Kansas, South Carolina, and Virginia), three-judge federal district courts denied relief, relying on the \"separate but equal\" doctrine established in *Plessy v. Ferguson*, 163 U. S. 537, even though some found the facilities for Negro children to be inferior and ordered equalization.",
+      "similarity": 0.7641433477401733,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "(This was known as the \u201cseparate but equal\u201d doctrine.)",
+      "best_match": "The Court explicitly rejected the \"separate but equal\" doctrine as having no place in the field of public education, stating that \"separate educational facilities are inherently unequal.\"",
+      "similarity": 0.6211706399917603,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Question\nDoes the segregation of public education based solely on race violate the Equal Protection Clause of the Fourteenth Amendment?",
+      "best_match": "Legal Question(s)**\n\nThe central legal question before the Supreme Court was whether segregation of children in public schools solely on the basis of race, even if the physical facilities and other tangible factors are equal, deprives children of the minority group of equal educational opportunities and thus violates the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.8402770161628723,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Conclusion\nSeparate but equal educational facilities for racial minorities is inherently unequal, violating the Equal Protection Clause of the Fourteenth Amendment.",
+      "best_match": "Legal Question(s)**\n\nThe central legal question before the Supreme Court was whether segregation of children in public schools solely on the basis of race, even if the physical facilities and other tangible factors are equal, deprives children of the minority group of equal educational opportunities and thus violates the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.7638003826141357,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Chief Justice Earl Warren delivered the opinion of the unanimous Court.",
+      "best_match": "Conclusion/Holding**\n\nThe Supreme Court unanimously held that segregation of children in public schools solely on the basis of race is unconstitutional and violates the Equal Protection Clause of the Fourteenth Amendment.",
+      "similarity": 0.4147454500198364,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The Supreme Court held that \u201cseparate but equal\u201d facilities are inherently unequal and violate the protections of the Equal Protection Clause of the Fourteenth Amendment.",
+      "best_match": "The Court explicitly rejected the \"separate but equal\" doctrine as having no place in the field of public education, stating that \"separate educational facilities are inherently unequal.\"",
+      "similarity": 0.7013072967529297,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "The Court reasoned that the segregation of public education based on race instilled a sense of inferiority that had a hugely detrimental effect on the education and personal growth of African American children.",
+      "best_match": "It concluded that segregation, even with equal tangible facilities, generates a feeling of inferiority in minority children, thereby depriving them of equal educational opportunities.",
+      "similarity": 0.7283338904380798,
+      "is_covered": true
+    },
+    {
+      "ground_truth_sentence": "Warren based much of his opinion on information from social science studies rather than court precedent.",
+      "best_match": "Here is a summary of the Supreme Court opinion in *Brown v. Board of Education*:\n\n**1.",
+      "similarity": 0.43618693947792053,
+      "is_covered": false
+    },
+    {
+      "ground_truth_sentence": "The decision also used language that was relatively accessible to non-lawyers because Warren felt it was necessary for all Americans to understand its logic.",
+      "best_match": "The Court also considered the historical context of the Fourteenth Amendment and its intended application to public education, as well as the continued validity of the \"separate but equal\" doctrine in the context of public schooling.",
+      "similarity": 0.35500967502593994,
+      "is_covered": false
+    }
+  ],
+  "omissions": [
+    {
+      "sentence": "Chief Justice Earl Warren delivered the opinion of the unanimous Court.",
+      "best_similarity": 0.4147454500198364,
+      "best_match": "Conclusion/Holding**\n\nThe Supreme Court unanimously held that segregation of children in public schools solely on the basis of race is unconstitutional and violates the Equal Protection Clause of the Fourteenth Amendment."
+    },
+    {
+      "sentence": "Warren based much of his opinion on information from social science studies rather than court precedent.",
+      "best_similarity": 0.43618693947792053,
+      "best_match": "Here is a summary of the Supreme Court opinion in *Brown v. Board of Education*:\n\n**1."
+    },
+    {
+      "sentence": "The decision also used language that was relatively accessible to non-lawyers because Warren felt it was necessary for all Americans to understand its logic.",
+      "best_similarity": 0.35500967502593994,
+      "best_match": "The Court also considered the historical context of the Fourteenth Amendment and its intended application to public education, as well as the continued validity of the \"separate but equal\" doctrine in the context of public schooling."
+    }
+  ],
+  "total_gt_sentences": 12,
+  "covered_sentences": 9,
+  "coverage_percentage": 75.0,
+  "coverage_score": 0.75,
+  "threshold": 0.5
+}

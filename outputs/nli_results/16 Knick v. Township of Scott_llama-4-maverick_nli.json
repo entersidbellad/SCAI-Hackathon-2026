@@ -1,0 +1,180 @@
+{
+  "sentence_results": [
+    {
+      "sentence": "Facts of the case\n\nIn 2012, the Township of Scott, Pennsylvania, passed an ordinance affecting private properties determined to be or contain cemeteries.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "In relevant part, the ordinance required that \"all cemeteries within the Township \u2026 be kept open and accessible to the general public during daylight hours\" and that no owner could unreasonably restrict nor charge any fee to access the cemetery (the \"public-access provision\").",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Additionally, the ordinance permitted a Township officer to enter any property within the Township to determine whether there is a cemetery on the property, in order to enforce the public-access provision.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Rose Mary Knick owns property in the Township of Scott, and in April 2013, a Township officer entered her property without an administrative warrant and identified certain stones as grave markers.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.51171875,
+        "neutral": 0.31298828125,
+        "entailment": 0.175048828125
+      }
+    },
+    {
+      "sentence": "The officer cited Knick as violating the ordinance.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Knick disputes that a cemetery exists on her property and filed a lawsuit to challenge.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Knick challenged the ordinance on several grounds, two of which are most salient.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "First, she alleges that the ordinance authorizes unrestrained searches of private property in violation of the Fourth Amendment of the US Constitution.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Second, she argues that the ordinance takes private property without just compensation, in violation of the Fifth Amendment.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Notably, Knick did not initiate an \"inverse-condemnation proceeding\" against the Township, which is the local administrative process for challenging a taking by the government.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The district court dismissed all but two of Knick's claims with prejudice, and dismissed two of them (described above) without prejudice pending exhaustion of state-law remedies.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Knick appealed the dismissal of her claims to the Third Circuit.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Third Circuit affirmed the dismissal, finding that although the ordinance was constitutionally suspect, she lacks Article III standing because she failed to demonstrate an injury-in-fact and redressability as to her Fourth Amendment claim, and that her Fifth Amendment claims are not ripe until she has sought and been denied just compensation using state inverse-condemnation procedures as required in the US Supreme Court's 1985 decision in Williamson County Regional Planning Commission v. Hamilton Bank of Johnson City.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Question\n1.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Should the Court affirm or abrogate its holding in Williamson County Regional Planning Commission v. Hamilton Bank, which requires property owners to exhaust state court remedies before bringing federal Takings Clause claims?",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.51025390625,
+        "neutral": 0.328125,
+        "entailment": 0.161865234375
+      }
+    },
+    {
+      "sentence": "Does the ripeness doctrine established in Williamson County apply to takings claims that assert that a law is unconstitutional on its face?",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Conclusion\nA government violates the Takings Clause when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under 42 U.S.C.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "\u00a7 1983 at that time; the state-litigation requirement set forth in Williamson County Regional Planning Comm'n v. Hamilton Bank of Johnson City, 473 U.S. 172 (1985), is overruled.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.356689453125,
+        "neutral": 0.3115234375,
+        "entailment": 0.331787109375
+      }
+    },
+    {
+      "sentence": "Chief Justice John Roberts delivered the 5-4 majority opinion for the Court.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "The Court found that the state-litigation requirement in Williamson County \"imposes an unjustifiable burden on takings plaintiffs\" and \"conflicts with the rest of our takings jurisprudence.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Looking to the text of the Takings Clause, the Court found that the most natural reading of that provision is that the right of compensation arises at the time of the taking.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Under Williamson County, the government did not need to compensate in advance or simultaneously with the taking, but only provide a \"reasonable, certain, and adequate\" mechanism for recovering such compensation after the fact.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "By forcing plaintiffs to seek compensation after the taking in state court before allowing them to proceed in federal court, Williamson County imposes an \"unjustifiable burden\" on these plaintiffs.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Additionally, the Court expressed concern over the likelihood that a plaintiff would bring a state-court claim, lose, and therefore be precluded from bringing a claim in federal court at all.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Clarence Thomas wrote a separate concurrence underscoring his opposition to the position advocated by the township, the United States (as amicus curiae), and the dissent, that there is no constitutional violation as long as there is a mechanism for receiving compensation later.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.380615234375,
+        "neutral": 0.35400390625,
+        "entailment": 0.265380859375
+      }
+    },
+    {
+      "sentence": "Justice Elena Kagan dissented, joined by Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor.",
+      "label": "contradiction",
+      "probabilities": {
+        "contradiction": 0.449462890625,
+        "neutral": 0.426025390625,
+        "entailment": 0.12432861328125
+      }
+    },
+    {
+      "sentence": "Justice Kagan argued that the Takings Clause is at its core (and in its text) different from other constitutional provisions in its qualifying phrase \"without just compensation.\"",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kagan argued that the Clause does not forbid all takings, only those without just compensation, and the majority disregards the text of the Clause in its interpretation requiring compensation at the time of taking.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Justice Kagan also dismissed the majority's concern over the preclusive effect of state-court litigation, arguing that Congress bears the burden of correcting errors that become evident from application of laws.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    },
+    {
+      "sentence": "Most importantly, the dissent noted, the majority departs from lost-established precedent and disregards the doctrine of stare decisis.",
+      "label": "neutral/entailment",
+      "probabilities": null
+    }
+  ],
+  "counts": {
+    "contradiction": 5
+  },
+  "total_sentences": 30,
+  "contradiction_rate": 0.16666666666666666,
+  "nli_score": 0.8333333333333334
+}

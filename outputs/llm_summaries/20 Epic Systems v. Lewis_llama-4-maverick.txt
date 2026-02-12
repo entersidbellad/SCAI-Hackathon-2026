@@ -1,0 +1,15 @@
+### 1. Facts of the Case
+
+The cases before the Supreme Court involve employees who entered into arbitration agreements with their employers, requiring individualized arbitration proceedings to resolve employment disputes. Despite these agreements, the employees sought to litigate Fair Labor Standards Act (FLSA) and related state law claims through class or collective actions in federal court. The employers countered with motions to compel arbitration based on the agreements. The employees argued that the arbitration agreements violated the National Labor Relations Act (NLRA) by barring class or collective actions, which they claimed were "concerted activities" protected under §7 of the NLRA. The courts of appeals were divided on whether the NLRA rendered such arbitration agreements unenforceable, leading to the Supreme Court granting certiorari to resolve the conflict.
+
+### 2. Legal Question(s)
+
+The specific legal questions addressed by the Court were:
+1. Whether the Federal Arbitration Act (FAA) requires enforcement of arbitration agreements that mandate individualized proceedings.
+2. Whether the NLRA overrides the FAA by protecting employees' rights to engage in class or collective actions.
+
+### 3. Conclusion/Holding
+
+The Supreme Court held that the FAA requires enforcement of arbitration agreements according to their terms, including those that specify individualized proceedings. The Court found that the NLRA does not conflict with the FAA on this matter because §7 of the NLRA, which protects "concerted activities," does not clearly and manifestly intend to displace the FAA or guarantee a right to class or collective actions. The Court applied the principle of statutory construction that favors giving effect to both statutes where possible and held that the NLRA and FAA can coexist without conflict. The Court's reasoning was based on the text, structure, and history of the NLRA, as well as relevant precedent. The decision effectively means that employers can enforce arbitration agreements that bar class or collective actions, limiting employees to individualized arbitration for resolving certain employment disputes.
+
+The Court's ruling was 5-4, with Justice Gorsuch delivering the majority opinion joined by Chief Justice Roberts and Justices Kennedy, Thomas, and Alito. Justice Thomas also filed a concurring opinion, and Justice Ginsburg filed a dissenting opinion joined by Justices Breyer, Sotomayor, and Kagan.
