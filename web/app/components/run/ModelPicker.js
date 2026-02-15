@@ -6,8 +6,6 @@ function modelKey(provider, model) {
   return `${provider}:${model}`;
 }
 
-const CUSTOM_MODEL_ID_REGEX = /^[a-zA-Z0-9._:/-]{2,120}$/;
-
 export default function ModelPicker({
   catalog,
   keyProviders,
@@ -71,12 +69,9 @@ export default function ModelPicker({
             [add custom model]
           </button>
         </div>
+        <div className={styles.customMeta}>Rows with a valid model ID are included automatically.</div>
         {customModels.map((row) => (
           <div className={styles.customRow} key={row.id}>
-            <div className={styles.customState}>
-              {row.model.trim() && CUSTOM_MODEL_ID_REGEX.test(row.model.trim()) ? '[included]' : '[enter model id]'}
-            </div>
-
             <label className={styles.field}>
               <span className={styles.label}>Provider</span>
               <select

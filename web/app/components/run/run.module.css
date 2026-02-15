@@ -207,29 +207,23 @@
   text-transform: uppercase;
 }
 
+.customMeta {
+  margin-top: 0.45rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  line-height: 1.6;
+}
+
 .customRow {
   margin-top: 0.55rem;
   border: 1px solid var(--border);
   background: var(--bg);
   padding: 0.5rem;
   display: grid;
-  grid-template-columns: 90px minmax(130px, 0.9fr) minmax(220px, 2fr) minmax(150px, 1.2fr) auto;
+  grid-template-columns: minmax(130px, 0.9fr) minmax(240px, 2fr) minmax(150px, 1.2fr) auto;
   gap: 0.45rem;
   align-items: end;
-}
-
-.customState {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--text-secondary);
-  font-family: var(--font-mono);
-  font-size: 0.6875rem;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  min-height: 34px;
-  border: 1px solid var(--border);
-  padding: 0.35rem;
 }
 
 .keyGrid {
