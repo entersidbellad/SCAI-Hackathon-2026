@@ -61,7 +61,6 @@ function createCustomModelRow(id) {
     provider: 'openrouter',
     model: '',
     label: '',
-    selected: false,
   };
 }
 
@@ -161,7 +160,7 @@ export default function RunYourCasePage() {
   const [customModels, setCustomModels] = useState([createCustomModelRow(1)]);
   const customCounterRef = useRef(2);
 
-  const selectedModels = useMemo(() => {
+  const modelSelection = useMemo(() => {
     const dedupe = new Map();
 
     for (const entry of selectedPresetModels) {
@@ -169,8 +168,8 @@ export default function RunYourCasePage() {
     }
 
     for (const row of customModels) {
-      if (!row.selected) continue;
       const model = row.model.trim();
+      if (!model) continue;
       if (!CUSTOM_MODEL_ID_REGEX.test(model)) continue;
       const label = row.label.trim() || model;
       const key = `${row.provider}:${model}`;
@@ -184,8 +183,17 @@ export default function RunYourCasePage() {
       }
     }
 
-    return [...dedupe.values()].slice(0, MODEL_LIMIT);
+    const entries = [...dedupe.values()];
+    return {
+      entries,
+      total: entries.length,
+      overflow: Math.max(0, entries.length - MODEL_LIMIT),
+    };
   }, [selectedPresetModels, customModels]);
+
+  const selectedEntries = modelSelection.entries;
+  const selectedModels = selectedEntries.slice(0, MODEL_LIMIT);
+  const modelOverflow = modelSelection.overflow;
 
   const [runMode, setRunMode] = useState(RUN_MODE_STANDARD);
   const [costConfirmed, setCostConfirmed] = useState(false);
@@ -197,8 +205,8 @@ export default function RunYourCasePage() {
   const [runResult, setRunResult] = useState(null);
 
   const estimate = useMemo(
-    () => estimateRunBudget(caseText, referenceSummary, selectedModels),
-    [caseText, referenceSummary, selectedModels],
+    () => estimateRunBudget(caseText, referenceSummary, selectedEntries),
+    [caseText, referenceSummary, selectedEntries],
   );
 
   const isConnected = connection.status === 'connected';
@@ -207,7 +215,8 @@ export default function RunYourCasePage() {
   const canStartRun =
     isConnected &&
     Boolean(caseText.trim()) &&
-    selectedModels.length > 0 &&
+    selectedEntries.length > 0 &&
+    modelOverflow === 0 &&
     costConfirmed &&
     ackPrivacyAndLimits &&
     (!studyMode || hasReferenceSummary) &&
@@ -328,7 +337,7 @@ export default function RunYourCasePage() {
     const key = `${entry.provider}:${entry.model}`;
     const exists = selectedPresetModels.some((item) => `${item.provider}:${item.model}` === key);
 
-    if (!exists && selectedModels.length >= MODEL_LIMIT) {
+    if (!exists && modelSelection.total >= MODEL_LIMIT) {
       setRunError(`You can select up to ${MODEL_LIMIT} models per run.`);
       return;
     }
@@ -368,35 +377,6 @@ export default function RunYourCasePage() {
     });
   }
 
-  function handleToggleCustomModel(rowId) {
-    const row = customModels.find((item) => item.id === rowId);
-    if (!row) return;
-
-    if (row.selected) {
-      setRunError('');
-      setCustomModels((current) =>
-        current.map((item) => (item.id === rowId ? { ...item, selected: false } : item)),
-      );
-      return;
-    }
-
-    const normalizedModel = row.model.trim();
-    if (!CUSTOM_MODEL_ID_REGEX.test(normalizedModel)) {
-      setRunError('Custom model IDs must be 2-120 chars: letters, numbers, ., _, :, /, or -.');
-      return;
-    }
-
-    if (selectedModels.length >= MODEL_LIMIT) {
-      setRunError(`You can select up to ${MODEL_LIMIT} models per run.`);
-      return;
-    }
-
-    setRunError('');
-    setCustomModels((current) =>
-      current.map((item) => (item.id === rowId ? { ...item, selected: true, model: normalizedModel } : item)),
-    );
-  }
-
   async function startRun() {
     setRunError('');
 
@@ -408,8 +388,16 @@ export default function RunYourCasePage() {
       setRunError('Case text is required.');
       return;
     }
-    if (!selectedModels.length) {
+    if (!selectedEntries.length) {
       setRunError('Select at least one model.');
+      return;
+    }
+    if (modelOverflow > 0) {
+      setRunError(`Select at most ${MODEL_LIMIT} models. You currently have ${modelSelection.total}.`);
+      return;
+    }
+    if (customModels.some((row) => row.model.trim() && !CUSTOM_MODEL_ID_REGEX.test(row.model.trim()))) {
+      setRunError('Fix invalid custom model IDs before running (allowed: letters, numbers, ., _, :, /, -).');
       return;
     }
     if (!costConfirmed) {
@@ -584,11 +572,12 @@ export default function RunYourCasePage() {
       <ModelPicker
         catalog={MODEL_CATALOG}
         keyProviders={KEY_PROVIDERS}
-        selectedModels={selectedModels}
+        selectedEntries={selectedEntries}
+        selectedCount={modelSelection.total}
+        overflowCount={modelOverflow}
         onTogglePresetModel={handleTogglePresetModel}
         customModels={customModels}
         onCustomModelChange={handleCustomModelChange}
-        onToggleCustomModel={handleToggleCustomModel}
         onAddCustomModel={handleAddCustomModel}
         onRemoveCustomModel={handleRemoveCustomModel}
         apiKeys={apiKeys}

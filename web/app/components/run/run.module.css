@@ -213,24 +213,23 @@
   background: var(--bg);
   padding: 0.5rem;
   display: grid;
-  grid-template-columns: 64px minmax(130px, 0.9fr) minmax(220px, 2fr) minmax(150px, 1.2fr) auto;
+  grid-template-columns: 90px minmax(130px, 0.9fr) minmax(220px, 2fr) minmax(150px, 1.2fr) auto;
   gap: 0.45rem;
   align-items: end;
 }
 
-.customToggle {
+.customState {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
+  justify-content: center;
   color: var(--text-secondary);
   font-family: var(--font-mono);
   font-size: 0.6875rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-}
-
-.customToggle input {
-  margin: 0;
+  min-height: 34px;
+  border: 1px solid var(--border);
+  padding: 0.35rem;
 }
 
 .keyGrid {

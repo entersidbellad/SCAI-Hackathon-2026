@@ -6,14 +6,17 @@ function modelKey(provider, model) {
   return `${provider}:${model}`;
 }
 
+const CUSTOM_MODEL_ID_REGEX = /^[a-zA-Z0-9._:/-]{2,120}$/;
+
 export default function ModelPicker({
   catalog,
   keyProviders,
-  selectedModels,
+  selectedEntries,
+  selectedCount,
+  overflowCount,
   onTogglePresetModel,
   customModels,
   onCustomModelChange,
-  onToggleCustomModel,
   onAddCustomModel,
   onRemoveCustomModel,
   apiKeys,
@@ -22,7 +25,7 @@ export default function ModelPicker({
   limit,
   disabled,
 }) {
-  const selectedKeys = new Set(selectedModels.map((entry) => modelKey(entry.provider, entry.model)));
+  const selectedKeys = new Set(selectedEntries.map((entry) => modelKey(entry.provider, entry.model)));
 
   return (
     <section className={styles.panel}>
@@ -46,7 +49,7 @@ export default function ModelPicker({
                     onChange={() =>
                       onTogglePresetModel({ provider: group.provider, model: model.id, label: model.label, source: 'preset' })
                     }
-                    disabled={disabled || (!checked && selectedModels.length >= limit)}
+                    disabled={disabled || (!checked && selectedCount >= limit)}
                   />
                   <span>{model.label}</span>
                 </label>
@@ -70,15 +73,9 @@ export default function ModelPicker({
         </div>
         {customModels.map((row) => (
           <div className={styles.customRow} key={row.id}>
-            <label className={styles.customToggle}>
-              <input
-                type="checkbox"
-                checked={row.selected}
-                onChange={() => onToggleCustomModel(row.id)}
-                disabled={disabled || (!row.selected && selectedModels.length >= limit)}
-              />
-              <span>Use</span>
-            </label>
+            <div className={styles.customState}>
+              {row.model.trim() && CUSTOM_MODEL_ID_REGEX.test(row.model.trim()) ? '[included]' : '[enter model id]'}
+            </div>
 
             <label className={styles.field}>
               <span className={styles.label}>Provider</span>
@@ -128,7 +125,7 @@ export default function ModelPicker({
               type="button"
               className={styles.button}
               onClick={() => onRemoveCustomModel(row.id)}
-              disabled={disabled || customModels.length <= 1}
+              disabled={disabled}
             >
               [remove]
             </button>
@@ -161,10 +158,15 @@ export default function ModelPicker({
       </div>
 
       <div className={styles.hint}>
-        Selected models: {selectedModels.length}/{limit}. Estimated upper bound before confirm:
+        Selected models: {selectedCount}/{limit}. Estimated upper bound before confirm:
         {' '}
         ~{estimate.totalTokens.toLocaleString()} tokens, ${estimate.maxUsd.toFixed(3)}.
       </div>
+      {overflowCount > 0 && (
+        <div className={styles.hint}>
+          You are over the model limit by {overflowCount}. Remove extra selections to run.
+        </div>
+      )}
       {estimate.hasVariablePricing && (
         <div className={styles.hint}>
           Custom/OpenRouter model pricing varies by route. This is a conservative upper-bound estimate.
