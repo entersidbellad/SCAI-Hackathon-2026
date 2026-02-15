@@ -221,9 +221,21 @@
   background: var(--bg);
   padding: 0.5rem;
   display: grid;
-  grid-template-columns: minmax(130px, 0.9fr) minmax(240px, 2fr) minmax(150px, 1.2fr) auto;
+  grid-template-columns: minmax(120px, 0.85fr) minmax(0, 1.35fr) minmax(120px, 1fr) auto;
   gap: 0.45rem;
   align-items: end;
+}
+
+.customRow .field {
+  min-width: 0;
+}
+
+.customModelField {
+  max-width: 28rem;
+}
+
+.customModelField .input {
+  width: 100%;
 }
 
 .keyGrid {
@@ -341,6 +353,18 @@
   flex-wrap: wrap;
 }
 
+@media (max-width: 1080px) {
+  .customRow {
+    grid-template-columns: 1fr 1fr;
+    align-items: stretch;
+  }
+
+  .customModelField {
+    max-width: none;
+    grid-column: 1 / -1;
+  }
+}
+
 @media (max-width: 768px) {
   .panel {
     padding: 0.75rem;
@@ -353,5 +377,10 @@
   .customRow {
     grid-template-columns: 1fr;
     align-items: stretch;
+  }
+
+  .customModelField {
+    max-width: none;
+    grid-column: auto;
   }
 }

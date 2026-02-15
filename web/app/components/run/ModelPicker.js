@@ -88,14 +88,14 @@ export default function ModelPicker({
               </select>
             </label>
 
-            <label className={styles.field}>
+            <label className={`${styles.field} ${styles.customModelField}`}>
               <span className={styles.label}>Model ID</span>
               <input
                 className={styles.input}
                 type="text"
                 value={row.model}
                 onChange={(event) => onCustomModelChange(row.id, 'model', event.target.value)}
-                placeholder="e.g. openai/gpt-4o-mini or anthropic/claude-3.5-sonnet"
+                placeholder="e.g. openrouter/model-slug"
                 autoComplete="off"
                 spellCheck={false}
                 disabled={disabled}
