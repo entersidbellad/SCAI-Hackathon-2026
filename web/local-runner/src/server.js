@@ -9,6 +9,7 @@ const pdfParse = require('pdf-parse');
 const { runOpenAI } = require('./providers/openai');
 const { runAnthropic } = require('./providers/anthropic');
 const { runGemini } = require('./providers/gemini');
+const { runOpenRouter } = require('./providers/openrouter');
 const { evaluatePillars } = require('./scoring/pillars');
 const { buildComposite } = require('./scoring/composite');
 
@@ -30,12 +31,14 @@ const PROVIDERS = {
   openai: runOpenAI,
   anthropic: runAnthropic,
   gemini: runGemini,
+  openrouter: runOpenRouter,
 };
 
 const PRICE_PER_1K = {
   openai: { input: 0.002, output: 0.006 },
   anthropic: { input: 0.003, output: 0.015 },
   gemini: { input: 0.0015, output: 0.0045 },
+  openrouter: { input: 0.004, output: 0.012 },
 };
 
 const sessions = new Map();
@@ -51,7 +54,21 @@ const configuredOrigins = String(process.env.RUNNER_ALLOWED_ORIGINS || '')
   .map((origin) => origin.trim())
   .filter(Boolean);
 
-const allowedOrigins = new Set([...defaultOrigins, ...configuredOrigins]);
+function normalizeOrigin(origin) {
+  return String(origin || '').trim().replace(/\/+$/, '');
+}
+
+function isLocalOrigin(origin) {
+  return /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/i.test(origin);
+}
+
+function isVercelOrigin(origin) {
+  return /^https:\/\/[a-z0-9-]+(?:\.[a-z0-9-]+)*\.vercel\.app$/i.test(origin);
+}
+
+const allowedOrigins = new Set(
+  [...defaultOrigins, ...configuredOrigins].map((origin) => normalizeOrigin(origin)),
+);
 
 const app = express();
 const upload = multer({
@@ -59,11 +76,22 @@ const upload = multer({
   limits: { fileSize: MAX_FILE_BYTES },
 });
 
+app.use((req, res, next) => {
+  // Required by Chromium private network access preflight when HTTPS pages call localhost.
+  if (String(req.headers['access-control-request-private-network'] || '').toLowerCase() === 'true') {
+    res.setHeader('Access-Control-Allow-Private-Network', 'true');
+  }
+  next();
+});
+
 app.use(
   cors({
     origin(origin, callback) {
       if (!origin) return callback(null, true);
-      if (allowedOrigins.has(origin)) return callback(null, true);
+      const normalized = normalizeOrigin(origin);
+      if (allowedOrigins.has(normalized)) return callback(null, true);
+      if (isLocalOrigin(normalized)) return callback(null, true);
+      if (isVercelOrigin(normalized)) return callback(null, true);
       return callback(new Error('Origin not allowed by local runner CORS policy.'));
     },
     methods: ['GET', 'POST', 'DELETE', 'OPTIONS'],

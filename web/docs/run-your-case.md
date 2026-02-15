@@ -36,6 +36,9 @@ This starts the local runner at:
 - OpenAI
 - Anthropic
 - Gemini
+- OpenRouter
+
+Custom model IDs are supported. You can select preset models or add your own provider/model slug entries (up to 3 total models per run).
 
 ## File Inputs
 
@@ -75,3 +78,8 @@ Pillar weights:
 - One case per run
 - Input token cap enforced
 - 10-minute hard timeout
+
+## Cost Estimate Notes
+
+- The pre-run estimate is a conservative upper bound.
+- For custom model IDs and OpenRouter routes, actual billing may vary by provider/model route.

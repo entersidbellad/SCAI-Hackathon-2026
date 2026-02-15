@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .DS_Store
 pipeline.log
+node_modules/
+web/local-runner/node_modules/

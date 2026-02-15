@@ -8,8 +8,14 @@ function modelKey(provider, model) {
 
 export default function ModelPicker({
   catalog,
+  keyProviders,
   selectedModels,
-  onToggleModel,
+  onTogglePresetModel,
+  customModels,
+  onCustomModelChange,
+  onToggleCustomModel,
+  onAddCustomModel,
+  onRemoveCustomModel,
   apiKeys,
   onApiKeyChange,
   estimate,
@@ -31,13 +37,16 @@ export default function ModelPicker({
             <div className={styles.modelProvider}>{group.label}</div>
             {group.models.map((model) => {
               const key = modelKey(group.provider, model.id);
+              const checked = selectedKeys.has(key);
               return (
                 <label className={styles.modelOption} key={key}>
                   <input
                     type="checkbox"
-                    checked={selectedKeys.has(key)}
-                    onChange={() => onToggleModel({ provider: group.provider, model: model.id, label: model.label })}
-                    disabled={disabled}
+                    checked={checked}
+                    onChange={() =>
+                      onTogglePresetModel({ provider: group.provider, model: model.id, label: model.label, source: 'preset' })
+                    }
+                    disabled={disabled || (!checked && selectedModels.length >= limit)}
                   />
                   <span>{model.label}</span>
                 </label>
@@ -47,16 +56,96 @@ export default function ModelPicker({
         ))}
       </div>
 
+      <div className={styles.customSection}>
+        <div className={styles.customHeader}>
+          <div className={styles.customTitle}>Custom Models (Any Slug)</div>
+          <button
+            type="button"
+            className={styles.button}
+            onClick={onAddCustomModel}
+            disabled={disabled || customModels.length >= 6}
+          >
+            [add custom model]
+          </button>
+        </div>
+        {customModels.map((row) => (
+          <div className={styles.customRow} key={row.id}>
+            <label className={styles.customToggle}>
+              <input
+                type="checkbox"
+                checked={row.selected}
+                onChange={() => onToggleCustomModel(row.id)}
+                disabled={disabled || (!row.selected && selectedModels.length >= limit)}
+              />
+              <span>Use</span>
+            </label>
+
+            <label className={styles.field}>
+              <span className={styles.label}>Provider</span>
+              <select
+                className={styles.select}
+                value={row.provider}
+                onChange={(event) => onCustomModelChange(row.id, 'provider', event.target.value)}
+                disabled={disabled}
+              >
+                {keyProviders.map((provider) => (
+                  <option value={provider.provider} key={provider.provider}>
+                    {provider.label}
+                  </option>
+                ))}
+              </select>
+            </label>
+
+            <label className={styles.field}>
+              <span className={styles.label}>Model ID</span>
+              <input
+                className={styles.input}
+                type="text"
+                value={row.model}
+                onChange={(event) => onCustomModelChange(row.id, 'model', event.target.value)}
+                placeholder="e.g. openai/gpt-4o-mini or anthropic/claude-3.5-sonnet"
+                autoComplete="off"
+                spellCheck={false}
+                disabled={disabled}
+              />
+            </label>
+
+            <label className={styles.field}>
+              <span className={styles.label}>Label (Optional)</span>
+              <input
+                className={styles.input}
+                type="text"
+                value={row.label}
+                onChange={(event) => onCustomModelChange(row.id, 'label', event.target.value)}
+                placeholder="Friendly name"
+                autoComplete="off"
+                spellCheck={false}
+                disabled={disabled}
+              />
+            </label>
+
+            <button
+              type="button"
+              className={styles.button}
+              onClick={() => onRemoveCustomModel(row.id)}
+              disabled={disabled || customModels.length <= 1}
+            >
+              [remove]
+            </button>
+          </div>
+        ))}
+      </div>
+
       <div className={styles.keyGrid}>
-        {catalog.map((group) => (
-          <label className={styles.field} key={`${group.provider}-key`}>
-            <span className={styles.label}>{group.label} API Key</span>
+        {keyProviders.map((provider) => (
+          <label className={styles.field} key={`${provider.provider}-key`}>
+            <span className={styles.label}>{provider.label} API Key</span>
             <input
               className={styles.input}
               type="password"
-              value={apiKeys[group.provider] || ''}
-              onChange={(event) => onApiKeyChange(group.provider, event.target.value)}
-              placeholder={`Paste ${group.label} key`}
+              value={apiKeys[provider.provider] || ''}
+              onChange={(event) => onApiKeyChange(provider.provider, event.target.value)}
+              placeholder={`Paste ${provider.label} key`}
               autoComplete="off"
               spellCheck={false}
               disabled={disabled}
@@ -76,6 +165,11 @@ export default function ModelPicker({
         {' '}
         ~{estimate.totalTokens.toLocaleString()} tokens, ${estimate.maxUsd.toFixed(3)}.
       </div>
+      {estimate.hasVariablePricing && (
+        <div className={styles.hint}>
+          Custom/OpenRouter model pricing varies by route. This is a conservative upper-bound estimate.
+        </div>
+      )}
 
       <div className={styles.kvGrid}>
         <div className={styles.kvCard}>

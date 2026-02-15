@@ -26,7 +26,7 @@ This feature lets users:
 
 - submit their own case text or upload files (`.txt`, `.md`, `.pdf`)
 - provide their own provider API keys
-- select up to 3 models
+- select up to 3 models (preset or custom model IDs)
 - run scoring locally through a localhost runner
 
 ### Start local runner
@@ -45,11 +45,25 @@ Runner URL default: `http://127.0.0.1:8787`.
 - Auth between web UI and runner uses `X-Session-Id` and `X-Csrf-Token` headers.
 - Provider APIs still receive submitted case text for generation.
 
+### Supported Providers (v1)
+
+- OpenAI
+- Anthropic
+- Gemini
+- OpenRouter
+
+You can use preset models or add custom provider/model IDs (for example, OpenRouter model slugs).
+
 ### Study Mode
 
 - Use `study` mode for formal evaluations.
 - Study mode requires a reference summary so all runs use full 3-pillar scoring and remain comparable.
 - `standard` mode allows missing reference summaries, but scores become provisional and non-comparable to leaderboard runs.
+
+### Cost Estimates
+
+- Estimates are conservative upper bounds.
+- For custom/OpenRouter routes, actual provider billing may differ by model route.
 
 Detailed docs: `docs/run-your-case.md`.
 

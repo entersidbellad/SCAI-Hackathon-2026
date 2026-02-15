@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useState, useEffect } from 'react';
+import { useMemo, useState, useEffect, useRef } from 'react';
 import styles from './page.module.css';
 import RunnerConnect from '../components/run/RunnerConnect';
 import CaseInput from '../components/run/CaseInput';
@@ -11,7 +11,8 @@ const DEFAULT_RUNNER_URL = 'http://127.0.0.1:8787';
 const MODEL_LIMIT = 3;
 const RUN_MODE_STANDARD = 'standard';
 const RUN_MODE_STUDY = 'study';
-const EMPTY_API_KEYS = { openai: '', anthropic: '', gemini: '' };
+const CUSTOM_MODEL_ID_REGEX = /^[a-zA-Z0-9._:/-]{2,120}$/;
+const EMPTY_API_KEYS = { openai: '', anthropic: '', gemini: '', openrouter: '' };
 
 const MODEL_CATALOG = [
   {
@@ -40,11 +41,29 @@ const MODEL_CATALOG = [
   },
 ];
 
+const KEY_PROVIDERS = [
+  { provider: 'openai', label: 'OpenAI' },
+  { provider: 'anthropic', label: 'Anthropic' },
+  { provider: 'gemini', label: 'Gemini' },
+  { provider: 'openrouter', label: 'OpenRouter' },
+];
+
 const COST_PER_1K = {
   openai: { input: 0.002, output: 0.006 },
   anthropic: { input: 0.003, output: 0.015 },
   gemini: { input: 0.0015, output: 0.0045 },
+  openrouter: { input: 0.004, output: 0.012 },
 };
+
+function createCustomModelRow(id) {
+  return {
+    id: `custom-${id}`,
+    provider: 'openrouter',
+    model: '',
+    label: '',
+    selected: false,
+  };
+}
 
 function estimateTokens(text) {
   return Math.ceil((text || '').length / 4);
@@ -54,6 +73,9 @@ function estimateRunBudget(caseText, referenceSummary, selectedModels) {
   const modelCount = Math.max(1, selectedModels.length);
   const inputTokens = estimateTokens(caseText) + estimateTokens(referenceSummary) + 280;
   const outputTokens = 760;
+  const hasVariablePricing = selectedModels.some(
+    (model) => model.source === 'custom' || model.provider === 'openrouter',
+  );
 
   let maxUsd = 0;
   for (const model of selectedModels) {
@@ -69,6 +91,7 @@ function estimateRunBudget(caseText, referenceSummary, selectedModels) {
     outputTokens: outputTokens * modelCount,
     totalTokens: (inputTokens + outputTokens) * modelCount,
     maxUsd,
+    hasVariablePricing,
   };
 }
 
@@ -134,7 +157,35 @@ export default function RunYourCasePage() {
   const [uploadBusy, setUploadBusy] = useState(false);
 
   const [apiKeys, setApiKeys] = useState(EMPTY_API_KEYS);
-  const [selectedModels, setSelectedModels] = useState([]);
+  const [selectedPresetModels, setSelectedPresetModels] = useState([]);
+  const [customModels, setCustomModels] = useState([createCustomModelRow(1)]);
+  const customCounterRef = useRef(2);
+
+  const selectedModels = useMemo(() => {
+    const dedupe = new Map();
+
+    for (const entry of selectedPresetModels) {
+      dedupe.set(`${entry.provider}:${entry.model}`, entry);
+    }
+
+    for (const row of customModels) {
+      if (!row.selected) continue;
+      const model = row.model.trim();
+      if (!CUSTOM_MODEL_ID_REGEX.test(model)) continue;
+      const label = row.label.trim() || model;
+      const key = `${row.provider}:${model}`;
+      if (!dedupe.has(key)) {
+        dedupe.set(key, {
+          provider: row.provider,
+          model,
+          label,
+          source: 'custom',
+        });
+      }
+    }
+
+    return [...dedupe.values()].slice(0, MODEL_LIMIT);
+  }, [selectedPresetModels, customModels]);
 
   const [runMode, setRunMode] = useState(RUN_MODE_STANDARD);
   const [costConfirmed, setCostConfirmed] = useState(false);
@@ -232,7 +283,9 @@ export default function RunYourCasePage() {
       setConnection({ status: 'disconnected', sessionId: '', csrfToken: '', health: null, error: '' });
       if (cleared) {
         setApiKeys(EMPTY_API_KEYS);
-        setSelectedModels([]);
+        setSelectedPresetModels([]);
+        setCustomModels([createCustomModelRow(1)]);
+        customCounterRef.current = 2;
         setCostConfirmed(false);
         setAckPrivacyAndLimits(false);
       }
@@ -271,18 +324,77 @@ export default function RunYourCasePage() {
     }
   }
 
-  function handleToggleModel(entry) {
+  function handleTogglePresetModel(entry) {
     const key = `${entry.provider}:${entry.model}`;
-    setSelectedModels((current) => {
-      const exists = current.some((item) => `${item.provider}:${item.model}` === key);
-      if (exists) {
+    const exists = selectedPresetModels.some((item) => `${item.provider}:${item.model}` === key);
+
+    if (!exists && selectedModels.length >= MODEL_LIMIT) {
+      setRunError(`You can select up to ${MODEL_LIMIT} models per run.`);
+      return;
+    }
+
+    setRunError('');
+    setSelectedPresetModels((current) => {
+      const present = current.some((item) => `${item.provider}:${item.model}` === key);
+      if (present) {
         return current.filter((item) => `${item.provider}:${item.model}` !== key);
       }
-      if (current.length >= MODEL_LIMIT) {
-        return current;
-      }
-      return [...current, entry];
+      return [...current, { ...entry, source: 'preset' }];
     });
+  }
+
+  function handleCustomModelChange(rowId, field, value) {
+    const nextValue = field === 'provider' ? value.toLowerCase() : value;
+    setCustomModels((current) =>
+      current.map((row) => (row.id === rowId ? { ...row, [field]: nextValue } : row)),
+    );
+  }
+
+  function handleAddCustomModel() {
+    setCustomModels((current) => {
+      if (current.length >= 6) return current;
+      const next = createCustomModelRow(customCounterRef.current);
+      customCounterRef.current += 1;
+      return [...current, next];
+    });
+  }
+
+  function handleRemoveCustomModel(rowId) {
+    setCustomModels((current) => {
+      if (current.length <= 1) {
+        return [createCustomModelRow(1)];
+      }
+      return current.filter((row) => row.id !== rowId);
+    });
+  }
+
+  function handleToggleCustomModel(rowId) {
+    const row = customModels.find((item) => item.id === rowId);
+    if (!row) return;
+
+    if (row.selected) {
+      setRunError('');
+      setCustomModels((current) =>
+        current.map((item) => (item.id === rowId ? { ...item, selected: false } : item)),
+      );
+      return;
+    }
+
+    const normalizedModel = row.model.trim();
+    if (!CUSTOM_MODEL_ID_REGEX.test(normalizedModel)) {
+      setRunError('Custom model IDs must be 2-120 chars: letters, numbers, ., _, :, /, or -.');
+      return;
+    }
+
+    if (selectedModels.length >= MODEL_LIMIT) {
+      setRunError(`You can select up to ${MODEL_LIMIT} models per run.`);
+      return;
+    }
+
+    setRunError('');
+    setCustomModels((current) =>
+      current.map((item) => (item.id === rowId ? { ...item, selected: true, model: normalizedModel } : item)),
+    );
   }
 
   async function startRun() {
@@ -444,7 +556,7 @@ export default function RunYourCasePage() {
           <li>1. Start local runner.</li>
           <li>2. Connect from this page.</li>
           <li>3. Add case text or upload a file.</li>
-          <li>4. Add provider keys and select 1-3 models.</li>
+          <li>4. Add provider keys and select 1-3 preset/custom models.</li>
           <li>5. Confirm cost estimate and run.</li>
         </ol>
       </section>
@@ -471,8 +583,14 @@ export default function RunYourCasePage() {
 
       <ModelPicker
         catalog={MODEL_CATALOG}
+        keyProviders={KEY_PROVIDERS}
         selectedModels={selectedModels}
-        onToggleModel={handleToggleModel}
+        onTogglePresetModel={handleTogglePresetModel}
+        customModels={customModels}
+        onCustomModelChange={handleCustomModelChange}
+        onToggleCustomModel={handleToggleCustomModel}
+        onAddCustomModel={handleAddCustomModel}
+        onRemoveCustomModel={handleRemoveCustomModel}
         apiKeys={apiKeys}
         onApiKeyChange={(provider, value) => setApiKeys((current) => ({ ...current, [provider]: value }))}
         estimate={estimate}
