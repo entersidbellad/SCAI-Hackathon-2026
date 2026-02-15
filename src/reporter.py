@@ -195,8 +195,8 @@ def generate_summary_report(
         "",
         "## Model Rankings",
         "",
-        "| Rank | Model | Avg Score | NLI | Judge | Coverage |",
-        "|------|-------|-----------|-----|-------|----------|",
+        "| Rank | Model | Avg Score | 95% CI | NLI | Judge | Coverage |",
+        "|------|-------|-----------|--------|-----|-------|----------|",
     ]
     
     # Sort models by average score
@@ -209,13 +209,36 @@ def generate_summary_report(
     
     for rank, (model, stats) in enumerate(sorted_models, 1):
         model_short = model.split("/")[-1].split(":")[0]
+        ci = stats.get("composite_ci_95", {})
+        ci_lo = ci.get("lower")
+        ci_hi = ci.get("upper")
+        ci_str = f"[{ci_lo:.3f}, {ci_hi:.3f}]" if ci_lo is not None else "—"
         lines.append(
             f"| {rank} | {model_short} | "
             f"{stats['avg_composite_score']:.3f} | "
+            f"{ci_str} | "
             f"{stats['avg_nli_score']:.3f} | "
             f"{stats['avg_judge_score']:.3f} | "
             f"{stats['avg_coverage_score']:.3f} |"
         )
+    
+    # Pairwise significance section
+    significance = composite_scores.get("pairwise_significance", {})
+    if significance:
+        lines.extend([
+            "",
+            "### Statistical Significance (Pairwise Bootstrap Test)",
+            "",
+            "| Comparison | Mean Diff | 95% CI | Significant? | Winner |",
+            "|-----------|-----------|--------|-------------|--------|",
+        ])
+        for pair, data in significance.items():
+            sig_str = "✅ Yes" if data["significant"] else "❌ No"
+            lines.append(
+                f"| {pair} | {data['mean_diff']:.4f} | "
+                f"[{data['ci_95_lower']:.4f}, {data['ci_95_upper']:.4f}] | "
+                f"{sig_str} | {data['winner']} |"
+            )
     
     lines.extend([
         "",

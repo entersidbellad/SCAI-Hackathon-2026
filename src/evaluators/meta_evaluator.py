@@ -4,10 +4,16 @@ Meta-Evaluator: Judge Calibration & Pillar Correlation Analysis
 Answers the question: "How do you know your judges are performing well?"
 
 Computes:
-1. Kendall's Tau (τ) — rank correlation between judge pairs
-2. Score Distribution Analysis — histogram stats per judge
-3. Cohen's Kappa — inter-judge agreement on ordinal 1-5 scale
+1. Cohen's Kappa — PRIMARY metric for inter-judge (AI↔AI) agreement
+2. Kendall's Tau (τ) — supplementary rank correlation between judge pairs
+3. Score Distribution Analysis — histogram stats per judge
 4. Pillar Correlation Matrix — Spearman ρ between NLI, Judge, Coverage
+5. Bootstrap confidence intervals for all agreement metrics
+
+Note: For AI↔Human validation (using Kendall's Tau against human ground truth),
+see human_evaluator.py. The distinction follows best practices:
+- Cohen's Kappa for AI↔AI (neither is ground truth)
+- Kendall's Tau for AI↔Human (human is ground truth)
 
 Uses only existing output data — no API calls required.
 """
@@ -134,17 +140,63 @@ def load_coverage_scores(coverage_results_dir: Path) -> dict[str, dict[str, floa
 # 1. KENDALL'S TAU — Rank Correlation Between Judges
 # =========================================================================
 
+def bootstrap_confidence_interval(
+    scores_a: list[float],
+    scores_b: list[float],
+    metric_fn,
+    n_bootstrap: int = 1000,
+    ci: float = 0.95,
+) -> tuple[float, float]:
+    """
+    Compute bootstrap confidence interval for a pairwise metric.
+
+    Args:
+        scores_a, scores_b: Aligned score vectors
+        metric_fn: Function(a, b) -> float (e.g., kendalltau)
+        n_bootstrap: Number of bootstrap iterations
+        ci: Confidence level (default 95%)
+
+    Returns:
+        (ci_lower, ci_upper)
+    """
+    rng = np.random.default_rng(42)
+    n = len(scores_a)
+    arr_a = np.array(scores_a)
+    arr_b = np.array(scores_b)
+    boot_vals = []
+
+    for _ in range(n_bootstrap):
+        idx = rng.choice(n, size=n, replace=True)
+        val = metric_fn(arr_a[idx], arr_b[idx])
+        if not np.isnan(val):
+            boot_vals.append(val)
+
+    if not boot_vals:
+        return (None, None)
+
+    alpha = (1 - ci) / 2
+    return (
+        float(np.percentile(boot_vals, alpha * 100)),
+        float(np.percentile(boot_vals, (1 - alpha) * 100)),
+    )
+
+
 def compute_kendall_tau(
     judge_scores: dict[str, dict[str, dict[str, float]]],
+    with_bootstrap: bool = True,
 ) -> dict:
     """
-    Compute Kendall's Tau between every pair of judges.
+    Compute Kendall's Tau between every pair of AI judges.
+
+    NOTE: For AI↔AI comparison, Cohen's Kappa is the primary metric
+    (see compute_cohens_kappa). Kendall's Tau is provided as supplementary
+    rank-correlation context. For AI↔Human validation, see human_evaluator.py.
 
     For each case, ranks the summarization models by judge_score,
     then computes τ between each judge pair.
 
     Returns:
-        Dict with per-case and overall τ values
+        Dict with per-case and overall τ values, with bootstrap 95% CIs
     """
     judge_names = sorted(judge_scores.keys())
     if len(judge_names) < 2:
@@ -192,7 +244,8 @@ def compute_kendall_tau(
         # Overall tau across all cases
         if len(all_scores_j1) >= 3:
             overall_tau, overall_p = stats.kendalltau(all_scores_j1, all_scores_j2)
-            results["pairwise"][pair_key] = {
+
+            pair_result = {
                 "overall_tau": round(float(overall_tau), 4) if not np.isnan(overall_tau) else None,
                 "overall_p_value": round(float(overall_p), 4) if not np.isnan(overall_p) else None,
                 "n_comparisons": len(all_scores_j1),
@@ -201,6 +254,17 @@ def compute_kendall_tau(
                     np.mean([t["tau"] for t in per_case_taus]), 4
                 ) if per_case_taus else None,
             }
+
+            # Bootstrap confidence interval
+            if with_bootstrap and len(all_scores_j1) >= 5:
+                ci_lo, ci_hi = bootstrap_confidence_interval(
+                    all_scores_j1, all_scores_j2,
+                    lambda a, b: stats.kendalltau(a, b)[0],
+                )
+                pair_result["ci_95_lower"] = round(ci_lo, 4) if ci_lo is not None else None
+                pair_result["ci_95_upper"] = round(ci_hi, 4) if ci_hi is not None else None
+
+            results["pairwise"][pair_key] = pair_result
             results["per_case"][pair_key] = per_case_taus
 
     # Interpretation
@@ -312,9 +376,17 @@ def compute_score_distributions(
 
 def compute_cohens_kappa(
     judge_scores: dict[str, dict[str, dict[str, float]]],
+    with_bootstrap: bool = True,
 ) -> dict:
     """
-    Compute weighted Cohen's Kappa between each pair of judges.
+    Compute weighted Cohen's Kappa between each pair of AI judges.
+
+    This is the PRIMARY metric for inter-judge (AI↔AI) agreement.
+    Cohen's Kappa is appropriate here because neither AI judge is
+    treated as ground truth — we are measuring mutual agreement.
+
+    For AI↔Human validation (where human IS ground truth),
+    see human_evaluator.py which uses Kendall's Tau.
 
     Uses quadratic weights (appropriate for ordinal 1-5 scale).
     """
@@ -362,13 +434,42 @@ def compute_cohens_kappa(
             categories=list(range(1, 6)),
         )
 
-        results[pair_key] = {
+        pair_result = {
             "factual_accuracy_kappa": round(acc_kappa, 4),
             "completeness_kappa": round(comp_kappa, 4),
             "n_paired_observations": len(accuracy_pairs),
             "interpretation_accuracy": _interpret_kappa(acc_kappa),
             "interpretation_completeness": _interpret_kappa(comp_kappa),
         }
+
+        # Bootstrap confidence intervals for kappa
+        if with_bootstrap and len(accuracy_pairs) >= 5:
+            acc_ci = bootstrap_confidence_interval(
+                [p[0] for p in accuracy_pairs],
+                [p[1] for p in accuracy_pairs],
+                lambda a, b: _weighted_kappa(
+                    a.astype(int).tolist(), b.astype(int).tolist(),
+                    categories=list(range(1, 6)),
+                ),
+            )
+            comp_ci = bootstrap_confidence_interval(
+                [p[0] for p in completeness_pairs],
+                [p[1] for p in completeness_pairs],
+                lambda a, b: _weighted_kappa(
+                    a.astype(int).tolist(), b.astype(int).tolist(),
+                    categories=list(range(1, 6)),
+                ),
+            )
+            pair_result["accuracy_ci_95"] = {
+                "lower": round(acc_ci[0], 4) if acc_ci[0] is not None else None,
+                "upper": round(acc_ci[1], 4) if acc_ci[1] is not None else None,
+            }
+            pair_result["completeness_ci_95"] = {
+                "lower": round(comp_ci[0], 4) if comp_ci[0] is not None else None,
+                "upper": round(comp_ci[1], 4) if comp_ci[1] is not None else None,
+            }
+
+        results[pair_key] = pair_result
 
     return results
 
@@ -537,13 +638,48 @@ def generate_meta_evaluation_report(
     lines.append(f"\n*Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n")
     lines.append("This report evaluates the reliability of the evaluation pipeline itself.")
     lines.append("It answers: **\"How do we know our judges are performing well?\"**\n")
+    lines.append("> **Statistical Methodology**: This report uses **Cohen's Kappa** as the primary")
+    lines.append("> metric for AI↔AI agreement (appropriate when neither rater is ground truth).")
+    lines.append("> For AI↔Human validation, see the **Human Evaluation Report** which")
+    lines.append("> uses **Kendall's Tau** (appropriate when one rater is ground truth).\n")
 
-    # ─── Section 1: Kendall's Tau ───
+    # ─── Section 1: Cohen's Kappa (PRIMARY) ───
     lines.append("---\n")
-    lines.append("## 1. Kendall's Tau (τ) — Rank Correlation Between Judges\n")
+    lines.append("## 1. Cohen's Kappa — Inter-Judge Agreement (Primary AI↔AI Metric)\n")
+    lines.append("Measures agreement on the 1-5 ordinal scale, adjusted for chance agreement.")
+    lines.append("Uses **quadratic weights** (appropriate for ordinal data).\n")
+    lines.append("> **Why Cohen's Kappa for AI↔AI?** When comparing two AI judges, neither is")
+    lines.append("> ground truth. Cohen's Kappa measures whether the raters agree beyond what")
+    lines.append("> chance alone would predict, making it ideal for this comparison.\n")
+    lines.append("| Judge Pair | Accuracy κ | 95% CI | Completeness κ | 95% CI | Interpretation | N |")
+    lines.append("|---|---|---|---|---|---|---|")
+
+    for pair, data in kappa_results.items():
+        if "error" in data:
+            lines.append(f"| {pair} | — | — | — | — | {data['error']} | — |")
+        else:
+            acc_ci = data.get("accuracy_ci_95", {})
+            comp_ci = data.get("completeness_ci_95", {})
+            acc_ci_str = f"[{acc_ci['lower']:.3f}, {acc_ci['upper']:.3f}]" if acc_ci.get("lower") is not None else "—"
+            comp_ci_str = f"[{comp_ci['lower']:.3f}, {comp_ci['upper']:.3f}]" if comp_ci.get("lower") is not None else "—"
+            lines.append(
+                f"| {pair} | {data['factual_accuracy_kappa']:.4f} | {acc_ci_str} | "
+                f"{data['completeness_kappa']:.4f} | {comp_ci_str} | "
+                f"{data['interpretation_accuracy']} / {data['interpretation_completeness']} | "
+                f"{data['n_paired_observations']} |"
+            )
+
+    lines.append("")
+
+    # ─── Section 2: Kendall's Tau (Supplementary) ───
+    lines.append("---\n")
+    lines.append("## 2. Kendall's Tau (τ) — Supplementary Rank Correlation\n")
     lines.append("Measures whether judges **rank models in the same order**, even if they disagree on absolute scores.\n")
-    lines.append("| Judge Pair | Overall τ | p-value | Interpretation | N |")
-    lines.append("|---|---|---|---|---|")
+    lines.append("> **Note**: For AI↔AI comparison, Cohen's Kappa (Section 1) is the primary metric.")
+    lines.append("> Kendall's Tau is shown here for supplementary context. For AI↔Human rank correlation")
+    lines.append("> (treating human as ground truth), see the Human Evaluation Report.\n")
+    lines.append("| Judge Pair | Overall τ | 95% CI | p-value | Interpretation | N |")
+    lines.append("|---|---|---|---|---|---|")
 
     for pair, data in kendall_results.get("pairwise", {}).items():
         tau = data.get("overall_tau", "N/A")
@@ -552,13 +688,16 @@ def generate_meta_evaluation_report(
         n = data.get("n_comparisons", 0)
         tau_str = f"{tau:.4f}" if isinstance(tau, (int, float)) else str(tau)
         p_str = f"{p:.4f}" if isinstance(p, (int, float)) else str(p)
-        lines.append(f"| {pair} | {tau_str} | {p_str} | {interp} | {n} |")
+        ci_lo = data.get("ci_95_lower")
+        ci_hi = data.get("ci_95_upper")
+        ci_str = f"[{ci_lo:.3f}, {ci_hi:.3f}]" if ci_lo is not None else "—"
+        lines.append(f"| {pair} | {tau_str} | {ci_str} | {p_str} | {interp} | {n} |")
 
     lines.append("")
 
-    # ─── Section 2: Score Distributions ───
+    # ─── Section 3: Score Distributions ───
     lines.append("---\n")
-    lines.append("## 2. Score Distribution Analysis\n")
+    lines.append("## 3. Score Distribution Analysis\n")
     lines.append("Shows whether judges use the full 1-5 scoring range or cluster around certain values.\n")
 
     for judge_name, data in distribution_results.items():
@@ -589,27 +728,6 @@ def generate_meta_evaluation_report(
 
         lines.append("")
 
-    # ─── Section 3: Cohen's Kappa ───
-    lines.append("---\n")
-    lines.append("## 3. Cohen's Kappa — Inter-Judge Agreement\n")
-    lines.append("Measures agreement on the 1-5 ordinal scale, adjusted for chance. Uses **quadratic weights** (appropriate for ordinal data).\n")
-    lines.append("| Judge Pair | Accuracy κ | Interpretation | Completeness κ | Interpretation | N |")
-    lines.append("|---|---|---|---|---|---|")
-
-    for pair, data in kappa_results.items():
-        if "error" in data:
-            lines.append(f"| {pair} | — | {data['error']} | — | — | — |")
-        else:
-            lines.append(
-                f"| {pair} | {data['factual_accuracy_kappa']:.4f} | "
-                f"{data['interpretation_accuracy']} | "
-                f"{data['completeness_kappa']:.4f} | "
-                f"{data['interpretation_completeness']} | "
-                f"{data['n_paired_observations']} |"
-            )
-
-    lines.append("")
-
     # ─── Section 4: Pillar Correlations ───
     lines.append("---\n")
     lines.append("## 4. Pillar Correlation Matrix (Spearman ρ)\n")
@@ -636,10 +754,17 @@ def generate_meta_evaluation_report(
     # ─── Key Takeaways ───
     lines.append("---\n")
     lines.append("## Key Takeaways\n")
-    lines.append("*Interpretation guide:*\n")
-    lines.append("- **Kendall's τ**: >0.7 = strong agreement, 0.4-0.7 = moderate, <0.4 = weak")
+    lines.append("### Statistical Methodology\n")
+    lines.append("| Comparison Type | Primary Metric | Rationale |")
+    lines.append("|---|---|---|")
+    lines.append("| **AI ↔ AI** (this report) | Cohen's Kappa | Neither judge is ground truth |")
+    lines.append("| **AI ↔ Human** (human eval report) | Kendall's Tau | Human is treated as ground truth |")
+    lines.append("")
+    lines.append("### Interpretation Guide\n")
     lines.append("- **Cohen's κ**: >0.8 = near-perfect, 0.6-0.8 = substantial, 0.4-0.6 = moderate, <0.4 = poor")
+    lines.append("- **Kendall's τ**: >0.7 = strong, 0.4-0.7 = moderate, <0.4 = weak")
     lines.append("- **Spearman ρ**: >0.7 = high redundancy between pillars, <0.3 = pillars measure distinct things")
+    lines.append("- **95% CI**: Bootstrap confidence intervals (1000 iterations) — narrower = more reliable estimate")
     lines.append("")
 
     report = "\n".join(lines)

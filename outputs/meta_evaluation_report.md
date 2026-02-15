@@ -1,25 +1,51 @@
 # Meta-Evaluation Report: Judge Calibration & Pillar Analysis
 
-*Generated: 2026-02-11 23:02:51*
+*Generated: 2026-02-14 11:36:14*
 
 This report evaluates the reliability of the evaluation pipeline itself.
 It answers: **"How do we know our judges are performing well?"**
 
+> **Statistical Methodology**: This report uses **Cohen's Kappa** as the primary
+> metric for AI↔AI agreement (appropriate when neither rater is ground truth).
+> For AI↔Human validation, see the **Human Evaluation Report** which
+> uses **Kendall's Tau** (appropriate when one rater is ground truth).
+
 ---
 
-## 1. Kendall's Tau (τ) — Rank Correlation Between Judges
+## 1. Cohen's Kappa — Inter-Judge Agreement (Primary AI↔AI Metric)
+
+Measures agreement on the 1-5 ordinal scale, adjusted for chance agreement.
+Uses **quadratic weights** (appropriate for ordinal data).
+
+> **Why Cohen's Kappa for AI↔AI?** When comparing two AI judges, neither is
+> ground truth. Cohen's Kappa measures whether the raters agree beyond what
+> chance alone would predict, making it ideal for this comparison.
+
+| Judge Pair | Accuracy κ | 95% CI | Completeness κ | 95% CI | Interpretation | N |
+|---|---|---|---|---|---|---|
+| claude-opus-4.5 ↔ gemini-3-flash-preview | 0.4248 | [0.072, 0.645] | 0.8604 | [0.745, 0.927] | Moderate agreement / Near-perfect agreement | 57 |
+| claude-opus-4.5 ↔ minimax-m2.1 | 0.5550 | [0.263, 0.721] | 0.3710 | [0.058, 0.602] | Moderate agreement / Fair agreement | 57 |
+| gemini-3-flash-preview ↔ minimax-m2.1 | 0.3605 | [0.029, 0.585] | 0.3040 | [-0.022, 0.561] | Fair agreement / Fair agreement | 57 |
+
+---
+
+## 2. Kendall's Tau (τ) — Supplementary Rank Correlation
 
 Measures whether judges **rank models in the same order**, even if they disagree on absolute scores.
 
-| Judge Pair | Overall τ | p-value | Interpretation | N |
-|---|---|---|---|---|
-| claude-opus-4.5 ↔ gemini-3-flash-preview | 0.6547 | 0.0000 | Moderate agreement | 57 |
-| claude-opus-4.5 ↔ minimax-m2.1 | 0.2768 | 0.0098 | Weak agreement | 57 |
-| gemini-3-flash-preview ↔ minimax-m2.1 | 0.2050 | 0.0538 | Weak agreement | 57 |
+> **Note**: For AI↔AI comparison, Cohen's Kappa (Section 1) is the primary metric.
+> Kendall's Tau is shown here for supplementary context. For AI↔Human rank correlation
+> (treating human as ground truth), see the Human Evaluation Report.
+
+| Judge Pair | Overall τ | 95% CI | p-value | Interpretation | N |
+|---|---|---|---|---|---|
+| claude-opus-4.5 ↔ gemini-3-flash-preview | 0.6547 | [0.506, 0.779] | 0.0000 | Moderate agreement | 57 |
+| claude-opus-4.5 ↔ minimax-m2.1 | 0.2768 | [0.055, 0.475] | 0.0098 | Weak agreement | 57 |
+| gemini-3-flash-preview ↔ minimax-m2.1 | 0.2050 | [-0.037, 0.433] | 0.0538 | Weak agreement | 57 |
 
 ---
 
-## 2. Score Distribution Analysis
+## 3. Score Distribution Analysis
 
 Shows whether judges use the full 1-5 scoring range or cluster around certain values.
 
@@ -49,18 +75,6 @@ Shows whether judges use the full 1-5 scoring range or cluster around certain va
 - **Completeness**: mean=3.456, std=0.956, range=[1-5]
   - Distribution: 1→2, 2→3, 3→29, 4→13, 5→10
 - **Normalized Judge Score**: mean=0.7053, std=0.1923, range=[0.2-1.0]
-
----
-
-## 3. Cohen's Kappa — Inter-Judge Agreement
-
-Measures agreement on the 1-5 ordinal scale, adjusted for chance. Uses **quadratic weights** (appropriate for ordinal data).
-
-| Judge Pair | Accuracy κ | Interpretation | Completeness κ | Interpretation | N |
-|---|---|---|---|---|---|
-| claude-opus-4.5 ↔ gemini-3-flash-preview | 0.4248 | Moderate agreement | 0.8604 | Near-perfect agreement | 57 |
-| claude-opus-4.5 ↔ minimax-m2.1 | 0.5550 | Moderate agreement | 0.3710 | Fair agreement | 57 |
-| gemini-3-flash-preview ↔ minimax-m2.1 | 0.3605 | Fair agreement | 0.3040 | Fair agreement | 57 |
 
 ---
 
@@ -98,8 +112,16 @@ Low correlation = pillars capture distinct aspects of quality. High correlation 
 
 ## Key Takeaways
 
-*Interpretation guide:*
+### Statistical Methodology
 
-- **Kendall's τ**: >0.7 = strong agreement, 0.4-0.7 = moderate, <0.4 = weak
+| Comparison Type | Primary Metric | Rationale |
+|---|---|---|
+| **AI ↔ AI** (this report) | Cohen's Kappa | Neither judge is ground truth |
+| **AI ↔ Human** (human eval report) | Kendall's Tau | Human is treated as ground truth |
+
+### Interpretation Guide
+
 - **Cohen's κ**: >0.8 = near-perfect, 0.6-0.8 = substantial, 0.4-0.6 = moderate, <0.4 = poor
+- **Kendall's τ**: >0.7 = strong, 0.4-0.7 = moderate, <0.4 = weak
 - **Spearman ρ**: >0.7 = high redundancy between pillars, <0.3 = pillars measure distinct things
+- **95% CI**: Bootstrap confidence intervals (1000 iterations) — narrower = more reliable estimate

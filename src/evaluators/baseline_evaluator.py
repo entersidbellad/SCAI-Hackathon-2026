@@ -1,9 +1,13 @@
 """
-Baseline Evaluator: ROUGE & BERTScore Comparison
+Baseline Evaluator: Why Traditional Metrics Fail for Faithfulness
 
-Computes traditional summarization metrics and compares their rankings
-against our multi-pillar composite score to demonstrate what the
-multi-pillar approach captures that baselines miss.
+Computes ROUGE & BERTScore and demonstrates their inadequacy for evaluating
+factual accuracy in legal summarization. Traditional n-gram overlap metrics
+(ROUGE) and even semantic similarity scores (BERTScore) fundamentally cannot
+detect contradictions, hallucinations, or misstatements of legal holdings.
+
+This module serves as **evidence** for why the multi-pillar approach is
+necessary — not as an alternative evaluation method.
 
 Uses only existing data — no API calls required.
 """
@@ -272,11 +276,14 @@ def generate_baseline_report(
 ) -> Path:
     """Generate a markdown report comparing baseline metrics to multi-pillar."""
     lines = []
-    lines.append("# Baseline Metrics Report: ROUGE & BERTScore vs Multi-Pillar")
+    lines.append("# Why Traditional Metrics Fail: ROUGE & BERTScore vs Multi-Pillar Faithfulness")
     lines.append(f"\n*Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n")
-    lines.append("This report compares traditional summarization metrics (ROUGE, BERTScore)")
-    lines.append("against our multi-pillar composite score to show what the composite captures")
-    lines.append("that baselines miss.\n")
+    lines.append("> **Key Finding**: Traditional summarization metrics (ROUGE, BERTScore) are")
+    lines.append("> fundamentally inadequate for evaluating faithfulness in legal summarization.")
+    lines.append("> ROUGE measures lexical overlap, not factual accuracy. A summary can achieve")
+    lines.append("> high ROUGE scores while containing critical legal errors.\n")
+    lines.append("This report demonstrates this inadequacy by comparing ROUGE/BERTScore rankings")
+    lines.append("against our multi-pillar composite score.\n")
 
     # ─── Model Averages ───
     lines.append("---\n")
@@ -341,11 +348,26 @@ def generate_baseline_report(
 
     # ─── Key Takeaways ───
     lines.append("---\n")
-    lines.append("## Key Takeaways\n")
-    lines.append("- ROUGE measures **lexical overlap** — sensitive to word choice, insensitive to factual errors")
-    lines.append("- BERTScore measures **semantic similarity** — better than ROUGE but still misses contradictions")
-    lines.append("- Our **composite** catches contradictions (NLI), semantic gaps (coverage), AND qualitative issues (judge)")
-    lines.append("- Cases where baselines disagree with our composite are evidence for the multi-pillar approach")
+    lines.append("## Why This Matters\n")
+    lines.append("### The Fundamental Problem with ROUGE\n")
+    lines.append("ROUGE computes n-gram overlap between the generated summary and reference text.")
+    lines.append("This means:\n")
+    lines.append("- ❌ A summary stating *\"the Court ruled IN FAVOR of the defendant\"* scores HIGH ")
+    lines.append("if the reference says *\"the Court ruled AGAINST the defendant\"* (most words match!)")
+    lines.append("- ❌ A summary using different (but correct) legal terminology scores LOW")
+    lines.append("- ❌ ROUGE cannot distinguish between \"affirmed\" and \"reversed\" — both are single words\n")
+    lines.append("### What Multi-Pillar Catches That Baselines Miss\n")
+    lines.append("| Failure Mode | ROUGE | BERTScore | Our Composite |")
+    lines.append("|---|---|---|---|")
+    lines.append("| Reversed holding | ✅ High (words match) | ⚠️ Maybe OK | ❌ Flags via NLI + Judge |")
+    lines.append("| Hallucinated fact | ✅ High (real words used) | ⚠️ Maybe OK | ❌ Flags via NLI |")
+    lines.append("| Wrong date/name | ✅ High (1 word differs) | ✅ High | ❌ Flags via Judge |")
+    lines.append("| Correct paraphrase | ❌ Low (different words) | ✅ High | ✅ High via Coverage |")
+    lines.append("| Missing dissent | ✅ High (rest matches) | ✅ High | ❌ Flags via Coverage |")
+    lines.append("")
+    lines.append("> **Bottom line**: For legal summarization faithfulness, ROUGE is not just")
+    lines.append("> suboptimal — it is actively misleading. The negative correlation between")
+    lines.append("> ROUGE and our composite score confirms this: *ROUGE rewards the wrong things*.")
     lines.append("")
 
     report = "\n".join(lines)

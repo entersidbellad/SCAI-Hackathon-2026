@@ -1,0 +1,51 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Human Evaluation",
+    "description": "Schema for human evaluation scores used as ground truth for judge validation",
+    "type": "object",
+    "required": [
+        "case_name",
+        "model",
+        "evaluator_name",
+        "scores"
+    ],
+    "properties": {
+        "case_name": {
+            "type": "string",
+            "description": "Case name matching oyez-data format, e.g. '1 Ontario v. Quon'"
+        },
+        "model": {
+            "type": "string",
+            "description": "Short model name, e.g. 'grok-4.1-fast'"
+        },
+        "evaluator_name": {
+            "type": "string",
+            "description": "Name or ID of the human evaluator"
+        },
+        "scores": {
+            "type": "object",
+            "required": [
+                "factual_accuracy",
+                "completeness"
+            ],
+            "properties": {
+                "factual_accuracy": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 5,
+                    "description": "1=Fail, 2=Critical errors, 3=Major errors, 4=Minor errors, 5=Perfect"
+                },
+                "completeness": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 5,
+                    "description": "1=Fail, 2=Critical omissions, 3=Major omissions, 4=Minor omissions, 5=Comprehensive"
+                }
+            }
+        },
+        "notes": {
+            "type": "string",
+            "description": "Optional free-text notes about the evaluation"
+        }
+    }
+}

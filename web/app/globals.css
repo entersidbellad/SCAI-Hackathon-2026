@@ -1,0 +1,641 @@
+/* ============================================
+   ∑VAL — ASCII Brutalist Design System
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700&family=JetBrains+Mono:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* ─── Colors: Black + White + One Accent ─── */
+  --bg: #0a0a0a;
+  --bg-elevated: #131311;
+  --bg-surface: #1a1a17;
+
+  --text: #ffffff;
+  --text-secondary: #c0bdb5;
+  --text-muted: #8a8680;
+  --text-dim: #4a4640;
+
+  --accent: #e8b84b;
+  --accent-dim: rgba(232, 184, 75, 0.25);
+  --accent-faint: rgba(232, 184, 75, 0.10);
+
+  --border: #2a2825;
+  --border-strong: #40403a;
+
+  --score-high: #e0d8c0;
+  --score-mid: #b0a898;
+  --score-low: #8a8278;
+
+  /* ─── Typography ─── */
+  --font-display: 'Cormorant Garamond', 'Georgia', serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+
+  /* ─── Layout ─── */
+  --max-width: 1100px;
+  --page-pad: 2rem;
+}
+
+/* ─── Reset ─── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-mono);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+  font-size: 13px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* ─── ASCII Particle Canvas ─── */
+#ascii-particles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+/* ─── App Container ─── */
+.app-container {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ─── Navigation ─── */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(10, 10, 10, 0.9);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 var(--page-pad);
+}
+
+.nav-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+
+.nav-brand {
+  text-decoration: none;
+  color: var(--text);
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.nav-brand .sigma {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.nav-links {
+  display: flex;
+  gap: 0;
+  list-style: none;
+}
+
+.nav-mobile-select-wrap {
+  display: none;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-mobile-label {
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+
+.nav-mobile-select {
+  appearance: none;
+  border: 1px dashed var(--border-strong);
+  background: var(--bg);
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.5rem;
+}
+
+.nav-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: var(--text);
+}
+
+.nav-link.active {
+  color: var(--accent);
+}
+
+.nav-sep {
+  color: var(--text-muted);
+  font-size: 0.6875rem;
+  align-self: center;
+  user-select: none;
+}
+
+/* ─── Main Content ─── */
+.main-content {
+  flex: 1;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.125rem var(--page-pad) 2.5rem;
+  width: 100%;
+}
+
+/* ─── Section Headings (Serif Display) ─── */
+.section-header {
+  margin-bottom: 0.75rem;
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.section-subtitle {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  margin-top: 0.75rem;
+  line-height: 1.7;
+  max-width: 600px;
+}
+
+/* ─── Dashed Dividers ─── */
+.divider {
+  border: none;
+  border-top: 1px dashed var(--border-strong);
+  margin: 0.75rem 0;
+}
+
+.divider-light {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 0.75rem 0;
+}
+
+/* ─── Terminal Tables ─── */
+.terminal-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+}
+
+.terminal-table thead {
+  border-bottom: 1px dashed var(--border-strong);
+  background: rgba(255, 255, 255, 0.015);
+}
+
+.terminal-table th {
+  padding: 0.75rem 0.5rem;
+  text-align: left;
+  font-weight: 500;
+  color: var(--text-secondary);
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.2s;
+}
+
+.terminal-table th:hover {
+  color: var(--text-secondary);
+}
+
+.terminal-table th.sorted {
+  color: var(--accent);
+}
+
+.terminal-table td {
+  padding: 0.75rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+  color: var(--text);
+}
+
+.terminal-table tbody tr {
+  transition: background 0.15s;
+}
+
+.terminal-table tbody tr:hover {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.terminal-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ─── ASCII Score Bars ─── */
+.ascii-score {
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+.ascii-score .value {
+  font-weight: 500;
+  min-width: 3.5em;
+}
+
+.ascii-bar {
+  font-size: 0.625rem;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  line-height: 1;
+}
+
+.ascii-bar .filled {
+  color: var(--accent);
+}
+
+/* Score colors by quality */
+.score-excellent {
+  color: var(--accent);
+}
+
+.score-good {
+  color: var(--score-high);
+}
+
+.score-moderate {
+  color: var(--score-mid);
+}
+
+.score-poor {
+  color: var(--score-low);
+}
+
+/* ─── Stat Line ─── */
+.stat-line {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+  padding: 1rem 0;
+  border-top: 1px dashed var(--border-strong);
+  border-bottom: 1px dashed var(--border-strong);
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.375rem;
+  padding: 0 1.5rem;
+}
+
+.stat-item:first-child {
+  padding-left: 0;
+}
+
+.stat-number {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.stat-label {
+  font-size: 0.6875rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.stat-pipe {
+  color: var(--text-muted);
+  user-select: none;
+}
+
+/* ─── Cards (Brutalist) ─── */
+.card-brutal {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  padding: 1rem;
+  transition: border-color 0.2s;
+}
+
+.card-brutal:hover {
+  border-color: var(--border-strong);
+}
+
+.card-brutal.active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent-dim);
+}
+
+/* ─── Tabs ─── */
+.tabs-brutal {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px dashed var(--border-strong);
+  margin-bottom: 1rem;
+}
+
+.tab-brutal {
+  padding: 0.5rem 1.25rem;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: color 0.2s;
+  position: relative;
+}
+
+.tab-brutal:hover {
+  color: var(--text-secondary);
+}
+
+.tab-brutal.active {
+  color: var(--accent);
+}
+
+.tab-brutal.active::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--accent);
+}
+
+/* ─── Badges (Monospace) ─── */
+.badge-mono {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  padding: 0.125rem 0.5rem;
+  letter-spacing: 0.04em;
+}
+
+.badge-sig {
+  color: var(--accent);
+}
+
+.badge-nsig {
+  color: var(--text-muted);
+}
+
+/* ─── Rank Indicators ─── */
+.rank-1 {
+  color: var(--accent);
+}
+
+.rank-2 {
+  color: var(--text);
+}
+
+.rank-3 {
+  color: var(--text-secondary);
+}
+
+/* ─── CI Display ─── */
+.ci-range {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--text-dim);
+}
+
+/* ─── Pillar Indicators ─── */
+.pillar-indicator {
+  font-size: 0.5rem;
+  margin-right: 0.25rem;
+}
+
+.pillar-nli::before {
+  content: '●';
+  color: var(--text-muted);
+}
+
+.pillar-judge::before {
+  content: '●';
+  color: var(--text-secondary);
+}
+
+.pillar-coverage::before {
+  content: '●';
+  color: var(--text-dim);
+}
+
+/* ─── Methodology Cards ─── */
+.method-card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  padding: 1.5rem;
+}
+
+.method-card h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+}
+
+.method-card p,
+.method-card li {
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+/* ─── Footer ─── */
+.footer {
+  border-top: 1px dashed var(--border-strong);
+  padding: 1.5rem var(--page-pad);
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.footer a {
+  color: var(--text-secondary);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: var(--accent);
+}
+
+/* ─── Responsive ─── */
+@media (max-width: 768px) {
+  :root {
+    --page-pad: 1rem;
+  }
+
+  .main-content {
+    padding: 1.25rem var(--page-pad) 2rem;
+  }
+
+  .section-title {
+    font-size: 1.75rem;
+  }
+
+  .stat-line {
+    gap: 0.5rem;
+  }
+
+  .stat-item {
+    padding: 0 0.75rem;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .nav-mobile-select-wrap {
+    display: inline-flex;
+  }
+}
+
+/* ─── Selection ─── */
+::selection {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ─── Hero Section ─── */
+.hero {
+  padding: 0.75rem 0 0;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto;
+  gap: 0;
+  align-items: start;
+}
+
+.hero-text {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.hero-motif {
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  color: var(--text-muted);
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.125rem 0.5rem;
+  border: 1px dashed var(--border-strong);
+  margin-bottom: 0.6rem;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.hero-title {
+  font-family: var(--font-display);
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 0.92;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  margin-bottom: 0.75rem;
+}
+
+.hero-subtitle {
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  max-width: 520px;
+  line-height: 1.75;
+  margin-bottom: 0.875rem;
+}
+
+.hero .stat-line {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+@media (max-width: 768px) {
+  .hero-motif {
+    font-size: 0.5625rem;
+    margin-bottom: 0.375rem;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+}

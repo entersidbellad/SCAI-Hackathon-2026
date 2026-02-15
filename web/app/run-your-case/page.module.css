@@ -1,0 +1,160 @@
+.pageWrap {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.lead {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  line-height: 1.85;
+  max-width: 760px;
+}
+
+.flowCard {
+  border: 1px dashed var(--border-strong);
+  padding: 0.7rem 0.75rem;
+  background: rgba(255, 255, 255, 0.012);
+}
+
+.flowTitle {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
+.flowList {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--text-secondary);
+  line-height: 1.75;
+  list-style: none;
+  display: grid;
+  gap: 0.15rem;
+}
+
+.runPanel {
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  padding: 0.875rem;
+}
+
+.runTitle {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
+.runMeta {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.modeRow {
+  margin-top: 0.65rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.modeLabel {
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.modeButtons {
+  display: inline-flex;
+  gap: 0.45rem;
+}
+
+.modeButton {
+  border: 1px solid var(--border-strong);
+  background: var(--bg);
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.55rem;
+  cursor: pointer;
+}
+
+.modeButtonActive {
+  border-color: var(--accent-dim);
+  color: var(--accent);
+}
+
+.modeButton:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.modeNote {
+  margin-top: 0.5rem;
+  border: 1px dashed var(--border-strong);
+  padding: 0.45rem 0.55rem;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  line-height: 1.65;
+  color: var(--text-secondary);
+  background: rgba(255, 255, 255, 0.012);
+}
+
+.controls {
+  margin-top: 0.65rem;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.checkbox {
+  display: inline-flex;
+  gap: 0.35rem;
+  align-items: flex-start;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--text-secondary);
+  line-height: 1.65;
+}
+
+.runButton {
+  width: fit-content;
+  border: 1px solid var(--accent-dim);
+  background: var(--bg);
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.45rem 0.75rem;
+  cursor: pointer;
+  border-radius: 0;
+}
+
+.runButton:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.inlineError {
+  margin-top: 0.5rem;
+  border: 1px dashed var(--border-strong);
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  padding: 0.45rem 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .runPanel,
+  .flowCard {
+    padding: 0.75rem;
+  }
+}
