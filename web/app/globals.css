@@ -639,3 +639,75 @@ body {
     font-size: 2.5rem;
   }
 }
+
+/* ─── Watermark ─── */
+.watermark {
+  position: fixed;
+  bottom: -5%;
+  right: -5%;
+  width: 70vmin;
+  height: auto;
+  opacity: 0.08;
+  pointer-events: none;
+  z-index: -1;
+  mix-blend-mode: luminosity;
+  filter: contrast(150%) brightness(120%);
+}
+
+/* ─── Cursor Animation ─── */
+@keyframes blink {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
+
+.cursor {
+  display: inline-block;
+  width: 0.6em;
+  height: 1.1em;
+  background-color: var(--accent);
+  vertical-align: middle;
+  animation: blink 1s step-end infinite;
+  margin-left: 0.1em;
+}
+
+/* ─── Table Hover Effect ─── */
+.terminal-table tbody tr {
+  transition: all 0.1s;
+}
+
+.terminal-table tbody tr:hover {
+  background: var(--text);
+}
+
+.terminal-table tbody tr:hover td {
+  color: var(--bg);
+}
+
+.terminal-table tbody tr:hover .ascii-bar {
+  color: var(--bg-surface);
+}
+
+.terminal-table tbody tr:hover .ascii-bar .filled {
+  color: var(--bg);
+}
+
+.terminal-table tbody tr:hover .score-poor,
+.terminal-table tbody tr:hover .score-moderate,
+.terminal-table tbody tr:hover .score-good,
+.terminal-table tbody tr:hover .score-excellent,
+.terminal-table tbody tr:hover span[style*="color: var(--text-muted)"],
+.terminal-table tbody tr:hover span[style*="color: var(--text-dim)"],
+.terminal-table tbody tr:hover span[style*="color: var(--text-secondary)"] {
+  color: var(--bg) !important;
+}
+
+.terminal-table tbody tr:hover .ci-range {
+  color: var(--bg) !important;
+}

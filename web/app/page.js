@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import React, { useState } from 'react';
 import {
   getModelRankings,
   getSummaryStats,
@@ -12,9 +12,16 @@ import {
 function AsciiBar({ score, width = 10 }) {
   const filled = Math.round(score * width);
   const empty = width - filled;
+
+  // Determine color based on threshold
+  let fillColorClass = 'filled';
+  if (score >= 0.8) fillColorClass += ' score-excellent';
+  else if (score >= 0.6) fillColorClass += ' score-good';
+  else fillColorClass += ' score-poor';
+
   return (
     <span className="ascii-bar">
-      <span className="filled">{'█'.repeat(filled)}</span>
+      <span className={fillColorClass}>{'█'.repeat(filled)}</span>
       {'░'.repeat(empty)}
     </span>
   );
@@ -58,7 +65,7 @@ export default function LeaderboardPage() {
             [:: faithfulness.signal ::] ││░░││
           </div>
           <h1 className="hero-title">
-            Faithfulness<br />Benchmark
+            Faithfulness<br />Benchmark<span className="cursor"></span>
           </h1>
           <p className="hero-subtitle">
             Evaluating AI summarization of Supreme Court opinions

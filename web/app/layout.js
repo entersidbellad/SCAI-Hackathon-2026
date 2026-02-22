@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <AsciiParticles />
+        <img src="/lady-justice.png" alt="" className="watermark" />
         <div className="app-container">
           <Navigation />
           <main className="main-content">{children}</main>
